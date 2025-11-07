@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 PyBaseball Data Export Script for Hitters and Pitchers
 with:
@@ -125,7 +124,6 @@ def get_bwar_bat_year(year: int) -> pd.DataFrame:
     war_df = bwar_bat(year)
     war_df = normalize_name_column(war_df, f"bWAR batting {year}")
 
-    # Try to detect year and WAR columns
     year_col = None
     for cand in ["year_ID", "year", "Year", "season", "Season"]:
         if cand in war_df.columns:
@@ -142,7 +140,6 @@ def get_bwar_bat_year(year: int) -> pd.DataFrame:
     if war_col is None:
         raise KeyError(f"[bWAR Bat] No WAR column found for {year}. Columns: {list(war_df.columns)}")
 
-    # Group by Name + year (in case of multiple stints) and sum WAR
     war_group = (
         war_df.groupby(["Name", year_col])[war_col]
         .sum()
@@ -150,7 +147,6 @@ def get_bwar_bat_year(year: int) -> pd.DataFrame:
     )
     war_group.rename(columns={year_col: "Season", war_col: "WAR"}, inplace=True)
 
-    # cast Season to int if needed
     war_group["Season"] = war_group["Season"].astype(int)
     print(f"[bWAR Bat] {year} rows after grouping: {len(war_group)}")
     return war_group
@@ -258,11 +254,9 @@ def get_hitters_data(years):
     for year in years:
         print(f"\n=== Hitters {year} ===")
 
-        # BRef batting (base)
         bref = batting_stats_bref(year)
         bref = normalize_bref_ids(bref, f"BRef batting {year}")
 
-        # Statcast leaderboards
         statcast_ev = statcast_batter_exitvelo_barrels(year)
         statcast_ev = normalize_statcast_ids(statcast_ev, f"Statcast EV/Barrels {year}")
 
@@ -272,23 +266,17 @@ def get_hitters_data(years):
         sprint = statcast_sprint_speed(year)
         sprint = normalize_statcast_ids(sprint, f"Statcast Sprint {year}")
 
-        # Bat tracking
         bat_track = get_bat_tracking_data(year)
-        # already normalized in helper
 
-        # BRef WAR (batting)
         war_bat = get_bwar_bat_year(year)  # columns: ['Name', 'Season', 'WAR']
 
-        # Merge everything on mlbID (left join from BRef)
         df = bref.merge(bat_track, on="mlbID", how="left", suffixes=("", "_bat"))
         df = df.merge(statcast_ev, on="mlbID", how="left", suffixes=("", "_ev"))
         df = df.merge(xstats, on="mlbID", how="left", suffixes=("", "_x"))
         df = df.merge(sprint, on="mlbID", how="left", suffixes=("", "_sprint"))
 
-        # Season info
         df["Season"] = year
 
-        # Merge WAR on Name + Season (bWAR tables are BRef-name based)
         df = df.merge(
             war_bat[["Name", "Season", "WAR"]],
             on=["Name", "Season"],
@@ -296,7 +284,6 @@ def get_hitters_data(years):
             suffixes=("", "_WAR"),
         )
 
-        # Filter hitters with > 10 AB
         if "AB" in df.columns:
             before = len(df)
             df = df[df["AB"] > 10].copy()
