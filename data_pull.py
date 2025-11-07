@@ -1,19 +1,24 @@
 #!/usr/bin/env python3
 """
 PyBaseball Data Export Script for Hitters and Pitchers
-with MLBAM ID–based merges to avoid name-mismatch NaNs.
+with:
+- MLBAM ID–based merges for Statcast/BRef
+- Bat tracking from Baseball Savant
+- Baseball-Reference WAR via bwar_bat / bwar_pitch
 
 Hitters (2023–2024):
-  - Baseball Reference batting stats (includes mlbID, WAR)
+  - BRef batting stats (mlbID)
   - Statcast exit velo / barrels
   - Statcast expected stats
   - Statcast sprint speed
-  - Bat Tracking from Baseball Savant (bat speed, blast rate, swing length, etc.)
+  - Bat tracking (bat speed, blast rate, swing length, etc.)
+  - BRef WAR (from bwar_bat)
 
 Pitchers (2015–current year):
-  - Baseball Reference pitching stats
-  - Statcast pitcher exit velo / barrels against
+  - BRef pitching stats
+  - Statcast pitcher EV/barrels allowed
   - Statcast pitcher expected stats against
+  - BRef WAR (from bwar_pitch)
 
 Outputs:
   - Hitters_2023-24_byYear.csv
@@ -30,6 +35,8 @@ from datetime import datetime
 from pybaseball import (
     batting_stats_bref,
     pitching_stats_bref,
+    bwar_bat,
+    bwar_pitch,
     statcast_batter_exitvelo_barrels,
     statcast_batter_expected_stats,
     statcast_sprint_speed,
@@ -40,7 +47,6 @@ from pybaseball import (
 
 cache.enable()
 
-
 # ---------------------------------------------------------------------
 # Helpers: normalize name / ID columns
 # ---------------------------------------------------------------------
@@ -48,13 +54,13 @@ cache.enable()
 def normalize_name_column(df: pd.DataFrame, label: str) -> pd.DataFrame:
     """
     Ensure there is a 'Name' column for readability.
-    Does NOT control join keys; joins are done on mlbID.
+    Does NOT control join keys; joins are done on mlbID where possible.
     """
     df = df.copy()
     if "Name" in df.columns:
         return df
 
-    for cand in ["last_name, first_name", "player_name", "name"]:
+    for cand in ["last_name, first_name", "player_name", "name_common", "name"]:
         if cand in df.columns:
             df.rename(columns={cand: "Name"}, inplace=True)
             print(f"[Normalize] Renamed '{cand}' -> 'Name' for {label}")
@@ -107,6 +113,87 @@ def normalize_statcast_ids(df: pd.DataFrame, label: str) -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------
+# WAR helpers (bwar_bat / bwar_pitch)
+# ---------------------------------------------------------------------
+
+def get_bwar_bat_year(year: int) -> pd.DataFrame:
+    """
+    Get Baseball-Reference batting WAR for a given year using bwar_bat,
+    and return a DataFrame with columns: ['Name', 'Season', 'WAR'].
+    """
+    print(f"[bWAR Bat] Fetching WAR for {year}...")
+    war_df = bwar_bat(year)
+    war_df = normalize_name_column(war_df, f"bWAR batting {year}")
+
+    # Try to detect year and WAR columns
+    year_col = None
+    for cand in ["year_ID", "year", "Year", "season", "Season"]:
+        if cand in war_df.columns:
+            year_col = cand
+            break
+    if year_col is None:
+        raise KeyError(f"[bWAR Bat] No year column found for {year}. Columns: {list(war_df.columns)}")
+
+    war_col = None
+    for cand in ["WAR", "war"]:
+        if cand in war_df.columns:
+            war_col = cand
+            break
+    if war_col is None:
+        raise KeyError(f"[bWAR Bat] No WAR column found for {year}. Columns: {list(war_df.columns)}")
+
+    # Group by Name + year (in case of multiple stints) and sum WAR
+    war_group = (
+        war_df.groupby(["Name", year_col])[war_col]
+        .sum()
+        .reset_index()
+    )
+    war_group.rename(columns={year_col: "Season", war_col: "WAR"}, inplace=True)
+
+    # cast Season to int if needed
+    war_group["Season"] = war_group["Season"].astype(int)
+    print(f"[bWAR Bat] {year} rows after grouping: {len(war_group)}")
+    return war_group
+
+
+def get_bwar_pitch_year(year: int) -> pd.DataFrame:
+    """
+    Get Baseball-Reference pitching WAR for a given year using bwar_pitch,
+    and return a DataFrame with columns: ['Name', 'Season', 'WAR'].
+    """
+    print(f"[bWAR Pitch] Fetching WAR for {year}...")
+    war_df = bwar_pitch(year)
+    war_df = normalize_name_column(war_df, f"bWAR pitching {year}")
+
+    year_col = None
+    for cand in ["year_ID", "year", "Year", "season", "Season"]:
+        if cand in war_df.columns:
+            year_col = cand
+            break
+    if year_col is None:
+        raise KeyError(f"[bWAR Pitch] No year column found for {year}. Columns: {list(war_df.columns)}")
+
+    war_col = None
+    for cand in ["WAR", "war"]:
+        if cand in war_df.columns:
+            war_col = cand
+            break
+    if war_col is None:
+        raise KeyError(f"[bWAR Pitch] No WAR column found for {year}. Columns: {list(war_df.columns)}")
+
+    war_group = (
+        war_df.groupby(["Name", year_col])[war_col]
+        .sum()
+        .reset_index()
+    )
+    war_group.rename(columns={year_col: "Season", war_col: "WAR"}, inplace=True)
+
+    war_group["Season"] = war_group["Season"].astype(int)
+    print(f"[bWAR Pitch] {year} rows after grouping: {len(war_group)}")
+    return war_group
+
+
+# ---------------------------------------------------------------------
 # Bat Tracking from Baseball Savant using your URL pattern
 # ---------------------------------------------------------------------
 
@@ -114,7 +201,7 @@ def get_bat_tracking_data(year: int, min_swings: int = 5) -> pd.DataFrame:
     """
     Fetch bat-tracking leaderboard CSV from Baseball Savant.
 
-    Uses the same parameterization as:
+    Uses the parameterization like:
     https://baseballsavant.mlb.com/leaderboard/bat-tracking
       ?gameType=Regular
       &minSwings=5
@@ -133,7 +220,7 @@ def get_bat_tracking_data(year: int, min_swings: int = 5) -> pd.DataFrame:
         "seasonStart": year,
         "seasonEnd": year,
         "type": "batter",
-        "csv": 1,  # CSV output
+        "csv": 1,
     }
 
     headers = {
@@ -148,26 +235,22 @@ def get_bat_tracking_data(year: int, min_swings: int = 5) -> pd.DataFrame:
     resp = requests.get(base_url, params=params, headers=headers)
     print(f"[BatTracking] {year} status: {resp.status_code}")
     print(f"[BatTracking] URL: {resp.url}")
-
     resp.raise_for_status()
 
     bt = pd.read_csv(StringIO(resp.text))
     print(f"[BatTracking] {year} shape: {bt.shape}")
     print(f"[BatTracking] {year} columns (first 15): {list(bt.columns)[:15]}")
 
-    # Map 'id' to mlbID, 'name' to Name
-    if "id" not in bt.columns:
-        raise KeyError(f"[BatTracking] 'id' column not found for {year}. Columns: {list(bt.columns)}")
-
-    bt.rename(columns={"id": "mlbID"}, inplace=True)
-    bt["mlbID"] = bt["mlbID"].astype(str)
-
-    bt = normalize_name_column(bt, f"Bat Tracking {year}")
+    # Map 'id' to mlbID if present; normalize names
+    if "id" in bt.columns:
+        bt.rename(columns={"id": "mlbID"}, inplace=True)
+        bt["mlbID"] = bt["mlbID"].astype(str)
+    bt = normalize_statcast_ids(bt, f"Bat Tracking {year}")
     return bt
 
 
 # ---------------------------------------------------------------------
-# Hitters pipeline (ID-based merges)
+# Hitters pipeline (ID-based merges + WAR)
 # ---------------------------------------------------------------------
 
 def get_hitters_data(years):
@@ -175,7 +258,7 @@ def get_hitters_data(years):
     for year in years:
         print(f"\n=== Hitters {year} ===")
 
-        # BRef batting (base table)
+        # BRef batting (base)
         bref = batting_stats_bref(year)
         bref = normalize_bref_ids(bref, f"BRef batting {year}")
 
@@ -191,7 +274,10 @@ def get_hitters_data(years):
 
         # Bat tracking
         bat_track = get_bat_tracking_data(year)
-        bat_track = normalize_statcast_ids(bat_track, f"Bat Tracking {year}")
+        # already normalized in helper
+
+        # BRef WAR (batting)
+        war_bat = get_bwar_bat_year(year)  # columns: ['Name', 'Season', 'WAR']
 
         # Merge everything on mlbID (left join from BRef)
         df = bref.merge(bat_track, on="mlbID", how="left", suffixes=("", "_bat"))
@@ -199,7 +285,16 @@ def get_hitters_data(years):
         df = df.merge(xstats, on="mlbID", how="left", suffixes=("", "_x"))
         df = df.merge(sprint, on="mlbID", how="left", suffixes=("", "_sprint"))
 
+        # Season info
         df["Season"] = year
+
+        # Merge WAR on Name + Season (bWAR tables are BRef-name based)
+        df = df.merge(
+            war_bat[["Name", "Season", "WAR"]],
+            on=["Name", "Season"],
+            how="left",
+            suffixes=("", "_WAR"),
+        )
 
         # Filter hitters with > 10 AB
         if "AB" in df.columns:
@@ -213,7 +308,7 @@ def get_hitters_data(years):
 
 
 # ---------------------------------------------------------------------
-# Pitchers pipeline (ID-based merges)
+# Pitchers pipeline (ID-based merges + WAR)
 # ---------------------------------------------------------------------
 
 def get_pitchers_data(years):
@@ -230,10 +325,19 @@ def get_pitchers_data(years):
         xstats = statcast_pitcher_expected_stats(year)
         xstats = normalize_statcast_ids(xstats, f"Statcast Pitch xStats {year}")
 
+        war_pitch = get_bwar_pitch_year(year)
+
         df = bref.merge(statcast_ev, on="mlbID", how="left", suffixes=("", "_ev"))
         df = df.merge(xstats, on="mlbID", how="left", suffixes=("", "_x"))
 
         df["Season"] = year
+        df = df.merge(
+            war_pitch[["Name", "Season", "WAR"]],
+            on=["Name", "Season"],
+            how="left",
+            suffixes=("", "_WAR"),
+        )
+
         pitchers.append(df)
 
     return pd.concat(pitchers, ignore_index=True)
@@ -246,12 +350,12 @@ def get_pitchers_data(years):
 def compute_aggregate(df: pd.DataFrame, player_id_col: str = "mlbID", war_cols=("WAR",)):
     """
     Aggregate per-player across seasons and compute WAR/162 using BRef WAR.
-    Uses mlbID as the group key; Name is just for readability.
+    Uses mlbID as the group key; Name is kept for readability.
     """
     numeric_cols = df.select_dtypes(include="number").columns
     agg = df.groupby(player_id_col)[numeric_cols].sum().reset_index()
 
-    # For readability, keep a representative Name (e.g., first non-null name)
+    # For readability, keep a representative Name (first non-null)
     if "Name" in df.columns:
         name_map = (
             df.dropna(subset=["Name"])
@@ -280,7 +384,7 @@ def compute_aggregate(df: pd.DataFrame, player_id_col: str = "mlbID", war_cols=(
 # ---------------------------------------------------------------------
 
 def main():
-    hitter_years = [2023, 2024]
+    hitter_years = [2023, 2024, 2025]
     current_year = datetime.now().year
     pitcher_years = list(range(2015, current_year + 1))
 
