@@ -1,0 +1,2147 @@
+Name,Team,TeamFull,Position,Salary,AnnualValue,Season,PlayerType
+Shohei Ohtani,LAD,los-angeles-dodgers,DH /SP,70000000.0,70000000.0,2025,Hitter
+Shohei Ohtani,LAD,los-angeles-dodgers,DH,70000000.0,70000000.0,2024,Hitter
+Juan Soto,NYM,new-york-mets,RF,46875000.0,46875000.0,2025,Hitter
+Aaron Judge,NYY,new-york-yankees,RF,40000000.0,40000000.0,2025,Hitter
+Aaron Judge,NYY,new-york-yankees,CF,40000000.0,40000000.0,2024,Hitter
+Aaron Judge,NYY,new-york-yankees,CF,40000000.0,40000000.0,2023,Hitter
+Anthony Rendon,LAA,los-angeles-angels,3B,38000000.0,38000000.0,2024,Hitter
+Anthony Rendon,LAA,los-angeles-angels,3B,38000000.0,38000000.0,2023,Hitter
+Anthony Rendon,LAA,los-angeles-angels,3B,38000000.0,38000000.0,2025,Hitter
+Carlos Correa,HOU,houston-astros,3B,36000000.0,36000000.0,2025,Hitter
+Mike Trout,LAA,los-angeles-angels,CF,35450000.0,35450000.0,2024,Hitter
+Mike Trout,LAA,los-angeles-angels,CF,35450000.0,35450000.0,2023,Hitter
+Mike Trout,LAA,los-angeles-angels,RF,35450000.0,35450000.0,2025,Hitter
+Corey Seager,TEX,texas-rangers,SS,35000000.0,35000000.0,2023,Hitter
+Nolan Arenado,STL,st-louis-cardinals,3B,35000000.0,35000000.0,2024,Hitter
+Alex Bregman,BOS,boston-red-sox,3B,35000000.0,35000000.0,2025,Hitter
+Nolan Arenado,STL,st-louis-cardinals,3B,35000000.0,35000000.0,2023,Hitter
+Corey Seager,TEX,texas-rangers,SS,34500000.0,34500000.0,2024,Hitter
+Carlos Correa,MIN,minnesota-twins,SS,32000000.0,32000000.0,2024,Hitter
+Giancarlo Stanton,NYY,new-york-yankees,DH,32000000.0,32000000.0,2024,Hitter
+Francisco Lindor,NYM,new-york-mets,SS,32000000.0,32000000.0,2023,Hitter
+Nolan Arenado,STL,st-louis-cardinals,3B,32000000.0,32000000.0,2025,Hitter
+Giancarlo Stanton,NYY,new-york-yankees,DH,32000000.0,32000000.0,2023,Hitter
+Carlos Correa,MIN,minnesota-twins,SS,32000000.0,32000000.0,2023,Hitter
+Giancarlo Stanton,NYY,new-york-yankees,DH,32000000.0,32000000.0,2025,Hitter
+Francisco Lindor,NYM,new-york-mets,SS,32000000.0,32000000.0,2024,Hitter
+Francisco Lindor,NYM,new-york-mets,SS,32000000.0,32000000.0,2025,Hitter
+Corey Seager,TEX,texas-rangers,SS,32000000.0,32000000.0,2025,Hitter
+Miguel Cabrera,DET,detroit-tigers,DH,32000000.0,32000000.0,2023,Hitter
+Juan Soto,NYY,new-york-yankees,RF,31000000.0,31000000.0,2024,Hitter
+Shohei Ohtani,LAA,los-angeles-angels,SP /DH,30000000.0,30000000.0,2023,Hitter
+Jose Altuve,HOU,houston-astros,LF,30000000.0,30000000.0,2025,Hitter
+Guerrero Jr. Vladimir Guerrero,TOR,toronto-blue-jays,1B,28500000.0,28500000.0,2025,Hitter
+Alex Bregman,HOU,houston-astros,3B,28500000.0,28500000.0,2023,Hitter
+Alex Bregman,HOU,houston-astros,3B,28500000.0,28500000.0,2024,Hitter
+Cody Bellinger,CHC,chicago-cubs,RF,27500000.0,27500000.0,2024,Hitter
+Rafael Devers,BOS,boston-red-sox,3B,27500000.0,27500000.0,2024,Hitter
+Cody Bellinger,NYY,new-york-yankees,CF,27500000.0,27500000.0,2025,Hitter
+Rafael Devers,SF,san-francisco-giants,DH,27500000.0,27500000.0,2025,Hitter
+Trea Turner,PHI,philadelphia-phillies,SS,27272727.0,27272727.0,2024,Hitter
+Trea Turner,PHI,philadelphia-phillies,SS,27272727.0,27272727.0,2025,Hitter
+Trea Turner,PHI,philadelphia-phillies,SS,27272727.0,27272727.0,2023,Hitter
+Kris Bryant,COL,colorado-rockies,1B,27000000.0,27000000.0,2024,Hitter
+Freddie Freeman,LAD,los-angeles-dodgers,1B,27000000.0,27000000.0,2024,Hitter
+Dansby Swanson,CHC,chicago-cubs,SS,27000000.0,27000000.0,2025,Hitter
+Kris Bryant,COL,colorado-rockies,RF,27000000.0,27000000.0,2023,Hitter
+Freddie Freeman,LAD,los-angeles-dodgers,1B,27000000.0,27000000.0,2025,Hitter
+Freddie Freeman,LAD,los-angeles-dodgers,1B,27000000.0,27000000.0,2023,Hitter
+Marcus Semien,TEX,texas-rangers,2B,26000000.0,26000000.0,2024,Hitter
+Kris Bryant,COL,colorado-rockies,DH,26000000.0,26000000.0,2025,Hitter
+Marcus Semien,TEX,texas-rangers,2B,26000000.0,26000000.0,2025,Hitter
+Jose Altuve,HOU,houston-astros,2B,26000000.0,26000000.0,2024,Hitter
+Christian Yelich,MIL,milwaukee-brewers,DH,26000000.0,26000000.0,2025,Hitter
+Bryce Harper,PHI,philadelphia-phillies,1B,26000000.0,26000000.0,2023,Hitter
+Marcus Semien,TEX,texas-rangers,2B,26000000.0,26000000.0,2023,Hitter
+Bryce Harper,PHI,philadelphia-phillies,1B,26000000.0,26000000.0,2024,Hitter
+Jose Altuve,HOU,houston-astros,2B,26000000.0,26000000.0,2023,Hitter
+Christian Yelich,MIL,milwaukee-brewers,LF,26000000.0,26000000.0,2023,Hitter
+Bryce Harper,PHI,philadelphia-phillies,1B,26000000.0,26000000.0,2025,Hitter
+Christian Yelich,MIL,milwaukee-brewers,LF,26000000.0,26000000.0,2024,Hitter
+Xander Bogaerts,SD,san-diego-padres,2B,25000000.0,25000000.0,2024,Hitter
+Mookie Betts,LAD,los-angeles-dodgers,SS,25000000.0,25000000.0,2025,Hitter
+Dansby Swanson,CHC,chicago-cubs,SS,25000000.0,25000000.0,2024,Hitter
+Matt Chapman,SF,san-francisco-giants,3B,25000000.0,25000000.0,2025,Hitter
+Joey Votto,CIN,cincinnati-reds,1B,25000000.0,25000000.0,2023,Hitter
+Javier Báez,DET,detroit-tigers,3B,25000000.0,25000000.0,2025,Hitter
+Xander Bogaerts,SD,san-diego-padres,SS,25000000.0,25000000.0,2023,Hitter
+Javier Báez,DET,detroit-tigers,SS,25000000.0,25000000.0,2024,Hitter
+Mookie Betts,LAD,los-angeles-dodgers,SS,25000000.0,25000000.0,2024,Hitter
+Xander Bogaerts,SD,san-diego-padres,SS,25000000.0,25000000.0,2025,Hitter
+Yoan Moncada,CWS,chicago-white-sox,3B,24000000.0,24000000.0,2024,Hitter
+J.T. Realmuto,PHI,philadelphia-phillies,C,23875000.0,23875000.0,2025,Hitter
+J.T. Realmuto,PHI,philadelphia-phillies,C,23875000.0,23875000.0,2023,Hitter
+J.T. Realmuto,PHI,philadelphia-phillies,C,23875000.0,23875000.0,2024,Hitter
+Teoscar Hernandez,LAD,los-angeles-dodgers,LF,23500000.0,23500000.0,2024,Hitter
+Juan Soto,SD,san-diego-padres,LF,23000000.0,23000000.0,2023,Hitter
+Trevor Story,BOS,boston-red-sox,SS,22500000.0,22500000.0,2025,Hitter
+George Springer,TOR,toronto-blue-jays,CF,22500000.0,22500000.0,2025,Hitter
+George Springer,TOR,toronto-blue-jays,RF,22500000.0,22500000.0,2023,Hitter
+George Springer,TOR,toronto-blue-jays,RF,22500000.0,22500000.0,2024,Hitter
+Trevor Story,BOS,boston-red-sox,SS,22500000.0,22500000.0,2024,Hitter
+Javier Báez,DET,detroit-tigers,SS,22000000.0,22000000.0,2023,Hitter
+Mike Moustakas,CIN,cincinnati-reds,3B,22000000.0,22000000.0,2023,Hitter
+Matt Olson,ATL,atlanta-braves,1B,22000000.0,22000000.0,2025,Hitter
+Austin Riley,ATL,atlanta-braves,3B,22000000.0,22000000.0,2025,Hitter
+Paul Goldschmidt,STL,st-louis-cardinals,1B,22000000.0,22000000.0,2024,Hitter
+Paul Goldschmidt,STL,st-louis-cardinals,1B,22000000.0,22000000.0,2023,Hitter
+Salvador Perez,KC,kansas-city-royals,C,22000000.0,22000000.0,2025,Hitter
+Matt Olson,ATL,atlanta-braves,1B,22000000.0,22000000.0,2024,Hitter
+Jason Heyward,CHC,chicago-cubs,RF,21280000.0,21280000.0,2023,Hitter
+Austin Riley,ATL,atlanta-braves,3B,21000000.0,21000000.0,2024,Hitter
+Matt Olson,ATL,atlanta-braves,1B,21000000.0,21000000.0,2023,Hitter
+Josh Donaldson,NYY,new-york-yankees,3B,21000000.0,21000000.0,2023,Hitter
+Pete Alonso,NYM,new-york-mets,1B,20500000.0,20500000.0,2024,Hitter
+Brandon Nimmo,NYM,new-york-mets,LF,20250000.0,20250000.0,2024,Hitter
+Brandon Nimmo,NYM,new-york-mets,LF,20250000.0,20250000.0,2025,Hitter
+Robinson Canó,NYM,new-york-mets,DH,20250000.0,20250000.0,2023,Hitter
+Kyle Schwarber,PHI,philadelphia-phillies,DH,20000000.0,20000000.0,2024,Hitter
+Nick Castellanos,PHI,philadelphia-phillies,RF,20000000.0,20000000.0,2024,Hitter
+Trevor Story,BOS,boston-red-sox,SS,20000000.0,20000000.0,2023,Hitter
+Ian Happ,CHC,chicago-cubs,LF,20000000.0,20000000.0,2025,Hitter
+Christian Walker,HOU,houston-astros,1B,20000000.0,20000000.0,2025,Hitter
+Pete Alonso,NYM,new-york-mets,1B,20000000.0,20000000.0,2025,Hitter
+Mookie Betts,LAD,los-angeles-dodgers,RF,20000000.0,20000000.0,2023,Hitter
+Salvador Perez,KC,kansas-city-royals,C,20000000.0,20000000.0,2023,Hitter
+Salvador Perez,KC,kansas-city-royals,C,20000000.0,20000000.0,2024,Hitter
+Ian Happ,CHC,chicago-cubs,LF,20000000.0,20000000.0,2024,Hitter
+Seiya Suzuki,CHC,chicago-cubs,DH,20000000.0,20000000.0,2024,Hitter
+Kyle Schwarber,PHI,philadelphia-phillies,DH,20000000.0,20000000.0,2025,Hitter
+Nick Castellanos,PHI,philadelphia-phillies,RF,20000000.0,20000000.0,2023,Hitter
+Kyle Schwarber,PHI,philadelphia-phillies,LF,20000000.0,20000000.0,2023,Hitter
+Tatis Jr. Fernando Tatis,SD,san-diego-padres,RF,20000000.0,20000000.0,2025,Hitter
+Nick Castellanos,PHI,philadelphia-phillies,RF,20000000.0,20000000.0,2025,Hitter
+Guerrero Jr. Vladimir Guerrero,TOR,toronto-blue-jays,1B,19900000.0,19900000.0,2024,Hitter
+Joc Pederson,SF,san-francisco-giants,LF,19650000.0,19650000.0,2023,Hitter
+Jose Abreu,HOU,houston-astros,1B,19500000.0,19500000.0,2023,Hitter
+Jose Abreu,HOU,houston-astros,1B,19500000.0,19500000.0,2024,Hitter
+Starling Marte,NYM,new-york-mets,RF,19500000.0,19500000.0,2024,Hitter
+Starling Marte,NYM,new-york-mets,RF,19500000.0,19500000.0,2023,Hitter
+Starling Marte,NYM,new-york-mets,RF,19500000.0,19500000.0,2025,Hitter
+Jose Abreu,HOU,houston-astros,1B,19500000.0,19500000.0,2025,Hitter
+José Ramírez,CLE,cleveland-guardians,3B,19000000.0,19000000.0,2025,Hitter
+Yasmani Grandal,CWS,chicago-white-sox,C,18250000.0,18250000.0,2023,Hitter
+Brandon Nimmo,NYM,new-york-mets,CF,18250000.0,18250000.0,2023,Hitter
+Seiya Suzuki,CHC,chicago-cubs,DH,18000000.0,18000000.0,2025,Hitter
+Julio Rodriguez,SEA,seattle-mariners,CF,18000000.0,18000000.0,2025,Hitter
+Michael Conforto,SF,san-francisco-giants,DH,18000000.0,18000000.0,2024,Hitter
+Masataka Yoshida,BOS,boston-red-sox,DH,18000000.0,18000000.0,2024,Hitter
+Willson Contreras,STL,st-louis-cardinals,C,18000000.0,18000000.0,2024,Hitter
+Rhys Hoskins,MIL,milwaukee-brewers,1B,18000000.0,18000000.0,2025,Hitter
+Masataka Yoshida,BOS,boston-red-sox,DH,18000000.0,18000000.0,2025,Hitter
+Michael Conforto,SF,san-francisco-giants,RF,18000000.0,18000000.0,2023,Hitter
+Willson Contreras,STL,st-louis-cardinals,1B,18000000.0,18000000.0,2025,Hitter
+Rafael Devers,BOS,boston-red-sox,3B,17500000.0,17500000.0,2023,Hitter
+Chris Taylor,LAD,los-angeles-dodgers,3B,17000000.0,17000000.0,2025,Hitter
+Anthony Rizzo,NYY,new-york-yankees,1B,17000000.0,17000000.0,2023,Hitter
+Mitch Haniger,SEA,seattle-mariners,RF,17000000.0,17000000.0,2024,Hitter
+Seiya Suzuki,CHC,chicago-cubs,RF,17000000.0,17000000.0,2023,Hitter
+Yoan Moncada,CWS,chicago-white-sox,3B,17000000.0,17000000.0,2023,Hitter
+Acuña Jr. Ronald Acuña,ATL,atlanta-braves,RF,17000000.0,17000000.0,2025,Hitter
+Anthony Rizzo,NYY,new-york-yankees,1B,17000000.0,17000000.0,2024,Hitter
+José Ramírez,CLE,cleveland-guardians,3B,17000000.0,17000000.0,2024,Hitter
+Acuña Jr. Ronald Acuña,ATL,atlanta-braves,RF,17000000.0,17000000.0,2024,Hitter
+Acuña Jr. Ronald Acuña,ATL,atlanta-braves,RF,17000000.0,17000000.0,2023,Hitter
+Bo Bichette,TOR,toronto-blue-jays,SS,16500000.0,16500000.0,2025,Hitter
+Kyle Tucker,CHC,chicago-cubs,RF,16500000.0,16500000.0,2025,Hitter
+Andrew Benintendi,CWS,chicago-white-sox,DH,16500000.0,16500000.0,2025,Hitter
+Josh Bell,MIA,miami-marlins,1B,16500000.0,16500000.0,2023,Hitter
+Andrew Benintendi,CWS,chicago-white-sox,LF,16500000.0,16500000.0,2024,Hitter
+Tyler O'Neill,BAL,baltimore-orioles,RF,16500000.0,16500000.0,2025,Hitter
+Josh Bell,AZ,arizona-diamondbacks,1B,16500000.0,16500000.0,2024,Hitter
+Brandon Crawford,SF,san-francisco-giants,SS,16000000.0,16000000.0,2023,Hitter
+Marcell Ozuna,ATL,atlanta-braves,DH,16000000.0,16000000.0,2024,Hitter
+Jung Hoo Lee,SF,san-francisco-giants,CF,16000000.0,16000000.0,2025,Hitter
+Marcell Ozuna,ATL,atlanta-braves,DH,16000000.0,16000000.0,2025,Hitter
+Matt Chapman,SF,san-francisco-giants,3B,16000000.0,16000000.0,2024,Hitter
+Marcell Ozuna,ATL,atlanta-braves,LF,16000000.0,16000000.0,2023,Hitter
+Jeff McNeil,NYM,new-york-mets,2B,15750000.0,15750000.0,2025,Hitter
+Mitch Haniger,SEA,seattle-mariners,RF,15500000.0,15500000.0,2025,Hitter
+Byron Buxton,MIN,minnesota-twins,CF,15000000.0,15000000.0,2024,Hitter
+Masataka Yoshida,BOS,boston-red-sox,LF,15000000.0,15000000.0,2023,Hitter
+Byron Buxton,MIN,minnesota-twins,CF,15000000.0,15000000.0,2023,Hitter
+D.J. LeMahieu,NYY,new-york-yankees,2B,15000000.0,15000000.0,2025,Hitter
+Robert Jr. Luis Robert,CWS,chicago-white-sox,CF,15000000.0,15000000.0,2025,Hitter
+Charlie Blackmon,COL,colorado-rockies,DH,15000000.0,15000000.0,2023,Hitter
+Sean Murphy,ATL,atlanta-braves,C,15000000.0,15000000.0,2025,Hitter
+Jeimer Candelario,CIN,cincinnati-reds,3B,15000000.0,15000000.0,2024,Hitter
+Jeimer Candelario,CIN,cincinnati-reds,3B,15000000.0,15000000.0,2025,Hitter
+D.J. LeMahieu,NYY,new-york-yankees,3B,15000000.0,15000000.0,2023,Hitter
+Jorge Soler,MIA,miami-marlins,DH,15000000.0,15000000.0,2023,Hitter
+Eugenio Suarez,SEA,seattle-mariners,3B,15000000.0,15000000.0,2025,Hitter
+Yordan Alvarez,HOU,houston-astros,DH,15000000.0,15000000.0,2025,Hitter
+Chris Taylor,LAD,los-angeles-dodgers,3B,15000000.0,15000000.0,2023,Hitter
+Austin Riley,ATL,atlanta-braves,3B,15000000.0,15000000.0,2023,Hitter
+Byron Buxton,MIN,minnesota-twins,CF,15000000.0,15000000.0,2025,Hitter
+Gleyber Torres,DET,detroit-tigers,2B,15000000.0,15000000.0,2025,Hitter
+D.J. LeMahieu,NYY,new-york-yankees,3B,15000000.0,15000000.0,2024,Hitter
+Pete Alonso,NYM,new-york-mets,1B,14500000.0,14500000.0,2023,Hitter
+Guerrero Jr. Vladimir Guerrero,TOR,toronto-blue-jays,1B,14500000.0,14500000.0,2023,Hitter
+Gleyber Torres,NYY,new-york-yankees,2B,14200000.0,14200000.0,2024,Hitter
+José Ramírez,CLE,cleveland-guardians,3B,14000000.0,14000000.0,2023,Hitter
+Gurriel Jr. Lourdes Gurriel,AZ,arizona-diamondbacks,LF,14000000.0,14000000.0,2025,Hitter
+Ketel Marte,AZ,arizona-diamondbacks,2B,14000000.0,14000000.0,2025,Hitter
+Teoscar Hernandez,SEA,seattle-mariners,RF,14000000.0,14000000.0,2023,Hitter
+Luis Arraez,SD,san-diego-padres,1B,14000000.0,14000000.0,2025,Hitter
+Jorge Soler,SF,san-francisco-giants,DH,13666667.0,13666667.0,2024,Hitter
+Will Smith,LAD,los-angeles-dodgers,C,13550000.0,13550000.0,2024,Hitter
+Anthony Santander,TOR,toronto-blue-jays,LF,13500000.0,13500000.0,2025,Hitter
+Max Muncy,LAD,los-angeles-dodgers,1B,13500000.0,13500000.0,2023,Hitter
+Justin Turner,SEA,seattle-mariners,DH,13000000.0,13000000.0,2024,Hitter
+Ha-seong Kim,ATL,atlanta-braves,SS,13000000.0,13000000.0,2025,Hitter
+Manny Machado,SD,san-diego-padres,3B,13000000.0,13000000.0,2024,Hitter
+Manny Machado,SD,san-diego-padres,3B,13000000.0,13000000.0,2025,Hitter
+Ketel Marte,AZ,arizona-diamondbacks,2B,13000000.0,13000000.0,2024,Hitter
+Manny Machado,SD,san-diego-padres,3B,13000000.0,13000000.0,2023,Hitter
+Jorge Soler,LAA,los-angeles-angels,DH,13000000.0,13000000.0,2025,Hitter
+Will Smith,LAD,los-angeles-dodgers,C,13000000.0,13000000.0,2025,Hitter
+Dansby Swanson,CHC,chicago-cubs,SS,13000000.0,13000000.0,2023,Hitter
+Joc Pederson,TEX,texas-rangers,DH,13000000.0,13000000.0,2025,Hitter
+Chris Taylor,LAD,los-angeles-dodgers,2B,13000000.0,13000000.0,2024,Hitter
+Charlie Blackmon,COL,colorado-rockies,DH,13000000.0,13000000.0,2024,Hitter
+1 Eloy Jimenez,BAL,baltimore-orioles,DH,13000000.0,13000000.0,2024,Hitter
+Cody Bellinger,CHC,chicago-cubs,CF,12500000.0,12500000.0,2023,Hitter
+Tim Anderson,CWS,chicago-white-sox,SS,12500000.0,12500000.0,2023,Hitter
+Robert Jr. Luis Robert,CWS,chicago-white-sox,CF,12500000.0,12500000.0,2024,Hitter
+Paul Goldschmidt,NYY,new-york-yankees,1B,12500000.0,12500000.0,2025,Hitter
+Eric Hosmer,SD,san-diego-padres,1B,12280000.0,12280000.0,2023,Hitter
+Eric Hosmer,SD,san-diego-padres,1B,12260000.0,12260000.0,2024,Hitter
+Willy Adames,MIL,milwaukee-brewers,SS,12250000.0,12250000.0,2024,Hitter
+Eric Hosmer,SD,san-diego-padres,1B,12240000.0,12240000.0,2025,Hitter
+Avisaíl García,MIA,miami-marlins,RF,12000000.0,12000000.0,2025,Hitter
+Eloy Jimenez,CWS,chicago-white-sox,DH,12000000.0,12000000.0,2024,Hitter
+Avisaíl García,MIA,miami-marlins,RF,12000000.0,12000000.0,2024,Hitter
+James McCann,BAL,baltimore-orioles,C,12000000.0,12000000.0,2024,Hitter
+Bryan Reynolds,PIT,pittsburgh-pirates,RF,12000000.0,12000000.0,2025,Hitter
+Avisaíl García,MIA,miami-marlins,RF,12000000.0,12000000.0,2023,Hitter
+Ryan McMahon,COL,colorado-rockies,3B,12000000.0,12000000.0,2024,Hitter
+Rhys Hoskins,PHI,philadelphia-phillies,1B,12000000.0,12000000.0,2023,Hitter
+Kyle Tucker,HOU,houston-astros,RF,12000000.0,12000000.0,2024,Hitter
+Jurickson Profar,ATL,atlanta-braves,LF,12000000.0,12000000.0,2025,Hitter
+Ryan McMahon,NYY,new-york-yankees,3B,12000000.0,12000000.0,2025,Hitter
+Michael Brantley,HOU,houston-astros,LF,12000000.0,12000000.0,2023,Hitter
+Rhys Hoskins,MIL,milwaukee-brewers,DH,12000000.0,12000000.0,2024,Hitter
+James McCann,BAL,baltimore-orioles,C,12000000.0,12000000.0,2023,Hitter
+Matt Chapman,TOR,toronto-blue-jays,3B,12000000.0,12000000.0,2023,Hitter
+Max Muncy,LAD,los-angeles-dodgers,3B,12000000.0,12000000.0,2025,Hitter
+Carlos Santana,CLE,cleveland-guardians,1B,11885591.0,11885591.0,2025,Hitter
+Anthony Santander,BAL,baltimore-orioles,RF,11700000.0,11700000.0,2024,Hitter
+Nico Hoerner,CHC,chicago-cubs,2B,11500000.0,11500000.0,2024,Hitter
+Mitch Garver,SEA,seattle-mariners,C,11500000.0,11500000.0,2025,Hitter
+Nico Hoerner,CHC,chicago-cubs,2B,11500000.0,11500000.0,2025,Hitter
+Mark Canha,SF,san-francisco-giants,1B,11500000.0,11500000.0,2024,Hitter
+Randy Arozarena,SEA,seattle-mariners,LF,11300000.0,11300000.0,2025,Hitter
+Tatis Jr. Fernando Tatis,SD,san-diego-padres,RF,11000000.0,11000000.0,2024,Hitter
+Jake Cronenworth,SD,san-diego-padres,2B,11000000.0,11000000.0,2025,Hitter
+Bo Bichette,TOR,toronto-blue-jays,SS,11000000.0,11000000.0,2024,Hitter
+Eugenio Suarez,SEA,seattle-mariners,3B,11000000.0,11000000.0,2023,Hitter
+Eugenio Suarez,AZ,arizona-diamondbacks,3B,11000000.0,11000000.0,2024,Hitter
+Joey Gallo,MIN,minnesota-twins,1B,11000000.0,11000000.0,2023,Hitter
+Ketel Marte,AZ,arizona-diamondbacks,2B,11000000.0,11000000.0,2023,Hitter
+Christian Walker,AZ,arizona-diamondbacks,1B,10900000.0,10900000.0,2024,Hitter
+Josh Naylor,SEA,seattle-mariners,1B,10900000.0,10900000.0,2025,Hitter
+Ian Happ,CHC,chicago-cubs,LF,10850000.0,10850000.0,2023,Hitter
+Aaron Hicks,NYY,new-york-yankees,CF,10785714.0,10785714.0,2025,Hitter
+La Stella Tommy La Stella,SF,san-francisco-giants,2B,10780000.0,10780000.0,2023,Hitter
+Nick Ahmed,AZ,arizona-diamondbacks,SS,10625000.0,10625000.0,2023,Hitter
+Luis Arraez,SD,san-diego-padres,1B,10600000.0,10600000.0,2024,Hitter
+Kevin Kiermaier,LAD,los-angeles-dodgers,CF,10500000.0,10500000.0,2024,Hitter
+Mark Canha,MIL,milwaukee-brewers,LF,10500000.0,10500000.0,2023,Hitter
+Brandon Lowe,TB,tampa-bay-rays,2B,10500000.0,10500000.0,2025,Hitter
+Jorge Polanco,SEA,seattle-mariners,2B,10500000.0,10500000.0,2024,Hitter
+Adolis García,TEX,texas-rangers,RF,10500000.0,10500000.0,2025,Hitter
+Nathaniel Lowe,WSH,washington-nationals,1B,10300000.0,10300000.0,2025,Hitter
+Jeff McNeil,NYM,new-york-mets,2B,10250000.0,10250000.0,2024,Hitter
+Aaron Hicks,NYY,new-york-yankees,CF,10019996.0,10019996.0,2023,Hitter
+Teoscar Hernandez,LAD,los-angeles-dodgers,RF,10000000.0,10000000.0,2025,Hitter
+Andres Gimenez,TOR,toronto-blue-jays,2B,10000000.0,10000000.0,2025,Hitter
+Hunter Dozier,KC,kansas-city-royals,1B,10000000.0,10000000.0,2024,Hitter
+Max Kepler,PHI,philadelphia-phillies,LF,10000000.0,10000000.0,2025,Hitter
+Manuel Margot,MIN,minnesota-twins,RF,10000000.0,10000000.0,2024,Hitter
+Yordan Alvarez,HOU,houston-astros,DH,10000000.0,10000000.0,2024,Hitter
+Yandy Diaz,TB,tampa-bay-rays,1B,10000000.0,10000000.0,2025,Hitter
+Christian Vazquez,MIN,minnesota-twins,C,10000000.0,10000000.0,2025,Hitter
+J.D. Martinez,LAD,los-angeles-dodgers,DH,10000000.0,10000000.0,2023,Hitter
+Christian Vazquez,MIN,minnesota-twins,C,10000000.0,10000000.0,2024,Hitter
+Bryan Reynolds,PIT,pittsburgh-pirates,RF,10000000.0,10000000.0,2024,Hitter
+Ke'Bryan Hayes,PIT,pittsburgh-pirates,3B,10000000.0,10000000.0,2023,Hitter
+Julio Rodriguez,SEA,seattle-mariners,CF,10000000.0,10000000.0,2024,Hitter
+Enrique Hernandez,LAD,los-angeles-dodgers,SS,10000000.0,10000000.0,2023,Hitter
+Willson Contreras,STL,st-louis-cardinals,C,10000000.0,10000000.0,2023,Hitter
+Max Kepler,MIN,minnesota-twins,RF,10000000.0,10000000.0,2024,Hitter
+J.P. Crawford,SEA,seattle-mariners,SS,10000000.0,10000000.0,2024,Hitter
+J.P. Crawford,SEA,seattle-mariners,SS,10000000.0,10000000.0,2023,Hitter
+J.P. Crawford,SEA,seattle-mariners,SS,10000000.0,10000000.0,2025,Hitter
+Willy Adames,SF,san-francisco-giants,SS,10000000.0,10000000.0,2025,Hitter
+Christian Vazquez,MIN,minnesota-twins,C,10000000.0,10000000.0,2023,Hitter
+Gurriel Jr. Lourdes Gurriel,AZ,arizona-diamondbacks,LF,10000000.0,10000000.0,2024,Hitter
+Gleyber Torres,NYY,new-york-yankees,2B,9950000.0,9950000.0,2023,Hitter
+Hunter Renfroe,LAA,los-angeles-angels,RF,9916682.0,9916682.0,2023,Hitter
+Eloy Jimenez,CWS,chicago-white-sox,DH,9500000.0,9500000.0,2023,Hitter
+Harrison Bader,NYM,new-york-mets,CF,9500000.0,9500000.0,2024,Hitter
+Robert Jr. Luis Robert,CWS,chicago-white-sox,CF,9500000.0,9500000.0,2023,Hitter
+Joc Pederson,AZ,arizona-diamondbacks,DH,9500000.0,9500000.0,2024,Hitter
+Eduardo Escobar,LAA,los-angeles-angels,3B,9500000.0,9500000.0,2023,Hitter
+J.D. Martinez,NYM,new-york-mets,DH,9500000.0,9500000.0,2024,Hitter
+Mitch Garver,SEA,seattle-mariners,DH,9500000.0,9500000.0,2024,Hitter
+Randal Grichuk,LAA,los-angeles-angels,RF,9333334.0,9333334.0,2023,Hitter
+Brandon Belt,TOR,toronto-blue-jays,1B,9300000.0,9300000.0,2023,Hitter
+Mike Yastrzemski,KC,kansas-city-royals,RF,9250000.0,9250000.0,2025,Hitter
+Kevin Kiermaier,TOR,toronto-blue-jays,CF,9000000.0,9000000.0,2023,Hitter
+Ryan McMahon,COL,colorado-rockies,3B,9000000.0,9000000.0,2023,Hitter
+Sean Murphy,ATL,atlanta-braves,C,9000000.0,9000000.0,2024,Hitter
+Eddie Rosario,ATL,atlanta-braves,LF,9000000.0,9000000.0,2023,Hitter
+Jason Heyward,LAD,los-angeles-dodgers,RF,9000000.0,9000000.0,2024,Hitter
+Aaron Hicks,NYY,new-york-yankees,CF,8760000.0,8760000.0,2024,Hitter
+Brandon Lowe,TB,tampa-bay-rays,2B,8750000.0,8750000.0,2024,Hitter
+Cedric Mullins,NYM,new-york-mets,CF,8725000.0,8725000.0,2025,Hitter
+Alex Verdugo,NYY,new-york-yankees,LF,8700000.0,8700000.0,2024,Hitter
+Willy Adames,MIL,milwaukee-brewers,SS,8700000.0,8700000.0,2023,Hitter
+Jean Segura,CLE,cleveland-guardians,3B,8500000.0,8500000.0,2024,Hitter
+Max Kepler,MIN,minnesota-twins,RF,8500000.0,8500000.0,2023,Hitter
+Gary Sánchez,BAL,baltimore-orioles,C,8500000.0,8500000.0,2025,Hitter
+Brandon Drury,LAA,los-angeles-angels,2B,8500000.0,8500000.0,2024,Hitter
+Brandon Drury,LAA,los-angeles-angels,3B,8500000.0,8500000.0,2023,Hitter
+Michael Conforto,LAD,los-angeles-dodgers,LF,8500000.0,8500000.0,2025,Hitter
+Giovanny Urshela,LAA,los-angeles-angels,1B,8400000.0,8400000.0,2023,Hitter
+Justin Turner,BOS,boston-red-sox,DH,8300000.0,8300000.0,2023,Hitter
+Jesse Winker,MIL,milwaukee-brewers,RF,8250000.0,8250000.0,2023,Hitter
+Kolten Wong,SEA,seattle-mariners,2B,8250000.0,8250000.0,2023,Hitter
+Daulton Varsho,TOR,toronto-blue-jays,LF,8200000.0,8200000.0,2025,Hitter
+Randy Arozarena,SEA,seattle-mariners,LF,8100000.0,8100000.0,2024,Hitter
+Miguel Cabrera,DET,detroit-tigers,DH,8000000.0,8000000.0,2024,Hitter
+Omar Narváez,NYM,new-york-mets,C,8000000.0,8000000.0,2023,Hitter
+Ryan O'Hearn,SD,san-diego-padres,DH,8000000.0,8000000.0,2025,Hitter
+Travis d'Arnaud,ATL,atlanta-braves,C,8000000.0,8000000.0,2023,Hitter
+Wander Franco,TB,tampa-bay-rays,SS,8000000.0,8000000.0,2025,Hitter
+Andrew Benintendi,CWS,chicago-white-sox,LF,8000000.0,8000000.0,2023,Hitter
+1 Evan White,LAA,los-angeles-angels,1B,8000000.0,8000000.0,2025,Hitter
+Harris II Michael Harris,ATL,atlanta-braves,CF,8000000.0,8000000.0,2025,Hitter
+Travis d'Arnaud,ATL,atlanta-braves,C,8000000.0,8000000.0,2024,Hitter
+Danny Jansen,MIL,milwaukee-brewers,C,8000000.0,8000000.0,2025,Hitter
+1 Scott Kingery,PHI,philadelphia-phillies,2B,8000000.0,8000000.0,2023,Hitter
+Yandy Diaz,TB,tampa-bay-rays,1B,8000000.0,8000000.0,2024,Hitter
+Adam Frazier,BAL,baltimore-orioles,2B,8000000.0,8000000.0,2023,Hitter
+Mike Yastrzemski,SF,san-francisco-giants,RF,7900000.0,7900000.0,2024,Hitter
+Taylor Ward,LAA,los-angeles-angels,LF,7825000.0,7825000.0,2025,Hitter
+Lane Thomas,CLE,cleveland-guardians,CF,7825000.0,7825000.0,2025,Hitter
+Amed Rosario,LAD,los-angeles-dodgers,SS,7800000.0,7800000.0,2023,Hitter
+Jurickson Profar,COL,colorado-rockies,LF,7750000.0,7750000.0,2023,Hitter
+Aledmys Diaz,OAK,oakland-athletics,SS,7721505.0,7721505.0,2024,Hitter
+Alec Bohm,PHI,philadelphia-phillies,3B,7700000.0,7700000.0,2025,Hitter
+Paul DeJong,STL,st-louis-cardinals,SS,7690864.0,7690864.0,2023,Hitter
+Hunter Renfroe,KC,kansas-city-royals,RF,7570000.0,7570000.0,2025,Hitter
+Isiah Kiner-Falefa,TOR,toronto-blue-jays,SS,7500000.0,7500000.0,2025,Hitter
+Nathaniel Lowe,TEX,texas-rangers,1B,7500000.0,7500000.0,2024,Hitter
+Isiah Kiner-Falefa,PIT,pittsburgh-pirates,SS,7500000.0,7500000.0,2024,Hitter
+Jorge Polanco,MIN,minnesota-twins,2B,7500000.0,7500000.0,2023,Hitter
+Jonathan Schoop,DET,detroit-tigers,2B,7500000.0,7500000.0,2023,Hitter
+Wil Myers,CIN,cincinnati-reds,1B,7500000.0,7500000.0,2023,Hitter
+Anthony Santander,BAL,baltimore-orioles,RF,7400000.0,7400000.0,2023,Hitter
+Hunter Dozier,KC,kansas-city-royals,1B,7250000.0,7250000.0,2023,Hitter
+C.J. Cron,LAA,los-angeles-angels,1B,7250000.0,7250000.0,2023,Hitter
+Jonathan India,KC,kansas-city-royals,DH,7050000.0,7050000.0,2025,Hitter
+Jung Hoo Lee,SF,san-francisco-giants,CF,7000000.0,7000000.0,2024,Hitter
+Max Muncy,LAD,los-angeles-dodgers,3B,7000000.0,7000000.0,2024,Hitter
+Yordan Alvarez,HOU,houston-astros,DH,7000000.0,7000000.0,2023,Hitter
+Manuel Margot,TB,tampa-bay-rays,RF,7000000.0,7000000.0,2023,Hitter
+Tommy Edman,LAD,los-angeles-dodgers,CF,7000000.0,7000000.0,2024,Hitter
+Ozzie Albies,ATL,atlanta-braves,2B,7000000.0,7000000.0,2024,Hitter
+Ozzie Albies,ATL,atlanta-braves,2B,7000000.0,7000000.0,2025,Hitter
+1 Evan White,LAA,los-angeles-angels,1B,7000000.0,7000000.0,2024,Hitter
+Ke'Bryan Hayes,CIN,cincinnati-reds,3B,7000000.0,7000000.0,2025,Hitter
+Max Stassi,LAA,los-angeles-angels,C,7000000.0,7000000.0,2023,Hitter
+Trey Mancini,CHC,chicago-cubs,OF,7000000.0,7000000.0,2023,Hitter
+Max Stassi,CWS,chicago-white-sox,C,7000000.0,7000000.0,2024,Hitter
+Ha-seong Kim,SD,san-diego-padres,2B,7000000.0,7000000.0,2023,Hitter
+Tatis Jr. Fernando Tatis,SD,san-diego-padres,RF,7000000.0,7000000.0,2023,Hitter
+Joey Votto,CIN,cincinnati-reds,1B,7000000.0,7000000.0,2024,Hitter
+Omar Narváez,NYM,new-york-mets,C,7000000.0,7000000.0,2024,Hitter
+Witt Jr. Bobby Witt,KC,kansas-city-royals,SS,7000000.0,7000000.0,2025,Hitter
+Ke'Bryan Hayes,PIT,pittsburgh-pirates,3B,7000000.0,7000000.0,2024,Hitter
+Ozzie Albies,ATL,atlanta-braves,2B,7000000.0,7000000.0,2023,Hitter
+Jorge Polanco,SEA,seattle-mariners,2B,7000000.0,7000000.0,2025,Hitter
+Adam Duvall,BOS,boston-red-sox,RF,7000000.0,7000000.0,2023,Hitter
+Trey Mancini,CHC,chicago-cubs,OF,7000000.0,7000000.0,2024,Hitter
+Jake Cronenworth,SD,san-diego-padres,1B,7000000.0,7000000.0,2024,Hitter
+Ha-seong Kim,SD,san-diego-padres,SS,7000000.0,7000000.0,2024,Hitter
+Ryan Mountcastle,BAL,baltimore-orioles,1B,6787000.0,6787000.0,2025,Hitter
+Ty France,CIN,cincinnati-reds,1B,6775000.0,6775000.0,2024,Hitter
+Whit Merrifield,TOR,toronto-blue-jays,2B,6750000.0,6750000.0,2023,Hitter
+Bryan Reynolds,PIT,pittsburgh-pirates,CF,6750000.0,6750000.0,2023,Hitter
+Carlos Santana,MIL,milwaukee-brewers,1B,6725000.0,6725000.0,2023,Hitter
+Whit Merrifield,PHI,philadelphia-phillies,RF,6721505.0,6721505.0,2024,Hitter
+Isaac Paredes,HOU,houston-astros,3B,6625000.0,6625000.0,2025,Hitter
+Aledmys Diaz,OAK,oakland-athletics,SS,6500000.0,6500000.0,2023,Hitter
+Enrique Hernandez,LAD,los-angeles-dodgers,OF,6500000.0,6500000.0,2025,Hitter
+Christian Walker,AZ,arizona-diamondbacks,1B,6500000.0,6500000.0,2023,Hitter
+Jesse Winker,NYM,new-york-mets,DH,6500000.0,6500000.0,2025,Hitter
+Wilmer Flores,SF,san-francisco-giants,1B,6500000.0,6500000.0,2024,Hitter
+Josh Naylor,CLE,cleveland-guardians,1B,6500000.0,6500000.0,2024,Hitter
+David Peralta,LAD,los-angeles-dodgers,LF,6500000.0,6500000.0,2023,Hitter
+Wilmer Flores,SF,san-francisco-giants,1B,6500000.0,6500000.0,2023,Hitter
+1 David Fletcher,ATL,atlanta-braves,SS,6500000.0,6500000.0,2025,Hitter
+Willi Castro,CHC,chicago-cubs,2B,6400000.0,6400000.0,2025,Hitter
+Cedric Mullins,BAL,baltimore-orioles,CF,6325000.0,6325000.0,2024,Hitter
+Austin Hays,PHI,philadelphia-phillies,LF,6300000.0,6300000.0,2024,Hitter
+Alex Verdugo,BOS,boston-red-sox,RF,6300000.0,6300000.0,2023,Hitter
+Jeff McNeil,NYM,new-york-mets,2B,6250000.0,6250000.0,2023,Hitter
+Kyle Farmer,MIN,minnesota-twins,SS,6250000.0,6250000.0,2024,Hitter
+Mike Yastrzemski,SF,san-francisco-giants,CF,6100000.0,6100000.0,2023,Hitter
+Luis Arraez,MIA,miami-marlins,2B,6100000.0,6100000.0,2023,Hitter
+Victor Caratini,HOU,houston-astros,C,6000000.0,6000000.0,2025,Hitter
+Joey Wendle,MIA,miami-marlins,3B,6000000.0,6000000.0,2023,Hitter
+Isiah Kiner-Falefa,NYY,new-york-yankees,SS,6000000.0,6000000.0,2023,Hitter
+Travis d'Arnaud,LAA,los-angeles-angels,C,6000000.0,6000000.0,2025,Hitter
+Myles Straw,TOR,toronto-blue-jays,CF,6000000.0,6000000.0,2025,Hitter
+Victor Caratini,HOU,houston-astros,C,6000000.0,6000000.0,2024,Hitter
+William Contreras,MIL,milwaukee-brewers,C,6000000.0,6000000.0,2025,Hitter
+Josh Donaldson,NYY,new-york-yankees,3B,6000000.0,6000000.0,2024,Hitter
+Mike Zunino,CLE,cleveland-guardians,C,6000000.0,6000000.0,2023,Hitter
+Josh Bell,WSH,washington-nationals,DH,6000000.0,6000000.0,2025,Hitter
+Elias Diaz,COL,colorado-rockies,C,6000000.0,6000000.0,2024,Hitter
+David Fletcher,LAA,los-angeles-angels,SS,6000000.0,6000000.0,2023,Hitter
+1 David Fletcher,ATL,atlanta-braves,SS,6000000.0,6000000.0,2024,Hitter
+Keibert Ruiz,WSH,washington-nationals,C,6000000.0,6000000.0,2024,Hitter
+Yan Gomes,CHC,chicago-cubs,C,6000000.0,6000000.0,2023,Hitter
+Yan Gomes,CHC,chicago-cubs,C,6000000.0,6000000.0,2024,Hitter
+Yandy Diaz,TB,tampa-bay-rays,1B,6000000.0,6000000.0,2023,Hitter
+Luis Rengifo,LAA,los-angeles-angels,2B,5950000.0,5950000.0,2025,Hitter
+Andrew Vaughn,MIL,milwaukee-brewers,1B,5850000.0,5850000.0,2025,Hitter
+Jazz Chisholm,NYY,new-york-yankees,2B,5850000.0,5850000.0,2025,Hitter
+Tyler O'Neill,BOS,boston-red-sox,LF,5850000.0,5850000.0,2024,Hitter
+Kyle Higashioka,TEX,texas-rangers,C,5750000.0,5750000.0,2025,Hitter
+Chris Davis,BAL,baltimore-orioles,1B,5666668.0,5666668.0,2024,Hitter
+Chris Davis,BAL,baltimore-orioles,1B,5666666.0,5666666.0,2023,Hitter
+Daulton Varsho,TOR,toronto-blue-jays,CF,5650000.0,5650000.0,2024,Hitter
+Kyle Farmer,MIN,minnesota-twins,SS,5585000.0,5585000.0,2023,Hitter
+Hunter Renfroe,KC,kansas-city-royals,RF,5500000.0,5500000.0,2024,Hitter
+Leury García,CWS,chicago-white-sox,2B,5500000.0,5500000.0,2023,Hitter
+Elias Diaz,COL,colorado-rockies,C,5500000.0,5500000.0,2023,Hitter
+Adley Rutschman,BAL,baltimore-orioles,C,5500000.0,5500000.0,2025,Hitter
+Trent Grisham,NYY,new-york-yankees,CF,5500000.0,5500000.0,2024,Hitter
+Leury García,CWS,chicago-white-sox,2B,5500000.0,5500000.0,2024,Hitter
+1 David Bote,CHC,chicago-cubs,2B,5500000.0,5500000.0,2024,Hitter
+Lane Thomas,CLE,cleveland-guardians,CF,5450000.0,5450000.0,2024,Hitter
+Gurriel Jr. Lourdes Gurriel,AZ,arizona-diamondbacks,LF,5400000.0,5400000.0,2023,Hitter
+Will Smith,LAD,los-angeles-dodgers,C,5250000.0,5250000.0,2023,Hitter
+Carlos Santana,MIN,minnesota-twins,1B,5250000.0,5250000.0,2024,Hitter
+Brandon Lowe,TB,tampa-bay-rays,2B,5250000.0,5250000.0,2023,Hitter
+Danny Jansen,BOS,boston-red-sox,C,5200000.0,5200000.0,2024,Hitter
+Ramon Laureano,CLE,cleveland-guardians,RF,5150000.0,5150000.0,2024,Hitter
+Harris II Michael Harris,ATL,atlanta-braves,CF,5000000.0,5000000.0,2023,Hitter
+Carson Kelly,CHC,chicago-cubs,C,5000000.0,5000000.0,2025,Hitter
+Mitch Haniger,SF,san-francisco-giants,LF,5000000.0,5000000.0,2023,Hitter
+Tim Anderson,MIA,miami-marlins,SS,5000000.0,5000000.0,2024,Hitter
+Trent Grisham,NYY,new-york-yankees,CF,5000000.0,5000000.0,2025,Hitter
+Corbin Carroll,AZ,arizona-diamondbacks,RF,5000000.0,5000000.0,2025,Hitter
+Miguel Rojas,LAD,los-angeles-dodgers,SS,5000000.0,5000000.0,2024,Hitter
+Andres Gimenez,CLE,cleveland-guardians,2B,5000000.0,5000000.0,2024,Hitter
+Yoan Moncada,LAA,los-angeles-angels,3B,5000000.0,5000000.0,2025,Hitter
+Luis Urias,SEA,seattle-mariners,3B,5000000.0,5000000.0,2024,Hitter
+Tommy Edman,LAD,los-angeles-dodgers,2B,5000000.0,5000000.0,2025,Hitter
+Miguel Rojas,LAD,los-angeles-dodgers,SS,5000000.0,5000000.0,2025,Hitter
+Harris II Michael Harris,ATL,atlanta-braves,CF,5000000.0,5000000.0,2024,Hitter
+Austin Hedges,TEX,texas-rangers,C,5000000.0,5000000.0,2023,Hitter
+Jeimer Candelario,CHC,chicago-cubs,3B,5000000.0,5000000.0,2023,Hitter
+Andrew McCutchen,PIT,pittsburgh-pirates,RF,5000000.0,5000000.0,2023,Hitter
+Andrew McCutchen,PIT,pittsburgh-pirates,DH,5000000.0,5000000.0,2024,Hitter
+Tommy Pham,AZ,arizona-diamondbacks,LF,5000000.0,5000000.0,2023,Hitter
+Kyle Tucker,HOU,houston-astros,RF,5000000.0,5000000.0,2023,Hitter
+Mauricio Dubon,HOU,houston-astros,2B,5000000.0,5000000.0,2025,Hitter
+Andrew McCutchen,PIT,pittsburgh-pirates,DH,5000000.0,5000000.0,2025,Hitter
+Keibert Ruiz,WSH,washington-nationals,C,5000000.0,5000000.0,2025,Hitter
+Tyler O'Neill,STL,st-louis-cardinals,LF,4950000.0,4950000.0,2023,Hitter
+Rowdy Tellez,MIL,milwaukee-brewers,1B,4950000.0,4950000.0,2023,Hitter
+Tyler Stephenson,CIN,cincinnati-reds,C,4925000.0,4925000.0,2025,Hitter
+Taylor Ward,LAA,los-angeles-angels,LF,4800000.0,4800000.0,2024,Hitter
+Adolis García,TEX,texas-rangers,RF,4750000.0,4750000.0,2024,Hitter
+1 Leody Taveras,SEA,seattle-mariners,CF,4750000.0,4750000.0,2025,Hitter
+Harrison Bader,CIN,cincinnati-reds,CF,4700000.0,4700000.0,2023,Hitter
+1 Thairo Estrada,SF,san-francisco-giants,2B,4700000.0,4700000.0,2024,Hitter
+Luis Urias,BOS,boston-red-sox,3B,4700000.0,4700000.0,2023,Hitter
+A.J. Pollock,SEA,seattle-mariners,LF,4666692.0,4666692.0,2023,Hitter
+Ji-Man Choi,SD,san-diego-padres,1B,4650000.0,4650000.0,2023,Hitter
+Alejandro Kirk,TOR,toronto-blue-jays,C,4600000.0,4600000.0,2025,Hitter
+Jonah Heim,TEX,texas-rangers,C,4575000.0,4575000.0,2025,Hitter
+Ryan Jeffers,MIN,minnesota-twins,C,4550000.0,4550000.0,2025,Hitter
+Jace Peterson,AZ,arizona-diamondbacks,3B,4500000.0,4500000.0,2023,Hitter
+Jesús Sánchez,HOU,houston-astros,LF,4500000.0,4500000.0,2025,Hitter
+Luis Garcia,WSH,washington-nationals,2B,4500000.0,4500000.0,2025,Hitter
+1 Myles Straw,CLE,cleveland-guardians,CF,4500000.0,4500000.0,2024,Hitter
+1 Manuel Pina,OAK,oakland-athletics,C,4500000.0,4500000.0,2023,Hitter
+Michael A. Taylor,MIN,minnesota-twins,CF,4500000.0,4500000.0,2023,Hitter
+Evan White,SEA,seattle-mariners,1B,4500000.0,4500000.0,2024,Hitter
+Luis Rengifo,LAA,los-angeles-angels,2B,4400000.0,4400000.0,2024,Hitter
+Jean Segura,MIA,miami-marlins,3B,4368294.0,4368294.0,2023,Hitter
+Austin Meadows,DET,detroit-tigers,DH,4300000.0,4300000.0,2023,Hitter
+Nicky Lopez,CWS,chicago-white-sox,SS,4300000.0,4300000.0,2024,Hitter
+Carson Kelly,AZ,arizona-diamondbacks,C,4275000.0,4275000.0,2023,Hitter
+Jake Cronenworth,SD,san-diego-padres,1B,4225000.0,4225000.0,2023,Hitter
+J.D. Davis,SF,san-francisco-giants,3B,4210000.0,4210000.0,2023,Hitter
+Tommy Edman,STL,st-louis-cardinals,SS,4200000.0,4200000.0,2023,Hitter
+Garrett Cooper,SD,san-diego-padres,1B,4200000.0,4200000.0,2023,Hitter
+Steven Kwan,CLE,cleveland-guardians,LF,4175000.0,4175000.0,2025,Hitter
+Randy Arozarena,TB,tampa-bay-rays,LF,4150000.0,4150000.0,2023,Hitter
+Ryan Mountcastle,BAL,baltimore-orioles,1B,4137500.0,4137500.0,2024,Hitter
+Cedric Mullins,BAL,baltimore-orioles,CF,4100000.0,4100000.0,2023,Hitter
+Ty France,SEA,seattle-mariners,1B,4100000.0,4100000.0,2023,Hitter
+Jeremy Pena,HOU,houston-astros,SS,4100000.0,4100000.0,2025,Hitter
+Nathaniel Lowe,TEX,texas-rangers,1B,4050000.0,4050000.0,2023,Hitter
+Tommy Pham,PIT,pittsburgh-pirates,LF,4025000.0,4025000.0,2025,Hitter
+Evan Longoria,AZ,arizona-diamondbacks,3B,4000000.0,4000000.0,2023,Hitter
+Jackson Chourio,MIL,milwaukee-brewers,LF,4000000.0,4000000.0,2025,Hitter
+Tom Murphy,SF,san-francisco-giants,C,4000000.0,4000000.0,2024,Hitter
+1 David Bote,CHC,chicago-cubs,2B,4000000.0,4000000.0,2023,Hitter
+Ramon Laureano,SD,san-diego-padres,LF,4000000.0,4000000.0,2025,Hitter
+Brad Miller,TEX,texas-rangers,2B,4000000.0,4000000.0,2023,Hitter
+Michael A. Taylor,PIT,pittsburgh-pirates,CF,4000000.0,4000000.0,2024,Hitter
+Martin Maldonado,HOU,houston-astros,C,4000000.0,4000000.0,2023,Hitter
+Austin Slater,BAL,baltimore-orioles,LF,4000000.0,4000000.0,2024,Hitter
+Julio Rodriguez,SEA,seattle-mariners,CF,4000000.0,4000000.0,2023,Hitter
+Tom Murphy,SF,san-francisco-giants,C,4000000.0,4000000.0,2025,Hitter
+Alec Bohm,PHI,philadelphia-phillies,3B,4000000.0,4000000.0,2024,Hitter
+Austin Hays,CIN,cincinnati-reds,LF,4000000.0,4000000.0,2025,Hitter
+Justin Turner,CHC,chicago-cubs,3B,4000000.0,4000000.0,2025,Hitter
+Austin Hedges,CLE,cleveland-guardians,C,4000000.0,4000000.0,2024,Hitter
+Ezequiel Tovar,COL,colorado-rockies,SS,4000000.0,4000000.0,2025,Hitter
+Martin Maldonado,CWS,chicago-white-sox,C,4000000.0,4000000.0,2024,Hitter
+Austin Hedges,CLE,cleveland-guardians,C,4000000.0,4000000.0,2025,Hitter
+Sean Murphy,ATL,atlanta-braves,C,4000000.0,4000000.0,2023,Hitter
+Harrison Bader,PHI,philadelphia-phillies,LF,4000000.0,4000000.0,2025,Hitter
+Enrique Hernandez,LAD,los-angeles-dodgers,SS,4000000.0,4000000.0,2024,Hitter
+Gary Sánchez,MIL,milwaukee-brewers,DH,4000000.0,4000000.0,2024,Hitter
+Mitch Garver,TEX,texas-rangers,C,3900000.0,3900000.0,2023,Hitter
+Jonathan India,CIN,cincinnati-reds,2B,3800000.0,3800000.0,2024,Hitter
+Cavan Biggio,TOR,toronto-blue-jays,2B,3772335.0,3772335.0,2024,Hitter
+Jarren Duran,BOS,boston-red-sox,LF,3750000.0,3750000.0,2025,Hitter
+Tony Kemp,OAK,oakland-athletics,2B,3725000.0,3725000.0,2023,Hitter
+Nicky Lopez,ATL,atlanta-braves,3B,3700000.0,3700000.0,2023,Hitter
+Jon Berti,NYY,new-york-yankees,2B,3625000.0,3625000.0,2024,Hitter
+Ramon Laureano,CLE,cleveland-guardians,OF,3550000.0,3550000.0,2023,Hitter
+Jorge Mateo,BAL,baltimore-orioles,SS,3550000.0,3550000.0,2025,Hitter
+Mauricio Dubon,HOU,houston-astros,RF,3500000.0,3500000.0,2024,Hitter
+Danny Jansen,TOR,toronto-blue-jays,C,3500000.0,3500000.0,2023,Hitter
+Josh Rojas,CWS,chicago-white-sox,SS,3500000.0,3500000.0,2025,Hitter
+Carson Kelly,TEX,texas-rangers,C,3500000.0,3500000.0,2024,Hitter
+Austin Barnes,LAD,los-angeles-dodgers,C,3500000.0,3500000.0,2023,Hitter
+Manuel Pina,OAK,oakland-athletics,C,3500000.0,3500000.0,2023,Hitter
+Austin Barnes,LAD,los-angeles-dodgers,C,3500000.0,3500000.0,2024,Hitter
+Miguel Rojas,LAD,los-angeles-dodgers,SS,3500000.0,3500000.0,2023,Hitter
+Matt Carpenter,SD,san-diego-padres,3B,3500000.0,3500000.0,2023,Hitter
+Austin Barnes,LAD,los-angeles-dodgers,C,3500000.0,3500000.0,2025,Hitter
+Colt Keith,DET,detroit-tigers,2B,3500000.0,3500000.0,2025,Hitter
+Victor Robles,SEA,seattle-mariners,RF,3500000.0,3500000.0,2025,Hitter
+Brian Anderson,MIL,milwaukee-brewers,3B,3500000.0,3500000.0,2023,Hitter
+Wade Jr. LaMonte Wade,SF,san-francisco-giants,1B,3500000.0,3500000.0,2024,Hitter
+Ryan O'Hearn,BAL,baltimore-orioles,1B,3500000.0,3500000.0,2024,Hitter
+Wilmer Flores,SF,san-francisco-giants,1B,3500000.0,3500000.0,2025,Hitter
+Donovan Solano,SEA,seattle-mariners,2B,3487742.0,3487742.0,2025,Hitter
+Wade Jr. LaMonte Wade,SF,san-francisco-giants,RF,3481183.0,3481183.0,2025,Hitter
+Jose Trevino,CIN,cincinnati-reds,C,3425000.0,3425000.0,2025,Hitter
+Harold Ramirez,TB,tampa-bay-rays,RF,3410108.0,3410108.0,2024,Hitter
+1 Chas McCormick,HOU,houston-astros,RF,3400000.0,3400000.0,2025,Hitter
+Isaac Paredes,CHC,chicago-cubs,3B,3400000.0,3400000.0,2024,Hitter
+Josh Naylor,CLE,cleveland-guardians,1B,3350000.0,3350000.0,2023,Hitter
+Jacob Stallings,MIA,miami-marlins,C,3350000.0,3350000.0,2023,Hitter
+Gavin Lux,CIN,cincinnati-reds,LF,3325000.0,3325000.0,2025,Hitter
+Willi Castro,MIN,minnesota-twins,CF,3300000.0,3300000.0,2024,Hitter
+Matt Carpenter,ATL,atlanta-braves,3B,3260000.0,3260000.0,2024,Hitter
+Darin Ruf,NYM,new-york-mets,DH,3250000.0,3250000.0,2023,Hitter
+Tucker Barnhart,CHC,chicago-cubs,C,3250000.0,3250000.0,2023,Hitter
+Andrew Vaughn,CWS,chicago-white-sox,1B,3250000.0,3250000.0,2024,Hitter
+Tucker Barnhart,CHC,chicago-cubs,C,3250000.0,3250000.0,2024,Hitter
+Thairo Estrada,COL,colorado-rockies,2B,3250000.0,3250000.0,2025,Hitter
+Bryson Stott,PHI,philadelphia-phillies,2B,3200000.0,3200000.0,2025,Hitter
+Austin Slater,SF,san-francisco-giants,LF,3200000.0,3200000.0,2023,Hitter
+Rowdy Tellez,PIT,pittsburgh-pirates,1B,3200000.0,3200000.0,2024,Hitter
+Brendan Rodgers,COL,colorado-rockies,2B,3200000.0,3200000.0,2024,Hitter
+Austin Hays,BAL,baltimore-orioles,LF,3200000.0,3200000.0,2023,Hitter
+Trent Grisham,SD,san-diego-padres,CF,3175000.0,3175000.0,2023,Hitter
+Ramon Urias,HOU,houston-astros,2B,3150000.0,3150000.0,2025,Hitter
+Jake Fraley,ATL,atlanta-braves,RF,3125000.0,3125000.0,2025,Hitter
+Josh Rojas,SEA,seattle-mariners,3B,3100000.0,3100000.0,2024,Hitter
+Dylan Moore,SEA,seattle-mariners,2B,3081666.0,3081666.0,2025,Hitter
+Dylan Moore,SEA,seattle-mariners,2B,3050000.0,3050000.0,2024,Hitter
+Daulton Varsho,TOR,toronto-blue-jays,LF,3050000.0,3050000.0,2023,Hitter
+Jonah Heim,TEX,texas-rangers,C,3050000.0,3050000.0,2024,Hitter
+Adalberto Mondesi,BOS,boston-red-sox,SS,3045000.0,3045000.0,2023,Hitter
+Tyrone Taylor,NYM,new-york-mets,CF,3025000.0,3025000.0,2025,Hitter
+Matt Vierling,DET,detroit-tigers,RF,3005000.0,3005000.0,2025,Hitter
+Jose Iglesias,SD,san-diego-padres,3B,3000000.0,3000000.0,2025,Hitter
+Edmundo Sosa,PHI,philadelphia-phillies,3B,3000000.0,3000000.0,2025,Hitter
+Brandon Marsh,PHI,philadelphia-phillies,CF,3000000.0,3000000.0,2025,Hitter
+Corbin Carroll,AZ,arizona-diamondbacks,RF,3000000.0,3000000.0,2024,Hitter
+Luke Maile,CIN,cincinnati-reds,C,3000000.0,3000000.0,2024,Hitter
+Tommy Pham,KC,kansas-city-royals,RF,3000000.0,3000000.0,2024,Hitter
+Evan White,SEA,seattle-mariners,1B,3000000.0,3000000.0,2023,Hitter
+Elvis Andrus,CWS,chicago-white-sox,SS,3000000.0,3000000.0,2023,Hitter
+Miguel Andujar,CIN,cincinnati-reds,OF,3000000.0,3000000.0,2025,Hitter
+Jace Peterson,AZ,arizona-diamondbacks,3B,3000000.0,3000000.0,2024,Hitter
+Adam Duvall,ATL,atlanta-braves,RF,3000000.0,3000000.0,2024,Hitter
+Kevin Pillar,ATL,atlanta-braves,LF,3000000.0,3000000.0,2023,Hitter
+Jesús Aguilar,OAK,oakland-athletics,1B,3000000.0,3000000.0,2023,Hitter
+Paul DeJong,STL,st-louis-cardinals,SS,3000000.0,3000000.0,2024,Hitter
+Lars Nootbaar,STL,st-louis-cardinals,LF,2950000.0,2950000.0,2025,Hitter
+Chas McCormick,HOU,houston-astros,CF,2850000.0,2850000.0,2024,Hitter
+Brendan Donovan,STL,st-louis-cardinals,2B,2850000.0,2850000.0,2025,Hitter
+Bo Bichette,TOR,toronto-blue-jays,SS,2850000.0,2850000.0,2023,Hitter
+Alejandro Kirk,TOR,toronto-blue-jays,C,2800000.0,2800000.0,2024,Hitter
+Cavan Biggio,TOR,toronto-blue-jays,2B,2800000.0,2800000.0,2023,Hitter
+Victor Caratini,MIL,milwaukee-brewers,C,2800000.0,2800000.0,2023,Hitter
+Kevin Newman,LAA,los-angeles-angels,SS,2750000.0,2750000.0,2025,Hitter
+Taylor Ward,LAA,los-angeles-angels,LF,2750000.0,2750000.0,2023,Hitter
+Jose Trevino,NYY,new-york-yankees,C,2730000.0,2730000.0,2024,Hitter
+Santiago Espinal,CIN,cincinnati-reds,3B,2725000.0,2725000.0,2024,Hitter
+Patrick Wisdom,CHC,chicago-cubs,3B,2725000.0,2725000.0,2024,Hitter
+Jorge Mateo,BAL,baltimore-orioles,SS,2700000.0,2700000.0,2024,Hitter
+Seth Brown,OAK,oakland-athletics,LF,2700000.0,2700000.0,2025,Hitter
+Brendan Rodgers,COL,colorado-rockies,2B,2700000.0,2700000.0,2023,Hitter
+Kevin Newman,CIN,cincinnati-reds,SS,2662000.0,2662000.0,2023,Hitter
+4 MJ Melendez,KC,kansas-city-royals,LF,2650000.0,2650000.0,2025,Hitter
+1 Jared Walsh,LAA,los-angeles-angels,1B,2650000.0,2650000.0,2023,Hitter
+Jake Rogers,DET,detroit-tigers,C,2640000.0,2640000.0,2025,Hitter
+Jazz Chisholm,NYY,new-york-yankees,3B,2625000.0,2625000.0,2024,Hitter
+Seth Brown,OAK,oakland-athletics,LF,2600000.0,2600000.0,2024,Hitter
+Josh Rojas,SEA,seattle-mariners,3B,2575000.0,2575000.0,2023,Hitter
+Geraldo Perdomo,AZ,arizona-diamondbacks,SS,2550000.0,2550000.0,2025,Hitter
+Leody Taveras,TEX,texas-rangers,CF,2550000.0,2550000.0,2024,Hitter
+Tyler Stephenson,CIN,cincinnati-reds,C,2525000.0,2525000.0,2024,Hitter
+Nico Hoerner,CHC,chicago-cubs,2B,2525000.0,2525000.0,2023,Hitter
+Myles Straw,CLE,cleveland-guardians,CF,2500000.0,2500000.0,2023,Hitter
+Curt Casali,CIN,cincinnati-reds,C,2500000.0,2500000.0,2023,Hitter
+Colt Keith,DET,detroit-tigers,2B,2500000.0,2500000.0,2024,Hitter
+Yasmani Grandal,PIT,pittsburgh-pirates,C,2500000.0,2500000.0,2024,Hitter
+Roberto Pérez,SF,san-francisco-giants,C,2500000.0,2500000.0,2023,Hitter
+Joey Gallo,WSH,washington-nationals,1B,2500000.0,2500000.0,2024,Hitter
+Adam Frazier,KC,kansas-city-royals,2B,2500000.0,2500000.0,2024,Hitter
+Kyle Farmer,COL,colorado-rockies,SS,2500000.0,2500000.0,2025,Hitter
+Hyeseong Kim,LAD,los-angeles-dodgers,2B,2500000.0,2500000.0,2025,Hitter
+Ryan Jeffers,MIN,minnesota-twins,C,2425000.0,2425000.0,2024,Hitter
+2 Jose Siri,NYM,new-york-mets,CF,2400000.0,2400000.0,2025,Hitter
+Santiago Espinal,CIN,cincinnati-reds,3B,2400000.0,2400000.0,2025,Hitter
+Jacob Stallings,COL,colorado-rockies,C,2385591.0,2385591.0,2025,Hitter
+Jose Trevino,NYY,new-york-yankees,C,2360000.0,2360000.0,2023,Hitter
+1 Austin Nola,SD,san-diego-padres,C,2350000.0,2350000.0,2023,Hitter
+Dylan Carlson,TB,tampa-bay-rays,LF,2350000.0,2350000.0,2024,Hitter
+Victor Robles,WSH,washington-nationals,CF,2325000.0,2325000.0,2023,Hitter
+2 Jarred Kelenic,ATL,atlanta-braves,RF,2300000.0,2300000.0,2025,Hitter
+Orlando Arcia,ATL,atlanta-braves,2B,2300000.0,2300000.0,2023,Hitter
+Luis Rengifo,LAA,los-angeles-angels,SS,2300000.0,2300000.0,2023,Hitter
+Jake Meyers,HOU,houston-astros,CF,2300000.0,2300000.0,2025,Hitter
+Lawrence Butler,OAK,oakland-athletics,RF,2250000.0,2250000.0,2025,Hitter
+Thairo Estrada,SF,san-francisco-giants,2B,2250000.0,2250000.0,2023,Hitter
+Corey Dickerson,WSH,washington-nationals,LF,2250000.0,2250000.0,2023,Hitter
+Harold Ramirez,TB,tampa-bay-rays,RF,2200000.0,2200000.0,2023,Hitter
+Lane Thomas,WSH,washington-nationals,RF,2200000.0,2200000.0,2023,Hitter
+2 Keston Hiura,MIL,milwaukee-brewers,2B,2200000.0,2200000.0,2023,Hitter
+Victor Robles,WSH,washington-nationals,CF,2180538.0,2180538.0,2024,Hitter
+Kyle Higashioka,SD,san-diego-padres,C,2180000.0,2180000.0,2024,Hitter
+1 Francisco Mejia,TB,tampa-bay-rays,C,2155000.0,2155000.0,2023,Hitter
+Giovanny Urshela,OAK,oakland-athletics,3B,2150000.0,2150000.0,2025,Hitter
+Jake Fraley,CIN,cincinnati-reds,DH,2150000.0,2150000.0,2024,Hitter
+Connor Joe,PIT,pittsburgh-pirates,1B,2125000.0,2125000.0,2024,Hitter
+Jon Berti,MIA,miami-marlins,SS,2100000.0,2100000.0,2023,Hitter
+Jo Adell,LAA,los-angeles-angels,CF,2100000.0,2100000.0,2025,Hitter
+Santiago Espinal,TOR,toronto-blue-jays,3B,2100000.0,2100000.0,2023,Hitter
+Trevor Larnach,MIN,minnesota-twins,DH,2100000.0,2100000.0,2025,Hitter
+Jesús Sánchez,MIA,miami-marlins,LF,2100000.0,2100000.0,2024,Hitter
+Ramon Urias,BAL,baltimore-orioles,3B,2100000.0,2100000.0,2024,Hitter
+Rob Refsnyder,BOS,boston-red-sox,RF,2100000.0,2100000.0,2025,Hitter
+Tyrone Taylor,NYM,new-york-mets,CF,2025000.0,2025000.0,2024,Hitter
+Cavan Biggio,KC,kansas-city-royals,2B,2000000.0,2000000.0,2025,Hitter
+Brendan Rodgers,HOU,houston-astros,2B,2000000.0,2000000.0,2025,Hitter
+Dan Vogelbach,TOR,toronto-blue-jays,DH,2000000.0,2000000.0,2024,Hitter
+Randal Grichuk,KC,kansas-city-royals,RF,2000000.0,2000000.0,2025,Hitter
+Manuel Margot,LAD,los-angeles-dodgers,RF,2000000.0,2000000.0,2025,Hitter
+Dylan Moore,SEA,seattle-mariners,2B,2000000.0,2000000.0,2023,Hitter
+Orlando Arcia,ATL,atlanta-braves,SS,2000000.0,2000000.0,2024,Hitter
+1 Christian Arroyo,BOS,boston-red-sox,2B,2000000.0,2000000.0,2023,Hitter
+Josh Harrison,PHI,philadelphia-phillies,2B,2000000.0,2000000.0,2023,Hitter
+Robbie Grossman,TEX,texas-rangers,RF,2000000.0,2000000.0,2023,Hitter
+Wander Franco,TB,tampa-bay-rays,SS,2000000.0,2000000.0,2023,Hitter
+Luke Voit,MIL,milwaukee-brewers,1B,2000000.0,2000000.0,2023,Hitter
+Witt Jr. Bobby Witt,KC,kansas-city-royals,SS,2000000.0,2000000.0,2024,Hitter
+Evan White,LAA,los-angeles-angels,1B,2000000.0,2000000.0,2025,Hitter
+Garrett Hampson,KC,kansas-city-royals,SS,2000000.0,2000000.0,2024,Hitter
+Raimel Tapia,BOS,boston-red-sox,LF,2000000.0,2000000.0,2023,Hitter
+Donovan Solano,MIN,minnesota-twins,2B,2000000.0,2000000.0,2023,Hitter
+Jackson Chourio,MIL,milwaukee-brewers,LF,2000000.0,2000000.0,2024,Hitter
+Jesse Winker,NYM,new-york-mets,LF,2000000.0,2000000.0,2024,Hitter
+Brandon Crawford,STL,st-louis-cardinals,SS,2000000.0,2000000.0,2024,Hitter
+Dominic Smith,WSH,washington-nationals,1B,2000000.0,2000000.0,2023,Hitter
+Amed Rosario,NYY,new-york-yankees,SS,2000000.0,2000000.0,2025,Hitter
+Franmil Reyes,KC,kansas-city-royals,DH,2000000.0,2000000.0,2023,Hitter
+Jorge Mateo,BAL,baltimore-orioles,SS,2000000.0,2000000.0,2023,Hitter
+Elias Diaz,SD,san-diego-padres,C,2000000.0,2000000.0,2025,Hitter
+Jon Berti,CHC,chicago-cubs,2B,2000000.0,2000000.0,2025,Hitter
+Wander Franco,TB,tampa-bay-rays,SS,2000000.0,2000000.0,2024,Hitter
+Brent Rooker,OAK,oakland-athletics,DH,2000000.0,2000000.0,2025,Hitter
+Joey Wendle,NYM,new-york-mets,3B,1972151.0,1972151.0,2024,Hitter
+Ernie Clement,TOR,toronto-blue-jays,3B,1970000.0,1970000.0,2025,Hitter
+Mike Tauchman,CWS,chicago-white-sox,RF,1950000.0,1950000.0,2025,Hitter
+Mike Tauchman,CHC,chicago-cubs,CF,1950000.0,1950000.0,2024,Hitter
+Nick Senzel,CIN,cincinnati-reds,CF,1950000.0,1950000.0,2023,Hitter
+Michael A. Taylor,CWS,chicago-white-sox,RF,1950000.0,1950000.0,2025,Hitter
+Luis Garcia,WSH,washington-nationals,2B,1950000.0,1950000.0,2024,Hitter
+Orlando Arcia,ATL,atlanta-braves,SS,1922580.0,1922580.0,2025,Hitter
+Nick Fortes,TB,tampa-bay-rays,C,1860000.0,1860000.0,2025,Hitter
+Rob Refsnyder,BOS,boston-red-sox,RF,1850000.0,1850000.0,2024,Hitter
+1 Andrew Knizner,AZ,arizona-diamondbacks,C,1825000.0,1825000.0,2024,Hitter
+Christian Bethancourt,MIA,miami-marlins,C,1811290.0,1811290.0,2024,Hitter
+Nick Madrigal,CHC,chicago-cubs,2B,1810000.0,1810000.0,2024,Hitter
+Willi Castro,MIN,minnesota-twins,SS,1800000.0,1800000.0,2023,Hitter
+Randal Grichuk,AZ,arizona-diamondbacks,RF,1750000.0,1750000.0,2024,Hitter
+Austin Slater,NYY,new-york-yankees,LF,1750000.0,1750000.0,2025,Hitter
+Kyle Isbel,KC,kansas-city-royals,CF,1750000.0,1750000.0,2025,Hitter
+Jake Rogers,DET,detroit-tigers,C,1700000.0,1700000.0,2024,Hitter
+Miguel Andujar,OAK,oakland-athletics,3B,1700000.0,1700000.0,2024,Hitter
+Edmundo Sosa,PHI,philadelphia-phillies,3B,1700000.0,1700000.0,2024,Hitter
+Travis Jankowski,TEX,texas-rangers,DH,1700000.0,1700000.0,2024,Hitter
+Nick Senzel,WSH,washington-nationals,3B,1697634.0,1697634.0,2024,Hitter
+Tomás Nido,NYM,new-york-mets,C,1690215.0,1690215.0,2024,Hitter
+Eddie Rosario,WSH,washington-nationals,LF,1665806.0,1665806.0,2024,Hitter
+Zach McKinstry,DET,detroit-tigers,3B,1650000.0,1650000.0,2025,Hitter
+Tom Murphy,SEA,seattle-mariners,C,1625000.0,1625000.0,2023,Hitter
+Royce Lewis,MIN,minnesota-twins,3B,1625000.0,1625000.0,2025,Hitter
+2 Kyle Lewis,AZ,arizona-diamondbacks,OF,1610000.0,1610000.0,2023,Hitter
+1 Tomás Nido,NYM,new-york-mets,C,1600000.0,1600000.0,2023,Hitter
+Luis Guillorme,NYM,new-york-mets,SS,1600000.0,1600000.0,2023,Hitter
+Gavin Sheets,SD,san-diego-padres,DH,1600000.0,1600000.0,2025,Hitter
+1 Akil Baddoo,DET,detroit-tigers,LF,1550000.0,1550000.0,2024,Hitter
+Adam Frazier,KC,kansas-city-royals,2B,1525000.0,1525000.0,2025,Hitter
+Miguel Andujar,PIT,pittsburgh-pirates,3B,1525000.0,1525000.0,2023,Hitter
+Matt Duffy,KC,kansas-city-royals,3B,1500000.0,1500000.0,2023,Hitter
+Gary Sánchez,SD,san-diego-padres,C,1500000.0,1500000.0,2023,Hitter
+Pavin Smith,AZ,arizona-diamondbacks,DH,1500000.0,1500000.0,2025,Hitter
+1 Reese McGuire,BOS,boston-red-sox,C,1500000.0,1500000.0,2024,Hitter
+David Fletcher,ATL,atlanta-braves,2B,1500000.0,1500000.0,2025,Hitter
+2 Didi Gregorius,SEA,seattle-mariners,SS,1500000.0,1500000.0,2023,Hitter
+Amed Rosario,CIN,cincinnati-reds,SS,1500000.0,1500000.0,2024,Hitter
+Jose Iglesias,NYM,new-york-mets,3B,1500000.0,1500000.0,2024,Hitter
+Wil Myers,CIN,cincinnati-reds,1B,1500000.0,1500000.0,2024,Hitter
+Dan Vogelbach,NYM,new-york-mets,DH,1500000.0,1500000.0,2023,Hitter
+Luke Maile,KC,kansas-city-royals,C,1500000.0,1500000.0,2025,Hitter
+Alex Verdugo,ATL,atlanta-braves,LF,1500000.0,1500000.0,2025,Hitter
+Robbie Grossman,KC,kansas-city-royals,RF,1500000.0,1500000.0,2024,Hitter
+Luis Torrens,NYM,new-york-mets,C,1500000.0,1500000.0,2025,Hitter
+Reese McGuire,CHC,chicago-cubs,C,1500000.0,1500000.0,2025,Hitter
+Ezequiel Tovar,COL,colorado-rockies,SS,1500000.0,1500000.0,2024,Hitter
+Giovanny Urshela,DET,detroit-tigers,3B,1500000.0,1500000.0,2024,Hitter
+Jacob Stallings,COL,colorado-rockies,C,1500000.0,1500000.0,2024,Hitter
+Garrett Cooper,BOS,boston-red-sox,1B,1467742.0,1467742.0,2024,Hitter
+Kyle Higashioka,NYY,new-york-yankees,C,1462500.0,1462500.0,2023,Hitter
+Trayce Thompson,CWS,chicago-white-sox,CF,1450000.0,1450000.0,2023,Hitter
+Mark Canha,KC,kansas-city-royals,OF,1400000.0,1400000.0,2025,Hitter
+Andy Ibanez,DET,detroit-tigers,2B,1400000.0,1400000.0,2025,Hitter
+Jordan Luplow,MIN,minnesota-twins,RF,1400000.0,1400000.0,2023,Hitter
+Mauricio Dubon,HOU,houston-astros,2B,1400000.0,1400000.0,2023,Hitter
+Jake Bauers,MIL,milwaukee-brewers,1B,1400000.0,1400000.0,2025,Hitter
+4 Michael Brosseau,MIL,milwaukee-brewers,3B,1400000.0,1400000.0,2023,Hitter
+Luis Urias,OAK,oakland-athletics,2B,1400000.0,1400000.0,2025,Hitter
+Ryan O'Hearn,BAL,baltimore-orioles,1B,1400000.0,1400000.0,2023,Hitter
+Tim Locastro,NYM,new-york-mets,OF,1400000.0,1400000.0,2023,Hitter
+3 D.J. Stewart,NYM,new-york-mets,DH,1380000.0,1380000.0,2024,Hitter
+Wade Jr. LaMonte Wade,SF,san-francisco-giants,1B,1375000.0,1375000.0,2023,Hitter
+Christian Bethancourt,TB,tampa-bay-rays,C,1350000.0,1350000.0,2023,Hitter
+Taylor Walls,TB,tampa-bay-rays,SS,1350000.0,1350000.0,2025,Hitter
+1 Yulieski Gurriel,SD,san-diego-padres,1B,1350000.0,1350000.0,2025,Hitter
+Jake Bauers,MIL,milwaukee-brewers,1B,1350000.0,1350000.0,2024,Hitter
+1 Edward Olivares,PIT,pittsburgh-pirates,LF,1350000.0,1350000.0,2024,Hitter
+1 Eric Haase,MIL,milwaukee-brewers,C,1350000.0,1350000.0,2025,Hitter
+Alex Kirilloff,MIN,minnesota-twins,1B,1350000.0,1350000.0,2024,Hitter
+Nick Madrigal,NYM,new-york-mets,2B,1350000.0,1350000.0,2025,Hitter
+J.D. Davis,NYY,new-york-yankees,3B,1317218.0,1317218.0,2024,Hitter
+Andrew Knizner,TEX,texas-rangers,C,1304973.0,1304973.0,2024,Hitter
+1 Manuel Margot,DET,detroit-tigers,CF,1300000.0,1300000.0,2025,Hitter
+Harold Castro,COL,colorado-rockies,3B,1300000.0,1300000.0,2023,Hitter
+1 Abraham Toro,OAK,oakland-athletics,3B,1275000.0,1275000.0,2024,Hitter
+Cam Gallagher,CLE,cleveland-guardians,C,1250000.0,1250000.0,2023,Hitter
+Mickey Moniak,COL,colorado-rockies,CF,1250000.0,1250000.0,2025,Hitter
+Yulieski Gurriel,MIA,miami-marlins,1B,1250000.0,1250000.0,2023,Hitter
+Tim Anderson,LAA,los-angeles-angels,SS,1250000.0,1250000.0,2025,Hitter
+5 Abraham Toro,MIL,milwaukee-brewers,3B,1250000.0,1250000.0,2023,Hitter
+Matt Beaty,SF,san-francisco-giants,3B,1250000.0,1250000.0,2023,Hitter
+Travis Jankowski,TEX,texas-rangers,LF,1250000.0,1250000.0,2023,Hitter
+Gavin Lux,LAD,los-angeles-dodgers,2B,1225000.0,1225000.0,2024,Hitter
+Nick Madrigal,CHC,chicago-cubs,2B,1225000.0,1225000.0,2023,Hitter
+Reese McGuire,BOS,boston-red-sox,C,1225000.0,1225000.0,2023,Hitter
+Rowdy Tellez,SEA,seattle-mariners,DH,1205806.0,1205806.0,2025,Hitter
+Ben Gamel,HOU,houston-astros,LF,1200000.0,1200000.0,2024,Hitter
+1 Wilmer Difo,NYY,new-york-yankees,SS,1200000.0,1200000.0,2023,Hitter
+Brett Phillips,LAA,los-angeles-angels,RF,1200000.0,1200000.0,2023,Hitter
+Rob Refsnyder,BOS,boston-red-sox,RF,1200000.0,1200000.0,2023,Hitter
+Luke Maile,CIN,cincinnati-reds,C,1175000.0,1175000.0,2023,Hitter
+Joey Bart,PIT,pittsburgh-pirates,C,1175000.0,1175000.0,2025,Hitter
+Jared Young,NYM,new-york-mets,1B,1150000.0,1150000.0,2025,Hitter
+Ben Rortvedt,LAD,los-angeles-dodgers,C,1125000.0,1125000.0,2025,Hitter
+Austin Wynns,OAK,oakland-athletics,C,1100000.0,1100000.0,2025,Hitter
+Ildemaro Vargas,WSH,washington-nationals,2B,1100000.0,1100000.0,2024,Hitter
+Andrew Knizner,STL,st-louis-cardinals,C,1100000.0,1100000.0,2023,Hitter
+Dominic Smith,BOS,boston-red-sox,1B,1053763.0,1053763.0,2024,Hitter
+Garrett Hampson,AZ,arizona-diamondbacks,SS,1038280.0,1038280.0,2025,Hitter
+Leody Taveras,TEX,texas-rangers,CF,1021452.0,1021452.0,2025,Hitter
+Nick Ahmed,SD,san-diego-padres,SS,1000000.0,1000000.0,2024,Hitter
+Paul DeJong,WSH,washington-nationals,3B,1000000.0,1000000.0,2025,Hitter
+9 J.D. Davis,LAA,los-angeles-angels,3B,1000000.0,1000000.0,2025,Hitter
+Ceddanne Rafaela,BOS,boston-red-sox,CF,1000000.0,1000000.0,2025,Hitter
+3 Luis Campusano,SD,san-diego-padres,C,1000000.0,1000000.0,2025,Hitter
+Kevin Pillar,CWS,chicago-white-sox,CF,1000000.0,1000000.0,2024,Hitter
+Sandy León,ATL,atlanta-braves,C,1000000.0,1000000.0,2025,Hitter
+5 Danny Mendick,CWS,chicago-white-sox,2B,1000000.0,1000000.0,2024,Hitter
+Corbin Carroll,AZ,arizona-diamondbacks,RF,1000000.0,1000000.0,2023,Hitter
+Curt Casali,SF,san-francisco-giants,C,1000000.0,1000000.0,2024,Hitter
+Ehire Adrianza,ATL,atlanta-braves,SS,1000000.0,1000000.0,2023,Hitter
+Yulieski Gurriel,KC,kansas-city-royals,1B,1000000.0,1000000.0,2024,Hitter
+Ty France,TOR,toronto-blue-jays,1B,1000000.0,1000000.0,2025,Hitter
+Eric Haase,MIL,milwaukee-brewers,C,1000000.0,1000000.0,2024,Hitter
+Andres Gimenez,CLE,cleveland-guardians,2B,1000000.0,1000000.0,2023,Hitter
+Jason Heyward,SD,san-diego-padres,LF,1000000.0,1000000.0,2025,Hitter
+3 Abraham Toro,BOS,boston-red-sox,1B,1000000.0,1000000.0,2025,Hitter
+2 Jason Vosler,CIN,cincinnati-reds,3B,1000000.0,1000000.0,2023,Hitter
+James McCann,AZ,arizona-diamondbacks,C,1000000.0,1000000.0,2025,Hitter
+Ildemaro Vargas,AZ,arizona-diamondbacks,2B,1000000.0,1000000.0,2025,Hitter
+Danny Mendick,NYM,new-york-mets,2B,1000000.0,1000000.0,2023,Hitter
+2 Matt Thaiss,TB,tampa-bay-rays,C,1000000.0,1000000.0,2025,Hitter
+Kevin Pillar,TEX,texas-rangers,CF,1000000.0,1000000.0,2025,Hitter
+Cal Raleigh,SEA,seattle-mariners,C,1000000.0,1000000.0,2025,Hitter
+1 D.J. Stewart,PIT,pittsburgh-pirates,1B,1000000.0,1000000.0,2025,Hitter
+Tony Kemp,BAL,baltimore-orioles,2B,1000000.0,1000000.0,2024,Hitter
+Matt Duffy,TEX,texas-rangers,3B,1000000.0,1000000.0,2024,Hitter
+Kevin Newman,AZ,arizona-diamondbacks,SS,1000000.0,1000000.0,2024,Hitter
+2 Franchy Cordero,NYY,new-york-yankees,RF,1000000.0,1000000.0,2023,Hitter
+Nelson Cruz,SD,san-diego-padres,DH,1000000.0,1000000.0,2023,Hitter
+Adam Engel,SD,san-diego-padres,RF,1000000.0,1000000.0,2023,Hitter
+Scott Kingery,PHI,philadelphia-phillies,2B,1000000.0,1000000.0,2024,Hitter
+Pavin Smith,AZ,arizona-diamondbacks,OF,1000000.0,1000000.0,2024,Hitter
+2 Edwin Rios,CHC,chicago-cubs,3B,1000000.0,1000000.0,2023,Hitter
+13 Jon Singleton,HOU,houston-astros,1B,1000000.0,1000000.0,2025,Hitter
+3 Willie Calhoun,LAA,los-angeles-angels,OF,1000000.0,1000000.0,2024,Hitter
+1 Kristian Campbell,BOS,boston-red-sox,2B,1000000.0,1000000.0,2025,Hitter
+Ceddanne Rafaela,BOS,boston-red-sox,CF,1000000.0,1000000.0,2024,Hitter
+10 Billy McKinney,PIT,pittsburgh-pirates,OF,1000000.0,1000000.0,2024,Hitter
+David Peralta,SD,san-diego-padres,LF,1000000.0,1000000.0,2024,Hitter
+Donovan Solano,SD,san-diego-padres,DH,1000000.0,1000000.0,2024,Hitter
+2 Sam Hilliard,COL,colorado-rockies,CF,1000000.0,1000000.0,2025,Hitter
+Billy McKinney,TEX,texas-rangers,OF,1000000.0,1000000.0,2025,Hitter
+Luis Torrens,NYM,new-york-mets,C,1000000.0,1000000.0,2024,Hitter
+1 Sandy León,TEX,texas-rangers,C,1000000.0,1000000.0,2023,Hitter
+Jake Cave,COL,colorado-rockies,RF,1000000.0,1000000.0,2024,Hitter
+Jurickson Profar,SD,san-diego-padres,LF,1000000.0,1000000.0,2024,Hitter
+Martin Maldonado,SD,san-diego-padres,C,1000000.0,1000000.0,2025,Hitter
+2 Connor Joe,CIN,cincinnati-reds,1B,1000000.0,1000000.0,2025,Hitter
+Michael Chavis,WSH,washington-nationals,2B,1000000.0,1000000.0,2023,Hitter
+2 Emmanuel Rivera,BAL,baltimore-orioles,3B,1000000.0,1000000.0,2025,Hitter
+Keibert Ruiz,WSH,washington-nationals,C,1000000.0,1000000.0,2023,Hitter
+Ildemaro Vargas,WSH,washington-nationals,2B,975000.0,975000.0,2023,Hitter
+Dylan Carlson,BAL,baltimore-orioles,LF,975000.0,975000.0,2025,Hitter
+7 Austin Nola,KC,kansas-city-royals,C,975000.0,975000.0,2024,Hitter
+Luis Torrens,BAL,baltimore-orioles,C,974252.0,974252.0,2023,Hitter
+Edmundo Sosa,PHI,philadelphia-phillies,3B,950000.0,950000.0,2023,Hitter
+Austin Wynns,CIN,cincinnati-reds,C,950000.0,950000.0,2024,Hitter
+Jake Cave,PHI,philadelphia-phillies,LF,950000.0,950000.0,2023,Hitter
+Andrew Knizner,SF,san-francisco-giants,C,943548.0,943548.0,2025,Hitter
+Dominic Smith,SF,san-francisco-giants,1B,943548.0,943548.0,2025,Hitter
+Sam Haggerty,SEA,seattle-mariners,2B,900000.0,900000.0,2024,Hitter
+2 Nick Gordon,MIA,miami-marlins,SS,900000.0,900000.0,2024,Hitter
+Pablo Reyes,NYY,new-york-yankees,2B,900000.0,900000.0,2025,Hitter
+Sam Haggerty,TEX,texas-rangers,2B,900000.0,900000.0,2025,Hitter
+4 Anthony Bemboom,BAL,baltimore-orioles,C,900000.0,900000.0,2023,Hitter
+4 Nick Maton,CWS,chicago-white-sox,3B,900000.0,900000.0,2025,Hitter
+4 Tyler Wade,SD,san-diego-padres,SS,900000.0,900000.0,2025,Hitter
+5 Jackie Bradley,KC,kansas-city-royals,CF,900000.0,900000.0,2023,Hitter
+Anthony Volpe,NYY,new-york-yankees,SS,879000.0,879000.0,2025,Hitter
+Miguel Sano,LAA,los-angeles-angels,1B,875000.0,875000.0,2024,Hitter
+9 Bryan De La Cruz,NYY,new-york-yankees,RF,860000.0,860000.0,2025,Hitter
+Garrett Stubbs,PHI,philadelphia-phillies,C,850000.0,850000.0,2024,Hitter
+2 Yu-Cheng Chang,BOS,boston-red-sox,SS,850000.0,850000.0,2023,Hitter
+13 Akil Baddoo,DET,detroit-tigers,LF,850000.0,850000.0,2025,Hitter
+Jon Singleton,HOU,houston-astros,1B,850000.0,850000.0,2024,Hitter
+14 Omar Narváez,CWS,chicago-white-sox,C,850000.0,850000.0,2025,Hitter
+3 Nick Martini,COL,colorado-rockies,RF,850000.0,850000.0,2025,Hitter
+Riley Adams,WSH,washington-nationals,C,850000.0,850000.0,2025,Hitter
+Tyler Wade,SD,san-diego-padres,3B,850000.0,850000.0,2024,Hitter
+Luis Guillorme,LAA,los-angeles-angels,SS,845702.0,845702.0,2024,Hitter
+Derek Hill,CWS,chicago-white-sox,CF,831000.0,831000.0,2025,Hitter
+Oswaldo Cabrera,NYY,new-york-yankees,3B,825600.0,825600.0,2025,Hitter
+Andres Chaparro,WSH,washington-nationals,3B,821800.0,821800.0,2025,Hitter
+Riley Greene,DET,detroit-tigers,LF,812400.0,812400.0,2025,Hitter
+Anthony Volpe,NYY,new-york-yankees,SS,810100.0,810100.0,2024,Hitter
+Jahmai Jones,DET,detroit-tigers,OF,810000.0,810000.0,2025,Hitter
+Jackson Merrill,SD,san-diego-padres,CF,809500.0,809500.0,2025,Hitter
+Yainer Diaz,HOU,houston-astros,C,805600.0,805600.0,2025,Hitter
+Jake McCarthy,AZ,arizona-diamondbacks,CF,803900.0,803900.0,2025,Hitter
+Blake Perkins,MIL,milwaukee-brewers,RF,802500.0,802500.0,2025,Hitter
+Austin Wells,NYY,new-york-yankees,C,801400.0,801400.0,2025,Hitter
+Justyn-Henry Malloy,DET,detroit-tigers,DH,800000.0,800000.0,2025,Hitter
+Sam Hilliard,COL,colorado-rockies,CF,800000.0,800000.0,2024,Hitter
+Enmanuel Valdez,PIT,pittsburgh-pirates,2B,800000.0,800000.0,2025,Hitter
+Ryan McKenna,SF,san-francisco-giants,CF,800000.0,800000.0,2024,Hitter
+Blake Perkins,MIL,milwaukee-brewers,RF,800000.0,800000.0,2024,Hitter
+James Outman,MIN,minnesota-twins,CF,800000.0,800000.0,2025,Hitter
+Stone Garrett,WSH,washington-nationals,LF,798600.0,798600.0,2024,Hitter
+Kerry Carpenter,DET,detroit-tigers,RF,796800.0,796800.0,2025,Hitter
+Cal Raleigh,SEA,seattle-mariners,C,795000.0,795000.0,2024,Hitter
+Francisco Alvarez,NYM,new-york-mets,C,795000.0,795000.0,2025,Hitter
+Vinnie Pasquantino,KC,kansas-city-royals,1B,793250.0,793250.0,2025,Hitter
+Alek Thomas,AZ,arizona-diamondbacks,CF,793000.0,793000.0,2025,Hitter
+Gabriel Moreno,AZ,arizona-diamondbacks,C,793000.0,793000.0,2025,Hitter
+Bo Naylor,CLE,cleveland-guardians,C,790300.0,790300.0,2025,Hitter
+Michael Massey,KC,kansas-city-royals,2B,790250.0,790250.0,2025,Hitter
+Eli White,ATL,atlanta-braves,OF,790000.0,790000.0,2025,Hitter
+Connor Wong,BOS,boston-red-sox,C,790000.0,790000.0,2025,Hitter
+Logan O'Hoppe,LAA,los-angeles-angels,C,790000.0,790000.0,2025,Hitter
+Jake Burger,TEX,texas-rangers,1B,790000.0,790000.0,2025,Hitter
+Mark Vientos,NYM,new-york-mets,3B,788750.0,788750.0,2025,Hitter
+Luke Raley,SEA,seattle-mariners,1B,787400.0,787400.0,2025,Hitter
+Geraldo Perdomo,AZ,arizona-diamondbacks,SS,786000.0,786000.0,2024,Hitter
+Spencer Torkelson,DET,detroit-tigers,1B,785700.0,785700.0,2025,Hitter
+Oneil Cruz,PIT,pittsburgh-pirates,CF,785000.0,785000.0,2025,Hitter
+Jack Suwinski,PIT,pittsburgh-pirates,CF,785000.0,785000.0,2025,Hitter
+Jeremy Pena,HOU,houston-astros,SS,783500.0,783500.0,2024,Hitter
+Vidal Brujan,ATL,atlanta-braves,2B,783500.0,783500.0,2025,Hitter
+9 Jose Miranda,MIN,minnesota-twins,3B,783100.0,783100.0,2025,Hitter
+Oswaldo Cabrera,NYY,new-york-yankees,LF,783000.0,783000.0,2024,Hitter
+Nolan Gorman,STL,st-louis-cardinals,3B,782900.0,782900.0,2025,Hitter
+Ben Rice,NYY,new-york-yankees,DH,782800.0,782800.0,2025,Hitter
+Miguel Amaya,CHC,chicago-cubs,C,782500.0,782500.0,2025,Hitter
+Gunnar Henderson,BAL,baltimore-orioles,SS,782300.0,782300.0,2025,Hitter
+David Fry,CLE,cleveland-guardians,C,781900.0,781900.0,2025,Hitter
+Freddy Fermin,SD,san-diego-padres,C,781750.0,781750.0,2025,Hitter
+Parker Meadows,DET,detroit-tigers,CF,781600.0,781600.0,2025,Hitter
+CJ Abrams,WSH,washington-nationals,SS,780600.0,780600.0,2025,Hitter
+Josh H. Smith,TEX,texas-rangers,SS,780500.0,780500.0,2025,Hitter
+Michael Busch,CHC,chicago-cubs,1B,780500.0,780500.0,2025,Hitter
+Josh Jung,TEX,texas-rangers,3B,780500.0,780500.0,2025,Hitter
+Rafael Marchán,PHI,philadelphia-phillies,C,780500.0,780500.0,2025,Hitter
+Tyler Heineman,TOR,toronto-blue-jays,C,780300.0,780300.0,2025,Hitter
+Casey Schmitt,SF,san-francisco-giants,3B,780000.0,780000.0,2025,Hitter
+Heliot Ramos,SF,san-francisco-giants,LF,780000.0,780000.0,2025,Hitter
+1 Luis Matos,SF,san-francisco-giants,OF,780000.0,780000.0,2025,Hitter
+3 Tyler Fitzgerald,SF,san-francisco-giants,2B,780000.0,780000.0,2025,Hitter
+Spencer Steer,CIN,cincinnati-reds,1B,780000.0,780000.0,2025,Hitter
+5 Sam Huff,SF,san-francisco-giants,C,780000.0,780000.0,2025,Hitter
+Zach Neto,LAA,los-angeles-angels,SS,780000.0,780000.0,2025,Hitter
+Davis Schneider,TOR,toronto-blue-jays,3B,780000.0,780000.0,2025,Hitter
+Nick Allen,ATL,atlanta-braves,SS,780000.0,780000.0,2025,Hitter
+Wilyer Abreu,BOS,boston-red-sox,RF,780000.0,780000.0,2025,Hitter
+Patrick Bailey,SF,san-francisco-giants,C,780000.0,780000.0,2025,Hitter
+T.J. Friedl,CIN,cincinnati-reds,CF,780000.0,780000.0,2025,Hitter
+Nolan Schanuel,LAA,los-angeles-angels,1B,780000.0,780000.0,2025,Hitter
+David Hamilton,BOS,boston-red-sox,SS,780000.0,780000.0,2025,Hitter
+Alec Burleson,STL,st-louis-cardinals,1B,778650.0,778650.0,2025,Hitter
+Otto Lopez,MIA,miami-marlins,2B,778500.0,778500.0,2025,Hitter
+Brice Turang,MIL,milwaukee-brewers,2B,777100.0,777100.0,2025,Hitter
+José Caballero,NYY,new-york-yankees,SS,776800.0,776800.0,2025,Hitter
+Ezequiel Duran,TEX,texas-rangers,2B,776500.0,776500.0,2025,Hitter
+Joey Ortiz,MIL,milwaukee-brewers,SS,776000.0,776000.0,2025,Hitter
+Tyler Freeman,COL,colorado-rockies,2B,775700.0,775700.0,2025,Hitter
+Richard Palacios,TB,tampa-bay-rays,OF,775700.0,775700.0,2025,Hitter
+Josh Lowe,TB,tampa-bay-rays,RF,775100.0,775100.0,2025,Hitter
+Nick Gonzales,PIT,pittsburgh-pirates,2B,775000.0,775000.0,2025,Hitter
+2 Taylor Motter,STL,st-louis-cardinals,SS,775000.0,775000.0,2023,Hitter
+Jared Triolo,PIT,pittsburgh-pirates,3B,775000.0,775000.0,2025,Hitter
+Endy Rodríguez,PIT,pittsburgh-pirates,1B,775000.0,775000.0,2025,Hitter
+5 Ji-Hwan Bae,PIT,pittsburgh-pirates,2B,775000.0,775000.0,2025,Hitter
+Maikel Garcia,KC,kansas-city-royals,3B,774750.0,774750.0,2025,Hitter
+Colton Cowser,BAL,baltimore-orioles,CF,774500.0,774500.0,2025,Hitter
+Jasson Domínguez,NYY,new-york-yankees,LF,774200.0,774200.0,2025,Hitter
+Triston Casas,BOS,boston-red-sox,1B,774000.0,774000.0,2025,Hitter
+Romy Gonzalez,BOS,boston-red-sox,2B,774000.0,774000.0,2025,Hitter
+Brett Baty,NYM,new-york-mets,2B,774000.0,774000.0,2025,Hitter
+Wyatt Langford,TEX,texas-rangers,LF,773500.0,773500.0,2025,Hitter
+1 Johan Rojas,PHI,philadelphia-phillies,CF,773500.0,773500.0,2025,Hitter
+Edouard Julien,MIN,minnesota-twins,2B,772750.0,772750.0,2025,Hitter
+Jordan Westburg,BAL,baltimore-orioles,2B,772700.0,772700.0,2025,Hitter
+Oswald Peraza,LAA,los-angeles-angels,SS,772700.0,772700.0,2025,Hitter
+2 Jose Herrera,AZ,arizona-diamondbacks,C,772200.0,772200.0,2025,Hitter
+Xavier Edwards,MIA,miami-marlins,SS,772000.0,772000.0,2025,Hitter
+1 Jonah Bride,MIN,minnesota-twins,DH,772000.0,772000.0,2025,Hitter
+6 Dairon Blanco,KC,kansas-city-royals,OF,772000.0,772000.0,2025,Hitter
+Garrett Mitchell,MIL,milwaukee-brewers,CF,772000.0,772000.0,2025,Hitter
+Sal Frelick,MIL,milwaukee-brewers,LF,771800.0,771800.0,2025,Hitter
+Christopher Morel,TB,tampa-bay-rays,LF,771800.0,771800.0,2025,Hitter
+Korey Lee,CWS,chicago-white-sox,C,771000.0,771000.0,2025,Hitter
+Pete Crow-Armstrong,CHC,chicago-cubs,CF,771000.0,771000.0,2025,Hitter
+Kody Clemens,MIN,minnesota-twins,2B,771000.0,771000.0,2025,Hitter
+Brayan Rocchio,CLE,cleveland-guardians,SS,771000.0,771000.0,2025,Hitter
+Masyn Winn,STL,st-louis-cardinals,SS,770850.0,770850.0,2025,Hitter
+Jordan Walker,STL,st-louis-cardinals,RF,770800.0,770800.0,2025,Hitter
+Matt Wallner,MIN,minnesota-twins,RF,770750.0,770750.0,2025,Hitter
+Wenceel Perez,DET,detroit-tigers,CF,770700.0,770700.0,2025,Hitter
+Miguel Vargas,CWS,chicago-white-sox,3B,770400.0,770400.0,2025,Hitter
+Iván Herrera,STL,st-louis-cardinals,C,770300.0,770300.0,2025,Hitter
+1 Mike Siani,STL,st-louis-cardinals,OF,770205.0,770205.0,2025,Hitter
+Gabriel Arias,CLE,cleveland-guardians,2B,770200.0,770200.0,2025,Hitter
+Jonny DeLuca,TB,tampa-bay-rays,CF,770100.0,770100.0,2025,Hitter
+J.J. Bleday,OAK,oakland-athletics,LF,770000.0,770000.0,2025,Hitter
+6 Kyren Paris,LAA,los-angeles-angels,SS,770000.0,770000.0,2025,Hitter
+Andy Pages,LAD,los-angeles-dodgers,CF,770000.0,770000.0,2025,Hitter
+Jo Adell,LAA,los-angeles-angels,RF,770000.0,770000.0,2024,Hitter
+James Outman,LAD,los-angeles-dodgers,CF,770000.0,770000.0,2024,Hitter
+Eric Wagaman,MIA,miami-marlins,1B,770000.0,770000.0,2025,Hitter
+Jerar Encarnacion,SF,san-francisco-giants,OF,770000.0,770000.0,2025,Hitter
+Nolan Jones,CLE,cleveland-guardians,RF,770000.0,770000.0,2025,Hitter
+Ignacio Alvarez,ATL,atlanta-braves,3B,770000.0,770000.0,2025,Hitter
+3 Scott Kingery,LAA,los-angeles-angels,2B,770000.0,770000.0,2025,Hitter
+Matt Thaiss,LAA,los-angeles-angels,C,770000.0,770000.0,2024,Hitter
+Shea Langeliers,OAK,oakland-athletics,C,770000.0,770000.0,2025,Hitter
+Lenyn Sosa,CWS,chicago-white-sox,2B,770000.0,770000.0,2025,Hitter
+Joey Bart,PIT,pittsburgh-pirates,C,770000.0,770000.0,2024,Hitter
+Mickey Moniak,LAA,los-angeles-angels,CF,770000.0,770000.0,2024,Hitter
+4 Christian Encarnacion-Strand,CIN,cincinnati-reds,1B,770000.0,770000.0,2025,Hitter
+Matt McLain,CIN,cincinnati-reds,2B,770000.0,770000.0,2025,Hitter
+De La Cruz Elly De La Cruz,CIN,cincinnati-reds,SS,770000.0,770000.0,2025,Hitter
+Alek Thomas,AZ,arizona-diamondbacks,CF,769500.0,769500.0,2024,Hitter
+Alex Call,LAD,los-angeles-dodgers,LF,769100.0,769100.0,2025,Hitter
+Dane Myers,MIA,miami-marlins,OF,769000.0,769000.0,2025,Hitter
+Yainer Diaz,HOU,houston-astros,C,768900.0,768900.0,2024,Hitter
+Jacob Young,WSH,washington-nationals,CF,768700.0,768700.0,2025,Hitter
+Pedro Pages,STL,st-louis-cardinals,C,768300.0,768300.0,2025,Hitter
+Kyle Stowers,MIA,miami-marlins,RF,768200.0,768200.0,2025,Hitter
+Miles Mastrobuoni,SEA,seattle-mariners,LF,768000.0,768000.0,2025,Hitter
+De La Cruz Bryan De La Cruz,PIT,pittsburgh-pirates,RF,768000.0,768000.0,2024,Hitter
+Bryson Stott,PHI,philadelphia-phillies,2B,768000.0,768000.0,2024,Hitter
+Spencer Horwitz,PIT,pittsburgh-pirates,1B,767500.0,767500.0,2025,Hitter
+Alejandro Kirk,TOR,toronto-blue-jays,C,767300.0,767300.0,2023,Hitter
+Jake Meyers,HOU,houston-astros,CF,767300.0,767300.0,2024,Hitter
+Christopher Morel,TB,tampa-bay-rays,DH,767000.0,767000.0,2024,Hitter
+William Contreras,MIL,milwaukee-brewers,C,766900.0,766900.0,2024,Hitter
+Jhonkensy Noel,CLE,cleveland-guardians,1B,766900.0,766900.0,2025,Hitter
+Nathan Lukes,TOR,toronto-blue-jays,CF,766800.0,766800.0,2025,Hitter
+7 Oswald Peraza,NYY,new-york-yankees,SS,766600.0,766600.0,2024,Hitter
+Jonathan Aranda,TB,tampa-bay-rays,DH,766500.0,766500.0,2025,Hitter
+Brandon Marsh,PHI,philadelphia-phillies,CF,766500.0,766500.0,2024,Hitter
+Blaze Alexander,AZ,arizona-diamondbacks,SS,766300.0,766300.0,2025,Hitter
+Riley Greene,DET,detroit-tigers,LF,766300.0,766300.0,2024,Hitter
+Andy Ibanez,DET,detroit-tigers,2B,766100.0,766100.0,2024,Hitter
+15 Luken Baker,LAD,los-angeles-dodgers,1B,766100.0,766100.0,2025,Hitter
+Ronny Mauricio,NYM,new-york-mets,SS,766000.0,766000.0,2025,Hitter
+Matt Vierling,DET,detroit-tigers,RF,766000.0,766000.0,2024,Hitter
+Daniel Schneemann,CLE,cleveland-guardians,SS,766000.0,766000.0,2025,Hitter
+Luisangel Acuna,NYM,new-york-mets,2B,766000.0,766000.0,2025,Hitter
+Jake McCarthy,AZ,arizona-diamondbacks,CF,766000.0,766000.0,2024,Hitter
+Spencer Torkelson,DET,detroit-tigers,1B,765700.0,765700.0,2024,Hitter
+Taylor Trammell,HOU,houston-astros,OF,765200.0,765200.0,2025,Hitter
+Brenton Doyle,COL,colorado-rockies,CF,765000.0,765000.0,2025,Hitter
+4 Michael Toglia,COL,colorado-rockies,1B,765000.0,765000.0,2025,Hitter
+Connor Norby,MIA,miami-marlins,3B,765000.0,765000.0,2025,Hitter
+Tyler Soderstrom,OAK,oakland-athletics,1B,765000.0,765000.0,2025,Hitter
+Zack Gelof,OAK,oakland-athletics,2B,765000.0,765000.0,2025,Hitter
+Max Schuemann,OAK,oakland-athletics,SS,765000.0,765000.0,2025,Hitter
+6 Sean Bouchard,COL,colorado-rockies,RF,765000.0,765000.0,2025,Hitter
+Hunter Goodman,COL,colorado-rockies,RF,765000.0,765000.0,2025,Hitter
+11 Ryan Kreidler,PIT,pittsburgh-pirates,SS,764900.0,764900.0,2025,Hitter
+Jackson Holliday,BAL,baltimore-orioles,2B,764800.0,764800.0,2025,Hitter
+James Wood,WSH,washington-nationals,LF,764600.0,764600.0,2025,Hitter
+Brooks Lee,MIN,minnesota-twins,3B,764450.0,764450.0,2025,Hitter
+Zach McKinstry,DET,detroit-tigers,2B,764400.0,764400.0,2024,Hitter
+Scott II Victor Scott,STL,st-louis-cardinals,CF,764150.0,764150.0,2025,Hitter
+Junior Caminero,TB,tampa-bay-rays,3B,764100.0,764100.0,2025,Hitter
+10 Pablo Reyes,NYM,new-york-mets,3B,764000.0,764000.0,2024,Hitter
+Weston Wilson,PHI,philadelphia-phillies,1B,764000.0,764000.0,2025,Hitter
+Trey Sweeney,DET,detroit-tigers,SS,764000.0,764000.0,2025,Hitter
+8 Heston Kjerstad,BAL,baltimore-orioles,OF,764000.0,764000.0,2025,Hitter
+4 Oliver Dunn,MIL,milwaukee-brewers,3B,763700.0,763700.0,2025,Hitter
+Carlos Narvaez,BOS,boston-red-sox,C,763500.0,763500.0,2025,Hitter
+Zach Dezenzo,HOU,houston-astros,SS,763200.0,763200.0,2025,Hitter
+Kyle Manzardo,CLE,cleveland-guardians,DH,763200.0,763200.0,2025,Hitter
+Will Wagner,SD,san-diego-padres,DH,763000.0,763000.0,2025,Hitter
+Patrick Wisdom,CHC,chicago-cubs,3B,763000.0,763000.0,2023,Hitter
+12 Bryan Ramos,CWS,chicago-white-sox,3B,762625.0,762625.0,2025,Hitter
+Brooks Baldwin,CWS,chicago-white-sox,SS,762625.0,762625.0,2025,Hitter
+Dillon Dingler,DET,detroit-tigers,C,762600.0,762600.0,2025,Hitter
+Francisco Alvarez,NYM,new-york-mets,C,762500.0,762500.0,2024,Hitter
+Griffin Conine,MIA,miami-marlins,LF,762500.0,762500.0,2025,Hitter
+Mickey Gasper,MIN,minnesota-twins,1B,762450.0,762450.0,2025,Hitter
+1 José Tena,WSH,washington-nationals,SS,762400.0,762400.0,2025,Hitter
+Curtis Mead,CWS,chicago-white-sox,3B,762200.0,762200.0,2025,Hitter
+9 Jacob Amaya,CWS,chicago-white-sox,SS,762125.0,762125.0,2025,Hitter
+Ryan Bliss,SEA,seattle-mariners,2B,762100.0,762100.0,2025,Hitter
+Jordan Beck,COL,colorado-rockies,LF,762000.0,762000.0,2025,Hitter
+Dylan Crews,WSH,washington-nationals,RF,761800.0,761800.0,2025,Hitter
+7 Blake Dunn,CIN,cincinnati-reds,OF,761500.0,761500.0,2025,Hitter
+Graham Pauley,MIA,miami-marlins,3B,761500.0,761500.0,2025,Hitter
+3 Jacob Hurtubise,SEA,seattle-mariners,OF,761500.0,761500.0,2025,Hitter
+Javier Sanoja,MIA,miami-marlins,SS,761500.0,761500.0,2025,Hitter
+DaShawn Keirsey,MIN,minnesota-twins,OF,761250.0,761250.0,2025,Hitter
+10 Vinny Capra,CWS,chicago-white-sox,SS,761100.0,761100.0,2025,Hitter
+Isaac Collins,MIL,milwaukee-brewers,OF,761100.0,761100.0,2025,Hitter
+Lars Nootbaar,STL,st-louis-cardinals,LF,761000.0,761000.0,2024,Hitter
+Kerry Carpenter,DET,detroit-tigers,DH,761000.0,761000.0,2024,Hitter
+Johnathan Rodriguez,CLE,cleveland-guardians,OF,760900.0,760900.0,2025,Hitter
+5 Kameron Misner,TB,tampa-bay-rays,CF,760700.0,760700.0,2025,Hitter
+10 Cristian Pache,MIA,miami-marlins,CF,760500.0,760500.0,2024,Hitter
+Pedro León,HOU,houston-astros,OF,760400.0,760400.0,2025,Hitter
+7 Brandon Lockridge,MIL,milwaukee-brewers,OF,760300.0,760300.0,2025,Hitter
+Adley Rutschman,BAL,baltimore-orioles,C,760300.0,760300.0,2024,Hitter
+Gabriel Moreno,AZ,arizona-diamondbacks,C,760100.0,760100.0,2024,Hitter
+12 Drew Avans,MIL,milwaukee-brewers,OF,760000.0,760000.0,2025,Hitter
+Tristan Gray,TB,tampa-bay-rays,SS,760000.0,760000.0,2025,Hitter
+9 Zack Short,HOU,houston-astros,2B,760000.0,760000.0,2025,Hitter
+Hunter Feduccia,TB,tampa-bay-rays,C,760000.0,760000.0,2025,Hitter
+9 César Prieto,STL,st-louis-cardinals,2B,760000.0,760000.0,2025,Hitter
+7 Tsung-Che Cheng,PIT,pittsburgh-pirates,SS,760000.0,760000.0,2025,Hitter
+9 Billy Cook,PIT,pittsburgh-pirates,OF,760000.0,760000.0,2025,Hitter
+16 C.J. Alexander,LAD,los-angeles-dodgers,3B,760000.0,760000.0,2025,Hitter
+12 Kenedy Corona,HOU,houston-astros,OF,760000.0,760000.0,2025,Hitter
+Andruw Monasterio,MIL,milwaukee-brewers,SS,760000.0,760000.0,2025,Hitter
+9 Wade Meckler,SF,san-francisco-giants,OF,760000.0,760000.0,2025,Hitter
+11 Osleivis Basabe,SF,san-francisco-giants,SS,760000.0,760000.0,2025,Hitter
+4 Justin Dean,LAD,los-angeles-dodgers,OF,760000.0,760000.0,2025,Hitter
+Daylen Lile,WSH,washington-nationals,OF,760000.0,760000.0,2025,Hitter
+11 Jace Jung,DET,detroit-tigers,3B,760000.0,760000.0,2025,Hitter
+12 Logan Porter,SF,san-francisco-giants,C,760000.0,760000.0,2025,Hitter
+Bobby Seymour,TB,tampa-bay-rays,1B,760000.0,760000.0,2025,Hitter
+Brady House,WSH,washington-nationals,SS,760000.0,760000.0,2025,Hitter
+3 Esteury Ruiz,LAD,los-angeles-dodgers,CF,760000.0,760000.0,2025,Hitter
+Cam Smith,HOU,houston-astros,RF,760000.0,760000.0,2025,Hitter
+8 Shay Whitcomb,HOU,houston-astros,SS,760000.0,760000.0,2025,Hitter
+4 Liover Peguero,PIT,pittsburgh-pirates,SS,760000.0,760000.0,2025,Hitter
+3 Daz Cameron,MIL,milwaukee-brewers,LF,760000.0,760000.0,2025,Hitter
+5 Alex Freeland,LAD,los-angeles-dodgers,SS,760000.0,760000.0,2025,Hitter
+Cole Jr. Zach Cole,HOU,houston-astros,OF,760000.0,760000.0,2025,Hitter
+5 Steward Berroa,MIL,milwaukee-brewers,OF,760000.0,760000.0,2025,Hitter
+Dalton Rushing,LAD,los-angeles-dodgers,C,760000.0,760000.0,2025,Hitter
+10 David Villar,SF,san-francisco-giants,3B,760000.0,760000.0,2025,Hitter
+Bryce Eldridge,SF,san-francisco-giants,1B,760000.0,760000.0,2025,Hitter
+Brice Matthews,HOU,houston-astros,SS,760000.0,760000.0,2025,Hitter
+Drew Gilbert,SF,san-francisco-giants,CF,760000.0,760000.0,2025,Hitter
+Caleb Durbin,MIL,milwaukee-brewers,SS,760000.0,760000.0,2025,Hitter
+14 Tyler Black,MIL,milwaukee-brewers,2B,760000.0,760000.0,2025,Hitter
+Jacob Melton,HOU,houston-astros,CF,760000.0,760000.0,2025,Hitter
+2 Anthony Seigler,MIL,milwaukee-brewers,C,760000.0,760000.0,2025,Hitter
+Grant McCray,SF,san-francisco-giants,CF,760000.0,760000.0,2025,Hitter
+Christian Koss,SF,san-francisco-giants,SS,760000.0,760000.0,2025,Hitter
+2 César Salazar,HOU,houston-astros,C,760000.0,760000.0,2025,Hitter
+Harry Ford,SEA,seattle-mariners,C,760000.0,760000.0,2025,Hitter
+8 Buddy Kennedy,LAD,los-angeles-dodgers,2B,760000.0,760000.0,2025,Hitter
+3 Cooper Hummel,HOU,houston-astros,LF,760000.0,760000.0,2025,Hitter
+14 Jesus Rodriguez,SF,san-francisco-giants,C,760000.0,760000.0,2025,Hitter
+Jake Mangum,TB,tampa-bay-rays,CF,760000.0,760000.0,2025,Hitter
+Nasim Nunez,WSH,washington-nationals,SS,760000.0,760000.0,2025,Hitter
+5 Matthew Lugo,LAA,los-angeles-angels,SS,760000.0,760000.0,2025,Hitter
+Agustin Ramirez,MIA,miami-marlins,C,760000.0,760000.0,2025,Hitter
+Gustavo Campero,LAA,los-angeles-angels,OF,760000.0,760000.0,2025,Hitter
+3 Nick Loftin,KC,kansas-city-royals,SS,760000.0,760000.0,2025,Hitter
+2 Jack WInkler,MIA,miami-marlins,SS,760000.0,760000.0,2025,Hitter
+5 Drew Waters,KC,kansas-city-royals,OF,760000.0,760000.0,2025,Hitter
+Heriberto Hernandez,MIA,miami-marlins,C,760000.0,760000.0,2025,Hitter
+1 Rob Brantly,MIA,miami-marlins,C,760000.0,760000.0,2025,Hitter
+Bryce Johnson,SD,san-diego-padres,CF,760000.0,760000.0,2025,Hitter
+Jorge Alfaro,WSH,washington-nationals,C,760000.0,760000.0,2025,Hitter
+Mason McCoy,SD,san-diego-padres,SS,760000.0,760000.0,2025,Hitter
+12 Brett Sullivan,PIT,pittsburgh-pirates,C,760000.0,760000.0,2025,Hitter
+Troy Johnston,MIA,miami-marlins,OF,760000.0,760000.0,2025,Hitter
+Christian Moore,LAA,los-angeles-angels,2B,760000.0,760000.0,2025,Hitter
+Bryce Teodosio,LAA,los-angeles-angels,CF,760000.0,760000.0,2025,Hitter
+Jakob Marsee,MIA,miami-marlins,OF,760000.0,760000.0,2025,Hitter
+Sebastian Rivero,LAA,los-angeles-angels,C,760000.0,760000.0,2025,Hitter
+Denzer Guzman,LAA,los-angeles-angels,SS,760000.0,760000.0,2025,Hitter
+Drew Millas,WSH,washington-nationals,C,760000.0,760000.0,2025,Hitter
+Joey Wiemer,MIA,miami-marlins,CF,760000.0,760000.0,2025,Hitter
+Brian Navarreto,MIA,miami-marlins,C,760000.0,760000.0,2025,Hitter
+Chandler Simpson,TB,tampa-bay-rays,2B,760000.0,760000.0,2025,Hitter
+7 Niko Kavadas,LAA,los-angeles-angels,1B,760000.0,760000.0,2025,Hitter
+5 Max Acosta,MIA,miami-marlins,SS,760000.0,760000.0,2025,Hitter
+6 Victor Mesa,MIA,miami-marlins,OF,760000.0,760000.0,2025,Hitter
+Liam Hicks,MIA,miami-marlins,C,760000.0,760000.0,2025,Hitter
+Carson Williams,TB,tampa-bay-rays,SS,760000.0,760000.0,2025,Hitter
+12 Tristan Peters,TB,tampa-bay-rays,OF,760000.0,760000.0,2025,Hitter
+Tyler Tolbert,KC,kansas-city-royals,SS,760000.0,760000.0,2025,Hitter
+Carter Kieboom,LAA,los-angeles-angels,3B,760000.0,760000.0,2025,Hitter
+13 Tirso Ornelas,SD,san-diego-padres,OF,760000.0,760000.0,2025,Hitter
+Leonardo Rivas,SEA,seattle-mariners,2B,760000.0,760000.0,2025,Hitter
+Robert Hassell,WSH,washington-nationals,OF,760000.0,760000.0,2025,Hitter
+8 Trey Lipscomb,WSH,washington-nationals,3B,760000.0,760000.0,2025,Hitter
+Cole Young,SEA,seattle-mariners,SS,760000.0,760000.0,2025,Hitter
+Jac Caglianone,KC,kansas-city-royals,1B,760000.0,760000.0,2025,Hitter
+John Rave,KC,kansas-city-royals,CF,760000.0,760000.0,2025,Hitter
+Carter Jensen,KC,kansas-city-royals,C,760000.0,760000.0,2025,Hitter
+5 Darren Baker,WSH,washington-nationals,2B,760000.0,760000.0,2025,Hitter
+13 Chad Wallach,LAA,los-angeles-angels,C,760000.0,760000.0,2025,Hitter
+12 Logan Davidson,LAA,los-angeles-angels,1B,760000.0,760000.0,2025,Hitter
+6 Coco Montes,TB,tampa-bay-rays,SS,760000.0,760000.0,2025,Hitter
+Dominic Canzone,SEA,seattle-mariners,RF,760000.0,760000.0,2025,Hitter
+11 Chad Stevens,LAA,los-angeles-angels,SS,760000.0,760000.0,2025,Hitter
+11 Trenton Brooks,SD,san-diego-padres,1B,760000.0,760000.0,2025,Hitter
+Stuart Fairchild,TB,tampa-bay-rays,OF,760000.0,760000.0,2025,Hitter
+Everson Pereira,TB,tampa-bay-rays,OF,760000.0,760000.0,2025,Hitter
+14 Eguy Rosario,SD,san-diego-padres,SS,760000.0,760000.0,2025,Hitter
+9 Aramis Garcia,AZ,arizona-diamondbacks,C,760000.0,760000.0,2025,Hitter
+Tim Tawa,AZ,arizona-diamondbacks,2B,760000.0,760000.0,2025,Hitter
+13 Ryan Noda,BAL,baltimore-orioles,1B,760000.0,760000.0,2025,Hitter
+6 Maverick Handley,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+7 Luis Vazquez,BAL,baltimore-orioles,SS,760000.0,760000.0,2025,Hitter
+10 Chadwick Tromp,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+Evan Carter,TEX,texas-rangers,CF,760000.0,760000.0,2025,Hitter
+11 Daniel Johnson,BAL,baltimore-orioles,RF,760000.0,760000.0,2025,Hitter
+12 Jacob Stallings,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+14 Jordyn Adams,BAL,baltimore-orioles,OF,760000.0,760000.0,2025,Hitter
+Brett Harris,OAK,oakland-athletics,3B,760000.0,760000.0,2025,Hitter
+15 Greg Allen,BAL,baltimore-orioles,OF,760000.0,760000.0,2025,Hitter
+18 Terrin Vavra,BAL,baltimore-orioles,2B,760000.0,760000.0,2025,Hitter
+19 Vimael Machin,BAL,baltimore-orioles,2B,760000.0,760000.0,2025,Hitter
+8 Joshua Palacios,CWS,chicago-white-sox,CF,760000.0,760000.0,2025,Hitter
+7 Tim Elko,CWS,chicago-white-sox,1B,760000.0,760000.0,2025,Hitter
+21 David Banuelos,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+17 Rhylan Thomas,SEA,seattle-mariners,OF,760000.0,760000.0,2025,Hitter
+16 Blake Hunt,SEA,seattle-mariners,C,760000.0,760000.0,2025,Hitter
+Denzel Clarke,OAK,oakland-athletics,CF,760000.0,760000.0,2025,Hitter
+Samuel Basallo,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+Dylan Beavers,BAL,baltimore-orioles,RF,760000.0,760000.0,2025,Hitter
+Jeremiah Jackson,BAL,baltimore-orioles,2B,760000.0,760000.0,2025,Hitter
+Yohel Pozo,STL,st-louis-cardinals,C,760000.0,760000.0,2025,Hitter
+Thomas Saggese,STL,st-louis-cardinals,SS,760000.0,760000.0,2025,Hitter
+3 Hayden Senger,NYM,new-york-mets,C,760000.0,760000.0,2025,Hitter
+Noelvi Marte,CIN,cincinnati-reds,3B,760000.0,760000.0,2025,Hitter
+Alex Jackson,BAL,baltimore-orioles,C,760000.0,760000.0,2025,Hitter
+Coby Mayo,BAL,baltimore-orioles,3B,760000.0,760000.0,2025,Hitter
+Will Benson,CIN,cincinnati-reds,RF,760000.0,760000.0,2025,Hitter
+Sal Stewart,CIN,cincinnati-reds,3B,760000.0,760000.0,2025,Hitter
+Tyler Callihan,CIN,cincinnati-reds,2B,760000.0,760000.0,2025,Hitter
+8 Will Banfield,CIN,cincinnati-reds,C,760000.0,760000.0,2025,Hitter
+13 Samad Taylor,SEA,seattle-mariners,SS,760000.0,760000.0,2025,Hitter
+6 Blake Sabol,CWS,chicago-white-sox,C,760000.0,760000.0,2025,Hitter
+Darell Hernaiz,OAK,oakland-athletics,SS,760000.0,760000.0,2025,Hitter
+Del Castillo Adrian Del Castillo,AZ,arizona-diamondbacks,C,760000.0,760000.0,2025,Hitter
+9 Carlos Santana,CHC,chicago-cubs,1B,760000.0,760000.0,2025,Hitter
+Roman Anthony,BOS,boston-red-sox,RF,760000.0,760000.0,2025,Hitter
+Vaughn Grissom,BOS,boston-red-sox,2B,760000.0,760000.0,2025,Hitter
+Nick Kurtz,OAK,oakland-athletics,1B,760000.0,760000.0,2025,Hitter
+Chase Meidroth,CWS,chicago-white-sox,SS,760000.0,760000.0,2025,Hitter
+8 Ali Sanchez,BOS,boston-red-sox,C,760000.0,760000.0,2025,Hitter
+11 Jhostynxon Garcia,BOS,boston-red-sox,OF,760000.0,760000.0,2025,Hitter
+Carlos Cortes,OAK,oakland-athletics,2B,760000.0,760000.0,2025,Hitter
+Owen Caissie,CHC,chicago-cubs,OF,760000.0,760000.0,2025,Hitter
+Moisés Ballesteros,CHC,chicago-cubs,C,760000.0,760000.0,2025,Hitter
+Kevin Alcantara,CHC,chicago-cubs,OF,760000.0,760000.0,2025,Hitter
+Jacob Wilson,OAK,oakland-athletics,SS,760000.0,760000.0,2025,Hitter
+2 J.C. Escarra,NYY,new-york-yankees,C,760000.0,760000.0,2025,Hitter
+5 Jorbit Vivas,NYY,new-york-yankees,SS,760000.0,760000.0,2025,Hitter
+Marcelo Mayer,BOS,boston-red-sox,3B,760000.0,760000.0,2025,Hitter
+Edgar Quero,CWS,chicago-white-sox,C,760000.0,760000.0,2025,Hitter
+Nate Eaton,BOS,boston-red-sox,LF,760000.0,760000.0,2025,Hitter
+Nick Sogard,BOS,boston-red-sox,2B,760000.0,760000.0,2025,Hitter
+Kyle Teel,CWS,chicago-white-sox,C,760000.0,760000.0,2025,Hitter
+4 Dustin Harris,TEX,texas-rangers,3B,760000.0,760000.0,2025,Hitter
+2 Justin Foscue,TEX,texas-rangers,2B,760000.0,760000.0,2025,Hitter
+Colson Montgomery,CWS,chicago-white-sox,SS,760000.0,760000.0,2025,Hitter
+Will Robertson,CWS,chicago-white-sox,LF,760000.0,760000.0,2025,Hitter
+Dominic Fletcher,CWS,chicago-white-sox,OF,760000.0,760000.0,2025,Hitter
+Willie MacIver,OAK,oakland-athletics,C,760000.0,760000.0,2025,Hitter
+Corey Julks,CWS,chicago-white-sox,CF,760000.0,760000.0,2025,Hitter
+Colby Thomas,OAK,oakland-athletics,RF,760000.0,760000.0,2025,Hitter
+Addison Barger,TOR,toronto-blue-jays,SS,760000.0,760000.0,2025,Hitter
+Joey Loperfido,TOR,toronto-blue-jays,OF,760000.0,760000.0,2025,Hitter
+20 Chuckie Robinson,ATL,atlanta-braves,C,760000.0,760000.0,2025,Hitter
+15 Carlos D. Rodriguez,ATL,atlanta-braves,OF,760000.0,760000.0,2025,Hitter
+10 Rece Hinds,CIN,cincinnati-reds,RF,760000.0,760000.0,2025,Hitter
+7 Tristin English,AZ,arizona-diamondbacks,OF,760000.0,760000.0,2025,Hitter
+Henry Davis,PIT,pittsburgh-pirates,C,760000.0,760000.0,2025,Hitter
+Tyler Locklear,AZ,arizona-diamondbacks,1B,760000.0,760000.0,2025,Hitter
+Alexander Canario,PIT,pittsburgh-pirates,OF,760000.0,760000.0,2025,Hitter
+13 Keston Hiura,COL,colorado-rockies,2B,760000.0,760000.0,2025,Hitter
+12 Owen Miller,COL,colorado-rockies,SS,760000.0,760000.0,2025,Hitter
+Alan Roden,MIN,minnesota-twins,RF,760000.0,760000.0,2025,Hitter
+Matt Shaw,CHC,chicago-cubs,3B,760000.0,760000.0,2025,Hitter
+8 Ben Williamson,SEA,seattle-mariners,3B,760000.0,760000.0,2025,Hitter
+15 Sergio Alcantara,AZ,arizona-diamondbacks,SS,760000.0,760000.0,2025,Hitter
+Luke Keaschall,MIN,minnesota-twins,2B,760000.0,760000.0,2025,Hitter
+3 Roddery Munoz,STL,st-louis-cardinals,RF,760000.0,760000.0,2025,Hitter
+11 Drew Romo,COL,colorado-rockies,C,760000.0,760000.0,2025,Hitter
+9 Aaron Schunk,COL,colorado-rockies,3B,760000.0,760000.0,2025,Hitter
+8 Austin Nola,COL,colorado-rockies,C,760000.0,760000.0,2025,Hitter
+14 Zac Veen,COL,colorado-rockies,LF,760000.0,760000.0,2025,Hitter
+Carson McCusker,MIN,minnesota-twins,OF,760000.0,760000.0,2025,Hitter
+Nick Yorke,PIT,pittsburgh-pirates,2B,760000.0,760000.0,2025,Hitter
+Cody Freeman,TEX,texas-rangers,3B,760000.0,760000.0,2025,Hitter
+Cam Devanney,PIT,pittsburgh-pirates,SS,760000.0,760000.0,2025,Hitter
+Michael Helman,TEX,texas-rangers,2B,760000.0,760000.0,2025,Hitter
+Alejandro Osuna,TEX,texas-rangers,OF,760000.0,760000.0,2025,Hitter
+Austin Martin,MIN,minnesota-twins,SS,760000.0,760000.0,2025,Hitter
+Rafael Flores,PIT,pittsburgh-pirates,C,760000.0,760000.0,2025,Hitter
+Connor Kaiser,AZ,arizona-diamondbacks,SS,760000.0,760000.0,2025,Hitter
+Ryan Fitzgerald,MIN,minnesota-twins,SS,760000.0,760000.0,2025,Hitter
+5 Gage Workman,DET,detroit-tigers,3B,760000.0,760000.0,2025,Hitter
+Ronny Simon,PIT,pittsburgh-pirates,2B,760000.0,760000.0,2025,Hitter
+9 Tomás Nido,DET,detroit-tigers,C,760000.0,760000.0,2025,Hitter
+Jordan Lawlar,AZ,arizona-diamondbacks,SS,760000.0,760000.0,2025,Hitter
+Jorge Barrosa,AZ,arizona-diamondbacks,OF,760000.0,760000.0,2025,Hitter
+7 Adael Amador,COL,colorado-rockies,SS,760000.0,760000.0,2025,Hitter
+5 Jhonny Pereda,MIN,minnesota-twins,C,760000.0,760000.0,2025,Hitter
+12 Dom Nunez,CLE,cleveland-guardians,C,760000.0,760000.0,2025,Hitter
+11 Ryan Vilade,CIN,cincinnati-reds,LF,760000.0,760000.0,2025,Hitter
+Jose Fermin,STL,st-louis-cardinals,2B,760000.0,760000.0,2025,Hitter
+Nathan Church,STL,st-louis-cardinals,OF,760000.0,760000.0,2025,Hitter
+12 Eddie Rosario,ATL,atlanta-braves,LF,760000.0,760000.0,2025,Hitter
+11 Didier Fuentes,ATL,atlanta-braves,SS,760000.0,760000.0,2025,Hitter
+10 Jose Azocar,ATL,atlanta-braves,OF,760000.0,760000.0,2025,Hitter
+9 Jonathan Ornelas,ATL,atlanta-braves,SS,760000.0,760000.0,2025,Hitter
+Angel Martinez,CLE,cleveland-guardians,CF,760000.0,760000.0,2025,Hitter
+C.J. Kayfus,CLE,cleveland-guardians,1B,760000.0,760000.0,2025,Hitter
+George Valera,CLE,cleveland-guardians,RF,760000.0,760000.0,2025,Hitter
+Petey Halpin,CLE,cleveland-guardians,OF,760000.0,760000.0,2025,Hitter
+Will Brennan,CLE,cleveland-guardians,RF,760000.0,760000.0,2025,Hitter
+2 Jonatan Clase,TOR,toronto-blue-jays,OF,760000.0,760000.0,2025,Hitter
+6 Will Wilson,CLE,cleveland-guardians,SS,760000.0,760000.0,2025,Hitter
+4 Leonardo Jimenez,TOR,toronto-blue-jays,SS,760000.0,760000.0,2025,Hitter
+14 Rafael Lantigua,PHI,philadelphia-phillies,2B,760000.0,760000.0,2025,Hitter
+Otto Kemp,PHI,philadelphia-phillies,3B,760000.0,760000.0,2025,Hitter
+Brett Wisely,ATL,atlanta-braves,2B,760000.0,760000.0,2025,Hitter
+Luke Williams,ATL,atlanta-braves,SS,760000.0,760000.0,2025,Hitter
+Ryan Ritter,COL,colorado-rockies,SS,760000.0,760000.0,2025,Hitter
+Crooks III Jimmy Crooks,STL,st-louis-cardinals,C,760000.0,760000.0,2025,Hitter
+Drake Baldwin,ATL,atlanta-braves,C,760000.0,760000.0,2025,Hitter
+Braxton Fulford,COL,colorado-rockies,C,760000.0,760000.0,2025,Hitter
+Yanquiel Fernandez,COL,colorado-rockies,OF,760000.0,760000.0,2025,Hitter
+8 Donnie Walton,PHI,philadelphia-phillies,SS,760000.0,760000.0,2025,Hitter
+13 Brewer Hicklen,PHI,philadelphia-phillies,OF,760000.0,760000.0,2025,Hitter
+Warming Bernabel,COL,colorado-rockies,SS,760000.0,760000.0,2025,Hitter
+Kyle Karros,COL,colorado-rockies,3B,760000.0,760000.0,2025,Hitter
+Blaine Crim,COL,colorado-rockies,1B,760000.0,760000.0,2025,Hitter
+8 Marco Luciano,SF,san-francisco-giants,SS,760000.0,760000.0,2025,Hitter
+10 C.J. Stubbs,WSH,washington-nationals,C,760000.0,760000.0,2025,Hitter
+Jarren Duran,BOS,boston-red-sox,CF,760000.0,760000.0,2024,Hitter
+Triston Casas,BOS,boston-red-sox,1B,760000.0,760000.0,2024,Hitter
+Andrew Vaughn,CWS,chicago-white-sox,1B,760000.0,760000.0,2023,Hitter
+Jake Burger,MIA,miami-marlins,1B,760000.0,760000.0,2024,Hitter
+Jonathan India,CIN,cincinnati-reds,2B,760000.0,760000.0,2023,Hitter
+7 Bobby Dalbec,BOS,boston-red-sox,1B,760000.0,760000.0,2024,Hitter
+Jarred Kelenic,ATL,atlanta-braves,LF,760000.0,760000.0,2024,Hitter
+Connor Wong,BOS,boston-red-sox,C,760000.0,760000.0,2024,Hitter
+Logan O'Hoppe,LAA,los-angeles-angels,C,760000.0,760000.0,2024,Hitter
+Nick Fortes,MIA,miami-marlins,C,759000.0,759000.0,2024,Hitter
+Cal Raleigh,SEA,seattle-mariners,C,758300.0,758300.0,2023,Hitter
+Kyle Isbel,KC,kansas-city-royals,CF,758250.0,758250.0,2024,Hitter
+Jose Siri,TB,tampa-bay-rays,CF,757800.0,757800.0,2024,Hitter
+Ernie Clement,TOR,toronto-blue-jays,SS,757700.0,757700.0,2024,Hitter
+Steven Kwan,CLE,cleveland-guardians,LF,757600.0,757600.0,2024,Hitter
+Taylor Walls,TB,tampa-bay-rays,SS,757300.0,757300.0,2024,Hitter
+Brendan Donovan,STL,st-louis-cardinals,2B,757200.0,757200.0,2024,Hitter
+Michael Massey,KC,kansas-city-royals,DH,757000.0,757000.0,2024,Hitter
+Gavin Sheets,CWS,chicago-white-sox,RF,756950.0,756950.0,2024,Hitter
+4 Seby Zavala,SEA,seattle-mariners,C,756700.0,756700.0,2024,Hitter
+Gunnar Henderson,BAL,baltimore-orioles,SS,756200.0,756200.0,2024,Hitter
+Josh Jung,TEX,texas-rangers,3B,756000.0,756000.0,2024,Hitter
+4 Corey Julks,CWS,chicago-white-sox,CF,755700.0,755700.0,2024,Hitter
+Josh Lowe,TB,tampa-bay-rays,RF,755700.0,755700.0,2024,Hitter
+1 Nolan Gorman,STL,st-louis-cardinals,2B,755550.0,755550.0,2024,Hitter
+Ben Rortvedt,TB,tampa-bay-rays,C,755400.0,755400.0,2024,Hitter
+5 Ji-Hwan Bae,PIT,pittsburgh-pirates,2B,755000.0,755000.0,2024,Hitter
+4 Jack Suwinski,PIT,pittsburgh-pirates,LF,755000.0,755000.0,2024,Hitter
+Oneil Cruz,PIT,pittsburgh-pirates,CF,755000.0,755000.0,2024,Hitter
+6 Jason Delay,PIT,pittsburgh-pirates,C,755000.0,755000.0,2024,Hitter
+Jeremy Pena,HOU,houston-astros,SS,754900.0,754900.0,2023,Hitter
+MJ Melendez,KC,kansas-city-royals,LF,754750.0,754750.0,2024,Hitter
+1 Luis Campusano,SD,san-diego-padres,C,754700.0,754700.0,2024,Hitter
+Ezequiel Duran,TEX,texas-rangers,2B,754500.0,754500.0,2024,Hitter
+Luke Raley,SEA,seattle-mariners,LF,754200.0,754200.0,2024,Hitter
+Vinnie Pasquantino,KC,kansas-city-royals,1B,752750.0,752750.0,2024,Hitter
+Andruw Monasterio,MIL,milwaukee-brewers,SS,752500.0,752500.0,2024,Hitter
+Chas McCormick,HOU,houston-astros,CF,752500.0,752500.0,2023,Hitter
+2 CJ Abrams,WSH,washington-nationals,SS,752400.0,752400.0,2024,Hitter
+6 Joey Meneses,WSH,washington-nationals,1B,752000.0,752000.0,2024,Hitter
+José Caballero,TB,tampa-bay-rays,SS,751700.0,751700.0,2024,Hitter
+Maikel Garcia,KC,kansas-city-royals,2B,751250.0,751250.0,2024,Hitter
+4 Riley Adams,WSH,washington-nationals,C,750900.0,750900.0,2024,Hitter
+Alec Burleson,STL,st-louis-cardinals,DH,750050.0,750050.0,2024,Hitter
+3 Nick Martini,CIN,cincinnati-reds,DH,750000.0,750000.0,2024,Hitter
+Spencer Steer,CIN,cincinnati-reds,LF,750000.0,750000.0,2024,Hitter
+Brent Rooker,OAK,oakland-athletics,DH,750000.0,750000.0,2024,Hitter
+6 Rafael Marchán,PHI,philadelphia-phillies,C,750000.0,750000.0,2024,Hitter
+Nolan Schanuel,LAA,los-angeles-angels,1B,750000.0,750000.0,2024,Hitter
+Zach Neto,LAA,los-angeles-angels,SS,750000.0,750000.0,2024,Hitter
+Michael Stefanic,LAA,los-angeles-angels,2B,750000.0,750000.0,2024,Hitter
+Stuart Fairchild,CIN,cincinnati-reds,OF,750000.0,750000.0,2024,Hitter
+Mark Mathias,SF,san-francisco-giants,2B,750000.0,750000.0,2023,Hitter
+Gavin Lux,LAD,los-angeles-dodgers,2B,750000.0,750000.0,2023,Hitter
+Jonah Bride,MIA,miami-marlins,1B,750000.0,750000.0,2024,Hitter
+T.J. Friedl,CIN,cincinnati-reds,CF,750000.0,750000.0,2024,Hitter
+Will Benson,CIN,cincinnati-reds,RF,750000.0,750000.0,2024,Hitter
+2 Forrest Wall,BAL,baltimore-orioles,OF,750000.0,750000.0,2024,Hitter
+8 Kyle Garlick,MIN,minnesota-twins,RF,750000.0,750000.0,2023,Hitter
+Pavin Smith,AZ,arizona-diamondbacks,OF,750000.0,750000.0,2023,Hitter
+6 Brett Baty,NYM,new-york-mets,3B,750000.0,750000.0,2024,Hitter
+Sam Hilliard,ATL,atlanta-braves,CF,750000.0,750000.0,2023,Hitter
+7 Brian Serven,TOR,toronto-blue-jays,C,750000.0,750000.0,2024,Hitter
+Austin Wells,NYY,new-york-yankees,C,750000.0,750000.0,2024,Hitter
+Wilyer Abreu,BOS,boston-red-sox,RF,749500.0,749500.0,2024,Hitter
+Josh H. Smith,TEX,texas-rangers,DH,749500.0,749500.0,2024,Hitter
+Jazz Chisholm,MIA,miami-marlins,CF,749500.0,749500.0,2023,Hitter
+8 Estevan Florial,CLE,cleveland-guardians,CF,748500.0,748500.0,2024,Hitter
+Brice Turang,MIL,milwaukee-brewers,2B,748200.0,748200.0,2024,Hitter
+Alec Bohm,PHI,philadelphia-phillies,1B,748000.0,748000.0,2023,Hitter
+Adolis García,TEX,texas-rangers,RF,747760.0,747760.0,2023,Hitter
+Henry Davis,PIT,pittsburgh-pirates,C,747500.0,747500.0,2024,Hitter
+Patrick Bailey,SF,san-francisco-giants,C,747500.0,747500.0,2024,Hitter
+Jordan Walker,STL,st-louis-cardinals,RF,747450.0,747450.0,2024,Hitter
+3 Zack Short,ATL,atlanta-braves,3B,747300.0,747300.0,2024,Hitter
+4 Nelson Velazquez,KC,kansas-city-royals,DH,747000.0,747000.0,2024,Hitter
+Parker Meadows,DET,detroit-tigers,CF,746900.0,746900.0,2024,Hitter
+Edouard Julien,MIN,minnesota-twins,2B,746750.0,746750.0,2024,Hitter
+Sal Frelick,MIL,milwaukee-brewers,RF,746500.0,746500.0,2024,Hitter
+Miguel Amaya,CHC,chicago-cubs,C,746500.0,746500.0,2024,Hitter
+4 Miles Mastrobuoni,CHC,chicago-cubs,LF,746000.0,746000.0,2024,Hitter
+Tucupita Marcano,SD,san-diego-padres,SS,746000.0,746000.0,2024,Hitter
+Jasson Domínguez,NYY,new-york-yankees,OF,745800.0,745800.0,2024,Hitter
+Jordan Westburg,BAL,baltimore-orioles,2B,745800.0,745800.0,2024,Hitter
+Vidal Brujan,MIA,miami-marlins,2B,745800.0,745800.0,2024,Hitter
+Witt Jr. Bobby Witt,KC,kansas-city-royals,SS,745750.0,745750.0,2023,Hitter
+Royce Lewis,MIN,minnesota-twins,3B,745700.0,745700.0,2024,Hitter
+4 Jose Azocar,NYM,new-york-mets,OF,745700.0,745700.0,2024,Hitter
+Jonah Heim,TEX,texas-rangers,C,745660.0,745660.0,2023,Hitter
+Matt Wallner,MIN,minnesota-twins,DH,745550.0,745550.0,2024,Hitter
+Richard Palacios,TB,tampa-bay-rays,DH,745200.0,745200.0,2024,Hitter
+5 René Pinto,TB,tampa-bay-rays,C,745100.0,745100.0,2024,Hitter
+Johan Rojas,PHI,philadelphia-phillies,CF,745000.0,745000.0,2024,Hitter
+Esteury Ruiz,OAK,oakland-athletics,LF,745000.0,745000.0,2024,Hitter
+Evan Carter,TEX,texas-rangers,LF,745000.0,745000.0,2024,Hitter
+Endy Rodríguez,PIT,pittsburgh-pirates,C,745000.0,745000.0,2024,Hitter
+Shea Langeliers,OAK,oakland-athletics,C,745000.0,745000.0,2024,Hitter
+3 Alika Williams,PIT,pittsburgh-pirates,SS,745000.0,745000.0,2024,Hitter
+J.J. Bleday,OAK,oakland-athletics,CF,745000.0,745000.0,2024,Hitter
+Korey Lee,CWS,chicago-white-sox,C,745000.0,745000.0,2024,Hitter
+3 Elehuris Montero,COL,colorado-rockies,3B,745000.0,745000.0,2024,Hitter
+5 Ryan Noda,OAK,oakland-athletics,1B,745000.0,745000.0,2024,Hitter
+Nolan Jones,COL,colorado-rockies,LF,745000.0,745000.0,2024,Hitter
+Jared Triolo,PIT,pittsburgh-pirates,3B,745000.0,745000.0,2024,Hitter
+Nick Allen,OAK,oakland-athletics,SS,745000.0,745000.0,2024,Hitter
+Will Brennan,CLE,cleveland-guardians,RF,744900.0,744900.0,2024,Hitter
+Davis Schneider,TOR,toronto-blue-jays,3B,744900.0,744900.0,2024,Hitter
+Freddy Fermin,KC,kansas-city-royals,C,744500.0,744500.0,2024,Hitter
+5 Eguy Rosario,SD,san-diego-padres,SS,744400.0,744400.0,2024,Hitter
+Garrett Mitchell,MIL,milwaukee-brewers,CF,744300.0,744300.0,2024,Hitter
+7 Gabriel Arias,CLE,cleveland-guardians,SS,744100.0,744100.0,2024,Hitter
+Dairon Blanco,KC,kansas-city-royals,OF,743750.0,743750.0,2024,Hitter
+2 Dominic Canzone,SEA,seattle-mariners,RF,743700.0,743700.0,2024,Hitter
+Ronny Mauricio,NYM,new-york-mets,SS,743500.0,743500.0,2024,Hitter
+Enmanuel Valdez,BOS,boston-red-sox,2B,743500.0,743500.0,2024,Hitter
+Iván Herrera,STL,st-louis-cardinals,C,743150.0,743150.0,2024,Hitter
+Dominic Fletcher,CWS,chicago-white-sox,RF,742900.0,742900.0,2024,Hitter
+Colton Cowser,BAL,baltimore-orioles,LF,742800.0,742800.0,2024,Hitter
+Jonathan Aranda,TB,tampa-bay-rays,1B,742800.0,742800.0,2024,Hitter
+Oswaldo Cabrera,NYY,new-york-yankees,LF,742750.0,742750.0,2023,Hitter
+Matt McLain,CIN,cincinnati-reds,SS,742500.0,742500.0,2024,Hitter
+De La Cruz Elly De La Cruz,CIN,cincinnati-reds,SS,742500.0,742500.0,2024,Hitter
+5 Bubba Thompson,CIN,cincinnati-reds,OF,742500.0,742500.0,2024,Hitter
+Dylan Carlson,STL,st-louis-cardinals,CF,742400.0,742400.0,2023,Hitter
+Jonny DeLuca,TB,tampa-bay-rays,OF,742400.0,742400.0,2024,Hitter
+3 Curtis Mead,TB,tampa-bay-rays,3B,742300.0,742300.0,2024,Hitter
+Masyn Winn,STL,st-louis-cardinals,SS,742250.0,742250.0,2024,Hitter
+Grae Kessinger,HOU,houston-astros,SS,742100.0,742100.0,2024,Hitter
+Bo Naylor,CLE,cleveland-guardians,C,742100.0,742100.0,2024,Hitter
+Brenton Doyle,COL,colorado-rockies,CF,742000.0,742000.0,2024,Hitter
+Michael Toglia,COL,colorado-rockies,RF,742000.0,742000.0,2024,Hitter
+Vaughn Grissom,BOS,boston-red-sox,SS,742000.0,742000.0,2024,Hitter
+5 Tyler Freeman,CLE,cleveland-guardians,SS,742000.0,742000.0,2024,Hitter
+3 Nick Loftin,KC,kansas-city-royals,SS,741900.0,741900.0,2024,Hitter
+Tyler Fitzgerald,SF,san-francisco-giants,SS,741875.0,741875.0,2024,Hitter
+Ryan Jeffers,MIN,minnesota-twins,C,741650.0,741650.0,2023,Hitter
+Mike Siani,STL,st-louis-cardinals,CF,741650.0,741650.0,2024,Hitter
+Michael Busch,CHC,chicago-cubs,1B,741500.0,741500.0,2024,Hitter
+Joey Ortiz,MIL,milwaukee-brewers,3B,741500.0,741500.0,2024,Hitter
+4 Jahmai Jones,NYY,new-york-yankees,2B,741200.0,741200.0,2024,Hitter
+Garrett Stubbs,PHI,philadelphia-phillies,C,741000.0,741000.0,2023,Hitter
+David Fry,CLE,cleveland-guardians,C,741000.0,741000.0,2024,Hitter
+Edward Olivares,KC,kansas-city-royals,LF,740750.0,740750.0,2023,Hitter
+8 Braden Shewmake,CWS,chicago-white-sox,SS,740350.0,740350.0,2024,Hitter
+Brayan Rocchio,CLE,cleveland-guardians,SS,740200.0,740200.0,2024,Hitter
+9 Eric Haase,CLE,cleveland-guardians,C,740100.0,740100.0,2023,Hitter
+Jacob Amaya,CWS,chicago-white-sox,SS,740000.0,740000.0,2024,Hitter
+10 Cooper Hummel,HOU,houston-astros,LF,740000.0,740000.0,2024,Hitter
+Kevin Alcantara,CHC,chicago-cubs,OF,740000.0,740000.0,2024,Hitter
+Miguel Vargas,CWS,chicago-white-sox,3B,740000.0,740000.0,2024,Hitter
+7 Keston Hiura,LAA,los-angeles-angels,2B,740000.0,740000.0,2024,Hitter
+8 Cole Tucker,LAA,los-angeles-angels,SS,740000.0,740000.0,2024,Hitter
+10 Kyren Paris,LAA,los-angeles-angels,SS,740000.0,740000.0,2024,Hitter
+Bryan Ramos,CWS,chicago-white-sox,3B,740000.0,740000.0,2024,Hitter
+8 Pedro León,HOU,houston-astros,OF,740000.0,740000.0,2024,Hitter
+Andy Pages,LAD,los-angeles-dodgers,OF,740000.0,740000.0,2024,Hitter
+5 Shay Whitcomb,HOU,houston-astros,SS,740000.0,740000.0,2024,Hitter
+Pete Crow-Armstrong,CHC,chicago-cubs,CF,740000.0,740000.0,2024,Hitter
+4 Trey Cabbage,HOU,houston-astros,3B,740000.0,740000.0,2024,Hitter
+Brennen Davis,CHC,chicago-cubs,OF,740000.0,740000.0,2024,Hitter
+13 Jorge Barrosa,AZ,arizona-diamondbacks,OF,740000.0,740000.0,2024,Hitter
+11 Charles Leblanc,LAA,los-angeles-angels,SS,740000.0,740000.0,2024,Hitter
+Chuckie Robinson,CWS,chicago-white-sox,C,740000.0,740000.0,2024,Hitter
+8 Matt Mervis,CHC,chicago-cubs,1B,740000.0,740000.0,2024,Hitter
+Niko Kavadas,LAA,los-angeles-angels,1B,740000.0,740000.0,2024,Hitter
+Eric Wagaman,LAA,los-angeles-angels,1B,740000.0,740000.0,2024,Hitter
+9 Nick Pratto,KC,kansas-city-royals,1B,740000.0,740000.0,2024,Hitter
+Andrew Toles,LAD,los-angeles-dodgers,RF,740000.0,740000.0,2024,Hitter
+Jack López,LAA,los-angeles-angels,SS,740000.0,740000.0,2024,Hitter
+David Hamilton,BOS,boston-red-sox,SS,740000.0,740000.0,2024,Hitter
+8 Tyler Gentry,KC,kansas-city-royals,OF,740000.0,740000.0,2024,Hitter
+6 Drew Waters,KC,kansas-city-royals,OF,740000.0,740000.0,2024,Hitter
+Luis Vazquez,CHC,chicago-cubs,SS,740000.0,740000.0,2024,Hitter
+3 Blaze Alexander,AZ,arizona-diamondbacks,SS,740000.0,740000.0,2024,Hitter
+Jordyn Adams,LAA,los-angeles-angels,OF,740000.0,740000.0,2024,Hitter
+6 Adrian Del Castillo,AZ,arizona-diamondbacks,C,740000.0,740000.0,2024,Hitter
+7 Alexander Canario,CHC,chicago-cubs,OF,740000.0,740000.0,2024,Hitter
+11 Luis Guillorme,AZ,arizona-diamondbacks,2B,740000.0,740000.0,2024,Hitter
+Gustavo Campero,LAA,los-angeles-angels,OF,740000.0,740000.0,2024,Hitter
+Lenyn Sosa,CWS,chicago-white-sox,2B,740000.0,740000.0,2024,Hitter
+6 Hunter Feduccia,LAD,los-angeles-dodgers,C,740000.0,740000.0,2024,Hitter
+Bryce Teodosio,LAA,los-angeles-angels,OF,740000.0,740000.0,2024,Hitter
+Jose Herrera,AZ,arizona-diamondbacks,C,740000.0,740000.0,2024,Hitter
+Christian Encarnacion-Strand,CIN,cincinnati-reds,1B,740000.0,740000.0,2024,Hitter
+7 Livan Soto,BAL,baltimore-orioles,SS,740000.0,740000.0,2024,Hitter
+Drew Romo,COL,colorado-rockies,C,740000.0,740000.0,2024,Hitter
+Aaron Schunk,COL,colorado-rockies,3B,740000.0,740000.0,2024,Hitter
+Hunter Goodman,COL,colorado-rockies,RF,740000.0,740000.0,2024,Hitter
+Jordan Beck,COL,colorado-rockies,OF,740000.0,740000.0,2024,Hitter
+10 Johnathan Rodriguez,CLE,cleveland-guardians,OF,740000.0,740000.0,2024,Hitter
+9 Nick Senzel,CWS,chicago-white-sox,3B,740000.0,740000.0,2024,Hitter
+Kyle Manzardo,CLE,cleveland-guardians,DH,740000.0,740000.0,2024,Hitter
+Jhonkensy Noel,CLE,cleveland-guardians,RF,740000.0,740000.0,2024,Hitter
+Daniel Schneemann,CLE,cleveland-guardians,SS,740000.0,740000.0,2024,Hitter
+Angel Martinez,CLE,cleveland-guardians,DH,740000.0,740000.0,2024,Hitter
+11 Zach Remillard,CWS,chicago-white-sox,3B,740000.0,740000.0,2024,Hitter
+13 Rafael Ortega,CWS,chicago-white-sox,DH,740000.0,740000.0,2024,Hitter
+6 Coby Mayo,BAL,baltimore-orioles,3B,740000.0,740000.0,2024,Hitter
+18 Joey Wiemer,CIN,cincinnati-reds,CF,740000.0,740000.0,2024,Hitter
+4 Sean Bouchard,COL,colorado-rockies,RF,740000.0,740000.0,2024,Hitter
+14 Eric Yang,CIN,cincinnati-reds,C,740000.0,740000.0,2024,Hitter
+10 Levi Jordan,CIN,cincinnati-reds,SS,740000.0,740000.0,2024,Hitter
+Noelvi Marte,CIN,cincinnati-reds,SS,740000.0,740000.0,2024,Hitter
+Rece Hinds,CIN,cincinnati-reds,RF,740000.0,740000.0,2024,Hitter
+9 Dominic Smith,CIN,cincinnati-reds,1B,740000.0,740000.0,2024,Hitter
+8 Conner Capel,CIN,cincinnati-reds,RF,740000.0,740000.0,2024,Hitter
+6 Jacob Hurtubise,CIN,cincinnati-reds,OF,740000.0,740000.0,2024,Hitter
+2 Davis Wendzel,CIN,cincinnati-reds,3B,740000.0,740000.0,2024,Hitter
+Blake Dunn,CIN,cincinnati-reds,OF,740000.0,740000.0,2024,Hitter
+9 Nick Maton,BAL,baltimore-orioles,3B,740000.0,740000.0,2024,Hitter
+11 David Banuelos,BAL,baltimore-orioles,C,740000.0,740000.0,2024,Hitter
+14 Blake Hunt,BAL,baltimore-orioles,C,740000.0,740000.0,2024,Hitter
+15 Daniel Johnson,BAL,baltimore-orioles,RF,740000.0,740000.0,2024,Hitter
+Emmanuel Rivera,BAL,baltimore-orioles,3B,740000.0,740000.0,2024,Hitter
+Romy Gonzalez,BOS,boston-red-sox,3B,740000.0,740000.0,2024,Hitter
+3 Ryan Kreidler,DET,detroit-tigers,SS,740000.0,740000.0,2024,Hitter
+Eli White,ATL,atlanta-braves,OF,740000.0,740000.0,2024,Hitter
+Zach DeLoach,CWS,chicago-white-sox,OF,740000.0,740000.0,2024,Hitter
+Brooks Baldwin,CWS,chicago-white-sox,3B,740000.0,740000.0,2024,Hitter
+Tyler Stephenson,CIN,cincinnati-reds,C,740000.0,740000.0,2023,Hitter
+Jake Fraley,CIN,cincinnati-reds,RF,740000.0,740000.0,2023,Hitter
+2 Luke Williams,ATL,atlanta-braves,SS,740000.0,740000.0,2024,Hitter
+Mickey Gasper,BOS,boston-red-sox,1B,740000.0,740000.0,2024,Hitter
+Zach Dezenzo,HOU,houston-astros,SS,740000.0,740000.0,2024,Hitter
+Nick Sogard,BOS,boston-red-sox,2B,740000.0,740000.0,2024,Hitter
+César Salazar,HOU,houston-astros,C,740000.0,740000.0,2024,Hitter
+7 Bligh Madris,DET,detroit-tigers,OF,740000.0,740000.0,2024,Hitter
+4 Chadwick Tromp,ATL,atlanta-braves,C,740000.0,740000.0,2024,Hitter
+9 Adael Amador,COL,colorado-rockies,SS,740000.0,740000.0,2024,Hitter
+Trey Sweeney,DET,detroit-tigers,SS,740000.0,740000.0,2024,Hitter
+Jace Jung,DET,detroit-tigers,3B,740000.0,740000.0,2024,Hitter
+Dillon Dingler,DET,detroit-tigers,C,740000.0,740000.0,2024,Hitter
+Justyn-Henry Malloy,DET,detroit-tigers,DH,740000.0,740000.0,2024,Hitter
+Wenceel Perez,DET,detroit-tigers,SS,740000.0,740000.0,2024,Hitter
+15 Julio Carreras,COL,colorado-rockies,SS,740000.0,740000.0,2024,Hitter
+13 Greg Jones,COL,colorado-rockies,SS,740000.0,740000.0,2024,Hitter
+11 J.P. Martinez,ATL,atlanta-braves,OF,740000.0,740000.0,2024,Hitter
+12 Eddie Rosario,ATL,atlanta-braves,LF,740000.0,740000.0,2024,Hitter
+13 Ignacio Alvarez,ATL,atlanta-braves,3B,740000.0,740000.0,2024,Hitter
+14 Cavan Biggio,ATL,atlanta-braves,2B,740000.0,740000.0,2024,Hitter
+Heston Kjerstad,BAL,baltimore-orioles,OF,740000.0,740000.0,2024,Hitter
+Jackson Holliday,BAL,baltimore-orioles,2B,740000.0,740000.0,2024,Hitter
+4 Ryan Vilade,DET,detroit-tigers,3B,740000.0,740000.0,2024,Hitter
+Austin Martin,MIN,minnesota-twins,SS,740000.0,740000.0,2024,Hitter
+Otto Lopez,MIA,miami-marlins,SS,740000.0,740000.0,2024,Hitter
+6 Kameron Misner,TB,tampa-bay-rays,CF,740000.0,740000.0,2024,Hitter
+Addison Barger,TOR,toronto-blue-jays,3B,740000.0,740000.0,2024,Hitter
+Spencer Horwitz,TOR,toronto-blue-jays,1B,740000.0,740000.0,2024,Hitter
+Weston Wilson,PHI,philadelphia-phillies,1B,740000.0,740000.0,2024,Hitter
+Buddy Kennedy,PHI,philadelphia-phillies,3B,740000.0,740000.0,2024,Hitter
+Rodolfo Castro,PHI,philadelphia-phillies,SS,740000.0,740000.0,2024,Hitter
+8 Sam Huff,TEX,texas-rangers,C,740000.0,740000.0,2024,Hitter
+4 Sandro Fabian,TEX,texas-rangers,OF,740000.0,740000.0,2024,Hitter
+Dustin Harris,TEX,texas-rangers,3B,740000.0,740000.0,2024,Hitter
+9 Cal Stevenson,PHI,philadelphia-phillies,OF,740000.0,740000.0,2024,Hitter
+Jonathan Ornelas,TEX,texas-rangers,SS,740000.0,740000.0,2024,Hitter
+Justin Foscue,TEX,texas-rangers,2B,740000.0,740000.0,2024,Hitter
+Wyatt Langford,TEX,texas-rangers,LF,740000.0,740000.0,2024,Hitter
+13 Aramis Garcia,PHI,philadelphia-phillies,C,740000.0,740000.0,2024,Hitter
+Nick Yorke,PIT,pittsburgh-pirates,2B,740000.0,740000.0,2024,Hitter
+Nick Gonzales,PIT,pittsburgh-pirates,2B,740000.0,740000.0,2024,Hitter
+Joshua Palacios,PIT,pittsburgh-pirates,CF,740000.0,740000.0,2024,Hitter
+Billy Cook,PIT,pittsburgh-pirates,OF,740000.0,740000.0,2024,Hitter
+Leonardo Jimenez,TOR,toronto-blue-jays,SS,740000.0,740000.0,2024,Hitter
+Steward Berroa,TOR,toronto-blue-jays,OF,740000.0,740000.0,2024,Hitter
+Joey Loperfido,TOR,toronto-blue-jays,LF,740000.0,740000.0,2024,Hitter
+4 Brett Harris,OAK,oakland-athletics,3B,740000.0,740000.0,2024,Hitter
+James Wood,WSH,washington-nationals,LF,740000.0,740000.0,2024,Hitter
+Trey Lipscomb,WSH,washington-nationals,3B,740000.0,740000.0,2024,Hitter
+Jacob Young,WSH,washington-nationals,CF,740000.0,740000.0,2024,Hitter
+Nasim Nunez,WSH,washington-nationals,SS,740000.0,740000.0,2024,Hitter
+6 Orelvis Martinez,TOR,toronto-blue-jays,SS,740000.0,740000.0,2024,Hitter
+4 Nick Raposo,TOR,toronto-blue-jays,C,740000.0,740000.0,2024,Hitter
+2 C.J. Alexander,OAK,oakland-athletics,3B,740000.0,740000.0,2024,Hitter
+6 Armando Alvarez,OAK,oakland-athletics,3B,740000.0,740000.0,2024,Hitter
+De Los Santos Luis De Los Santos,TOR,toronto-blue-jays,SS,740000.0,740000.0,2024,Hitter
+13 Tristan Gray,OAK,oakland-athletics,SS,740000.0,740000.0,2024,Hitter
+14 Jordan Diaz,OAK,oakland-athletics,3B,740000.0,740000.0,2024,Hitter
+Will Wagner,TOR,toronto-blue-jays,2B,740000.0,740000.0,2024,Hitter
+Kody Clemens,PHI,philadelphia-phillies,2B,740000.0,740000.0,2024,Hitter
+Jonatan Clase,TOR,toronto-blue-jays,OF,740000.0,740000.0,2024,Hitter
+Tyler Heineman,TOR,toronto-blue-jays,C,740000.0,740000.0,2024,Hitter
+Nathan Lukes,TOR,toronto-blue-jays,CF,740000.0,740000.0,2024,Hitter
+11 Rob Brantly,TB,tampa-bay-rays,C,740000.0,740000.0,2024,Hitter
+2 Austin Shenton,TB,tampa-bay-rays,3B,740000.0,740000.0,2024,Hitter
+Drew Millas,WSH,washington-nationals,C,740000.0,740000.0,2024,Hitter
+1 Alex Jackson,TB,tampa-bay-rays,C,740000.0,740000.0,2024,Hitter
+9 Brett Sullivan,SD,san-diego-padres,C,740000.0,740000.0,2024,Hitter
+10 Matthew Batten,SD,san-diego-padres,SS,740000.0,740000.0,2024,Hitter
+Leonardo Rivas,SEA,seattle-mariners,2B,740000.0,740000.0,2024,Hitter
+Heliot Ramos,SF,san-francisco-giants,LF,740000.0,740000.0,2024,Hitter
+Brett Wisely,SF,san-francisco-giants,2B,740000.0,740000.0,2024,Hitter
+Casey Schmitt,SF,san-francisco-giants,3B,740000.0,740000.0,2024,Hitter
+Luis Matos,SF,san-francisco-giants,OF,740000.0,740000.0,2024,Hitter
+Jerar Encarnacion,SF,san-francisco-giants,OF,740000.0,740000.0,2024,Hitter
+Grant McCray,SF,san-francisco-giants,CF,740000.0,740000.0,2024,Hitter
+Donnie Walton,SF,san-francisco-giants,SS,740000.0,740000.0,2024,Hitter
+11 Andrew Knapp,SF,san-francisco-giants,C,740000.0,740000.0,2024,Hitter
+10 Jakson Reetz,SF,san-francisco-giants,C,740000.0,740000.0,2024,Hitter
+9 David Villar,SF,san-francisco-giants,3B,740000.0,740000.0,2024,Hitter
+8 Blake Sabol,SF,san-francisco-giants,C,740000.0,740000.0,2024,Hitter
+6 Trenton Brooks,SF,san-francisco-giants,1B,740000.0,740000.0,2024,Hitter
+4 Marco Luciano,SF,san-francisco-giants,SS,740000.0,740000.0,2024,Hitter
+4 Bryce Johnson,SD,san-diego-padres,CF,740000.0,740000.0,2024,Hitter
+6 Ryan Bliss,SEA,seattle-mariners,SS,740000.0,740000.0,2024,Hitter
+9 Tyler Locklear,SEA,seattle-mariners,1B,740000.0,740000.0,2024,Hitter
+Brandon Lockridge,SD,san-diego-padres,OF,740000.0,740000.0,2024,Hitter
+Liover Peguero,PIT,pittsburgh-pirates,SS,740000.0,740000.0,2024,Hitter
+Logan Driscoll,TB,tampa-bay-rays,C,740000.0,740000.0,2024,Hitter
+Junior Caminero,TB,tampa-bay-rays,3B,740000.0,740000.0,2024,Hitter
+12 Grant Koch,PIT,pittsburgh-pirates,C,740000.0,740000.0,2024,Hitter
+2 Victor Scott,STL,st-louis-cardinals,CF,740000.0,740000.0,2024,Hitter
+Matt Thaiss,LAA,los-angeles-angels,C,740000.0,740000.0,2023,Hitter
+Jackson Merrill,SD,san-diego-padres,CF,740000.0,740000.0,2024,Hitter
+Mason McCoy,SD,san-diego-padres,SS,740000.0,740000.0,2024,Hitter
+10 Jason Vosler,SEA,seattle-mariners,3B,740000.0,740000.0,2024,Hitter
+Thomas Saggese,STL,st-louis-cardinals,SS,740000.0,740000.0,2024,Hitter
+Luken Baker,STL,st-louis-cardinals,1B,740000.0,740000.0,2024,Hitter
+Jose Fermin,STL,st-louis-cardinals,2B,740000.0,740000.0,2024,Hitter
+Pedro Pages,STL,st-louis-cardinals,C,740000.0,740000.0,2024,Hitter
+12 Samad Taylor,SEA,seattle-mariners,SS,740000.0,740000.0,2024,Hitter
+11 Cade Marlowe,SEA,seattle-mariners,LF,740000.0,740000.0,2024,Hitter
+Juan Yepez,WSH,washington-nationals,1B,740000.0,740000.0,2024,Hitter
+Oliver Dunn,MIL,milwaukee-brewers,2B,740000.0,740000.0,2024,Hitter
+José Tena,WSH,washington-nationals,3B,740000.0,740000.0,2024,Hitter
+3 Owen Miller,MIL,milwaukee-brewers,SS,740000.0,740000.0,2024,Hitter
+Mark Vientos,NYM,new-york-mets,3B,740000.0,740000.0,2024,Hitter
+11 Diego A. Castillo,MIN,minnesota-twins,2B,740000.0,740000.0,2024,Hitter
+10 Jair Camargo,MIN,minnesota-twins,C,740000.0,740000.0,2024,Hitter
+Carlos Pérez,OAK,oakland-athletics,C,740000.0,740000.0,2023,Hitter
+Trevor Larnach,MIN,minnesota-twins,LF,740000.0,740000.0,2024,Hitter
+Jose Miranda,MIN,minnesota-twins,3B,740000.0,740000.0,2024,Hitter
+DaShawn Keirsey,MIN,minnesota-twins,OF,740000.0,740000.0,2024,Hitter
+Michael Helman,MIN,minnesota-twins,2B,740000.0,740000.0,2024,Hitter
+Jacob Wilson,OAK,oakland-athletics,SS,740000.0,740000.0,2024,Hitter
+11 Brewer Hicklen,MIL,milwaukee-brewers,OF,740000.0,740000.0,2024,Hitter
+10 Vinny Capra,MIL,milwaukee-brewers,SS,740000.0,740000.0,2024,Hitter
+6 Tyler Black,MIL,milwaukee-brewers,2B,740000.0,740000.0,2024,Hitter
+4 Chris Roller,MIL,milwaukee-brewers,OF,740000.0,740000.0,2024,Hitter
+10 Jamie Westbrook,BOS,boston-red-sox,2B,740000.0,740000.0,2024,Hitter
+Luisangel Acuna,NYM,new-york-mets,SS,740000.0,740000.0,2024,Hitter
+Isaac Collins,MIL,milwaukee-brewers,2B,740000.0,740000.0,2024,Hitter
+14 José Devers,MIA,miami-marlins,SS,740000.0,740000.0,2024,Hitter
+12 David Hensley,MIA,miami-marlins,1B,740000.0,740000.0,2024,Hitter
+7 Ali Sanchez,MIA,miami-marlins,C,740000.0,740000.0,2024,Hitter
+4 Graham Pauley,MIA,miami-marlins,3B,740000.0,740000.0,2024,Hitter
+Javier Sanoja,MIA,miami-marlins,SS,740000.0,740000.0,2024,Hitter
+Griffin Conine,MIA,miami-marlins,RF,740000.0,740000.0,2024,Hitter
+Connor Norby,MIA,miami-marlins,2B,740000.0,740000.0,2024,Hitter
+Jhonny Pereda,MIA,miami-marlins,C,740000.0,740000.0,2024,Hitter
+Derek Hill,MIA,miami-marlins,OF,740000.0,740000.0,2024,Hitter
+Kyle Stowers,MIA,miami-marlins,CF,740000.0,740000.0,2024,Hitter
+Xavier Edwards,MIA,miami-marlins,SS,740000.0,740000.0,2024,Hitter
+Dane Myers,MIA,miami-marlins,OF,740000.0,740000.0,2024,Hitter
+Eddy Alvarez,NYM,new-york-mets,2B,740000.0,740000.0,2024,Hitter
+Brooks Lee,MIN,minnesota-twins,SS,740000.0,740000.0,2024,Hitter
+Tyler Soderstrom,OAK,oakland-athletics,1B,740000.0,740000.0,2024,Hitter
+Lawrence Butler,OAK,oakland-athletics,RF,740000.0,740000.0,2024,Hitter
+Kyle McCann,OAK,oakland-athletics,C,740000.0,740000.0,2024,Hitter
+Zack Gelof,OAK,oakland-athletics,2B,740000.0,740000.0,2024,Hitter
+18 Jorbit Vivas,NYY,new-york-yankees,SS,740000.0,740000.0,2024,Hitter
+17 Duke Ellis,NYY,new-york-yankees,OF,740000.0,740000.0,2024,Hitter
+16 Kevin Smith,NYY,new-york-yankees,SS,740000.0,740000.0,2024,Hitter
+12 Taylor Trammell,NYY,new-york-yankees,OF,740000.0,740000.0,2024,Hitter
+Tyler Nevin,OAK,oakland-athletics,1B,740000.0,740000.0,2024,Hitter
+8 Carlos Narvaez,NYY,new-york-yankees,C,740000.0,740000.0,2024,Hitter
+Darell Hernaiz,OAK,oakland-athletics,SS,740000.0,740000.0,2024,Hitter
+8 Travis Blankenhorn,WSH,washington-nationals,3B,740000.0,740000.0,2024,Hitter
+Ben Rice,NYY,new-york-yankees,C,740000.0,740000.0,2024,Hitter
+12 Joe Hudson,NYM,new-york-mets,C,740000.0,740000.0,2024,Hitter
+11 Logan Porter,NYM,new-york-mets,C,740000.0,740000.0,2024,Hitter
+Daz Cameron,OAK,oakland-athletics,LF,740000.0,740000.0,2024,Hitter
+Andres Chaparro,WSH,washington-nationals,DH,740000.0,740000.0,2024,Hitter
+Alex Call,WSH,washington-nationals,LF,740000.0,740000.0,2024,Hitter
+Darren Baker,WSH,washington-nationals,2B,740000.0,740000.0,2024,Hitter
+Dylan Crews,WSH,washington-nationals,RF,740000.0,740000.0,2024,Hitter
+Max Schuemann,OAK,oakland-athletics,3B,740000.0,740000.0,2024,Hitter
+William Contreras,MIL,milwaukee-brewers,C,739000.0,739000.0,2023,Hitter
+Geraldo Perdomo,AZ,arizona-diamondbacks,SS,738600.0,738600.0,2023,Hitter
+Ryan Mountcastle,BAL,baltimore-orioles,1B,738400.0,738400.0,2023,Hitter
+Jesús Sánchez,MIA,miami-marlins,CF,738000.0,738000.0,2023,Hitter
+De La Cruz Bryan De La Cruz,MIA,miami-marlins,LF,736000.0,736000.0,2023,Hitter
+Alex Kirilloff,MIN,minnesota-twins,1B,735650.0,735650.0,2023,Hitter
+Nick Gordon,MIN,minnesota-twins,SS,735400.0,735400.0,2023,Hitter
+Tyrone Taylor,MIL,milwaukee-brewers,RF,735400.0,735400.0,2023,Hitter
+Alek Thomas,AZ,arizona-diamondbacks,CF,735200.0,735200.0,2023,Hitter
+6 Jake McCarthy,AZ,arizona-diamondbacks,RF,735200.0,735200.0,2023,Hitter
+Gavin Sheets,CWS,chicago-white-sox,RF,735000.0,735000.0,2023,Hitter
+Isaac Paredes,TB,tampa-bay-rays,3B,735000.0,735000.0,2023,Hitter
+2 Joey Bart,SF,san-francisco-giants,C,735000.0,735000.0,2023,Hitter
+Connor Joe,PIT,pittsburgh-pirates,LF,735000.0,735000.0,2023,Hitter
+Ramon Urias,BAL,baltimore-orioles,3B,734700.0,734700.0,2023,Hitter
+Zach McKinstry,DET,detroit-tigers,2B,734500.0,734500.0,2023,Hitter
+Brandon Marsh,PHI,philadelphia-phillies,CF,734500.0,734500.0,2023,Hitter
+Bryson Stott,PHI,philadelphia-phillies,2B,734500.0,734500.0,2023,Hitter
+Adley Rutschman,BAL,baltimore-orioles,C,733900.0,733900.0,2023,Hitter
+Trevor Larnach,MIN,minnesota-twins,OF,733650.0,733650.0,2023,Hitter
+Leody Taveras,TEX,texas-rangers,CF,733445.0,733445.0,2023,Hitter
+Carter Kieboom,WSH,washington-nationals,3B,733400.0,733400.0,2023,Hitter
+Triston Casas,BOS,boston-red-sox,1B,732500.0,732500.0,2023,Hitter
+Lars Nootbaar,STL,st-louis-cardinals,CF,732400.0,732400.0,2023,Hitter
+Jake Meyers,HOU,houston-astros,CF,732000.0,732000.0,2023,Hitter
+Seby Zavala,AZ,arizona-diamondbacks,C,732000.0,732000.0,2023,Hitter
+Jose Siri,TB,tampa-bay-rays,CF,731600.0,731600.0,2023,Hitter
+4 Gilberto Celestino,MIN,minnesota-twins,OF,731450.0,731450.0,2023,Hitter
+7 Owen Miller,MIL,milwaukee-brewers,SS,731100.0,731100.0,2023,Hitter
+5 Yonathan Daza,COL,colorado-rockies,RF,730000.0,730000.0,2023,Hitter
+5 Jose Barrero,CIN,cincinnati-reds,SS,730000.0,730000.0,2023,Hitter
+Ben Rortvedt,NYY,new-york-yankees,C,730000.0,730000.0,2023,Hitter
+Logan O'Hoppe,LAA,los-angeles-angels,C,730000.0,730000.0,2023,Hitter
+Luis Garcia,WSH,washington-nationals,2B,730000.0,730000.0,2023,Hitter
+Seth Brown,OAK,oakland-athletics,RF,730000.0,730000.0,2023,Hitter
+Nick Fortes,MIA,miami-marlins,C,730000.0,730000.0,2023,Hitter
+Jarred Kelenic,SEA,seattle-mariners,LF,729400.0,729400.0,2023,Hitter
+Riley Adams,WSH,washington-nationals,C,728800.0,728800.0,2023,Hitter
+Brendan Donovan,STL,st-louis-cardinals,2B,728600.0,728600.0,2023,Hitter
+Jose Miranda,MIN,minnesota-twins,SS,727850.0,727850.0,2023,Hitter
+Riley Greene,DET,detroit-tigers,CF,727800.0,727800.0,2023,Hitter
+Taylor Walls,TB,tampa-bay-rays,SS,727600.0,727600.0,2023,Hitter
+Nick Pratto,KC,kansas-city-royals,1B,727500.0,727500.0,2023,Hitter
+Kyle Isbel,KC,kansas-city-royals,CF,727500.0,727500.0,2023,Hitter
+Steven Kwan,CLE,cleveland-guardians,LF,727300.0,727300.0,2023,Hitter
+Royce Lewis,MIN,minnesota-twins,SS,727100.0,727100.0,2023,Hitter
+Matt Vierling,DET,detroit-tigers,RF,727100.0,727100.0,2023,Hitter
+Josh H. Smith,TEX,texas-rangers,SS,727095.0,727095.0,2023,Hitter
+Nolan Gorman,STL,st-louis-cardinals,3B,726950.0,726950.0,2023,Hitter
+6 Taylor Trammell,SEA,seattle-mariners,OF,726700.0,726700.0,2023,Hitter
+Sam Haggerty,SEA,seattle-mariners,2B,726600.0,726600.0,2023,Hitter
+7 Nick Maton,DET,detroit-tigers,3B,726600.0,726600.0,2023,Hitter
+MJ Melendez,KC,kansas-city-royals,RF,726500.0,726500.0,2023,Hitter
+Jake Rogers,DET,detroit-tigers,C,726000.0,726000.0,2023,Hitter
+3 Ryan McKenna,BAL,baltimore-orioles,CF,725800.0,725800.0,2023,Hitter
+Vinnie Pasquantino,KC,kansas-city-royals,1B,725500.0,725500.0,2023,Hitter
+12 Canaan Smith-Njigba,PIT,pittsburgh-pirates,LF,725000.0,725000.0,2023,Hitter
+Jack Suwinski,PIT,pittsburgh-pirates,CF,725000.0,725000.0,2023,Hitter
+Brent Rooker,OAK,oakland-athletics,DH,725000.0,725000.0,2023,Hitter
+Ji-Hwan Bae,PIT,pittsburgh-pirates,2B,725000.0,725000.0,2023,Hitter
+9 Rodolfo Castro,PHI,philadelphia-phillies,SS,725000.0,725000.0,2023,Hitter
+5 Darick Hall,PHI,philadelphia-phillies,1B,724500.0,724500.0,2023,Hitter
+1 Bubba Thompson,KC,kansas-city-royals,OF,724305.0,724305.0,2023,Hitter
+5 Jose Herrera,AZ,arizona-diamondbacks,C,724300.0,724300.0,2023,Hitter
+Garrett Mitchell,MIL,milwaukee-brewers,OF,724300.0,724300.0,2023,Hitter
+CJ Abrams,WSH,washington-nationals,SS,724200.0,724200.0,2023,Hitter
+Ezequiel Duran,TEX,texas-rangers,2B,724170.0,724170.0,2023,Hitter
+12 Cooper Hummel,SEA,seattle-mariners,LF,723800.0,723800.0,2023,Hitter
+4 David Villar,SF,san-francisco-giants,3B,723750.0,723750.0,2023,Hitter
+Jose Azocar,SD,san-diego-padres,OF,723700.0,723700.0,2023,Hitter
+Kerry Carpenter,DET,detroit-tigers,LF,723700.0,723700.0,2023,Hitter
+7 Rafael Marchán,PHI,philadelphia-phillies,C,723500.0,723500.0,2023,Hitter
+Joey Meneses,WSH,washington-nationals,DH,723300.0,723300.0,2023,Hitter
+Josh Lowe,TB,tampa-bay-rays,RF,723200.0,723200.0,2023,Hitter
+Gunnar Henderson,BAL,baltimore-orioles,SS,723200.0,723200.0,2023,Hitter
+Spencer Torkelson,DET,detroit-tigers,1B,723100.0,723100.0,2023,Hitter
+Romy Gonzalez,CWS,chicago-white-sox,2B,723000.0,723000.0,2023,Hitter
+Tyler Nevin,DET,detroit-tigers,3B,723000.0,723000.0,2023,Hitter
+Michael Massey,KC,kansas-city-royals,2B,722850.0,722850.0,2023,Hitter
+Luis Campusano,SD,san-diego-padres,C,722700.0,722700.0,2023,Hitter
+Oscar Gonzalez,CLE,cleveland-guardians,OF,722600.0,722600.0,2023,Hitter
+3 David Hensley,HOU,houston-astros,SS,722600.0,722600.0,2023,Hitter
+T.J. Friedl,CIN,cincinnati-reds,LF,722500.0,722500.0,2023,Hitter
+James Outman,LAD,los-angeles-dodgers,CF,722500.0,722500.0,2023,Hitter
+2 Dalton Guthrie,ATL,atlanta-braves,SS,722500.0,722500.0,2023,Hitter
+2 Miguel Vargas,LAD,los-angeles-dodgers,2B,722500.0,722500.0,2023,Hitter
+Stuart Fairchild,CIN,cincinnati-reds,OF,722500.0,722500.0,2023,Hitter
+Gabriel Moreno,AZ,arizona-diamondbacks,C,722500.0,722500.0,2023,Hitter
+Drew Waters,KC,kansas-city-royals,OF,722400.0,722400.0,2023,Hitter
+Luke Raley,TB,tampa-bay-rays,CF,722300.0,722300.0,2023,Hitter
+8 Nate Eaton,KC,kansas-city-royals,C,722200.0,722200.0,2023,Hitter
+9 Kyle Stowers,BAL,baltimore-orioles,CF,722200.0,722200.0,2023,Hitter
+Terrin Vavra,BAL,baltimore-orioles,SS,722100.0,722100.0,2023,Hitter
+Sean Bouchard,COL,colorado-rockies,1B,722000.0,722000.0,2023,Hitter
+Connor Wong,BOS,boston-red-sox,C,722000.0,722000.0,2023,Hitter
+Elehuris Montero,COL,colorado-rockies,3B,722000.0,722000.0,2023,Hitter
+4 Brian Serven,COL,colorado-rockies,C,722000.0,722000.0,2023,Hitter
+Alan Trejo,COL,colorado-rockies,2B,722000.0,722000.0,2023,Hitter
+Ezequiel Tovar,COL,colorado-rockies,SS,722000.0,722000.0,2023,Hitter
+Alex Call,WSH,washington-nationals,LF,721800.0,721800.0,2023,Hitter
+10 Ryan Kreidler,DET,detroit-tigers,SS,721600.0,721600.0,2023,Hitter
+Josh Jung,TEX,texas-rangers,3B,721485.0,721485.0,2023,Hitter
+Alec Burleson,STL,st-louis-cardinals,RF,721450.0,721450.0,2023,Hitter
+Akil Baddoo,DET,detroit-tigers,LF,721300.0,721300.0,2023,Hitter
+Miles Mastrobuoni,CHC,chicago-cubs,LF,720500.0,720500.0,2023,Hitter
+Eguy Rosario,SD,san-diego-padres,SS,720400.0,720400.0,2023,Hitter
+Yainer Diaz,HOU,houston-astros,C,720300.0,720300.0,2023,Hitter
+4 Israel Pineda,WSH,washington-nationals,C,720200.0,720200.0,2023,Hitter
+Will Brennan,CLE,cleveland-guardians,RF,720100.0,720100.0,2023,Hitter
+Gabriel Arias,CLE,cleveland-guardians,SS,720100.0,720100.0,2023,Hitter
+2 Cal Stevenson,PHI,philadelphia-phillies,OF,720000.0,720000.0,2023,Hitter
+7 Charlie Culberson,ATL,atlanta-braves,3B,720000.0,720000.0,2023,Hitter
+6 Kevin Smith,OAK,oakland-athletics,SS,720000.0,720000.0,2023,Hitter
+7 Jonah Bride,OAK,oakland-athletics,3B,720000.0,720000.0,2023,Hitter
+6 Chadwick Tromp,ATL,atlanta-braves,C,720000.0,720000.0,2023,Hitter
+10 Conner Capel,OAK,oakland-athletics,RF,720000.0,720000.0,2023,Hitter
+13 Tyler Cropley,KC,kansas-city-royals,C,720000.0,720000.0,2023,Hitter
+Weston Wilson,PHI,philadelphia-phillies,1B,720000.0,720000.0,2023,Hitter
+Johan Rojas,PHI,philadelphia-phillies,OF,720000.0,720000.0,2023,Hitter
+9 Matt Beaty,KC,kansas-city-royals,3B,720000.0,720000.0,2023,Hitter
+11 Tyler Wade,OAK,oakland-athletics,SS,720000.0,720000.0,2023,Hitter
+10 Braden Shewmake,ATL,atlanta-braves,SS,720000.0,720000.0,2023,Hitter
+12 Cody Thomas,OAK,oakland-athletics,OF,720000.0,720000.0,2023,Hitter
+Cristian Pache,PHI,philadelphia-phillies,CF,720000.0,720000.0,2023,Hitter
+14 Matt Reynolds,CIN,cincinnati-reds,3B,720000.0,720000.0,2023,Hitter
+6 Kody Clemens,PHI,philadelphia-phillies,2B,720000.0,720000.0,2023,Hitter
+13 Vinny Capra,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+Bo Naylor,CLE,cleveland-guardians,C,720000.0,720000.0,2023,Hitter
+Freddy Fermin,KC,kansas-city-royals,C,720000.0,720000.0,2023,Hitter
+Kole Calhoun,CLE,cleveland-guardians,RF,720000.0,720000.0,2023,Hitter
+3 Diego Hernandez,KC,kansas-city-royals,OF,720000.0,720000.0,2023,Hitter
+Chandler Seagle,SD,san-diego-padres,C,720000.0,720000.0,2023,Hitter
+José Tena,CLE,cleveland-guardians,SS,720000.0,720000.0,2023,Hitter
+Matthew Batten,SD,san-diego-padres,SS,720000.0,720000.0,2023,Hitter
+Brett Sullivan,SD,san-diego-padres,C,720000.0,720000.0,2023,Hitter
+16 Cal Mitchell,PIT,pittsburgh-pirates,OF,720000.0,720000.0,2023,Hitter
+15 Drew Maggi,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+14 Chris Owings,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+8 Alika Williams,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+11 Drew Ellis,PHI,philadelphia-phillies,3B,720000.0,720000.0,2023,Hitter
+Brayan Rocchio,CLE,cleveland-guardians,SS,720000.0,720000.0,2023,Hitter
+6 Samad Taylor,KC,kansas-city-royals,SS,720000.0,720000.0,2023,Hitter
+Tucupita Marcano,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+Oneil Cruz,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+Nick Gonzales,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+Alfonso Rivas,PIT,pittsburgh-pirates,1B,720000.0,720000.0,2023,Hitter
+Endy Rodríguez,PIT,pittsburgh-pirates,C,720000.0,720000.0,2023,Hitter
+Liover Peguero,PIT,pittsburgh-pirates,SS,720000.0,720000.0,2023,Hitter
+Henry Davis,PIT,pittsburgh-pirates,C,720000.0,720000.0,2023,Hitter
+Joshua Palacios,PIT,pittsburgh-pirates,CF,720000.0,720000.0,2023,Hitter
+Jason Delay,PIT,pittsburgh-pirates,C,720000.0,720000.0,2023,Hitter
+David Fry,CLE,cleveland-guardians,C,720000.0,720000.0,2023,Hitter
+Jared Triolo,PIT,pittsburgh-pirates,3B,720000.0,720000.0,2023,Hitter
+Zach Neto,LAA,los-angeles-angels,SS,720000.0,720000.0,2023,Hitter
+2 Buddy Kennedy,OAK,oakland-athletics,3B,720000.0,720000.0,2023,Hitter
+Blake Perkins,MIL,milwaukee-brewers,RF,720000.0,720000.0,2023,Hitter
+Sal Frelick,MIL,milwaukee-brewers,SS,720000.0,720000.0,2023,Hitter
+4 Jordyn Adams,LAA,los-angeles-angels,OF,720000.0,720000.0,2023,Hitter
+6 Joey Wiemer,MIL,milwaukee-brewers,CF,720000.0,720000.0,2023,Hitter
+9 Jahmai Jones,MIL,milwaukee-brewers,2B,720000.0,720000.0,2023,Hitter
+13 Diego A. Castillo,AZ,arizona-diamondbacks,2B,720000.0,720000.0,2023,Hitter
+Forrest Wall,ATL,atlanta-braves,OF,720000.0,720000.0,2023,Hitter
+Edouard Julien,MIN,minnesota-twins,2B,720000.0,720000.0,2023,Hitter
+Matt Wallner,MIN,minnesota-twins,RF,720000.0,720000.0,2023,Hitter
+3 Trey Cabbage,LAA,los-angeles-angels,3B,720000.0,720000.0,2023,Hitter
+Austin Wynns,COL,colorado-rockies,C,720000.0,720000.0,2023,Hitter
+Brenton Doyle,COL,colorado-rockies,CF,720000.0,720000.0,2023,Hitter
+Kyren Paris,LAA,los-angeles-angels,SS,720000.0,720000.0,2023,Hitter
+Nolan Schanuel,LAA,los-angeles-angels,1B,720000.0,720000.0,2023,Hitter
+Andruw Monasterio,MIL,milwaukee-brewers,SS,720000.0,720000.0,2023,Hitter
+7 Livan Soto,LAA,los-angeles-angels,SS,720000.0,720000.0,2023,Hitter
+Luke Williams,ATL,atlanta-braves,SS,720000.0,720000.0,2023,Hitter
+Nolan Jones,COL,colorado-rockies,3B,720000.0,720000.0,2023,Hitter
+2 Michael Toglia,COL,colorado-rockies,1B,720000.0,720000.0,2023,Hitter
+3 Jonny DeLuca,LAD,los-angeles-dodgers,OF,720000.0,720000.0,2023,Hitter
+4 Michael Busch,LAD,los-angeles-dodgers,2B,720000.0,720000.0,2023,Hitter
+5 Yonny Hernandez,LAD,los-angeles-dodgers,SS,720000.0,720000.0,2023,Hitter
+11 Kevin Padlo,LAA,los-angeles-angels,3B,720000.0,720000.0,2023,Hitter
+Garrett Hampson,MIA,miami-marlins,SS,720000.0,720000.0,2023,Hitter
+Jake Burger,MIA,miami-marlins,3B,720000.0,720000.0,2023,Hitter
+Xavier Edwards,MIA,miami-marlins,SS,720000.0,720000.0,2023,Hitter
+Jonathan Davis,MIA,miami-marlins,CF,720000.0,720000.0,2023,Hitter
+5 Peyton Burdick,MIA,miami-marlins,CF,720000.0,720000.0,2023,Hitter
+9 Jacob Amaya,MIA,miami-marlins,SS,720000.0,720000.0,2023,Hitter
+10 Chris Okey,LAA,los-angeles-angels,C,720000.0,720000.0,2023,Hitter
+Brice Turang,MIL,milwaukee-brewers,SS,720000.0,720000.0,2023,Hitter
+Hunter Goodman,COL,colorado-rockies,C,720000.0,720000.0,2023,Hitter
+Andrew Stevenson,MIN,minnesota-twins,OF,720000.0,720000.0,2023,Hitter
+Vaughn Grissom,ATL,atlanta-braves,SS,720000.0,720000.0,2023,Hitter
+Lawrence Butler,OAK,oakland-athletics,OF,720000.0,720000.0,2023,Hitter
+Austin Wells,NYY,new-york-yankees,C,720000.0,720000.0,2023,Hitter
+10 Zack Collins,CLE,cleveland-guardians,DH,720000.0,720000.0,2023,Hitter
+Chad Wallach,LAA,los-angeles-angels,C,720000.0,720000.0,2023,Hitter
+Billy McKinney,NYY,new-york-yankees,OF,720000.0,720000.0,2023,Hitter
+Jasson Domínguez,NYY,new-york-yankees,OF,720000.0,720000.0,2023,Hitter
+7 Ben Gamel,SD,san-diego-padres,RF,720000.0,720000.0,2023,Hitter
+Dominic Fletcher,AZ,arizona-diamondbacks,OF,720000.0,720000.0,2023,Hitter
+Jordan Lawlar,AZ,arizona-diamondbacks,SS,720000.0,720000.0,2023,Hitter
+Shea Langeliers,OAK,oakland-athletics,C,720000.0,720000.0,2023,Hitter
+Ryan Noda,OAK,oakland-athletics,1B,720000.0,720000.0,2023,Hitter
+Esteury Ruiz,OAK,oakland-athletics,CF,720000.0,720000.0,2023,Hitter
+J.J. Bleday,OAK,oakland-athletics,OF,720000.0,720000.0,2023,Hitter
+Nick Allen,OAK,oakland-athletics,SS,720000.0,720000.0,2023,Hitter
+Jordan Diaz,OAK,oakland-athletics,3B,720000.0,720000.0,2023,Hitter
+Zack Gelof,OAK,oakland-athletics,3B,720000.0,720000.0,2023,Hitter
+Tyler Soderstrom,OAK,oakland-athletics,DH,720000.0,720000.0,2023,Hitter
+Estevan Florial,NYY,new-york-yankees,OF,720000.0,720000.0,2023,Hitter
+Mickey Moniak,LAA,los-angeles-angels,CF,720000.0,720000.0,2023,Hitter
+3 Andrew Velazquez,ATL,atlanta-braves,3B,720000.0,720000.0,2023,Hitter
+Everson Pereira,NYY,new-york-yankees,OF,720000.0,720000.0,2023,Hitter
+Michael Stefanic,LAA,los-angeles-angels,2B,720000.0,720000.0,2023,Hitter
+Francisco Alvarez,NYM,new-york-mets,C,720000.0,720000.0,2023,Hitter
+Brett Baty,NYM,new-york-mets,3B,720000.0,720000.0,2023,Hitter
+Mark Vientos,NYM,new-york-mets,3B,720000.0,720000.0,2023,Hitter
+D.J. Stewart,NYM,new-york-mets,LF,720000.0,720000.0,2023,Hitter
+Rafael Ortega,NYM,new-york-mets,OF,720000.0,720000.0,2023,Hitter
+Ronny Mauricio,NYM,new-york-mets,2B,720000.0,720000.0,2023,Hitter
+Michael Perez,NYM,new-york-mets,C,720000.0,720000.0,2023,Hitter
+6 Jonathan Araúz,NYM,new-york-mets,SS,720000.0,720000.0,2023,Hitter
+8 Abraham Almonte,NYM,new-york-mets,CF,720000.0,720000.0,2023,Hitter
+Anthony Volpe,NYY,new-york-yankees,SS,720000.0,720000.0,2023,Hitter
+Jo Adell,LAA,los-angeles-angels,RF,720000.0,720000.0,2023,Hitter
+Jake Bauers,NYY,new-york-yankees,1B,720000.0,720000.0,2023,Hitter
+Oswald Peraza,NYY,new-york-yankees,SS,720000.0,720000.0,2023,Hitter
+4 Brandon Dixon,SD,san-diego-padres,1B,720000.0,720000.0,2023,Hitter
+Jake Marisnick,LAD,los-angeles-dodgers,CF,720000.0,720000.0,2023,Hitter
+8 Taylor Kohlwey,SD,san-diego-padres,1B,720000.0,720000.0,2023,Hitter
+11 Josh Lester,BAL,baltimore-orioles,1B,720000.0,720000.0,2023,Hitter
+Pablo Reyes,BOS,boston-red-sox,LF,720000.0,720000.0,2023,Hitter
+Spencer Steer,CIN,cincinnati-reds,3B,720000.0,720000.0,2023,Hitter
+1 Corey Julks,HOU,houston-astros,CF,720000.0,720000.0,2023,Hitter
+13 Jose Godoy,BAL,baltimore-orioles,C,720000.0,720000.0,2023,Hitter
+8 Derek Hill,WSH,washington-nationals,OF,720000.0,720000.0,2023,Hitter
+7 Jeter Downs,WSH,washington-nationals,SS,720000.0,720000.0,2023,Hitter
+Will Benson,CIN,cincinnati-reds,OF,720000.0,720000.0,2023,Hitter
+Travis Blankenhorn,WSH,washington-nationals,3B,720000.0,720000.0,2023,Hitter
+Stone Garrett,WSH,washington-nationals,LF,720000.0,720000.0,2023,Hitter
+De La Cruz Elly De La Cruz,CIN,cincinnati-reds,SS,720000.0,720000.0,2023,Hitter
+Drew Millas,WSH,washington-nationals,C,720000.0,720000.0,2023,Hitter
+Blake Rutherford,WSH,washington-nationals,OF,720000.0,720000.0,2023,Hitter
+Jacob Young,WSH,washington-nationals,OF,720000.0,720000.0,2023,Hitter
+Jake Alu,WSH,washington-nationals,3B,720000.0,720000.0,2023,Hitter
+10 Mason McCoy,TOR,toronto-blue-jays,SS,720000.0,720000.0,2023,Hitter
+Enmanuel Valdez,BOS,boston-red-sox,2B,720000.0,720000.0,2023,Hitter
+9 Spencer Horwitz,TOR,toronto-blue-jays,1B,720000.0,720000.0,2023,Hitter
+8 Ernie Clement,TOR,toronto-blue-jays,2B,720000.0,720000.0,2023,Hitter
+6 Nathan Lukes,TOR,toronto-blue-jays,CF,720000.0,720000.0,2023,Hitter
+4 César Salazar,HOU,houston-astros,C,720000.0,720000.0,2023,Hitter
+Otto Lopez,TOR,toronto-blue-jays,SS,720000.0,720000.0,2023,Hitter
+Cam Eden,TOR,toronto-blue-jays,CF,720000.0,720000.0,2023,Hitter
+Blake Sabol,SF,san-francisco-giants,C,720000.0,720000.0,2023,Hitter
+Davis Schneider,TOR,toronto-blue-jays,3B,720000.0,720000.0,2023,Hitter
+6 Jonathan Ornelas,TEX,texas-rangers,SS,720000.0,720000.0,2023,Hitter
+5 J.P. Martinez,TEX,texas-rangers,OF,720000.0,720000.0,2023,Hitter
+3 Sam Huff,TEX,texas-rangers,C,720000.0,720000.0,2023,Hitter
+10 Bligh Madris,HOU,houston-astros,OF,720000.0,720000.0,2023,Hitter
+Evan Carter,TEX,texas-rangers,OF,720000.0,720000.0,2023,Hitter
+Christian Encarnacion-Strand,CIN,cincinnati-reds,3B,720000.0,720000.0,2023,Hitter
+Jon Singleton,HOU,houston-astros,1B,720000.0,720000.0,2023,Hitter
+Wilyer Abreu,BOS,boston-red-sox,OF,720000.0,720000.0,2023,Hitter
+Nick Martini,CIN,cincinnati-reds,RF,720000.0,720000.0,2023,Hitter
+10 Cole Tucker,COL,colorado-rockies,SS,720000.0,720000.0,2023,Hitter
+Korey Lee,CWS,chicago-white-sox,C,720000.0,720000.0,2023,Hitter
+Zack Short,DET,detroit-tigers,2B,720000.0,720000.0,2023,Hitter
+Andy Ibanez,DET,detroit-tigers,2B,720000.0,720000.0,2023,Hitter
+Lenyn Sosa,CWS,chicago-white-sox,2B,720000.0,720000.0,2023,Hitter
+Zach Remillard,CWS,chicago-white-sox,3B,720000.0,720000.0,2023,Hitter
+9 Matt Mervis,CHC,chicago-cubs,1B,720000.0,720000.0,2023,Hitter
+Parker Meadows,DET,detroit-tigers,OF,720000.0,720000.0,2023,Hitter
+Andre Lipcius,DET,detroit-tigers,3B,720000.0,720000.0,2023,Hitter
+2 Óscar Colás,CWS,chicago-white-sox,RF,720000.0,720000.0,2023,Hitter
+3 Adam Haseley,CWS,chicago-white-sox,LF,720000.0,720000.0,2023,Hitter
+4 Clint Frazier,CWS,chicago-white-sox,OF,720000.0,720000.0,2023,Hitter
+9 José Rodríguez,CWS,chicago-white-sox,SS,720000.0,720000.0,2023,Hitter
+Pete Crow-Armstrong,CHC,chicago-cubs,OF,720000.0,720000.0,2023,Hitter
+Ceddanne Rafaela,BOS,boston-red-sox,OF,720000.0,720000.0,2023,Hitter
+Alexander Canario,CHC,chicago-cubs,OF,720000.0,720000.0,2023,Hitter
+Jared Young,CHC,chicago-cubs,1B,720000.0,720000.0,2023,Hitter
+Miguel Amaya,CHC,chicago-cubs,C,720000.0,720000.0,2023,Hitter
+Mike Tauchman,CHC,chicago-cubs,CF,720000.0,720000.0,2023,Hitter
+Christopher Morel,CHC,chicago-cubs,OF,720000.0,720000.0,2023,Hitter
+9 Connor Kaiser,COL,colorado-rockies,SS,720000.0,720000.0,2023,Hitter
+6 Coco Montes,COL,colorado-rockies,SS,720000.0,720000.0,2023,Hitter
+13 Nick Solak,DET,detroit-tigers,LF,720000.0,720000.0,2023,Hitter
+9 Caleb Hamilton,BOS,boston-red-sox,C,720000.0,720000.0,2023,Hitter
+8 David Hamilton,BOS,boston-red-sox,SS,720000.0,720000.0,2023,Hitter
+Jarren Duran,BOS,boston-red-sox,CF,720000.0,720000.0,2023,Hitter
+Bobby Dalbec,BOS,boston-red-sox,1B,720000.0,720000.0,2023,Hitter
+Grae Kessinger,HOU,houston-astros,SS,720000.0,720000.0,2023,Hitter
+Noelvi Marte,CIN,cincinnati-reds,SS,720000.0,720000.0,2023,Hitter
+Tyler Heineman,TOR,toronto-blue-jays,C,720000.0,720000.0,2023,Hitter
+Matt McLain,CIN,cincinnati-reds,SS,720000.0,720000.0,2023,Hitter
+7 Johan Camargo,SF,san-francisco-giants,3B,720000.0,720000.0,2023,Hitter
+Jose Fermin,STL,st-louis-cardinals,2B,720000.0,720000.0,2023,Hitter
+Tyler Freeman,CLE,cleveland-guardians,SS,720000.0,720000.0,2023,Hitter
+Jordan Walker,STL,st-louis-cardinals,3B,720000.0,720000.0,2023,Hitter
+Heston Kjerstad,BAL,baltimore-orioles,OF,720000.0,720000.0,2023,Hitter
+9 Brian O'Keefe,SEA,seattle-mariners,C,720000.0,720000.0,2023,Hitter
+7 Cade Marlowe,SEA,seattle-mariners,LF,720000.0,720000.0,2023,Hitter
+Dairon Blanco,KC,kansas-city-royals,OF,720000.0,720000.0,2023,Hitter
+11 Rylan Bannon,HOU,houston-astros,3B,720000.0,720000.0,2023,Hitter
+Dominic Canzone,SEA,seattle-mariners,RF,720000.0,720000.0,2023,Hitter
+Mike Ford,SEA,seattle-mariners,1B,720000.0,720000.0,2023,Hitter
+José Caballero,SEA,seattle-mariners,SS,720000.0,720000.0,2023,Hitter
+Jordan Westburg,BAL,baltimore-orioles,SS,720000.0,720000.0,2023,Hitter
+6 Wade Meckler,SF,san-francisco-giants,OF,720000.0,720000.0,2023,Hitter
+Richard Palacios,STL,st-louis-cardinals,LF,720000.0,720000.0,2023,Hitter
+5 Bryce Johnson,SF,san-francisco-giants,CF,720000.0,720000.0,2023,Hitter
+Marco Luciano,SF,san-francisco-giants,SS,720000.0,720000.0,2023,Hitter
+Nelson Velazquez,KC,kansas-city-royals,CF,720000.0,720000.0,2023,Hitter
+Nick Loftin,KC,kansas-city-royals,SS,720000.0,720000.0,2023,Hitter
+6 Henry Ramos,CIN,cincinnati-reds,OF,720000.0,720000.0,2023,Hitter
+3 Brett Wisely,SF,san-francisco-giants,2B,720000.0,720000.0,2023,Hitter
+1 Heliot Ramos,SF,san-francisco-giants,OF,720000.0,720000.0,2023,Hitter
+8 TJ Hopkins,CIN,cincinnati-reds,CF,720000.0,720000.0,2023,Hitter
+18 Alejo Lopez,CIN,cincinnati-reds,2B,720000.0,720000.0,2023,Hitter
+Logan Porter,KC,kansas-city-royals,C,720000.0,720000.0,2023,Hitter
+Tyler Fitzgerald,SF,san-francisco-giants,SS,720000.0,720000.0,2023,Hitter
+Juan Yepez,STL,st-louis-cardinals,3B,720000.0,720000.0,2023,Hitter
+Luken Baker,STL,st-louis-cardinals,1B,720000.0,720000.0,2023,Hitter
+Masyn Winn,STL,st-louis-cardinals,SS,720000.0,720000.0,2023,Hitter
+Emmanuel Rivera,AZ,arizona-diamondbacks,3B,720000.0,720000.0,2023,Hitter
+6 Vidal Brujan,TB,tampa-bay-rays,2B,720000.0,720000.0,2023,Hitter
+Junior Caminero,TB,tampa-bay-rays,SS,720000.0,720000.0,2023,Hitter
+10 Tristan Gray,TB,tampa-bay-rays,1B,720000.0,720000.0,2023,Hitter
+Osleivis Basabe,TB,tampa-bay-rays,SS,720000.0,720000.0,2023,Hitter
+8 Joey Ortiz,BAL,baltimore-orioles,SS,720000.0,720000.0,2023,Hitter
+Jonathan Aranda,TB,tampa-bay-rays,1B,720000.0,720000.0,2023,Hitter
+Curtis Mead,TB,tampa-bay-rays,3B,720000.0,720000.0,2023,Hitter
+René Pinto,TB,tampa-bay-rays,C,720000.0,720000.0,2023,Hitter
+Casey Schmitt,SF,san-francisco-giants,3B,720000.0,720000.0,2023,Hitter
+Greg Jones,TB,tampa-bay-rays,SS,720000.0,720000.0,2023,Hitter
+Patrick Bailey,SF,san-francisco-giants,C,720000.0,720000.0,2023,Hitter
+3 Tres Barrera,STL,st-louis-cardinals,C,720000.0,720000.0,2023,Hitter
+6 Colton Cowser,BAL,baltimore-orioles,OF,720000.0,720000.0,2023,Hitter
+Mike Siani,STL,st-louis-cardinals,OF,720000.0,720000.0,2023,Hitter
+Luis Matos,SF,san-francisco-giants,OF,720000.0,720000.0,2023,Hitter
+Maikel Garcia,KC,kansas-city-royals,SS,720000.0,720000.0,2023,Hitter
+Irving Lopez,STL,st-louis-cardinals,2B,720000.0,720000.0,2023,Hitter
+Juniel Querecuto,STL,st-louis-cardinals,2B,720000.0,720000.0,2023,Hitter
+Iván Herrera,STL,st-louis-cardinals,C,720000.0,720000.0,2023,Hitter
+3 Carlos Pérez,OAK,oakland-athletics,C,650000.0,650000.0,2023,Hitter
+Willie Calhoun,NYY,new-york-yankees,OF,572544.0,572544.0,2023,Hitter
+Eric Haase,DET,detroit-tigers,C,568997.0,568997.0,2023,Hitter
+Luis Gonzalez,SF,san-francisco-giants,CF,517712.0,517712.0,2023,Hitter
+Eduardo Escobar,LAA,los-angeles-angels,3B,500000.0,500000.0,2024,Hitter
+Cristian Pache,PHI,philadelphia-phillies,CF,494715.0,494715.0,2024,Hitter
+Rougned Odor,SD,san-diego-padres,2B,477411.0,477411.0,2023,Hitter
+Hanser Alberto,CWS,chicago-white-sox,2B,454285.0,454285.0,2023,Hitter
+Graham Pauley,SD,san-diego-padres,3B,453136.0,453136.0,2024,Hitter
+Brian Anderson,ATL,atlanta-braves,3B,451613.0,451613.0,2024,Hitter
+Ben Gamel,HOU,houston-astros,LF,441036.0,441036.0,2025,Hitter
+Rodolfo Castro,PIT,pittsburgh-pirates,SS,424882.0,424882.0,2023,Hitter
+Brandon Lockridge,SD,san-diego-padres,OF,382269.0,382269.0,2025,Hitter
+Alan Trejo,COL,colorado-rockies,2B,372465.0,372465.0,2024,Hitter
+Greg Allen,NYY,new-york-yankees,OF,363874.0,363874.0,2023,Hitter
+Jose Azocar,SD,san-diego-padres,OF,356801.0,356801.0,2024,Hitter
+David Dahl,SD,san-diego-padres,OF,336000.0,336000.0,2023,Hitter
+Matt Thaiss,CWS,chicago-white-sox,C,327957.0,327957.0,2025,Hitter
+Ehire Adrianza,LAA,los-angeles-angels,SS,306452.0,306452.0,2024,Hitter
+Andrew Velazquez,LAA,los-angeles-angels,3B,301938.0,301938.0,2023,Hitter
+Jake Lamb,LAA,los-angeles-angels,1B,288960.0,288960.0,2023,Hitter
+Davis Wendzel,TEX,texas-rangers,3B,288781.0,288781.0,2024,Hitter
+Matt Mervis,MIA,miami-marlins,1B,274844.0,274844.0,2025,Hitter
+Bubba Thompson,TEX,texas-rangers,OF,272580.0,272580.0,2023,Hitter
+Travis Jankowski,TB,tampa-bay-rays,LF,268800.0,268800.0,2025,Hitter
+Jon Singleton,HOU,houston-astros,1B,260484.0,260484.0,2025,Hitter
+Logan Davidson,OAK,oakland-athletics,1B,257419.0,257419.0,2025,Hitter
+David Dahl,PHI,philadelphia-phillies,DH,255376.0,255376.0,2024,Hitter
+Joey Wiemer,MIL,milwaukee-brewers,CF,248134.0,248134.0,2024,Hitter
+Jhonny Pereda,OAK,oakland-athletics,C,238797.0,238797.0,2025,Hitter
+Jose Barrero,STL,st-louis-cardinals,SS,236988.0,236988.0,2025,Hitter
+Luken Baker,STL,st-louis-cardinals,1B,235062.0,235062.0,2025,Hitter
+Billy Hamilton,CWS,chicago-white-sox,CF,231168.0,231168.0,2023,Hitter
+Tristan Gray,MIA,miami-marlins,SS,230724.0,230724.0,2024,Hitter
+Connor Joe,SD,san-diego-padres,1B,225806.0,225806.0,2025,Hitter
+Luis Guillorme,HOU,houston-astros,2B,212903.0,212903.0,2025,Hitter
+Ryan Kreidler,DET,detroit-tigers,SS,205633.0,205633.0,2025,Hitter
+Vinny Capra,MIL,milwaukee-brewers,SS,204597.0,204597.0,2025,Hitter
+Ryan Noda,CWS,chicago-white-sox,1B,201097.0,201097.0,2025,Hitter
+Dalton Guthrie,PHI,philadelphia-phillies,SS,194200.0,194200.0,2023,Hitter
+Jared Walsh,TEX,texas-rangers,1B,193560.0,193560.0,2024,Hitter
+Jose Azocar,NYM,new-york-mets,OF,188710.0,188710.0,2025,Hitter
+Tucker Barnhart,TEX,texas-rangers,C,188172.0,188172.0,2025,Hitter
+6 Braden Shewmake,NYY,new-york-yankees,SS,186000.0,186000.0,2025,Hitter
+Oscar Mercado,STL,st-louis-cardinals,OF,181937.0,181937.0,2023,Hitter
+Orelvis Martinez,TOR,toronto-blue-jays,SS,173000.0,173000.0,2025,Hitter
+Preston Tucker,SD,san-diego-padres,LF,170324.0,170324.0,2023,Hitter
+Mike Ford,CIN,cincinnati-reds,1B,167742.0,167742.0,2024,Hitter
+Forrest Wall,ATL,atlanta-braves,OF,165312.0,165312.0,2024,Hitter
+Niko Goodrum,TB,tampa-bay-rays,2B,158065.0,158065.0,2024,Hitter
+Jose Hernandez,PIT,pittsburgh-pirates,3B,156112.0,156112.0,2024,Hitter
+Blake Sabol,BOS,boston-red-sox,C,146000.0,146000.0,2025,Hitter
+David Villar,SF,san-francisco-giants,3B,140753.0,140753.0,2025,Hitter
+Cal Stevenson,PHI,philadelphia-phillies,OF,140381.0,140381.0,2025,Hitter
+Oscar Gonzalez,SD,san-diego-padres,OF,140194.0,140194.0,2025,Hitter
+Pablo Reyes,BOS,boston-red-sox,SS,135564.0,135564.0,2024,Hitter
+Meibrys Viloria,CLE,cleveland-guardians,C,133056.0,133056.0,2023,Hitter
+Matt Gorski,PIT,pittsburgh-pirates,CF,132614.0,132614.0,2025,Hitter
+Nicky Lopez,CHC,chicago-cubs,SS,132527.0,132527.0,2025,Hitter
+Gage Workman,CHC,chicago-cubs,3B,126667.0,126667.0,2025,Hitter
+Jacob Hurtubise,CIN,cincinnati-reds,OF,126610.0,126610.0,2025,Hitter
+7 Juan Brito,CLE,cleveland-guardians,SS,123900.0,123900.0,2025,Hitter
+Jair Camargo,MIN,minnesota-twins,C,123900.0,123900.0,2025,Hitter
+7 Emmanuel Rodriguez,MIN,minnesota-twins,CF,123900.0,123900.0,2025,Hitter
+Zack Short,NYM,new-york-mets,3B,120540.0,120540.0,2024,Hitter
+Charlie Culberson,ATL,atlanta-braves,3B,116130.0,116130.0,2023,Hitter
+De La Cruz Bryan De La Cruz,ATL,atlanta-braves,RF,110645.0,110645.0,2025,Hitter
+Chuckie Robinson,LAD,los-angeles-dodgers,C,109029.0,109029.0,2025,Hitter
+Bobby Dalbec,CWS,chicago-white-sox,3B,107527.0,107527.0,2025,Hitter
+Jorge Alfaro,BOS,boston-red-sox,C,100646.0,100646.0,2023,Hitter
+Ali Sanchez,TOR,toronto-blue-jays,C,99355.0,99355.0,2025,Hitter
+Buddy Kennedy,PHI,philadelphia-phillies,2B,94597.0,94597.0,2025,Hitter
+Daniel Johnson,SF,san-francisco-giants,RF,94594.0,94594.0,2025,Hitter
+Brewer Hicklen,DET,detroit-tigers,OF,92949.0,92949.0,2025,Hitter
+Alan Trejo,COL,colorado-rockies,2B,91667.0,91667.0,2025,Hitter
+C.J. Alexander,OAK,oakland-athletics,3B,89666.0,89666.0,2025,Hitter
+Nick Solak,PIT,pittsburgh-pirates,LF,86317.0,86317.0,2025,Hitter
+Livan Soto,CIN,cincinnati-reds,SS,86116.0,86116.0,2024,Hitter
+Edwin Rios,CIN,cincinnati-reds,1B,86022.0,86022.0,2024,Hitter
+Eli White,ATL,atlanta-braves,OF,84672.0,84672.0,2023,Hitter
+Jonah Bride,MIA,miami-marlins,DH,83011.0,83011.0,2025,Hitter
+7 Juan Yepez,WSH,washington-nationals,3B,81000.0,81000.0,2025,Hitter
+Jonathan Ornelas,TEX,texas-rangers,SS,76254.0,76254.0,2025,Hitter
+Nick Ahmed,TEX,texas-rangers,SS,73925.0,73925.0,2025,Hitter
+Buddy Kennedy,AZ,arizona-diamondbacks,3B,73549.0,73549.0,2023,Hitter
+Taylor Trammell,LAD,los-angeles-dodgers,OF,64335.0,64335.0,2024,Hitter
+12 Jared Serna,MIA,miami-marlins,2B,62000.0,62000.0,2025,Hitter
+10 Deyvison De Los Santos,MIA,miami-marlins,3B,62000.0,62000.0,2025,Hitter
+11 Jeferson Quero,MIL,milwaukee-brewers,C,62000.0,62000.0,2025,Hitter
+5 Matt Koperniak,STL,st-louis-cardinals,3B,62000.0,62000.0,2025,Hitter
+Ryan Vilade,STL,st-louis-cardinals,LF,57957.0,57957.0,2025,Hitter
+Greg Jones,CWS,chicago-white-sox,SS,53249.0,53249.0,2025,Hitter
+Drew Avans,OAK,oakland-athletics,OF,53118.0,53118.0,2025,Hitter
+Chadwick Tromp,ATL,atlanta-braves,C,50968.0,50968.0,2025,Hitter
+Duke Ellis,NYY,new-york-yankees,OF,50000.0,50000.0,2024,Hitter
+Cooper Hummel,HOU,houston-astros,LF,50000.0,50000.0,2024,Hitter
+Terrin Vavra,SEA,seattle-mariners,SS,50000.0,50000.0,2024,Hitter
+Tyler Wade,SD,san-diego-padres,SS,50000.0,50000.0,2025,Hitter
+C.J. Alexander,OAK,oakland-athletics,3B,50000.0,50000.0,2024,Hitter
+David Hensley,MIA,miami-marlins,SS,50000.0,50000.0,2024,Hitter
+Cooper Hummel,BAL,baltimore-orioles,LF,49677.0,49677.0,2025,Hitter
+Austin Shenton,SEA,seattle-mariners,3B,48626.0,48626.0,2025,Hitter
+Steward Berroa,LAD,los-angeles-dodgers,OF,47400.0,47400.0,2025,Hitter
+Peyton Burdick,CIN,cincinnati-reds,RF,44090.0,44090.0,2024,Hitter
+Eddie Rosario,LAD,los-angeles-dodgers,LF,43011.0,43011.0,2025,Hitter
+Jesus Rodriguez,NYY,new-york-yankees,C,42333.0,42333.0,2025,Hitter
+9 Tyler Gentry,KC,kansas-city-royals,OF,41333.0,41333.0,2025,Hitter
+Agustin Ramirez,NYY,new-york-yankees,C,39227.0,39227.0,2024,Hitter
+Cal Stevenson,SF,san-francisco-giants,OF,30968.0,30968.0,2023,Hitter
+Isan Diaz,SF,san-francisco-giants,2B,30968.0,30968.0,2023,Hitter
+Corey Julks,HOU,houston-astros,CF,30474.0,30474.0,2024,Hitter
+Grae Kessinger,AZ,arizona-diamondbacks,SS,25000.0,25000.0,2025,Hitter
+Zach Remillard,CWS,chicago-white-sox,3B,21661.0,21661.0,2024,Hitter
+11 Jake Alu,WSH,washington-nationals,3B,20748.0,20748.0,2024,Hitter
+Tyler Naquin,CWS,chicago-white-sox,LF,19355.0,19355.0,2023,Hitter
+Blake Hunt,SEA,seattle-mariners,C,17831.0,17831.0,2024,Hitter
+Nick Raposo,STL,st-louis-cardinals,C,15912.0,15912.0,2024,Hitter
+Lazaro Armenteros,OAK,oakland-athletics,OF,13616.0,13616.0,2024,Hitter
+Nick Solak,ATL,atlanta-braves,LF,11613.0,11613.0,2023,Hitter
+Sergio Alcantara,SF,san-francisco-giants,SS,8172.0,8172.0,2025,Hitter
+Esteury Ruiz,OAK,oakland-athletics,CF,8000.0,8000.0,2025,Hitter
+José Rodríguez,CWS,chicago-white-sox,SS,5835.0,5835.0,2024,Hitter
+Mark Kolozsvary,BAL,baltimore-orioles,C,3871.0,3871.0,2023,Hitter
+Óscar Colás,CWS,chicago-white-sox,RF,1332.0,1332.0,2025,Hitter
