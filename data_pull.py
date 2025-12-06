@@ -618,7 +618,7 @@ def main(min_ab: int = 10, min_swings: int = 5):
     min_swings : int, default=5
         Minimum swings required for bat tracking data
     """
-    hitter_years = [2023, 2024, 2025]
+    hitter_years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     current_year = datetime.now().year
     pitcher_years = list(range(2015, current_year + 1))
 
@@ -632,8 +632,8 @@ def main(min_ab: int = 10, min_swings: int = 5):
     pitchers_total = compute_aggregate(pitchers_by_year, player_id_col="mlbID", war_cols=("WAR",))
 
     print("\nSaving CSVs...")
-    hitters_by_year.to_csv("data/Hitters_2023-24_byYear_retry.csv", index=False)
-    hitters_total.to_csv("data/Hitters_2023-24_Total_retry.csv", index=False)
+    hitters_by_year.to_csv("data/Hitters_2015-2025_byYear_retry.csv", index=False)
+    hitters_total.to_csv("data/Hitters_2015-2025_Total_retry.csv", index=False)
 
     pitchers_by_year.to_csv(f"data/Pitchers_2015-{current_year}_byYear_retry.csv", index=False)
     pitchers_total.to_csv(f"data/Pitchers_2015-{current_year}_Total_retry.csv", index=False)
