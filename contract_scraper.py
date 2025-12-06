@@ -368,34 +368,110 @@ def get_pitcher_contracts(years: list) -> pd.DataFrame:
     return pd.DataFrame()
 
 
-def normalize_name_for_matching(name: str) -> str:
+def fix_escaped_unicode(name: str) -> str:
+    """
+    Decode escaped UTF-8 bytes like \\xc3\\xb1 back to proper unicode (ñ).
+    This handles CSVs with improperly encoded unicode characters.
+    """
+    import codecs
+    if pd.isna(name):
+        return ''
+    name = str(name)
+    if '\\x' in name:
+        try:
+            name = codecs.decode(name, 'unicode_escape')
+            name = name.encode('latin-1').decode('utf-8')
+        except:
+            pass
+    return name
+
+
+def extract_spotrac_name(name: str) -> str:
+    """
+    Fix Spotrac name format: "LastName Suffix FirstName LastName" -> "FirstName LastName"
+    
+    Examples:
+    - "Witt Jr. Bobby Witt" -> "Bobby Witt"
+    - "Harris II Michael Harris" -> "Michael Harris"  
+    - "De La Cruz Elly De La Cruz" -> "Elly De La Cruz"
+    """
+    if pd.isna(name):
+        return ''
+    name = str(name).strip()
+    
+    # Remove leading numbers (like "2 CJ Abrams")
+    name = re.sub(r'^\d+\s+', '', name)
+    
+    # Handle suffix patterns (Jr., II, etc.) - take what comes after
+    suffix_patterns = [
+        r'\s+Jr\.?\s+',
+        r'\s+Sr\.?\s+',
+        r'\s+II\s+',
+        r'\s+III\s+',
+        r'\s+IV\s+',
+    ]
+    
+    for pattern in suffix_patterns:
+        match = re.search(pattern, name, re.IGNORECASE)
+        if match:
+            after = name[match.end():].strip()
+            if after:
+                return after
+    
+    # Handle repeated name pattern (no suffix): "LastName FirstName LastName"
+    words = name.split()
+    if len(words) >= 3:
+        for i in range(1, len(words) // 2 + 1):
+            start_part = ' '.join(words[:i]).lower()
+            end_part = ' '.join(words[-i:]).lower()
+            if start_part == end_part:
+                return ' '.join(words[i:])
+    
+    return name
+
+
+def normalize_name_for_matching(name: str, is_contract: bool = False) -> str:
     """
     Normalize name for matching between datasets.
-    Handles common variations and special characters.
+    Handles unicode, accents, Spotrac format quirks, and common variations.
+    
+    Parameters:
+    -----------
+    name : str
+        Player name to normalize
+    is_contract : bool
+        If True, apply Spotrac-specific name extraction first
     """
+    import unicodedata
+    
     if pd.isna(name):
         return ""
     
-    name = str(name).strip().lower()
+    # Fix escaped unicode sequences
+    name = fix_escaped_unicode(name)
     
-    # Remove accents (basic)
-    replacements = {
-        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
-        'ñ': 'n', 'ü': 'u', 'ö': 'o', 'ä': 'a',
-        'ã': 'a', 'õ': 'o', 'ç': 'c',
-    }
-    for old, new in replacements.items():
-        name = name.replace(old, new)
+    # Fix Spotrac format if this is contract data
+    if is_contract:
+        name = extract_spotrac_name(name)
     
-    # Remove punctuation
+    # Normalize unicode (remove accents)
+    name = unicodedata.normalize('NFD', name)
+    name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
+    name = name.lower()
+    
+    # Remove middle initials (like "H." in "Josh H. Smith")
+    name = re.sub(r'\b\w\.\s*', '', name)
+    name = name.replace('.', '')
+    
+    # Remove remaining punctuation
     name = re.sub(r'[^\w\s]', '', name)
     
-    # Remove suffixes
+    # Remove suffixes at end
     for suffix in [' jr', ' sr', ' iii', ' ii', ' iv']:
         if name.endswith(suffix):
             name = name[:-len(suffix)]
     
-    return name.strip()
+    return ' '.join(name.split()).strip()
 
 
 def match_contracts_with_data(contracts_df: pd.DataFrame, 
@@ -417,9 +493,13 @@ def match_contracts_with_data(contracts_df: pd.DataFrame,
     contracts_df = contracts_df.copy()
     existing_df = existing_df.copy()
     
-    # Normalize names for matching
-    contracts_df['Name_match'] = contracts_df['Name'].apply(normalize_name_for_matching)
-    existing_df['Name_match'] = existing_df['Name'].apply(normalize_name_for_matching)
+    # Normalize names for matching (use is_contract=True for Spotrac data format)
+    contracts_df['Name_match'] = contracts_df['Name'].apply(
+        lambda x: normalize_name_for_matching(x, is_contract=True)
+    )
+    existing_df['Name_match'] = existing_df['Name'].apply(
+        lambda x: normalize_name_for_matching(x, is_contract=False)
+    )
     
     # Select columns to merge
     merge_cols = ['Name_match', 'Season', 'Salary', 'AnnualValue', 'Position']
