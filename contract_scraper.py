@@ -537,7 +537,7 @@ def main():
     print("="*60)
     
     # Define years
-    hitter_years = [2023, 2024, 2025]
+    hitter_years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     current_year = datetime.now().year
     pitcher_years = list(range(2015, min(current_year + 1, 2026)))
     
@@ -571,7 +571,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
     
     if not hitter_contracts.empty:
-        hitter_output = os.path.join(output_dir, "Hitter_Contracts_2023-25.csv")
+        hitter_output = os.path.join(output_dir, "Hitter_Contracts_2015-2025.csv")
         hitter_contracts.to_csv(hitter_output, index=False)
         print(f"\n[Saved] {hitter_output}")
     
@@ -586,7 +586,7 @@ def main():
     print("="*60)
     
     try:
-        existing_hitters = pd.read_csv("data/Hitters_2023-24_byYear_retry.csv")
+        existing_hitters = pd.read_csv("data/Hitters_2015-2025_byYear_retry.csv")
         if not hitter_contracts.empty:
             merged_hitters = match_contracts_with_data(hitter_contracts, existing_hitters)
             merged_output = os.path.join(output_dir, "Hitters_with_Contracts.csv")

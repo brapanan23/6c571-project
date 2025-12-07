@@ -1,1463 +1,1463 @@
-player_id,name,position,xwar,cost
-682928,CJ Abrams,SS,3.831,0.828
-547989,Jos\xc3\xa9 Abreu,1B,-2.701,6.16
-677800,Wilyer Abreu,LF,3.15,0.586
-682668,Luisangel Acu\xc3\xb1a,SS,1.62,1.273
-660670,Ronald Acu\xc3\xb1a Jr.,RF,0.937,1.465
-642715,Willy Adames,SS,2.314,5.373
-677941,Jordyn Adams,CF,0.139,0.769
-656180,Riley Adams,C,0.302,0.955
-666176,Jo Adell,RF,1.701,0.703
-501303,Ehire Adrianza,SS,0.086,1.865
-605113,Nick Ahmed,SS,-0.47,5.739
-645277,Ozzie Albies,2B,2.646,1.402
-677942,Blaze Alexander,SS,0.362,0.683
-669397,Nick Allen,SS,0.669,0.669
-624413,Pete Alonso,1B,2.333,18.965
-514888,Jose Altuve,2B,1.834,16.99
-669137,Armando Alvarez,3B,-0.749,0.643
-682626,Francisco Alvarez,C,0.789,0.627
-805373,Nacho Alvarez Jr.,RF,-1.001,0.163
-670541,Yordan Alvarez,DH,5.592,9.043
-691182,Adael Amador,SS,-0.399,0.597
-676070,Jacob Amaya,SS,0.53,0.724
-665804,Miguel Amaya,C,1.087,0.55
-641313,Tim Anderson,SS,-0.787,3.801
-609280,Miguel Andujar,3B,0.577,5.521
-666018,Jonathan Aranda,1B,0.86,0.841
-606115,Orlando Arcia,2B,0.644,10.056
-571448,Nolan Arenado,3B,1.111,10.822
-672356,Gabriel Arias,SS,0.237,0.608
-668227,Randy Arozarena,LF,2.694,11.246
-650333,Luis Arr\xc3\xa1ez,2B,1.156,4.012
-640492,Jos\xc3\xa9 Azocar,LF,-0.495,0.665
-668731,Akil Baddoo,LF,-0.162,0.762
-664056,Harrison Bader,CF,0.592,2.212
-678225,Ji Hwan Bae,CF,0.485,0.698
-595879,Javier B\xc3\xa1ez,SS,-0.347,5.318
-672275,Patrick Bailey,C,2.22,0.948
-671117,Darren Baker,2B,0.277,0.591
-663609,Luken Baker,1B,-0.389,0.795
-681460,Brooks Baldwin,3B,0.921,0.725
-680718,Addison Barger,3B,1.074,0.718
-605131,Austin Barnes,C,-0.411,3.722
-571466,Tucker Barnhart,C,-0.523,2.826
-678489,Jorge Barrosa,RF,0.519,0.471
-663698,Joey Bart,C,1.542,0.891
-683146,Brett Baty,3B,0.811,0.858
-641343,Jake Bauers,1B,-0.015,3.156
-687597,Jordan Beck,LF,0.351,0.681
-605137,Josh Bell,1B,-0.33,12.273
-641355,Cody Bellinger,CF,2.448,4.056
-643217,Andrew Benintendi,LF,-0.244,4.502
-666181,Will Benson,CF,-0.942,1.005
-672642,Steward Berroa,RF,0.793,0.661
-542932,Jon Berti,SS,0.523,4.333
-542194,Christian Bethancourt,C,-0.52,0.654
-605141,Mookie Betts,RF,3.758,16.823
-666182,Bo Bichette,SS,1.143,1.186
-624415,Cavan Biggio,2B,0.215,1.602
-672012,Tyler Black,2B,0.514,0.689
-453568,Charlie Blackmon,DH,-0.412,5.282
-680118,Dairon Blanco,LF,-0.237,1.13
-663905,Travis Blankenhorn,3B,-1.101,0.653
-668709,JJ Bleday,CF,1.905,2.171
-669208,Ryan Bliss,SS,0.993,0.681
-593428,Xander Bogaerts,SS,1.533,5.816
-664761,Alec Bohm,1B,3.138,3.552
-623520,David Bote,2B,-0.525,0.619
-656248,Sean Bouchard,1B,-0.459,1.018
-608324,Alex Bregman,3B,3.285,16.698
-686823,Will Brennan,RF,0.363,2.273
-681146,Jonah Bride,3B,0.99,3.387
-670092,Trenton Brooks,1B,-0.396,0.631
-664913,Seth Brown,RF,-0.697,5.869
-660644,Vidal Bruj\xc3\xa1n,2B,1.407,0.756
-592178,Kris Bryant,RF,-1.081,7.437
-669394,Jake Burger,3B,0.891,17.531
-676475,Alec Burleson,RF,1.699,0.806
-683737,Michael Busch,2B,2.356,1.595
-671732,Lawrence Butler,RF,2.775,0.814
-621439,Byron Buxton,CF,3.636,7.243
-676609,Jos\xc3\xa9 Caballero,SS,1.268,0.704
-663550,Trey Cabbage,3B,0.035,0.853
-665828,Oswaldo Cabrera,LF,1.307,0.708
-641432,Willie Calhoun,LF,-0.113,1.966
-669743,Alex Call,LF,1.856,2.586
-663662,Daz Cameron,LF,-0.093,0.786
-691406,Junior Caminero,SS,1.662,0.973
-672569,Gustavo Campero,CF,0.098,0.799
-669134,Luis Campusano,C,-0.259,0.704
-672744,Alexander Canario,RF,0.788,0.464
-600869,Jeimer Candelario,3B,-1.091,7.68
-592192,Mark Canha,LF,0.09,4.607
-686527,Dominic Canzone,RF,0.685,0.773
-605170,Victor Caratini,C,0.335,1.38
-666185,Dylan Carlson,CF,-0.392,0.68
-681481,Kerry Carpenter,LF,1.416,0.845
-572761,Matt Carpenter,3B,-1.246,1.807
-682998,Corbin Carroll,RF,4.242,0.773
-694497,Evan Carter,LF,2.109,0.926
-592200,Curt Casali,C,-0.726,3.113
-671213,Triston Casas,1B,0.748,0.772
-592206,Nick Castellanos,RF,0.157,5.536
-650489,Willi Castro,SS,1.394,2.25
-595909,Jake Cave,LF,-1.494,7.138
-665953,Andr\xc3\xa9s Chaparro,DH,0.389,0.745
-656305,Matt Chapman,3B,5.369,16.06
-665862,Jazz Chisholm Jr.,CF,2.932,3.107
-694192,Jackson Chourio,LF,4.089,0.823
-682729,Jonatan Clase,CF,0.809,0.721
-665019,Kody Clemens,2B,0.329,0.865
-676391,Ernie Clement,2B,2.308,1.069
-693049,Oscar Col\xc3\xa1s,RF,0.391,0.726
-686555,Isaac Collins,2B,-0.648,0.733
-624424,Michael Conforto,RF,1.642,3.681
-665052,Griffin Conine,RF,1.113,0.883
-661388,William Contreras,C,4.547,4.34
-575929,Willson Contreras,C,2.56,17.577
-695257,Billy Cook,RF,1.403,0.749
-643265,Garrett Cooper,1B,-1.415,3.366
-621043,Carlos Correa,SS,2.583,14.209
-681297,Colton Cowser,LF,2.424,0.844
-543063,Brandon Crawford,SS,-1.159,3.026
-641487,J.P. Crawford,SS,2.869,4.958
-686611,Dylan Crews,RF,2.1,0.744
-630105,Jake Cronenworth,1B,1.898,9.674
-691718,Pete Crow-Armstrong,CF,3.301,0.692
-665833,Oneil Cruz,SS,3.005,0.842
-518595,Travis d\'Arnaud,C,0.323,7.385
-621311,David Dahl,DH,0.362,0.99
-666915,Bobby Dalbec,1B,-0.854,1.44
-680779,Henry Davis,C,0.185,0.706
-605204,J.D. Davis,3B,-0.563,2.987
-650559,Bryan De La Cruz,LF,-0.272,2.662
-682829,Elly De La Cruz,SS,4.644,1.903
-665782,Luis De Los Santos,SS,0.213,0.748
-657557,Paul DeJong,SS,-0.105,2.01
-680728,Adrian Del Castillo,C,0.656,0.681
-641511,Jason Delay,C,0.323,0.967
-676113,Zach DeLoach,RF,0.511,0.737
-676356,Jonny DeLuca,LF,1.286,0.698
-646240,Rafael Devers,3B,3.927,8.543
-701305,Zach Dezenzo,SS,0.205,0.747
-649557,Aledmys D\xc3\xadaz,SS,-1.64,1.149
-553869,Elias D\xc3\xadaz,C,0.088,7.457
-673237,Yainer Diaz,C,3.474,0.797
-650490,Yandy D\xc3\xadaz,1B,1.529,12.745
-693307,Dillon Dingler,C,0.0,0.701
-691176,Jasson Dom\xc3\xadnguez,CF,0.855,0.714
-680977,Brendan Donovan,2B,2.437,6.422
-686668,Brenton Doyle,CF,3.131,3.439
-686482,Logan Driscoll,C,-0.125,0.799
-592273,Brandon Drury,3B,-0.323,6.478
-643289,Mauricio Dub\xc3\xb3n,2B,0.495,2.095
-694362,Blake Dunn,RF,0.101,0.258
-686554,Oliver Dunn,2B,0.646,0.755
-677649,Ezequiel Duran,2B,0.844,0.667
-680776,Jarren Duran,CF,6.383,13.853
-594807,Adam Duvall,RF,-1.1,6.301
-669242,Tommy Edman,SS,0.887,2.232
-669364,Xavier Edwards,SS,2.559,0.694
-666464,Jerar Encarnacion,LF,0.109,1.328
-687952,Christian Encarnacion-Strand,3B,-0.563,0.694
-669289,Santiago Espinal,3B,-0.509,4.044
-642731,Thairo Estrada,2B,0.075,3.486
-656413,Stuart Fairchild,CF,0.55,1.056
-571657,Kyle Farmer,SS,-0.679,2.993
-676439,Hunter Feduccia,C,0.439,0.247
-666023,Freddy Fermin,C,1.947,4.318
-665877,Jos\xc3\xa9 Ferm\xc3\xadn,2B,-0.066,0.702
-666149,Tyler Fitzgerald,SS,2.126,0.893
-666150,Dominic Fletcher,RF,0.395,0.811
-527038,Wilmer Flores,1B,-0.684,4.416
-664314,Estevan Florial,LF,0.596,0.879
-645801,Mike Ford,1B,-1.722,1.421
-663743,Nick Fortes,C,0.5,0.892
-679822,Justin Foscue,2B,-0.871,0.7
-641584,Jake Fraley,RF,-0.71,2.404
-664034,Ty France,1B,0.268,8.315
-624428,Adam Frazier,2B,-0.193,1.079
-518692,Freddie Freeman,1B,2.608,7.255
-671289,Tyler Freeman,SS,2.321,0.53
-686217,Sal Frelick,SS,2.026,0.791
-670770,TJ Friedl,CF,0.154,10.435
-681807,David Fry,C,0.674,1.557
-608336,Joey Gallo,1B,0.271,1.403
-592325,Ben Gamel,RF,-0.162,1.056
-666969,Adolis Garc\xc3\xada,RF,0.636,4.068
-541645,Avisa\xc3\xadl Garc\xc3\xada,RF,-0.747,0.683
-671277,Luis Garc\xc3\xada Jr.,2B,2.317,0.868
-672580,Maikel Garcia,SS,2.183,0.734
-641598,Mitch Garver,C,-0.158,6.762
-681508,Mickey Gasper,1B,-0.307,0.887
-680869,Zack Gelof,3B,1.494,1.723
-665926,Andr\xc3\xa9s Gim\xc3\xa9nez,2B,3.33,0.855
-502671,Paul Goldschmidt,1B,1.54,3.798
-543228,Yan Gomes,C,-1.682,4.432
-693304,Nick Gonzales,SS,2.008,0.786
-663853,Romy Gonzalez,2B,0.714,0.822
-696100,Hunter Goodman,C,-0.173,0.745
-592348,Niko Goodrum,2B,-2.224,0.779
-624503,Nick Gordon,SS,-0.911,1.9
-669357,Nolan Gorman,3B,0.456,0.692
-518735,Yasmani Grandal,C,-0.618,8.348
-656484,Tristan Gray,SS,0.055,0.711
-682985,Riley Greene,CF,3.814,2.377
-545341,Randal Grichuk,RF,0.409,1.321
-663757,Trent Grisham,CF,0.49,0.828
-687093,Vaughn Grissom,SS,0.608,0.733
-543257,Robbie Grossman,RF,-0.352,3.348
-665489,Vladimir Guerrero Jr.,1B,5.949,5.351
-641645,Luis Guillorme,SS,0.144,0.881
-666971,Lourdes Gurriel Jr.,LF,1.44,5.153
-493329,Yuli Gurriel,RF,-0.774,8.23
-606992,Eric Haase,C,-0.014,0.782
-664059,Sam Haggerty,2B,-0.833,0.272
-666152,David Hamilton,SS,2.627,0.786
-641658,Garrett Hampson,SS,0.278,0.865
-571745,Mitch Haniger,LF,-0.212,5.874
-664023,Ian Happ,LF,2.735,13.428
-547180,Bryce Harper,1B,3.658,13.929
-695391,Brett Harris,3B,0.046,1.214
-671739,Michael Harris II,CF,3.356,0.734
-663647,Ke\'Bryan Hayes,3B,1.53,0.631
-669720,Austin Hays,LF,0.243,2.066
-595978,Austin Hedges,C,-1.293,1.644
-641680,Jonah Heim,C,1.045,2.013
-623168,Tyler Heineman,C,0.397,0.846
-683002,Gunnar Henderson,SS,6.124,1.481
-682073,David Hensley,SS,-0.493,0.579
-687231,Darell Hernaiz,SS,0.207,0.695
-571771,Enrique Hern\xc3\xa1ndez,SS,0.94,4.696
-606192,Teoscar Hern\xc3\xa1ndez,RF,1.695,9.415
-671056,Iv\xc3\xa1n Herrera,C,1.734,0.722
-645444,Jos\xc3\xa9 Herrera,C,-0.508,0.73
-518792,Jason Heyward,RF,0.291,4.316
-543305,Aaron Hicks,CF,-1.694,1.83
-543309,Kyle Higashioka,C,-0.335,5.027
-656537,Derek Hill,LF,0.287,1.221
-656541,Sam Hilliard,CF,0.182,0.681
-677956,Rece Hinds,RF,1.319,0.704
-669374,Keston Hiura,2B,-1.297,0.359
-663538,Nico Hoerner,2B,2.735,7.004
-702616,Jackson Holliday,2B,1.28,0.734
-687462,Spencer Horwitz,1B,1.227,0.8
-656555,Rhys Hoskins,DH,-0.435,7.771
-674441,Jacob Hurtubise,CF,-0.141,0.897
-628451,Andy Ib\xc3\xa1\xc3\xb1ez,2B,0.349,1.22
-578428,Jose Iglesias,3B,1.825,19.709
-663697,Jonathan India,2B,1.845,3.292
-664728,Kyle Isbel,CF,0.994,0.876
-656577,Alex Jackson,C,-0.11,0.668
-608671,Travis Jankowski,LF,-0.258,4.024
-643376,Danny Jansen,C,0.918,4.83
-680777,Ryan Jeffers,C,1.153,1.473
-650391,Eloy Jim\xc3\xa9nez,DH,0.72,0.902
-677870,Leo Jimenez,RF,1.839,0.727
-656582,Connor Joe,LF,-0.053,6.577
-669369,Bryce Johnson,CF,-0.471,0.817
-663330,Jahmai Jones,2B,-0.017,0.781
-666134,Nolan Jones,3B,0.685,0.861
-592450,Aaron Judge,CF,7.612,26.004
-666397,Edouard Julien,2B,0.534,0.754
-667452,Corey Julks,CF,-0.383,1.173
-690291,Jace Jung,3B,-0.069,0.652
-673962,Josh Jung,3B,0.748,1.617
-694359,Niko Kavadas,1B,-0.035,0.698
-680577,DaShawn Keirsey Jr.,LF,0.136,0.222
-690993,Colt Keith,2B,1.021,0.658
-672284,Jarred Kelenic,LF,0.948,0.718
-608348,Carson Kelly,C,0.07,6.133
-671083,Buddy Kennedy,3B,0.613,0.53
-596146,Max Kepler,RF,0.756,2.917
-666197,Grae Kessinger,SS,-0.349,0.331
-595281,Kevin Kiermaier,CF,0.054,4.347
-673490,Ha-Seong Kim,2B,2.231,2.218
-643396,Isiah Kiner-Falefa,SS,1.991,4.134
-666135,Alex Kirilloff,1B,-0.025,0.79
-672386,Alejandro Kirk,C,2.202,0.517
-677008,Heston Kjerstad,CF,0.688,0.669
-668800,Andrew Knizner,C,-1.358,1.691
-668952,Ryan Kreidler,SS,-0.268,0.721
-680757,Steven Kwan,LF,2.565,4.987
-669127,Shea Langeliers,C,2.655,1.41
-694671,Wyatt Langford,LF,4.685,1.171
-663616,Trevor Larnach,RF,1.627,0.638
-657656,Ram\xc3\xb3n Laureano,LF,0.971,3.021
-641779,Charles Leblanc,SS,0.334,0.712
-686797,Brooks Lee,SS,0.592,0.843
-808982,Jung Hoo Lee,CF,1.163,0.836
-686676,Korey Lee,C,0.125,0.742
-518934,DJ LeMahieu,CF,-1.32,5.546
-694175,Pedro Le\xc3\xb3n,RF,-0.744,0.702
-668904,Royce Lewis,SS,1.255,0.792
-596019,Francisco Lindor,SS,5.329,27.793
-702358,Trey Lipscomb,3B,0.854,0.707
-682988,Tyler Locklear,1B,0.042,0.692
-663604,Brandon Lockridge,LF,0.029,0.553
-679845,Nick Loftin,SS,0.769,0.666
-694388,Joey Loperfido,LF,1.265,0.852
-605346,Jack L\xc3\xb3pez,SS,-0.384,0.987
-670032,Nicky Lopez,3B,-0.442,3.247
-672640,Otto Lopez,SS,3.081,0.716
-664040,Brandon Lowe,2B,1.919,4.272
-666139,Josh Lowe,RF,1.519,0.739
-663993,Nathaniel Lowe,1B,1.295,4.643
-682617,Marco Luciano,SS,0.334,0.701
-664770,Nathan Lukes,CF,1.842,2.74
-666158,Gavin Lux,2B,1.605,1.302
-592518,Manny Machado,3B,2.402,17.875
-663611,Nick Madrigal,2B,-0.534,0.651
-676632,Bligh Madris,CF,0.361,0.836
-571912,Luke Maile,C,-0.87,1.886
-455117,Mart\xc3\xadn Maldonado,C,-2.026,2.335
-669234,Justyn-Henry Malloy,DH,-0.01,0.683
-700932,Kyle Manzardo,DH,0.221,0.688
-665561,Rafael March\xc3\xa1n,C,1.552,1.27
-622534,Manuel Margot,RF,0.091,3.363
-669016,Brandon Marsh,CF,1.444,1.816
-606466,Ketel Marte,2B,5.002,30.54
-682622,Noelvi Marte,SS,-0.309,0.792
-516782,Starling Marte,RF,0.014,9.207
-668885,Austin Martin,SS,0.106,0.69
-682657,Angel Mart\xc3\xadnez,DH,1.089,1.025
-502110,J.D. Martinez,DH,-0.028,5.46
-605361,Nick Martini,RF,-0.86,2.7
-686681,Michael Massey,2B,1.962,0.85
-670156,Miles Mastrobuoni,LF,-0.085,0.813
-622761,Jorge Mateo,SS,1.398,1.567
-682641,Luis Matos,RF,0.714,0.748
-691723,Coby Mayo,3B,-0.477,1.178
-543510,James McCann,C,-0.255,9.187
-668832,Kyle McCann,C,0.016,0.706
-664983,Jake McCarthy,RF,0.871,1.207
-676801,Chas McCormick,CF,-0.271,1.784
-669200,Mason McCoy,SS,0.019,0.711
-687529,Grant McCray,CF,0.961,0.725
-457705,Andrew McCutchen,RF,0.332,5.282
-624512,Reese McGuire,C,-0.2,1.23
-663630,Ryan McKenna,CF,0.286,0.763
-641856,Billy McKinney,LF,-0.007,0.566
-656716,Zach McKinstry,2B,0.731,2.522
-641857,Ryan McMahon,3B,2.171,12.558
-643446,Jeff McNeil,2B,0.9,3.681
-678554,Curtis Mead,3B,0.07,0.744
-678009,Parker Meadows,CF,2.595,0.704
-669004,MJ Melendez,RF,1.041,0.706
-664901,Danny Mendick,2B,-0.345,1.258
-608841,Joey Meneses,DH,-0.37,11.438
-593160,Whit Merrifield,2B,0.55,6.928
-701538,Jackson Merrill,CF,3.715,1.035
-670223,Matt Mervis,1B,-0.945,0.208
-676694,Jake Meyers,CF,1.634,1.245
-686452,Drew Millas,C,0.993,0.794
-680911,Owen Miller,SS,-0.779,0.501
-669304,Jos\xc3\xa9 Miranda,SS,1.937,1.92
-670224,Kameron Misner,CF,-0.718,0.243
-669003,Garrett Mitchell,RF,2.596,0.692
-655316,Andruw Monasterio,SS,0.178,0.844
-660162,Yo\xc3\xa1n Moncada,3B,0.688,0.584
-666160,Mickey Moniak,CF,0.6,1.231
-660707,Elehuris Montero,3B,-0.733,0.792
-664238,Dylan Moore,2B,1.656,4.355
-666624,Christopher Morel,LF,1.591,0.674
-672515,Gabriel Moreno,C,3.017,0.696
-663624,Ryan Mountcastle,1B,2.548,1.808
-656775,Cedric Mullins,CF,1.729,2.409
-571970,Max Muncy,1B,2.444,20.944
-669221,Sean Murphy,C,1.079,1.966
-608596,Tom Murphy,C,-1.421,1.114
-667472,Dane Myers,CF,0.523,2.319
-665966,Carlos Narv\xc3\xa1ez,C,0.723,0.64
-553882,Omar Narv\xc3\xa1ez,C,-1.816,1.323
-666310,Bo Naylor,C,0.957,0.714
-647304,Josh Naylor,1B,1.812,3.469
-687263,Zach Neto,SS,4.175,1.745
-663527,Tyler Nevin,3B,0.261,0.783
-621028,Kevin Newman,SS,1.23,2.452
-621512,Tom\xc3\xa1s Nido,C,-1.085,1.719
-607043,Brandon Nimmo,CF,1.879,10.798
-676116,Ryan Noda,1B,-0.325,0.949
-678877,Jhonkensy Noel,RF,1.068,0.727
-663457,Lars Nootbaar,CF,2.45,0.692
-681393,Connor Norby,2B,1.278,0.819
-683083,Nasim Nu\xc3\xb1ez,SS,1.222,0.692
-656811,Ryan O\'Hearn,1B,1.815,4.398
-681351,Logan O\'Hoppe,C,2.441,0.934
-641933,Tyler O\'Neill,LF,2.49,3.481
-660271,Shohei Ohtani,RF,6.639,24.384
-658668,Edward Olivares,LF,-0.356,2.287
-621566,Matt Olson,1B,2.721,4.441
-680716,Jonathan Ornelas,SS,0.403,0.691
-542364,Rafael Ortega,LF,-0.676,0.878
-687401,Joey Ortiz,SS,2.711,1.061
-681546,James Outman,CF,0.159,0.87
-542303,Marcell Ozuna,LF,2.035,5.55
-665506,Cristian Pache,CF,0.14,0.695
-681624,Andy Pages,CF,2.015,1.18
-686780,Pedro Pag\xc3\xa9s,C,0.614,0.868
-641943,Joshua Palacios,CF,0.119,0.937
-680700,Richie Palacios,RF,2.329,0.864
-670623,Isaac Paredes,3B,1.812,1.281
-677347,Kyren Paris,SS,0.304,0.673
-686469,Vinnie Pasquantino,1B,2.433,2.25
-688363,Graham Pauley,3B,-0.334,0.479
-592626,Joc Pederson,LF,1.294,5.059
-665161,Jeremy Pe\xc3\xb1a,SS,4.509,3.754
-444482,David Peralta,LF,-0.62,3.676
-672695,Geraldo Perdomo,SS,3.34,1.153
-640902,Jhonny Pereda,C,-0.649,0.769
-521692,Salvador Perez,C,1.94,8.768
-672761,Wenceel P\xc3\xa9rez,SS,1.004,0.762
-663368,Blake Perkins,RF,2.226,1.494
-607054,Jace Peterson,3B,-1.855,1.286
-502054,Tommy Pham,LF,-0.031,7.889
-607680,Kevin Pillar,LF,-0.005,5.87
-650907,Ren\xc3\xa9 Pinto,C,-0.08,0.946
-593871,Jorge Polanco,2B,1.774,5.657
-595777,Jurickson Profar,LF,3.135,7.613
-678882,Ceddanne Rafaela,LF,2.132,0.756
-663728,Cal Raleigh,C,3.609,2.733
-670042,Luke Raley,CF,1.826,3.149
-623912,Harold Ram\xc3\xadrez,RF,-0.099,1.954
-608070,Jos\xc3\xa9 Ram\xc3\xadrez,3B,5.346,15.275
-682868,Bryan Ramos,3B,0.948,0.733
-671218,Heliot Ramos,CF,2.477,0.932
-592663,J.T. Realmuto,C,2.275,37.924
-656883,Jakson Reetz,C,-0.527,0.728
-608701,Rob Refsnyder,RF,0.004,3.805
-621545,Zach Remillard,3B,0.373,0.536
-543685,Anthony Rendon,3B,0.707,9.242
-592669,Hunter Renfroe,RF,0.178,5.42
-650859,Luis Rengifo,SS,1.784,0.887
-622569,Pablo Reyes,LF,-1.155,1.136
-668804,Bryan Reynolds,CF,2.127,15.071
-700250,Ben Rice,C,0.41,0.997
-663586,Austin Riley,3B,3.4,1.183
-660844,Leo Rivas,RF,0.322,0.792
-656896,Emmanuel Rivera,3B,-0.689,1.173
-519203,Anthony Rizzo,1B,0.068,10.123
-673357,Luis Robert Jr.,CF,2.414,1.254
-642020,Chuckie Robinson,C,-0.746,0.899
-645302,V\xc3\xadctor Robles,CF,2.648,0.867
-677587,Brayan Rocchio,SS,0.997,0.597
-663898,Brendan Rodgers,2B,0.462,1.637
-671286,Johnathan Rodr\xc3\xadguez,LF,-0.462,0.692
-677594,Julio Rodr\xc3\xadguez,CF,4.623,0.885
-668670,Jake Rogers,C,1.047,1.989
-679032,Johan Rojas,CF,1.372,0.611
-668942,Josh Rojas,3B,1.71,2.216
-500743,Miguel Rojas,SS,1.675,9.334
-691011,Drew Romo,C,0.468,1.131
-667670,Brent Rooker,DH,2.933,15.078
-666163,Ben Rortvedt,C,0.804,0.777
-642708,Amed Rosario,SS,-0.155,4.037
-592696,Eddie Rosario,LF,-0.808,8.509
-666703,Eguy Rosario,SS,0.712,0.661
-665923,Esteury Ruiz,CF,0.424,0.767
-660688,Keibert Ruiz,C,1.101,0.698
-668939,Adley Rutschman,C,2.951,3.299
-666165,Blake Sabol,C,0.886,0.815
-695336,Thomas Saggese,SS,0.411,0.705
-663967,C\xc3\xa9sar Salazar,C,0.432,0.541
-645305,Ali S\xc3\xa1nchez,C,-0.911,0.777
-596142,Gary S\xc3\xa1nchez,C,-0.277,1.209
-660821,Jes\xc3\xbas S\xc3\xa1nchez,CF,1.766,0.886
-593934,Miguel San\xc3\xb3,1B,-0.421,5.519
-691594,Javier Sanoja,SS,0.934,0.706
-467793,Carlos Santana,1B,1.351,8.276
-623993,Anthony Santander,RF,1.617,23.33
-694384,Nolan Schanuel,1B,0.944,0.847
-669477,Casey Schmitt,3B,0.322,0.669
-682177,Daniel Schneemann,SS,0.979,0.992
-676914,Davis Schneider,3B,0.34,0.712
-680474,Max Schuemann,3B,1.043,0.785
-668845,Aaron Schunk,3B,0.445,0.806
-656941,Kyle Schwarber,LF,2.71,17.792
-687363,Victor Scott II,CF,0.986,0.601
-608369,Corey Seager,SS,4.321,11.994
-543760,Marcus Semien,2B,3.165,12.055
-669222,Nick Senzel,CF,-0.347,2.755
-661531,Brian Serven,C,0.194,0.966
-657757,Gavin Sheets,RF,-0.702,1.865
-668853,Austin Shenton,3B,0.342,0.817
-669699,Braden Shewmake,SS,-0.267,0.788
-670097,Zack Short,2B,-0.126,1.204
-672279,Michael Siani,RF,0.918,0.637
-572138,Jon Singleton,1B,-0.888,5.911
-642350,Jose Siri,CF,2.115,1.405
-596103,Austin Slater,LF,-0.177,2.46
-642086,Dominic Smith,1B,0.129,2.383
-669701,Josh Smith,SS,2.371,2.144
-656976,Pavin Smith,LF,0.045,1.065
-669257,Will Smith,C,3.848,20.929
-691016,Tyler Soderstrom,DH,1.262,0.707
-686765,Nick Sogard,2B,0.714,0.78
-456781,Donovan Solano,2B,-0.512,7.702
-624585,Jorge Soler,DH,1.492,14.346
-624641,Edmundo Sosa,3B,2.017,2.12
-672820,Lenyn Sosa,2B,0.15,0.806
-665742,Juan Soto,LF,6.724,8.212
-670869,Livan Soto,SS,0.432,0.707
-543807,George Springer,RF,1.109,8.867
-607732,Jacob Stallings,C,0.454,7.061
-519317,Giancarlo Stanton,DH,-0.1,6.129
-668715,Spencer Steer,3B,1.695,1.751
-683021,Michael Stefanic,2B,-0.267,1.027
-663886,Tyler Stephenson,C,1.409,1.27
-670276,Cal Stevenson,CF,-0.106,0.391
-621466,DJ Stewart,RF,-0.68,1.225
-596115,Trevor Story,SS,1.18,1.293
-681082,Bryson Stott,2B,2.76,1.693
-669065,Kyle Stowers,CF,0.13,0.875
-596117,Garrett Stubbs,C,0.43,1.402
-553993,Eugenio Su\xc3\xa1rez,3B,0.931,11.109
-664954,Brett Sullivan,C,-0.144,0.108
-669261,Jack Suwinski,CF,-0.344,0.746
-673548,Seiya Suzuki,RF,2.572,26.53
-621020,Dansby Swanson,SS,2.936,15.178
-700242,Trey Sweeney,SS,1.326,0.722
-665487,Fernando Tatis Jr.,RF,3.501,0.833
-643565,Mike Tauchman,CF,0.445,4.548
-665750,Leody Taveras,CF,1.693,0.658
-621035,Chris Taylor,3B,-0.277,4.959
-572191,Michael A. Taylor,CF,0.464,4.355
-621438,Tyrone Taylor,RF,1.228,1.996
-642133,Rowdy Tellez,1B,-0.243,3.562
-677588,Jos\xc3\xa9 Tena,SS,0.84,0.869
-669326,Bryce Teodosio,LF,-0.708,0.236
-642136,Matt Thaiss,C,0.29,1.555
-677950,Alek Thomas,CF,0.617,0.733
-657041,Lane Thomas,RF,1.472,6.673
-669352,Bubba Thompson,CF,-0.252,0.844
-669911,Michael Toglia,1B,2.455,0.728
-679529,Spencer Torkelson,1B,1.97,0.808
-647351,Abraham Toro,3B,1.306,1.078
-620443,Luis Torrens,C,0.707,2.067
-650402,Gleyber Torres,2B,1.441,4.646
-678662,Ezequiel Tovar,SS,3.195,0.877
-676701,Alan Trejo,2B,-1.094,1.164
-624431,Jose Trevino,C,0.189,1.816
-669707,Jared Triolo,3B,0.932,1.428
-644433,Chadwick Tromp,C,0.151,0.564
-545361,Mike Trout,CF,1.022,2.808
-657061,Cole Tucker,SS,-0.52,0.739
-663656,Kyle Tucker,RF,4.753,4.443
-668930,Brice Turang,SS,3.871,1.805
-457759,Justin Turner,DH,0.401,10.128
-607208,Trea Turner,SS,3.216,12.731
-649966,Luis Ur\xc3\xadas,3B,0.413,0.741
-602104,Ram\xc3\xb3n Ur\xc3\xadas,3B,0.219,1.765
-570482,Gio Urshela,RF,-0.152,4.757
-665839,Enmanuel Valdez,2B,-0.161,0.767
-545121,Ildemaro Vargas,2B,-0.143,2.707
-678246,Miguel Vargas,2B,0.846,0.741
-662139,Daulton Varsho,LF,3.426,4.234
-683734,Andrew Vaughn,1B,1.498,1.383
-543877,Christian V\xc3\xa1zquez,C,-0.506,9.556
-676679,Luis V\xc3\xa1zquez,SS,-0.119,0.715
-676369,Nelson Vel\xc3\xa1zquez,CF,0.262,0.726
-657077,Alex Verdugo,RF,1.861,4.198
-668901,Mark Vientos,3B,1.472,0.857
-663837,Matt Vierling,RF,2.415,3.218
-668723,Ryan Vilade,3B,-0.834,1.221
-681584,David Villar,3B,0.213,0.802
-596129,Daniel Vogelbach,LF,-1.143,0.88
-683011,Anthony Volpe,SS,2.917,1.173
-613564,Jason Vosler,3B,-0.533,0.581
-664774,LaMonte Wade Jr.,1B,1.674,1.377
-642180,Tyler Wade,SS,-0.83,0.914
-676572,Eric Wagaman,1B,0.964,0.778
-695238,Will Wagner,2B,1.297,0.756
-572233,Christian Walker,1B,1.969,9.174
-691023,Jordan Walker,3B,0.301,0.784
-657088,Forrest Wall,CF,0.302,0.767
-670242,Matt Wallner,RF,1.952,0.821
-670764,Taylor Walls,SS,1.966,0.823
-665120,Jared Walsh,1B,-0.398,1.532
-622268,Donovan Walton,RF,0.011,0.342
-621493,Taylor Ward,LF,1.513,7.968
-671221,Drew Waters,LF,0.227,0.639
-669224,Austin Wells,C,3.238,0.765
-621563,Joey Wendle,3B,-0.769,2.53
-673995,Davis Wendzel,3B,-0.038,0.783
-642197,Jamie Westbrook,2B,-0.285,0.705
-676059,Jordan Westburg,SS,2.668,0.824
-694376,Shay Whitcomb,SS,-0.383,0.612
-642201,Eli White,CF,0.04,0.554
-686894,Joey Wiemer,CF,-0.015,0.286
-675961,Alika Williams,SS,0.17,0.824
-663897,Luke Williams,SS,0.366,0.802
-805779,Jacob Wilson,SS,0.598,0.761
-642215,Weston Wilson,1B,0.543,3.145
-608385,Jesse Winker,RF,1.324,3.419
-691026,Masyn Winn,SS,3.833,1.773
-621550,Patrick Wisdom,3B,-1.01,1.737
-689172,Brett Wisely,2B,0.894,0.664
-677951,Bobby Witt Jr.,SS,9.007,8.383
-657136,Connor Wong,C,0.69,2.052
-695578,James Wood,LF,2.384,0.97
-642851,Austin Wynns,C,1.406,3.286
-573262,Mike Yastrzemski,CF,0.885,3.546
-592885,Christian Yelich,LF,1.616,7.246
-660766,Juan Yepez,3B,1.052,0.918
-694377,Nick Yorke,2B,0.238,0.713
-807799,Masataka Yoshida,LF,0.54,4.599
-696285,Jacob Young,RF,2.753,0.776
-664874,Seby Zavala,C,-0.69,0.299
-671096,Andrew Abbott,SP,9.078,0.755
-650556,Bryan Abreu,RP,4.58,1.536
-592094,Jason Adam,RP,3.326,5.803
-613534,Austin Adams,RP,0.813,2.633
-686654,Ty Adcock,RP,-0.114,0.316
-672851,Joan Adon,RP,-0.042,0.538
-687924,Julian Aguiar,SP,-1.239,0.569
-669211,Keegan Akin,RP,5.647,1.143
-660896,Jorge Alcala,RP,1.832,1.355
-691951,Sam Aldegheri,SP,-0.102,0.586
-518397,Scott Alexander,RP,-1.829,2.629
-641302,Tyler Alexander,RP,5.003,2.257
-663465,Kolby Allard,SP,1.967,0.551
-663531,Logan Allen,RP,-2.0,0.577
-671106,Logan Allen,SP,3.424,0.698
-622075,Yency Almonte,RP,0.027,0.605
-656186,Dan Altavilla,RP,-0.075,0.641
-621237,Jos\xc3\xa9 Alvarado,RP,1.873,0.75
-657193,Eddy Alvarez,RP,0.009,6.144
-640470,Adbert Alzolay,RP,-0.186,0.735
-502624,Chase Anderson,RP,-0.342,2.551
-681982,Grant Anderson,RP,-2.0,0.61
-605121,Justin Anderson,RP,0.518,1.928
-623433,Nick Anderson,RP,-1.785,1.673
-641312,Shaun Anderson,RP,-0.18,0.934
-542881,Tyler Anderson,SP,10.0,14.099
-677076,Clayton Andrews,RP,-0.024,0.148
-542882,Matt Andriese,RP,-0.021,0.846
-622088,Tejay Antone,RP,0.006,0.509
-542888,Shawn Armstrong,RP,0.761,2.167
-681293,Spencer Arrighetti,SP,10.0,0.662
-676879,Aaron Ashby,RP,1.188,0.553
-668933,Graham Ashcraft,SP,3.428,0.694
-665871,Javier Assad,SP,7.903,0.832
-687014,Nick Avila,RP,-0.09,0.514
-658648,Pedro Avila,RP,3.332,0.753
-669199,Lake Bachar,RP,0.018,0.508
-641329,Bryan Baker,RP,-0.512,0.735
-607455,Anthony Banda,RP,1.415,1.707
-621383,Tanner Banks,RP,2.089,2.299
-605130,Scott Barlow,RP,2.147,1.971
-606930,Jacob Barnes,RP,-0.63,2.978
-598264,Matt Barnes,RP,-0.072,1.322
-571466,Tucker Barnhart,RP,-0.018,1.636
-605135,Chris Bassitt,SP,9.526,11.378
-669620,Brady Basso,SP,3.819,0.637
-641343,Jake Bauers,RP,0.003,0.473
-657508,Mike Baumann,RP,0.881,0.992
-669358,Shane Baz,SP,5.501,0.642
-660825,Eduard Bazardo,RP,-0.106,0.589
-663941,Tristan Beck,RP,0.15,0.692
-670280,David Bednar,RP,1.49,1.669
-595881,Tyler Beede,RP,-0.216,0.758
-656222,Jalen Beeks,RP,0.795,2.06
-690925,Clayton Beeter,RP,0.003,0.526
-678394,Brayan Bello,SP,10.0,0.795
-678368,Valente Bellozo,SP,1.894,0.599
-669622,Anthony Bender,RP,2.31,1.311
-642834,Jonathan Berm\xc3\xbadez,RP,0.0,0.75
-657514,Brennan Bernardino,RP,0.299,2.352
-621244,Jos\xc3\xa9 Berr\xc3\xados,SP,10.0,0.75
-672860,Prelander Berroa,RP,0.132,0.608
-676440,Tanner Bibee,SP,10.0,0.762
-641360,Phil Bickford,RP,-0.075,0.413
-674370,Osvaldo Bido,SP,4.615,2.25
-669456,Shane Bieber,SP,0.207,2.378
-656232,Brandon Bielak,RP,0.354,0.564
-685801,Hunter Bigge,RP,0.12,0.603
-656234,Jake Bird,RP,-1.129,0.71
-806185,Hayden Birdsong,SP,5.884,0.561
-702352,Spencer Bivens,RP,-0.001,1.315
-621389,Ty Blach,SP,-1.131,3.086
-696131,Mason Black,SP,-0.073,0.56
-621112,Paul Blackburn,SP,2.685,3.282
-687134,Bradley Blalock,SP,-1.105,0.537
-669854,Ronel Blanco,SP,10.0,5.618
-656240,Scott Blewett,RP,5.4,0.744
-814005,Jake Bloss,SP,-0.069,0.524
-675989,Cody Bolton,RP,-0.039,0.559
-592155,Cam Booser,RP,0.326,2.286
-621366,Ryan Borucki,RP,-0.102,0.554
-623520,David Bote,RP,0.009,1.065
-676961,Caleb Boushley,RP,0.006,0.585
-680742,Jonathan Bowlan,SP,-0.06,0.206
-621199,Matt Bowman,RP,-2.172,1.861
-571510,Matthew Boyd,SP,3.13,10.535
-671212,Joe Boyle,SP,3.571,0.568
-674003,Cody Bradford,SP,5.623,0.702
-680694,Kyle Bradish,SP,4.671,0.783
-671737,Taj Bradley,SP,10.0,0.641
-518489,Ryan Brasier,RP,-1.098,2.076
-623211,Huascar Brazob\xc3\xa1n,RP,1.402,0.75
-605154,John Brebbia,RP,1.821,4.309
-605155,Colten Brewer,RP,-2.0,0.958
-689225,Beau Brieske,RP,3.291,0.642
-666745,Jhony Brito,RP,-0.539,0.582
-641401,Connor Brogdon,RP,-0.225,0.193
-605156,Aaron Brooks,SP,-2.0,2.816
-676962,Ben Brown,SP,4.253,0.578
-686613,Hunter Brown,SP,10.0,0.779
-677865,Justin Bruihl,RP,-0.084,0.401
-660644,Vidal Bruj\xc3\xa1n,RP,0.0,0.75
-694350,Zach Brzykcy,RP,-0.081,0.458
-663460,Kris Bubic,RP,2.411,0.581
-571527,David Buchanan,RP,0.03,1.122
-621111,Walker Buehler,SP,3.787,3.533
-656266,JB Bukauskas,RP,0.057,0.533
-607481,Aaron Bummer,RP,3.284,1.707
-595897,Nick Burdi,RP,0.102,1.108
-670103,Raymond Burgos,RP,-0.015,0.426
-656271,Brock Burke,RP,1.736,0.62
-680732,Sean Burke,SP,0.27,0.63
-669203,Corbin Burnes,SP,10.0,5.895
-621114,Ryan Burr,RP,2.124,1.175
-681347,Mike Burrows,RP,0.0,0.336
-641427,Alan Busenitz,RP,-0.075,0.932
-681066,Ky Bush,SP,0.033,0.523
-676130,Jos\xc3\xa9 Butt\xc3\xb3,RP,4.218,0.75
-665795,Edward Cabrera,SP,7.193,0.739
-650893,G\xc3\xa9nesis Cabrera,RP,-0.176,0.75
-665828,Oswaldo Cabrera,RP,0.003,0.462
-663462,Isaiah Campbell,RP,-0.378,0.811
-656288,Griffin Canning,SP,9.401,4.07
-686563,Jonathan Cannon,SP,7.29,0.712
-666974,Yennier Cano,RP,1.86,1.92
-676282,Joey Cantillo,SP,2.675,0.576
-571539,Matt Carasiti,RP,-0.162,0.923
-471911,Carlos Carrasco,SP,3.703,10.093
-676508,Ben Casparius,RP,0.045,0.538
-528748,Humberto Castellanos,RP,-0.03,0.528
-650895,Diego Castillo,RP,0.063,0.604
-622491,Luis Castillo,SP,10.0,8.682
-612434,Miguel Castro,RP,-0.036,0.637
-650489,Willi Castro,RP,0.015,0.399
-656302,Dylan Cease,SP,10.0,3.536
-677944,Slade Cecconi,SP,3.727,0.62
-605177,Andrew Chafin,RP,2.039,3.022
-547973,Aroldis Chapman,RP,3.332,2.951
-608638,JT Chargois,RP,-1.62,1.736
-445926,Jesse Chavez,RP,-0.475,2.287
-630023,Yonny Chirinos,SP,-0.429,2.766
-683409,Angel Chivilli,RP,1.264,0.545
-687847,Marc Church,RP,0.009,0.529
-643256,Adam Cimber,RP,-1.967,2.152
-542585,Jos\xc3\xa9 Cisnero,RP,0.0,0.75
-650644,Aaron Civale,SP,10.0,4.645
-661403,Emmanuel Clase,RP,4.55,1.025
-664076,Garrett Cleavinger,RP,1.837,1.823
-665019,Kody Clemens,RP,-0.006,0.29
-676391,Ernie Clement,RP,-0.009,0.29
-605182,Mike Clevinger,SP,-0.039,3.51
-502171,Alex Cobb,SP,4.05,3.113
-543037,Gerrit Cole,SP,8.858,9.822
-669395,Dylan Coleman,RP,0.009,0.226
-664351,Luis Contreras,RP,-0.036,0.396
-672710,Roansy Contreras,RP,1.099,0.557
-571578,Patrick Corbin,SP,8.332,12.787
-641482,Nestor Cortes,SP,10.0,5.45
-676680,Tom Cosgrove,RP,-0.264,0.629
-543056,Danny Coulombe,RP,0.374,2.513
-664776,Jake Cousins,RP,2.257,0.967
-543063,Brandon Crawford,RP,-0.036,0.227
-676710,Kutter Crawford,SP,10.0,3.456
-622503,Nabil Crismatt,RP,0.024,0.415
-681867,Cooper Criswell,SP,4.338,0.885
-676105,Jeff Criswell,RP,0.174,0.618
-676979,Garrett Crochet,SP,10.0,0.708
-686539,Declan Cronin,RP,4.053,0.661
-668968,Hans Crouse,RP,1.62,0.617
-518585,Fernando Cruz,RP,5.823,3.235
-674444,Steven Cruz,RP,0.072,0.65
-621016,Jos\xc3\xa9 Cuas,RP,0.0,0.75
-456501,Johnny Cueto,SP,-0.054,1.724
-675540,Xzavion Curry,RP,0.177,0.575
-595928,John Curtiss,RP,-0.069,0.486
-702674,Caden Dana,SP,-0.138,0.495
-669721,Davis Daniel,SP,0.607,0.571
-506433,Yu Darvish,SP,5.541,5.055
-656353,Tucker Davidson,RP,0.108,0.673
-656354,Austin Davis,RP,-0.072,0.603
-663562,Noah Davis,RP,-2.0,0.547
-676969,Brett de Geus,RP,-0.063,0.509
-660853,Enyel De Los Santos,RP,1.798,0.997
-594798,Jacob deGrom,SP,0.123,1.421
-672282,Reid Detmers,SP,7.735,0.596
-606965,Chris Devenski,RP,-2.0,1.531
-664747,Alexis D\xc3\xadaz,RP,0.451,0.75
-621242,Edwin D\xc3\xadaz,RP,6.496,0.75
-646242,Jhonathan D\xc3\xadaz,RP,0.0,0.75
-622766,Miguel D\xc3\xadaz,RP,0.0,0.75
-700270,Yilber D\xc3\xadaz,SP,0.0,0.75
-518617,Jake Diekman,RP,-1.483,2.869
-677976,Randy Dobnak,RP,0.0,0.558
-689266,Dylan Dodd,RP,-0.018,0.191
-622554,Seranthony Dom\xc3\xadnguez,RP,2.918,0.75
-666808,Camilo Doval,RP,4.601,0.721
-650960,Daniel Duarte,RP,0.033,0.422
-681869,Shawn Dubin,RP,1.641,0.733
-608648,Tyler Duffey,RP,-0.006,0.949
-641540,Dane Dunning,SP,4.564,2.226
-670161,Parker Dunshee,RP,-0.042,0.178
-661395,Jhoan Duran,RP,4.756,0.705
-671109,Jake Eder,RP,0.003,0.266
-605218,Carl Edwards Jr.,RP,0.0,1.58
-664123,Scott Effross,RP,-0.003,0.539
-621107,Zach Eflin,SP,10.0,8.391
-685126,Brandon Eisert,RP,0.003,0.444
-693821,Bryce Elder,SP,2.987,0.599
-686642,Fraser Ellard,RP,0.778,0.597
-592288,Kent Emanuel,RP,-0.081,1.184
-669438,Mason Englert,RP,-1.688,0.541
-543135,Nathan Eovaldi,SP,10.0,6.016
-668674,Lucas Erceg,RP,4.147,1.166
-502179,Paolo Espino,RP,-0.081,1.143
-683155,Joey Estes,SP,7.373,0.624
-608032,Carlos Est\xc3\xa9vez,RP,-0.063,0.75
-669093,Jeremiah Estrada,RP,6.573,0.671
-656412,Alex Faedo,RP,0.851,0.907
-664126,Pete Fairbanks,RP,0.009,1.646
-663559,Bailey Falter,SP,6.993,1.206
-571656,Buck Farmer,RP,1.113,2.599
-571657,Kyle Farmer,RP,-0.006,0.786
-676534,Calvin Faucher,RP,2.035,0.919
-607200,Erick Fedde,SP,10.0,15.11
-621399,Brady Feigl,RP,-0.048,0.6
-663372,Ryan Feltner,SP,10.0,1.911
-657571,Caleb Ferguson,RP,2.519,1.146
-621053,Tyler Ferguson,RP,1.669,1.54
-681676,Ryan Fernandez,RP,3.046,0.704
-678606,Jose A. Ferrer,RP,-0.16,0.573
-701581,David Festa,SP,6.423,0.578
-670036,Matt Festa,RP,-2.0,1.226
-656420,J.P. Feyereisen,RP,-0.096,0.494
-640448,Kyle Finnegan,RP,0.819,2.77
-690916,Richard Fitts,SP,8.0,0.655
-666149,Tyler Fitzgerald,RP,-0.018,0.37
-656427,Jack Flaherty,SP,10.0,3.422
-676596,Josh Fleming,RP,-3.0,0.679
-623167,Chris Flexen,SP,9.249,4.385
-571670,Dylan Floro,RP,-0.582,3.094
-671345,Jason Foley,RP,-0.813,1.033
-641582,Matt Foster,RP,0.075,0.55
-641585,J.P. France,SP,-2.0,1.305
-670102,Bowden Francis,RP,6.293,1.498
-607536,Kyle Freeland,SP,4.067,5.935
-666818,Luis Fr\xc3\xadas,RP,0.0,0.75
-608331,Max Fried,SP,10.0,9.515
-608334,Carson Fulmer,RP,2.921,1.863
-681892,Kody Funderburk,RP,-0.338,0.627
-683769,Hunter Gaddis,RP,2.03,0.617
-606149,Giovanny Gallegos,RP,-1.234,1.507
-668678,Zac Gallen,SP,10.0,2.425
-642520,Gerson Garabito,RP,-0.225,0.585
-665620,Deivi Garc\xc3\xada,RP,0.0,0.75
-472610,Luis Garc\xc3\xada,RP,1.582,0.75
-676395,Robert Garcia,RP,4.133,1.027
-554340,Yimi Garc\xc3\xada,RP,1.68,0.75
-607237,Amir Garrett,RP,0.006,1.57
-666129,Braxton Garrett,SP,3.662,0.659
-657585,Reed Garrett,RP,4.256,2.296
-688107,Robert Gasser,SP,8.0,0.633
-592332,Kevin Gausman,SP,10.0,11.114
-593334,Domingo Germ\xc3\xa1n,RP,0.0,0.75
-664139,Ian Gibaut,RP,0.006,0.509
-502043,Kyle Gibson,SP,10.0,12.934
-661563,Luis Gil,SP,10.0,1.036
-669302,Logan Gilbert,SP,10.0,4.404
-656457,Tyler Gilbert,RP,0.033,0.503
-656458,Lucas Gilbreath,RP,-0.12,0.325
-670810,Logan Gillaspie,RP,-0.045,0.535
-687362,Connor Gillispie,RP,0.063,0.522
-656464,Kevin Ginkel,RP,3.62,1.854
-669372,J.T. Ginn,SP,1.631,0.628
-607192,Tyler Glasnow,SP,10.0,8.226
-596295,Austin Gomber,SP,9.553,7.039
-672782,Yoendrys G\xc3\xb3mez,RP,0.0,0.75
-594835,Marco Gonzales,SP,-0.473,3.869
-624647,Victor Gonz\xc3\xa1lez,RP,0.0,0.75
-685299,Tanner Gordon,SP,-0.333,0.661
-669022,MacKenzie Gore,SP,10.0,0.975
-543238,Anthony Gose,RP,-0.045,1.146
-700669,Gordon Graceffo,RP,0.003,0.614
-660813,Brusdar Graterol,RP,0.033,0.503
-592351,Jon Gray,SP,5.237,4.994
-680686,Josiah Gray,SP,-0.162,0.487
-543243,Sonny Gray,SP,10.0,11.273
-643338,Chad Green,RP,-1.168,2.559
-668881,Hunter Greene,SP,10.0,0.673
-675627,Michael Grove,RP,2.263,0.714
-674944,Sean Guenther,RP,3.664,0.696
-692285,Luis Guerrero,RP,0.15,0.646
-641645,Luis Guillorme,RP,-0.021,0.297
-661269,Vladimir Gutierrez,RP,-0.021,0.226
-623352,Josh Hader,RP,5.431,1.925
-669084,DL Hall,SP,1.566,0.593
-678020,Seth Halvorsen,RP,0.186,0.581
-641656,Ian Hamilton,RP,2.129,0.887
-641658,Garrett Hampson,RP,0.012,0.246
-676106,Emerson Hancock,SP,-0.315,0.613
-669724,Brenan Hanifee,RP,-0.504,0.616
-663687,Hogan Harris,RP,1.809,1.131
-690986,Kyle Harrison,SP,7.814,0.676
-664129,Geoff Hartlieb,RP,-0.108,0.503
-701643,Grant Hartwig,RP,-0.033,0.43
-640451,Hunter Harvey,RP,1.31,0.999
-687396,Brent Headrick,RP,0.015,0.187
-571760,Andrew Heaney,SP,10.0,7.864
-669169,Jonathan Heasley,RP,-0.186,0.387
-595978,Austin Hedges,RP,0.018,0.383
-623168,Tyler Heineman,RP,0.006,1.775
-621294,Ben Heller,RP,-0.222,1.301
-664854,Ryan Helsley,RP,4.078,2.774
-543294,Kyle Hendricks,SP,4.072,10.816
-668874,Blair Henley,SP,-0.096,0.151
-683618,Edgardo Henriquez,RP,0.024,0.487
-678692,Ronny Henriquez,RP,0.099,0.62
-674072,Tommy Henry,SP,-0.938,0.637
-682073,David Hensley,RP,-0.006,0.178
-656529,Sam Hentges,RP,1.199,0.663
-623474,Jimmy Herget,RP,0.015,0.531
-643361,Kevin Herget,RP,0.075,1.13
-672578,Carlos Hern\xc3\xa1ndez,RP,-0.586,0.75
-678226,Daysbel Hern\xc3\xa1ndez,RP,0.0,0.75
-622694,Elieser Hern\xc3\xa1ndez,RP,0.0,0.75
-571771,Enrique Hern\xc3\xa1ndez,RP,0.0,0.75
-642546,Jonathan Hern\xc3\xa1ndez,RP,1.2,0.75
-669796,Jose Hernandez,RP,0.069,0.659
-663321,Nick Hernandez,RP,-0.033,0.441
-682120,Tim Herrin,RP,0.804,0.846
-687792,DJ Herz,SP,8.625,0.609
-543305,Aaron Hicks,RP,-0.018,5.029
-663855,Jordan Hicks,SP,6.012,0.827
-677955,Jaden Hill,RP,-0.003,0.528
-448179,Rich Hill,RP,-0.003,1.066
-657612,Tim Hill,RP,-1.264,2.152
-663546,Sean Hjelle,RP,4.654,0.714
-687863,Porter Hodge,RP,2.094,0.636
-663773,Bryan Hoeing,RP,-0.584,0.853
-656546,Jeff Hoffman,RP,4.824,2.529
-670059,Colin Holderman,RP,0.491,0.984
-668970,Gavin Hollowell,RP,0.015,0.187
-680880,Grant Holman,RP,0.072,0.585
-605280,Clay Holmes,RP,3.023,2.805
-656550,Grant Holmes,RP,5.643,0.968
-663947,Tyler Holton,RP,4.889,1.618
-641703,Brent Honeywell Jr.,RP,-2.278,1.051
-690544,Bailey Horn,RP,-0.096,0.521
-656557,Tanner Houck,SP,10.0,3.465
-605288,Adrian Houser,RP,0.262,2.52
-675921,Spencer Howard,RP,-2.0,0.558
-663542,Bryan Hudson,RP,1.631,1.051
-641712,Dakota Hudson,SP,0.998,3.155
-543339,Daniel Hudson,RP,0.255,2.618
-676714,Brandon Hughes,RP,-0.117,0.576
-669165,Kyle Hurt,RP,0.033,0.402
-676428,Brant Hurter,RP,2.903,0.608
-628452,Raisel Iglesias,RP,3.388,4.706
-684007,Shota Imanaga,SP,10.0,9.245
-683568,Jairo Iriarte,RP,0.03,0.5
-608344,Cole Irvin,SP,2.755,5.206
-663623,Jake Irvin,SP,10.0,2.036
-543351,Jay Jackson,RP,-2.0,1.692
-592426,Luke Jackson,RP,2.164,2.308
-689690,Alek Jacob,RP,0.087,0.587
-682175,Joe Jacques,RP,-0.027,0.268
-445276,Kenley Jansen,RP,0.721,3.089
-686826,Bryce Jarvis,RP,-1.629,0.642
-664299,Cristian Javier,SP,-0.196,0.801
-643377,Griffin Jax,RP,6.628,2.394
-664079,Tyler Jay,RP,-0.003,0.513
-641726,Daulton Jefferies,RP,-0.21,0.598
-666204,Dany Jim\xc3\xa9nez,RP,0.0,0.75
-641729,Joe Jim\xc3\xa9nez,RP,3.82,0.75
-695549,Jackson Jobe,RP,0.039,0.511
-572955,Pierce Johnson,RP,1.534,3.3
-686751,Seth Johnson,SP,-0.117,0.351
-683003,Jared Jones,SP,10.0,0.61
-690829,Ben Joyce,RP,1.015,0.689
-596001,Jakob Junis,RP,2.732,2.106
-676083,Janson Junk,RP,-0.03,0.434
-687145,Evan Justice,RP,0.003,0.462
-592454,Tommy Kahnle,RP,0.315,2.995
-641745,Brad Keller,RP,-0.019,0.689
-656605,Mitch Keller,SP,10.0,3.32
-543391,Casey Kelly,RP,0.0,1.261
-523260,Joe Kelly,RP,-1.385,1.983
-687330,Kevin Kelly,RP,2.823,0.668
-518876,Merrill Kelly,SP,2.808,13.896
-547184,Michael Kelly,RP,-1.95,1.34
-677161,Zack Kelly,RP,1.449,1.094
-689147,Orion Kerkering,RP,3.871,0.586
-678061,Ray Kerr,RP,-0.891,0.732
-477132,Clayton Kershaw,SP,-1.732,2.395
-666197,Grae Kessinger,RP,0.009,0.331
-572971,Dallas Keuchel,SP,-0.009,3.066
-579328,Yusei Kikuchi,SP,10.0,11.126
-668873,Caleb Kilian,RP,-0.003,0.586
-518886,Craig Kimbrel,RP,1.525,4.487
-643396,Isiah Kiner-Falefa,RP,0.003,0.361
-687911,Bryan King,RP,1.704,0.653
-667463,John King,RP,-0.698,1.184
-650633,Michael King,SP,10.0,5.462
-641755,Tyler Kinley,RP,2.648,3.013
-669923,George Kirby,SP,10.0,1.517
-685116,Austin Kitchen,RP,-0.141,0.445
-552640,Andrew Kittredge,RP,0.94,2.48
-694361,Will Klein,RP,-0.102,0.468
-680572,Adam Kloffenstein,RP,0.027,0.665
-689017,Landon Knack,SP,4.815,0.702
-668800,Andrew Knizner,RP,0.033,0.286
-571863,Matt Koch,RP,-0.135,0.145
-686799,Jack Kochanowicz,SP,0.679,0.6
-657649,Jared Koenig,RP,1.209,1.793
-663568,Stephen Kolek,RP,1.396,0.621
-656629,Michael Kopech,RP,3.603,2.592
-667478,Evan Kravetz,RP,0.009,0.226
-665152,Dean Kremer,SP,7.548,1.641
-670219,Zac Kristofak,RP,-0.012,0.191
-640454,Matt Krook,RP,-0.03,0.279
-641771,Chad Kuhl,RP,2.47,1.282
-669270,Joel Kuhnel,RP,0.033,0.519
-686747,Joe La Sorsa,RP,0.024,0.54
-663567,Peter Lambert,RP,1.57,0.733
-659275,Dinelson Lamet,RP,0.0,0.574
-656638,Alex Lange,RP,-0.189,0.631
-656641,Jacob Latz,RP,-0.444,0.734
-571882,Derek Law,RP,2.6,3.327
-664875,Justin Lawrence,RP,-1.071,1.337
-676661,Max Lazar,RP,0.024,0.544
-681517,Kyle Leahy,RP,-0.631,0.652
-673929,Jordan Leasure,RP,-0.945,0.558
-600917,Jos\xc3\xa9 Leclerc,RP,4.449,0.75
-669276,Dylan Lee,RP,4.437,0.96
-668984,Casey Legumina,RP,-0.078,0.46
-605335,Brandon Leibrandt,RP,-0.048,0.693
-683004,Jack Leiter,SP,-0.598,0.609
-643410,Mark Leiter Jr.,RP,4.74,3.3
-608678,Dominic Leone,RP,-0.198,1.95
-669461,Matthew Liberatore,RP,3.608,0.527
-641793,Zack Littell,SP,10.0,3.05
-663893,Brendon Little,RP,-0.516,0.64
-681432,Luke Little,RP,0.95,0.611
-594902,Ben Lively,SP,8.274,8.659
-642528,Jonathan Lo\xc3\xa1isiga,RP,0.0,0.75
-666157,Nick Lodolo,SP,9.674,0.716
-679845,Nick Loftin,RP,0.012,0.416
-656657,Zach Logue,RP,-0.045,0.325
-669674,Sam Long,RP,0.588,0.797
-682052,Jacob Lopez,RP,0.003,0.554
-605347,Jorge L\xc3\xb3pez,RP,-0.099,0.75
-641154,Pablo L\xc3\xb3pez,SP,10.0,0.75
-625643,Reynaldo L\xc3\xb3pez,SP,8.84,0.75
-547179,Michael Lorenzen,SP,6.426,8.623
-702795,Ryan Loutos,RP,0.024,0.452
-663992,Richard Lovelady,RP,-1.053,0.661
-695076,Rhett Lowder,SP,2.38,0.585
-687922,Easton Lucas,RP,-0.168,0.52
-664192,Joey Lucchesi,SP,0.006,1.197
-607625,Seth Lugo,SP,10.0,15.381
-666200,Jes\xc3\xbas Luzardo,SP,3.621,0.75
-543475,Jordan Lyles,RP,0.051,1.312
-663738,Daniel Lynch IV,RP,1.778,0.701
-458681,Lance Lynn,SP,4.821,7.335
-656671,Josh Maciejewski,RP,0.03,0.387
-680744,Ty Madden,RP,-0.926,0.562
-628317,Kenta Maeda,SP,4.814,6.372
-641816,Tyler Mahle,SP,0.018,1.318
-571912,Luke Maile,RP,-0.048,0.912
-687424,Anthony Maldonado,RP,0.054,0.567
-640455,Sean Manaea,SP,10.0,15.929
-666159,Matt Manning,SP,2.106,0.548
-666201,Alek Manoah,SP,-2.0,0.558
-573009,Joe Mantiply,RP,0.826,3.913
-676760,Ron Marinaccio,RP,0.861,0.612
-608566,Germ\xc3\xa1n M\xc3\xa1rquez,SP,0.0,0.75
-679525,Alec Marsh,SP,7.528,0.979
-665896,Jos\xc3\xa9 Marte,RP,0.0,0.75
-628708,Yunior Marte,RP,-2.0,0.887
-455119,Chris Martin,RP,3.986,2.513
-663436,Davis Martin,SP,3.504,0.875
-679885,Justin Martinez,RP,6.025,0.582
-607259,Nick Martinez,RP,9.55,5.612
-661527,Seth Martinez,RP,-1.085,1.094
-664208,Phil Maton,RP,0.694,2.373
-673513,Yuki Matsui,RP,3.142,1.015
-805673,Zebby Matthews,SP,2.524,0.579
-676755,Isaac Mattson,RP,0.003,0.435
-571927,Steven Matz,SP,-0.686,4.181
-554431,Tyler Matzek,RP,-0.138,0.887
-641835,Tim Mayza,RP,-2.956,2.98
-800049,Adam Mazur,SP,-1.746,0.579
-663704,James McArthur,RP,1.299,1.136
-543510,James McCann,RP,-0.021,5.029
-670766,Darren McCaughan,RP,-1.392,0.795
-694646,Chayce McDermott,SP,-0.018,0.312
-686790,Trevor McDonald,RP,0.027,0.525
-519008,T.J. McFarland,RP,-1.397,1.924
-543518,Scott McGough,RP,-2.03,2.604
-700241,Michael McGreevy,SP,8.0,0.716
-663474,Triston McKenzie,SP,2.294,0.694
-656716,Zach McKinstry,RP,-0.015,0.326
-669111,John McMillon,RP,0.195,0.64
-607644,John Means,SP,8.0,5.104
-683232,Nick Mears,RP,4.918,0.728
-682989,Victor Mederos,RP,-0.093,0.428
-665622,Luis Medina,SP,0.626,0.615
-703231,James Meeker,RP,0.009,0.248
-656730,Trevor Megill,RP,1.768,1.427
-656731,Tylor Megill,SP,5.692,1.421
-691441,Cristian Mena,SP,-0.051,0.342
-664901,Danny Mendick,RP,0.012,0.568
-675650,Michael Mercado,RP,-0.21,0.533
-657240,Julian Merryweather,RP,-0.108,1.031
-670223,Matt Mervis,RP,-0.051,0.341
-676974,Max Meyer,SP,2.814,0.625
-571945,Miles Mikolas,SP,9.185,10.043
-489119,Wade Miley,SP,-0.027,0.971
-676272,Bobby Miller,SP,1.703,0.602
-682243,Bryce Miller,SP,10.0,0.772
-669062,Erik Miller,RP,3.775,0.663
-695243,Mason Miller,RP,8.861,0.55
-680911,Owen Miller,RP,-0.033,0.199
-668943,Ryan Miller,RP,0.0,0.581
-571946,Shelby Miller,RP,0.753,2.485
-668338,Tyson Miller,RP,0.442,1.096
-571948,Hoby Milner,RP,2.207,2.418
-621345,A.J. Minter,RP,0.05,1.329
-664948,Anthony Misiewicz,RP,0.018,0.297
-663554,Casey Mize,SP,4.815,0.903
-669387,Carmen Mlodzinski,RP,1.724,0.59
-683627,Anthony Molina,RP,0.906,0.543
-594580,Sam Moll,RP,-0.753,2.301
-593423,Frankie Montas,SP,9.823,6.983
-672456,Keider Montero,SP,4.976,0.644
-606160,Rafael Montero,RP,-3.0,2.504
-656756,Jordan Montgomery,SP,4.647,9.818
-682254,Mason Montgomery,RP,0.105,0.646
-519043,Matt Moore,RP,-1.659,2.89
-670970,Adri\xc3\xa1n Morej\xc3\xb3n,RP,3.684,0.75
-669212,Eli Morgan,RP,0.133,0.797
-450203,Charlie Morton,SP,8.596,13.31
-666205,Kyle Muller,RP,0.893,0.626
-662253,Andr\xc3\xa9s Mu\xc3\xb1oz,RP,3.701,0.75
-682610,Roddery Mu\xc3\xb1oz,SP,3.464,0.75
-605397,Joe Musgrove,SP,7.039,3.003
-656786,Parker Mushinski,RP,-0.096,0.469
-668964,Tobias Myers,SP,9.268,0.769
-667297,Tommy Nance,RP,-0.607,1.576
-677053,Andrew Nardi,RP,4.882,0.633
-680897,Nick Nastrini,SP,-1.251,0.587
-680891,Jack Neely,RP,-0.051,0.475
-669459,Kyle Nelson,RP,0.018,0.536
-656793,Nick Nelson,RP,-0.003,0.428
-669194,Ryne Nelson,SP,10.0,1.003
-593576,H\xc3\xa9ctor Neris,RP,1.173,0.75
-656794,Sean Newcomb,RP,-0.021,0.543
-693312,Kyle Nicolas,RP,1.169,0.573
-657697,Vinny Nittoli,RP,0.114,1.21
-605400,Aaron Nola,SP,10.0,11.329
-673380,Dedniel N\xc3\xba\xc3\xb1ez,RP,3.727,0.75
-676617,Riley O\'Brien,RP,0.0,0.75
-672552,Jack O\'Loughlin,RP,0.0,0.75
-641927,Bailey Ober,SP,10.0,3.37
-595345,Steven Okert,RP,-1.573,2.273
-670124,Adam Oller,SP,0.882,1.416
-681857,Reese Olson,SP,9.192,0.702
-672391,Kaleb Ort,RP,1.951,1.736
-656814,Luis Ortiz,RP,0.897,1.187
-682847,Luis Ortiz,RP,7.655,0.623
-679358,Eric Orze,RP,-0.057,0.33
-671305,Michel Ota\xc3\xb1ez,RP,4.374,0.75
-493603,Adam Ottavino,RP,1.965,2.985
-663978,Chris Paddack,SP,5.362,1.765
-641941,Emilio Pag\xc3\xa1n,RP,1.62,0.75
-694037,Daniel Palencia,RP,-0.045,0.531
-669467,Andre Pallante,SP,7.234,0.583
-660600,Enoli Paredes,RP,3.015,0.726
-680730,Mitchell Parker,SP,9.839,0.638
-641149,Wes Parsons,RP,-0.003,0.656
-572020,James Paxton,SP,2.609,6.055
-606303,Joel Payamps,RP,-0.044,1.923
-663878,Nate Pearson,RP,2.654,0.8
-665625,Elvis Peguero,RP,0.537,0.727
-679156,Walter Pennington,RP,0.063,0.558
-683068,Zach Penrod,RP,0.024,0.488
-686752,Ryan Pepiot,SP,10.0,0.933
-642547,Freddy Peralta,SP,10.0,3.242
-678821,Luis Peralta,RP,0.246,0.581
-671111,Sammy Peralta,RP,0.018,0.521
-593974,Wandy Peralta,RP,-2.655,2.218
-640902,Jhonny Pereda,RP,0.006,0.302
-672335,Cionel P\xc3\xa9rez,RP,1.372,0.75
-527048,Mart\xc3\xadn P\xc3\xa9rez,SP,6.429,0.75
-656848,Michael Petersen,RP,-0.075,0.641
-656849,David Peterson,SP,7.074,1.886
-694297,Brandon Pfaadt,SP,10.0,0.451
-623465,Evan Phillips,RP,1.85,1.558
-663969,Tyler Phillips,SP,0.262,0.65
-666207,Riley Pint,RP,-0.111,0.374
-620982,Ricardo Pinto,RP,-0.159,0.378
-601713,Nick Pivetta,SP,10.0,6.999
-668676,Zach Plesac,SP,-0.087,1.198
-621363,Colin Poche,RP,-1.141,1.591
-647315,Zach Pop,RP,-1.075,0.875
-547001,Cody Poteet,SP,8.0,1.486
-700249,Cade Povich,SP,4.08,0.604
-668472,Nick Pratto,RP,0.012,0.416
-519151,Ryan Pressly,RP,1.099,3.319
-682990,Quinn Priester,SP,1.886,0.577
-643493,Austin Pruitt,RP,-0.09,1.53
-640462,A.J. Puk,RP,4.808,1.397
-615698,Cal Quantrill,SP,7.253,4.654
-650671,Jos\xc3\xa9 Quijada,RP,0.0,0.75
-500779,Jose Quintana,SP,10.0,13.218
-666142,Cole Ragans,SP,10.0,1.631
-663432,Tanner Rainey,RP,-1.507,1.536
-548384,Brooks Raley,RP,0.153,0.908
-642629,Emmanuel Ramirez,RP,-1.404,0.712
-541640,Erasmo Ram\xc3\xadrez,RP,0.0,0.75
-598286,Nick Ramirez,RP,-0.075,1.16
-670990,Yohan Ram\xc3\xadrez,RP,2.249,0.75
-656876,Drew Rasmussen,RP,3.038,0.726
-592662,Robbie Ray,SP,2.101,3.881
-607067,Colin Rea,SP,8.244,7.237
-656887,Sean Reid-Foley,RP,0.74,0.626
-622103,Gerardo Reyes,RP,-0.018,0.574
-622569,Pablo Reyes,RP,0.012,0.568
-669308,Sean Reynolds,RP,0.102,0.646
-687377,Orlando Ribalta,RP,-0.042,0.443
-670950,Trevor Richards,RP,0.62,1.952
-680689,Lyon Richardson,RP,-0.03,0.531
-660844,Leo Rivas,RP,0.0,0.4
-656896,Emmanuel Rivera,RP,-0.021,0.435
-642016,Daniel Robert,RP,0.027,0.445
-681799,Ethan Roberts,RP,0.849,0.553
-502085,David Robertson,RP,4.173,2.775
-687798,Nick Robertson,RP,0.021,0.53
-677958,Kumar Rocker,SP,0.0,0.54
-607074,Carlos Rod\xc3\xb3n,SP,10.0,0.75
-692230,Carlos Rodriguez,SP,-0.117,0.587
-593958,Eduardo Rodr\xc3\xadguez,SP,1.35,0.75
-680570,Grayson Rodriguez,SP,10.0,0.628
-570257,Joely Rodr\xc3\xadguez,RP,0.0,0.75
-655889,Manuel Rodr\xc3\xadguez,RP,-0.035,0.75
-678495,Randy Rodr\xc3\xadguez,RP,3.609,0.75
-684320,Yariel Rodr\xc3\xadguez,SP,5.82,0.75
-666720,Yerry Rodr\xc3\xadguez,RP,0.0,0.75
-642028,Josh Rogers,RP,-0.027,0.615
-573124,Taylor Rogers,RP,1.019,2.968
-669432,Trevor Rogers,SP,5.828,0.736
-643511,Tyler Rogers,RP,1.858,3.861
-668942,Josh Rojas,RP,-0.012,0.459
-500743,Miguel Rojas,RP,0.009,5.185
-605447,Jordan Romano,RP,-0.099,0.593
-668941,JoJo Romero,RP,-0.312,0.815
-666163,Ben Rortvedt,RP,0.003,0.199
-670046,Kenny Rosenberg,RP,-2.0,0.619
-605452,Joe Ross,RP,2.967,2.317
-694738,Landen Roupp,RP,1.904,0.598
-688297,Chris Roycroft,RP,-0.206,0.609
-614179,Jos\xc3\xa9 Ruiz,RP,1.498,0.75
-671131,Jackson Rutledge,RP,0.054,0.53
-657746,Joe Ryan,SP,10.0,4.327
-689981,River Ryan,SP,8.0,0.693
-656924,Ryder Ryan,RP,-0.864,0.75
-685314,Andrew Saalfrank,RP,-0.084,0.412
-681870,Erik Sabrowski,RP,0.18,0.607
-674285,Eduardo Salazar,RP,1.589,0.617
-519242,Chris Sale,SP,10.0,18.635
-676614,Bryan Sammons,RP,5.4,1.14
-650911,Cristopher S\xc3\xa1nchez,SP,10.0,0.75
-664350,Sixto S\xc3\xa1nchez,RP,-1.376,0.75
-680704,Nick Sandlin,RP,1.257,0.78
-663776,Patrick Sandoval,SP,5.336,0.841
-663485,Cole Sands,RP,5.152,0.704
-593934,Miguel San\xc3\xb3,RP,0.0,0.75
-642701,Dennis Santana,RP,2.951,1.006
-663574,Tony Santillan,RP,3.323,0.653
-666619,Gregory Santos,RP,-0.03,0.478
-642048,Tayler Saucedo,RP,-0.974,1.736
-669422,Matt Sauer,RP,-0.069,0.518
-622250,Josh Sborz,RP,0.009,0.649
-453286,Max Scherzer,SP,1.487,5.749
-657376,Clarke Schmidt,SP,7.073,3.356
-670167,John Schreiber,RP,0.328,1.805
-680885,Spencer Schwellenbach,SP,10.0,0.658
-681035,Christian Scott,SP,1.98,0.591
-656945,Tanner Scott,RP,4.352,4.632
-605463,Tayler Scott,RP,1.483,2.612
-676664,JP Sears,SP,10.0,3.508
-681882,Colin Selby,RP,0.06,0.492
-673540,Kodai Senga,SP,0.027,0.699
-622608,Antonio Senzatela,SP,-0.009,1.395
-622663,Luis Severino,SP,10.0,10.312
-623149,Paul Sewald,RP,0.16,2.342
-543766,Bryan Shaw,RP,-0.06,0.806
-592741,Chasen Shreve,RP,0.027,3.049
-663767,Chase Shugart,RP,0.009,0.535
-694363,Jared Shuster,RP,1.601,0.571
-681217,Chase Silseth,SP,-0.057,0.555
-608371,Lucas Sims,RP,-0.296,1.661
-663903,Brady Singer,SP,10.0,2.016
-694973,Paul Skenes,SP,10.0,0.597
-669373,Tarik Skubal,SP,10.0,4.291
-686580,Justin Slaten,RP,3.851,0.651
-572143,Burch Smith,RP,0.136,2.528
-671922,Cade Smith,RP,6.988,0.876
-642086,Dominic Smith,RP,0.033,0.289
-622098,Drew Smith,RP,0.054,0.678
-656976,Pavin Smith,RP,0.009,0.302
-519293,Will Smith,RP,-2.356,3.73
-700363,AJ Smith-Shawver,SP,0.087,0.636
-592767,Drew Smyly,RP,0.017,2.232
-669912,Kirby Snead,RP,0.006,0.625
-605483,Blake Snell,SP,10.0,3.064
-676092,Collin Snider,RP,1.246,0.78
-666277,George Soriano,RP,-2.0,0.545
-667755,Jos\xc3\xa9 Soriano,SP,6.903,0.75
-647336,Michael Soroka,RP,4.431,0.707
-642397,Gregory Soto,RP,2.414,1.263
-666208,Alex Speas,RP,0.003,0.199
-642100,Gabe Speier,RP,-1.341,0.785
-687765,Mitch Spence,SP,10.0,1.017
-686730,Carson Spiers,RP,4.973,0.738
-605488,Jeffrey Springs,SP,2.961,3.156
-592773,Ryne Stanek,RP,2.716,3.479
-622251,Josh Staumont,RP,0.68,1.217
-657006,Justin Steele,SP,10.0,1.732
-683021,Michael Stefanic,RP,0.009,0.302
-623451,Jackson Stephens,RP,0.015,0.513
-686993,Justin Sterner,RP,0.006,0.457
-592779,Brock Stewart,RP,-0.024,1.194
-694813,Gavin Stone,SP,10.0,0.759
-621381,Matt Strahm,RP,3.592,3.468
-608717,Chris Stratton,RP,-1.528,2.85
-676702,Hunter Stratton,RP,0.713,0.659
-519326,Hunter Strickland,RP,-0.884,2.666
-675911,Spencer Strider,SP,-0.03,0.58
-548389,Ross Stripling,SP,0.782,4.426
-573186,Marcus Stroman,SP,7.305,9.135
-657265,Peter Strzelecki,RP,0.066,0.648
-596117,Garrett Stubbs,RP,-0.066,0.615
-544150,Albert Su\xc3\xa1rez,SP,6.782,0.75
-660761,Jos\xc3\xa9 Suarez,RP,3.798,0.75
-624133,Ranger Su\xc3\xa1rez,SP,10.0,0.75
-663158,Robert Suarez,RP,1.348,2.82
-593833,Wander Suero,RP,0.0,1.58
-642121,Cole Sulser,RP,0.126,1.372
-608718,Brent Suter,RP,-0.168,2.37
-657024,Erik Swanson,RP,-0.495,1.453
-592791,Jameson Taillon,SP,10.0,10.423
-622253,Dillon Tate,RP,-1.681,1.098
-700187,Troy Taylor,RP,0.027,0.538
-527054,Julio Teheran,SP,-0.06,0.651
-642133,Rowdy Tellez,RP,-0.006,0.297
-678906,Kai-Wei Teng,RP,-0.081,0.523
-573204,Caleb Thielbar,RP,-0.04,5.114
-624522,Keegan Thompson,RP,0.203,0.855
-657044,Ryan Thompson,RP,0.655,2.732
-668868,Zack Thompson,RP,-0.195,0.542
-663423,Trent Thornton,RP,2.078,2.023
-689672,Drew Thorpe,SP,-0.265,0.575
-622786,Jes\xc3\xbas Tinoco,RP,1.344,0.75
-543859,Michael Tonkin,RP,2.284,2.342
-623437,Justin Topa,RP,0.051,1.096
-620443,Luis Torrens,RP,0.003,0.302
-657053,Touki Toussaint,RP,-2.0,0.602
-595014,Blake Treinen,RP,2.351,3.432
-624431,Jose Trevino,RP,-0.024,0.454
-657061,Cole Tucker,RP,0.009,0.226
-605513,Spencer Turnbull,RP,2.38,1.706
-667725,Kyle Tyler,SP,0.023,0.64
-670955,Edwin Uceta,RP,5.275,0.611
-570632,Jos\xc3\xa9 Ure\xc3\xb1a,RP,3.673,0.75
-682842,Abner Uribe,RP,-0.132,0.52
-683822,Naoyuki Uwasawa,RP,0.036,0.544
-664285,Framber Valdez,SP,10.0,7.551
-676568,Ricky Vanasco,RP,-0.003,0.485
-545121,Ildemaro Vargas,RP,0.003,1.113
-681402,Gus Varland,RP,1.059,0.677
-686973,Louis Varland,RP,2.703,0.604
-681190,Randy V\xc3\xa1squez,SP,3.094,0.75
-685107,Anthony Veneziano,RP,0.057,0.552
-434378,Justin Verlander,SP,3.133,3.945
-681911,Alex Vesia,RP,1.816,1.009
-663989,Nick Vespi,RP,0.06,0.598
-676684,Will Vest,RP,2.041,1.273
-600986,Thyago Vieira,RP,-0.28,1.18
-681871,Eli Villalobos,RP,0.033,0.428
-670241,Darius Vines,RP,-0.141,0.506
-680767,Victor Vodnik,RP,1.739,0.534
-608723,Austin Voth,RP,1.101,2.744
-608379,Michael Wacha,SP,10.0,13.207
-621097,Jacob Waguespack,RP,-0.024,0.508
-694462,Hurston Waldrep,SP,-0.18,0.56
-663362,Matt Waldron,SP,10.0,0.912
-677020,Josh Walker,RP,0.0,0.615
-676254,Ryan Walker,RP,5.024,1.54
-592836,Taijuan Walker,SP,-0.366,4.548
-670242,Matt Wallner,RP,0.015,0.187
-686796,Blake Walston,RP,-0.024,0.534
-689958,Andrew Walters,RP,0.093,0.572
-622268,Donovan Walton,RP,0.009,0.573
-681806,Andrew Wantz,RP,-0.006,0.178
-681810,Austin Warren,RP,0.075,0.615
-701542,Will Warren,SP,-2.0,0.343
-677960,Ryan Weathers,SP,7.164,0.616
-596133,Luke Weaver,RP,5.908,1.918
-657097,Jacob Webb,RP,0.493,2.01
-657277,Logan Webb,SP,10.0,3.611
-607179,Jordan Weems,RP,-1.703,2.622
-669711,Greg Weissert,RP,0.456,1.35
-669330,Tyler Wells,SP,-0.075,1.564
-666214,Joey Wentz,RP,3.581,0.641
-669713,Hayden Wesneski,RP,3.039,0.642
-554430,Zack Wheeler,SP,10.0,18.019
-669952,Mitch White,RP,-2.0,0.706
-669391,Owen White,RP,-0.084,0.538
-666215,Forrest Whitley,RP,0.0,0.445
-676477,Garrett Whitlock,SP,0.246,0.958
-696136,Jordan Wicks,SP,1.402,0.573
-642207,Devin Williams,RP,4.658,1.057
-668909,Gavin Williams,SP,5.479,0.596
-663897,Luke Williams,RP,0.006,0.463
-592866,Trevor Williams,SP,4.237,12.322
-682227,Brandon Williamson,SP,0.078,0.634
-686294,Amos Willingham,RP,-0.018,0.426
-669060,Bryse Wilson,RP,4.014,0.637
-458677,Justin Wilson,RP,0.011,3.05
-621051,Steven Wilson,RP,-1.285,1.002
-642215,Weston Wilson,RP,0.009,0.248
-642216,Allan Winans,SP,-0.177,0.519
-670174,Josh Winckowski,RP,2.772,0.655
-680739,Josh Winder,RP,0.033,0.485
-622259,Trey Wingenter,RP,-0.051,0.559
-668390,Cole Winn,RP,-0.135,0.52
-676775,Keaton Winn,SP,2.127,0.778
-621550,Patrick Wisdom,RP,0.003,1.396
-693433,Bryan Woo,SP,10.0,0.626
-622072,Alex Wood,SP,-0.895,3.068
-663765,Jake Woodford,SP,-1.556,0.697
-680573,Simeon Woods Richardson,SP,8.954,0.628
-680736,Justin Wrobleski,SP,-1.036,0.56
-808967,Yoshinobu Yamamoto,SP,9.99,0.638
-642232,Ryan Yarbrough,RP,0.551,1.932
-573262,Mike Yastrzemski,RP,-0.021,1.636
-489446,Kirby Yates,RP,3.963,5.862
-622065,Alex Young,RP,0.084,0.7
-664849,Danny Young,RP,1.238,1.672
-642239,Rob Zastryzny,RP,0.093,1.111
-666171,Ryan Zeferjahn,RP,0.144,0.603
-672582,Angel Zerpa,RP,0.648,0.617
-676604,Tyler Zuber,RP,0.021,0.442
-691172,Yosver Zulueta,RP,0.018,0.534
-670871,Guillo Zu\xc3\xb1iga,RP,0.0,0.75
+player_id,name,position,xwar,cost,actual_war_2025,war_2025,g_2025,market_cost,team_or_fa,locked
+682928,CJ Abrams,SS,4.27,0.828,3.802,3.38,144.0,0.781,Washington Nationals,True
+547989,Jos\xc3\xa9 Abreu,1B,-2.115,6.16,,,,,FA,False
+677800,Wilyer Abreu,LF,2.862,0.586,4.483,3.21,116.0,0.78,Boston Red Sox,True
+682668,Luisangel Acu\xc3\xb1a,SS,1.505,1.273,0.955,0.56,95.0,0.766,New York Mets,True
+660670,Ronald Acu\xc3\xb1a Jr.,RF,1.336,1.465,5.065,2.97,95.0,17.0,Atlanta Braves,True
+642715,Willy Adames,SS,3.559,5.373,3.8,3.73,159.0,10.0,FA,False
+677941,Jordyn Adams,CF,-0.617,0.769,,,,,FA,False
+656180,Riley Adams,C,0.986,0.955,0.703,0.36,83.0,0.85,Washington Nationals,True
+666176,Jo Adell,RF,1.939,0.703,1.268,1.19,152.0,2.1,Los Angeles Angels,True
+501303,Ehire Adrianza,SS,0.068,1.865,,,,,FA,False
+605113,Nick Ahmed,SS,-0.009,5.739,,,,,FA,False
+645277,Ozzie Albies,2B,2.818,1.402,2.167,2.1,157.0,7.0,Atlanta Braves,True
+677942,Blaze Alexander,SS,0.546,0.683,3.612,1.65,74.0,0.766,Arizona Diamondbacks,True
+669397,Nick Allen,SS,0.92,0.669,0.744,0.62,135.0,0.78,FA,False
+624413,Pete Alonso,1B,3.03,18.965,3.43,3.43,162.0,20.0,New York Mets,True
+514888,Jose Altuve,2B,3.05,16.99,0.512,0.49,155.0,30.0,Houston Astros,True
+669137,Armando Alvarez,3B,-0.898,0.643,,,,,FA,False
+682626,Francisco Alvarez,C,0.701,0.627,4.029,1.89,76.0,0.795,New York Mets,True
+805373,Nacho Alvarez Jr.,RF,-1.899,0.163,2.123,0.76,58.0,,Atlanta Braves,True
+670541,Yordan Alvarez,DH,6.098,9.043,2.261,0.67,48.0,15.0,Houston Astros,True
+691182,Adael Amador,SS,-0.629,0.597,-4.9,-1.24,41.0,0.76,Colorado Rockies,True
+676070,Jacob Amaya,SS,0.737,0.724,-4.545,-1.01,36.0,0.762,Chicago White Sox,True
+665804,Miguel Amaya,C,1.563,0.55,6.249,1.08,28.0,0.782,Chicago Cubs,True
+641313,Tim Anderson,SS,-0.614,3.801,-0.157,-0.03,31.0,1.25,FA,False
+609280,Miguel Andujar,3B,1.025,5.521,1.381,0.81,95.0,3.0,FA,False
+666018,Jonathan Aranda,1B,0.569,0.841,5.364,3.51,106.0,0.766,Tampa Bay Rays,True
+606115,Orlando Arcia,2B,1.114,10.056,-2.601,-1.2200000000000002,76.0,1.923,FA,False
+571448,Nolan Arenado,3B,2.682,10.822,1.972,1.29,106.0,32.0,St. Louis Cardinals,True
+672356,Gabriel Arias,SS,0.163,0.608,1.301,1.06,132.0,0.77,Cleveland Guardians,True
+668227,Randy Arozarena,LF,2.933,11.246,3.796,4.03,172.0,11.3,Seattle Mariners,True
+650333,Luis Arr\xc3\xa1ez,2B,2.67,4.012,1.269,1.23,157.0,14.0,San Diego Padres,True
+640492,Jos\xc3\xa9 Azocar,LF,-0.295,0.665,-0.347,-0.03,14.0,0.76,San Diego Padres,True
+668731,Akil Baddoo,LF,-0.245,0.762,5.554,0.24,7.0,0.85,Detroit Tigers,True
+664056,Harrison Bader,CF,1.074,2.212,4.284,3.94,149.0,4.0,FA,False
+678225,Ji Hwan Bae,CF,0.288,0.698,-4.86,-0.39,13.0,,Pittsburgh Pirates,True
+595879,Javier B\xc3\xa1ez,SS,0.442,5.318,2.285,1.89,134.0,25.0,Detroit Tigers,True
+672275,Patrick Bailey,C,2.581,0.948,1.356,1.13,135.0,0.78,San Francisco Giants,True
+671117,Darren Baker,2B,-2.311,0.591,,,,,FA,False
+663609,Luken Baker,1B,-0.228,0.795,-0.426,-0.05,19.0,0.766,St. Louis Cardinals,True
+681460,Brooks Baldwin,3B,0.703,0.725,-0.802,-0.51,103.0,0.763,Chicago White Sox,True
+680718,Addison Barger,3B,1.421,0.718,1.268,1.19,152.0,0.76,Toronto Blue Jays,True
+605131,Austin Barnes,C,0.005,3.722,-3.365,-0.27,13.0,3.5,Los Angeles Dodgers,True
+571466,Tucker Barnhart,C,0.246,2.826,0.202,0.01,8.0,0.188,Arizona Diamondbacks,True
+678489,Jorge Barrosa,RF,0.218,0.471,-3.633,-0.74,33.0,0.76,Arizona Diamondbacks,True
+663698,Joey Bart,C,2.202,0.891,0.906,0.52,93.0,1.175,Pittsburgh Pirates,True
+683146,Brett Baty,3B,0.91,0.858,3.906,3.11,129.0,0.774,New York Mets,True
+641343,Jake Bauers,1B,0.444,3.156,1.157,0.65,91.0,1.4,Milwaukee Brewers,True
+687597,Jordan Beck,LF,-0.417,0.681,0.963,0.88,148.0,0.762,Colorado Rockies,True
+605137,Josh Bell,1B,0.171,12.273,0.498,0.43,140.0,6.0,FA,False
+641355,Cody Bellinger,CF,2.997,4.056,5.145,5.05,159.0,27.5,New York Yankees,True
+643217,Andrew Benintendi,LF,0.096,4.502,1.355,0.97,116.0,16.5,Chicago White Sox,True
+666181,Will Benson,CF,-1.286,1.005,1.05,0.59,91.0,0.76,Cincinnati Reds,True
+672642,Steward Berroa,RF,0.725,0.661,,,,,FA,False
+542932,Jon Berti,SS,1.213,4.333,0.604,0.19,51.0,2.0,FA,False
+542194,Christian Bethancourt,C,0.172,0.654,,,,,FA,False
+605141,Mookie Betts,RF,4.315,16.823,4.744,4.89,167.0,25.0,Los Angeles Dodgers,True
+666182,Bo Bichette,SS,1.311,1.186,3.872,3.49,146.0,16.5,Toronto Blue Jays,True
+624415,Cavan Biggio,2B,0.361,1.602,-0.788,-0.18,37.0,2.0,FA,False
+672012,Tyler Black,2B,0.101,0.689,,,,,FA,False
+453568,Charlie Blackmon,DH,0.484,5.282,,,,,FA,False
+680118,Dairon Blanco,LF,-0.002,1.13,,,,,FA,False
+663905,Travis Blankenhorn,3B,-0.832,0.653,,,,,FA,False
+668709,JJ Bleday,CF,2.005,2.171,-0.43,-0.26,98.0,,Oakland Athletics,True
+669208,Ryan Bliss,SS,0.708,0.681,-2.504,-0.17,11.0,0.762,Seattle Mariners,True
+593428,Xander Bogaerts,SS,2.329,5.816,2.319,1.99,139.0,25.0,San Diego Padres,True
+664761,Alec Bohm,1B,3.887,3.552,1.907,1.46,124.0,7.7,Philadelphia Phillies,True
+623520,David Bote,2B,-0.187,0.619,,,,,FA,False
+656248,Sean Bouchard,1B,-0.75,1.018,-4.759,-0.94,32.0,0.765,Colorado Rockies,True
+608324,Alex Bregman,3B,4.268,16.698,4.791,3.46,117.0,35.0,FA,False
+686823,Will Brennan,RF,0.302,2.273,-5.67,-0.21,6.0,0.76,Cleveland Guardians,True
+681146,Jonah Bride,3B,0.78,3.387,-2.484,-0.69,45.0,0.772,FA,False
+670092,Trenton Brooks,1B,-0.362,0.631,-3.11,-0.48,25.0,0.76,FA,False
+664913,Seth Brown,RF,-0.242,5.869,-3.069,-0.72,38.0,2.7,Oakland Athletics,True
+660644,Vidal Bruj\xc3\xa1n,2B,1.292,0.756,0.378,0.1399999999999999,60.0,0.784,FA,False
+592178,Kris Bryant,RF,-1.577,7.437,-7.658,-0.52,11.0,26.0,Colorado Rockies,True
+669394,Jake Burger,3B,1.916,17.531,1.353,0.86,103.0,0.79,FA,False
+676475,Alec Burleson,RF,2.383,0.806,2.133,1.83,139.0,0.779,St. Louis Cardinals,True
+683737,Michael Busch,2B,2.003,1.595,4.532,4.56,163.0,0.78,Chicago Cubs,True
+671732,Lawrence Butler,RF,2.788,0.814,2.046,1.92,152.0,2.25,Oakland Athletics,True
+621439,Byron Buxton,CF,3.78,7.243,6.274,4.88,126.0,15.0,Minnesota Twins,True
+676609,Jos\xc3\xa9 Caballero,SS,1.528,0.704,3.654,2.91,129.0,0.777,FA,False
+663550,Trey Cabbage,3B,0.269,0.853,,,,,FA,False
+665828,Oswaldo Cabrera,LF,1.166,0.708,1.763,0.37,34.0,0.826,New York Yankees,True
+641432,Willie Calhoun,LF,-0.109,1.966,,,,,FA,False
+669743,Alex Call,LF,1.697,2.586,2.008,1.4500000000000002,117.0,0.769,FA,False
+663662,Daz Cameron,LF,-0.242,0.786,-3.549,-0.46,21.0,0.76,FA,False
+691406,Junior Caminero,SS,1.857,0.973,4.608,4.38,154.0,0.764,Tampa Bay Rays,True
+672569,Gustavo Campero,CF,-0.396,0.799,-1.851,-0.32,28.0,0.76,Los Angeles Angels,True
+669134,Luis Campusano,C,-0.131,0.704,-6.48,-0.4,10.0,1.0,San Diego Padres,True
+672744,Alexander Canario,RF,0.895,0.464,0.912,0.49,87.0,0.76,FA,False
+600869,Jeimer Candelario,3B,-0.683,7.68,-6.406,-0.87,22.0,15.0,Cincinnati Reds,True
+592192,Mark Canha,LF,0.612,4.607,-3.557,-1.01,46.0,1.4,FA,False
+686527,Dominic Canzone,RF,0.509,0.773,2.87,1.63,92.0,0.76,Seattle Mariners,True
+605170,Victor Caratini,C,0.867,1.38,1.236,0.87,114.0,6.0,Houston Astros,True
+666185,Dylan Carlson,CF,-1.006,0.68,-1.327,-0.68,83.0,0.975,FA,False
+681481,Kerry Carpenter,LF,1.096,0.845,2.066,1.76,138.0,0.797,Detroit Tigers,True
+572761,Matt Carpenter,3B,-0.9,1.807,,,,,FA,False
+682998,Corbin Carroll,RF,4.889,0.773,6.559,5.79,143.0,5.0,Arizona Diamondbacks,True
+694497,Evan Carter,LF,1.608,0.926,4.911,1.91,63.0,0.76,Texas Rangers,True
+592200,Curt Casali,C,0.026,3.113,,,,,FA,False
+671213,Triston Casas,1B,0.453,0.772,-4.748,-0.85,29.0,0.774,Boston Red Sox,True
+592206,Nick Castellanos,RF,1.108,5.536,-0.88,-0.82,151.0,20.0,Philadelphia Phillies,True
+650489,Willi Castro,SS,2.354,2.25,-0.202,-0.1499999999999999,120.0,6.4,FA,False
+595909,Jake Cave,LF,-1.124,7.138,,,,,FA,False
+665953,Andr\xc3\xa9s Chaparro,DH,-0.012,0.745,-1.763,-0.37,34.0,0.822,Washington Nationals,True
+656305,Matt Chapman,3B,6.101,16.06,5.255,4.12,127.0,25.0,San Francisco Giants,True
+665862,Jazz Chisholm Jr.,CF,2.744,3.107,4.931,4.17,137.0,5.85,New York Yankees,True
+694192,Jackson Chourio,LF,3.75,0.823,2.58,2.23,140.0,4.0,Milwaukee Brewers,True
+682729,Jonatan Clase,CF,0.05,0.721,-0.762,-0.16,34.0,0.76,Toronto Blue Jays,True
+665019,Kody Clemens,2B,0.344,0.865,1.416,1.0399999999999998,119.0,0.771,FA,False
+676391,Ernie Clement,2B,2.652,1.069,3.99,4.31,175.0,1.97,Toronto Blue Jays,True
+693049,Oscar Col\xc3\xa1s,RF,0.552,0.726,,,,,FA,False
+686555,Isaac Collins,2B,-0.374,0.733,2.442,2.05,136.0,0.761,Milwaukee Brewers,True
+624424,Michael Conforto,RF,2.115,3.681,-0.851,-0.72,137.0,8.5,FA,False
+665052,Griffin Conine,RF,1.084,0.883,0.473,0.07,24.0,0.762,Miami Marlins,True
+661388,William Contreras,C,5.27,4.34,3.943,3.87,159.0,6.0,Milwaukee Brewers,True
+575929,Willson Contreras,C,3.083,17.577,2.952,2.46,135.0,18.0,St. Louis Cardinals,True
+695257,Billy Cook,RF,1.279,0.749,,,,,FA,False
+643265,Garrett Cooper,1B,-1.323,3.366,,,,,FA,False
+621043,Carlos Correa,SS,3.449,14.209,1.642,1.46,144.0,36.0,FA,False
+681297,Colton Cowser,LF,2.464,0.844,1.761,1.0,92.0,0.774,Baltimore Orioles,True
+543063,Brandon Crawford,SS,0.018,3.026,,,,,FA,False
+641487,J.P. Crawford,SS,3.613,4.958,3.595,3.75,169.0,10.0,Seattle Mariners,True
+686611,Dylan Crews,RF,1.685,0.744,0.61,0.32,85.0,0.762,Washington Nationals,True
+630105,Jake Cronenworth,1B,2.599,9.674,2.794,2.38,138.0,11.0,San Diego Padres,True
+691718,Pete Crow-Armstrong,CF,2.565,0.692,5.852,5.96,165.0,0.771,Chicago Cubs,True
+665833,Oneil Cruz,SS,3.894,0.842,0.408,0.34,135.0,0.785,Pittsburgh Pirates,True
+518595,Travis d\'Arnaud,C,0.699,7.385,-0.751,-0.32,69.0,6.0,FA,False
+621311,David Dahl,DH,0.294,0.99,,,,,FA,False
+666915,Bobby Dalbec,1B,-0.873,1.44,0.0,0.0,7.0,0.108,Boston Red Sox,True
+680779,Henry Davis,C,0.243,0.706,1.248,0.67,87.0,0.76,Pittsburgh Pirates,True
+605204,J.D. Davis,3B,-0.867,2.987,,,,,FA,False
+650559,Bryan De La Cruz,LF,0.289,2.662,-2.43,-0.24,16.0,0.86,FA,False
+682829,Elly De La Cruz,SS,5.153,1.903,3.526,3.57,164.0,0.77,Cincinnati Reds,True
+665782,Luis De Los Santos,SS,0.826,0.748,,,,,FA,False
+657557,Paul DeJong,SS,0.34,2.01,-0.369,-0.13,57.0,1.0,FA,False
+680728,Adrian Del Castillo,C,0.396,0.681,-0.331,-0.09,44.0,0.76,Arizona Diamondbacks,True
+641511,Jason Delay,C,-0.007,0.967,,,,,FA,False
+676113,Zach DeLoach,RF,0.108,0.737,,,,,FA,False
+676356,Jonny DeLuca,LF,1.041,0.698,4.779,0.59,20.0,0.77,Tampa Bay Rays,True
+646240,Rafael Devers,3B,4.06,8.543,4.115,4.140000000000001,163.0,27.5,San Francisco Giants,True
+701305,Zach Dezenzo,SS,-0.069,0.747,0.286,0.06,34.0,0.763,Houston Astros,True
+649557,Aledmys D\xc3\xadaz,SS,-0.576,1.149,,,,,FA,False
+553869,Elias D\xc3\xadaz,C,0.91,7.457,-0.29,-0.19,106.0,2.0,San Diego Padres,True
+673237,Yainer Diaz,C,4.187,0.797,3.002,2.65,143.0,0.806,Houston Astros,True
+650490,Yandy D\xc3\xadaz,1B,2.737,12.745,3.661,3.39,150.0,10.0,Tampa Bay Rays,True
+693307,Dillon Dingler,C,0.051,0.701,3.788,3.11,133.0,0.763,Detroit Tigers,True
+691176,Jasson Dom\xc3\xadnguez,CF,0.934,0.714,0.705,0.54,124.0,0.774,New York Yankees,True
+680977,Brendan Donovan,2B,3.149,6.422,3.693,2.69,118.0,2.85,St. Louis Cardinals,True
+686668,Brenton Doyle,CF,3.002,3.439,0.059,0.05,138.0,0.765,Colorado Rockies,True
+686482,Logan Driscoll,C,0.218,0.799,,,,,FA,False
+592273,Brandon Drury,3B,0.553,6.478,,,,,FA,False
+643289,Mauricio Dub\xc3\xb3n,2B,0.842,2.095,2.01,1.65,133.0,5.0,Houston Astros,True
+694362,Blake Dunn,RF,-0.113,0.258,-0.702,-0.13,30.0,0.762,Cincinnati Reds,True
+686554,Oliver Dunn,2B,1.143,0.755,-2.661,-0.23,14.0,0.764,Milwaukee Brewers,True
+677649,Ezequiel Duran,2B,0.933,0.667,0.324,0.18,90.0,0.776,Texas Rangers,True
+680776,Jarren Duran,CF,7.004,13.853,4.718,4.66,160.0,3.75,Boston Red Sox,True
+594807,Adam Duvall,RF,-0.664,6.301,,,,,FA,False
+669242,Tommy Edman,SS,1.289,2.232,1.577,1.1,113.0,5.0,Los Angeles Dodgers,True
+669364,Xavier Edwards,SS,2.972,0.694,3.753,3.22,139.0,0.772,Miami Marlins,True
+666464,Jerar Encarnacion,LF,0.46,1.328,0.341,0.04,19.0,0.77,San Francisco Giants,True
+687952,Christian Encarnacion-Strand,3B,-1.29,0.694,-2.745,-0.61,36.0,0.77,Cincinnati Reds,True
+669289,Santiago Espinal,3B,0.178,4.044,-1.989,-1.4,114.0,2.4,Cincinnati Reds,True
+642731,Thairo Estrada,2B,0.807,3.486,-1.495,-0.36,39.0,3.25,FA,False
+656413,Stuart Fairchild,CF,0.364,1.056,-1.736,-0.3,28.0,0.76,FA,False
+571657,Kyle Farmer,SS,-0.239,2.993,-1.269,-0.76,97.0,2.5,FA,False
+676439,Hunter Feduccia,C,-0.444,0.247,-1.961,-0.4599999999999999,38.0,0.76,FA,False
+666023,Freddy Fermin,C,2.124,4.318,2.864,1.98,112.0,0.782,FA,False
+665877,Jos\xc3\xa9 Ferm\xc3\xadn,2B,0.157,0.702,4.266,0.79,30.0,0.76,St. Louis Cardinals,True
+666149,Tyler Fitzgerald,SS,1.734,0.893,1.912,0.85,72.0,0.78,San Francisco Giants,True
+666150,Dominic Fletcher,RF,-0.03,0.811,3.51,0.26,12.0,0.76,Chicago White Sox,True
+527038,Wilmer Flores,1B,-0.533,4.416,0.376,0.29,125.0,3.5,San Francisco Giants,True
+664314,Estevan Florial,LF,0.325,0.879,,,,,FA,False
+645801,Mike Ford,1B,-1.544,1.421,,,,,FA,False
+663743,Nick Fortes,C,1.041,0.892,1.169,0.7,97.0,1.86,FA,False
+679822,Justin Foscue,2B,-0.916,0.7,,,,,FA,False
+641584,Jake Fraley,RF,-0.289,2.404,0.725,0.3399999999999999,76.0,3.125,FA,False
+664034,Ty France,1B,0.453,8.315,1.146,0.99,140.0,1.0,FA,False
+624428,Adam Frazier,2B,0.411,1.079,1.68,1.39,134.0,1.525,Kansas City Royals,True
+518692,Freddie Freeman,1B,3.341,7.255,3.447,3.49,164.0,27.0,Los Angeles Dodgers,True
+671289,Tyler Freeman,SS,2.301,0.53,-1.87,-1.27,110.0,0.776,FA,False
+686217,Sal Frelick,SS,2.45,0.791,3.229,3.01,151.0,0.772,Milwaukee Brewers,True
+670770,TJ Friedl,CF,0.461,10.435,2.451,2.33,154.0,,Cincinnati Reds,True
+681807,David Fry,C,0.438,1.557,-2.013,-0.82,66.0,0.782,Cleveland Guardians,True
+608336,Joey Gallo,1B,-0.235,1.403,,,,,FA,False
+592325,Ben Gamel,RF,-0.209,1.056,,,,,FA,False
+666969,Adolis Garc\xc3\xada,RF,0.689,4.068,3.288,2.74,135.0,10.5,Texas Rangers,True
+541645,Avisa\xc3\xadl Garc\xc3\xada,RF,-1.031,0.683,,,,,FA,False
+671277,Luis Garc\xc3\xada Jr.,2B,2.859,0.868,0.501,0.43,139.0,4.5,Washington Nationals,True
+672580,Maikel Garcia,SS,2.989,0.734,5.842,5.77,160.0,0.775,Kansas City Royals,True
+641598,Mitch Garver,C,-0.077,6.762,-0.209,-0.12,93.0,11.5,Seattle Mariners,True
+681508,Mickey Gasper,1B,0.72,0.887,-1.224,-0.34,45.0,0.762,FA,False
+680869,Zack Gelof,3B,1.183,1.723,-0.486,-0.09,30.0,0.765,Oakland Athletics,True
+665926,Andr\xc3\xa9s Gim\xc3\xa9nez,2B,3.267,0.855,1.497,1.1,119.0,10.0,FA,False
+502671,Paul Goldschmidt,1B,2.48,3.798,1.277,1.19,151.0,12.5,FA,False
+543228,Yan Gomes,C,-0.945,4.432,,,,,FA,False
+693304,Nick Gonzales,SS,2.23,0.786,-0.928,-0.55,96.0,0.775,Pittsburgh Pirates,True
+663853,Romy Gonzalez,2B,0.611,0.822,3.224,1.97,99.0,0.774,Boston Red Sox,True
+696100,Hunter Goodman,C,0.254,0.745,4.151,3.69,144.0,0.765,Colorado Rockies,True
+592348,Niko Goodrum,2B,-1.599,0.779,,,,,FA,False
+624503,Nick Gordon,SS,-1.226,1.9,,,,,FA,False
+669357,Nolan Gorman,3B,0.741,0.692,0.103,0.07,110.0,0.783,St. Louis Cardinals,True
+518735,Yasmani Grandal,C,0.198,8.348,,,,,FA,False
+656484,Tristan Gray,SS,0.669,0.711,1.242,0.23,30.0,0.76,FA,False
+682985,Riley Greene,CF,3.65,2.377,2.111,2.15,165.0,0.812,Detroit Tigers,True
+545341,Randal Grichuk,RF,1.092,1.321,-1.104,-0.77,113.0,2.0,FA,False
+663757,Trent Grisham,CF,0.401,0.828,3.802,3.52,150.0,5.0,New York Yankees,True
+687093,Vaughn Grissom,SS,0.524,0.733,,,,,FA,False
+543257,Robbie Grossman,RF,-0.447,3.348,,,,,FA,False
+665489,Vladimir Guerrero Jr.,1B,6.469,5.351,4.264,4.58,174.0,28.5,Toronto Blue Jays,True
+641645,Luis Guillorme,SS,0.319,0.881,-3.105,-0.23,12.0,0.213,Arizona Diamondbacks,True
+666971,Lourdes Gurriel Jr.,LF,2.093,5.153,0.628,0.5,129.0,14.0,Arizona Diamondbacks,True
+493329,Yuli Gurriel,RF,0.118,8.23,-4.759,-0.47,16.0,,FA,False
+606992,Eric Haase,C,0.133,0.782,0.864,0.16,30.0,1.35,Milwaukee Brewers,True
+664059,Sam Haggerty,2B,-0.285,0.272,2.202,0.87,64.0,0.9,Texas Rangers,True
+666152,David Hamilton,SS,2.779,0.786,1.727,0.97,91.0,0.78,Boston Red Sox,True
+641658,Garrett Hampson,SS,0.216,0.865,-1.045,-0.3999999999999999,62.0,1.038,FA,False
+571745,Mitch Haniger,LF,0.131,5.874,,,,,FA,False
+664023,Ian Happ,LF,2.926,13.428,4.081,3.98,158.0,20.0,Chicago Cubs,True
+547180,Bryce Harper,1B,3.942,13.929,3.669,3.08,136.0,26.0,Philadelphia Phillies,True
+695391,Brett Harris,3B,0.025,1.214,4.151,0.82,32.0,0.76,Oakland Athletics,True
+671739,Michael Harris II,CF,3.723,0.734,2.207,2.18,160.0,8.0,Atlanta Braves,True
+663647,Ke\'Bryan Hayes,3B,1.977,0.631,1.599,1.52,154.0,7.0,Cincinnati Reds,True
+669720,Austin Hays,LF,0.092,2.066,1.188,0.77,105.0,4.0,FA,False
+595978,Austin Hedges,C,-0.864,1.644,-1.024,-0.43,68.0,4.0,Cleveland Guardians,True
+641680,Jonah Heim,C,1.496,2.013,0.483,0.37,124.0,4.575,Texas Rangers,True
+623168,Tyler Heineman,C,1.64,0.846,4.912,1.88,62.0,0.78,FA,False
+683002,Gunnar Henderson,SS,6.988,1.481,5.607,5.33,154.0,0.782,Baltimore Orioles,True
+682073,David Hensley,SS,-0.764,0.579,,,,,FA,False
+687231,Darell Hernaiz,SS,-0.132,0.695,-0.667,-0.21,51.0,0.76,Oakland Athletics,True
+571771,Enrique Hern\xc3\xa1ndez,SS,1.128,4.696,0.342,0.23,109.0,6.5,Los Angeles Dodgers,True
+606192,Teoscar Hern\xc3\xa1ndez,RF,1.962,9.415,1.577,1.47,151.0,10.0,Los Angeles Dodgers,True
+671056,Iv\xc3\xa1n Herrera,C,1.944,0.722,3.361,2.22,107.0,0.77,St. Louis Cardinals,True
+645444,Jos\xc3\xa9 Herrera,C,-0.441,0.73,0.057,0.02,57.0,0.772,Arizona Diamondbacks,True
+518792,Jason Heyward,RF,0.977,4.316,-2.716,-0.57,34.0,1.0,FA,False
+543305,Aaron Hicks,CF,-1.477,1.83,,,,,FA,False
+543309,Kyle Higashioka,C,0.634,5.027,2.74,1.59,94.0,5.75,FA,False
+656537,Derek Hill,LF,0.118,1.221,3.041,1.0699999999999998,57.0,0.831,FA,False
+656541,Sam Hilliard,CF,0.177,0.681,-1.458,-0.18,20.0,1.0,Colorado Rockies,True
+677956,Rece Hinds,RF,0.797,0.704,-4.104,-0.38,15.0,0.76,Cincinnati Reds,True
+669374,Keston Hiura,2B,-1.764,0.359,-0.607,-0.03,8.0,0.76,FA,False
+663538,Nico Hoerner,2B,4.099,7.004,6.115,6.19,164.0,11.5,Chicago Cubs,True
+702616,Jackson Holliday,2B,0.819,0.734,1.131,1.04,149.0,0.765,Baltimore Orioles,True
+687462,Spencer Horwitz,1B,1.436,0.8,2.355,1.57,108.0,0.768,FA,False
+656555,Rhys Hoskins,DH,0.074,7.771,1.566,0.87,90.0,18.0,Milwaukee Brewers,True
+674441,Jacob Hurtubise,CF,-0.338,0.897,-1.89,-0.14,12.0,0.762,Cincinnati Reds,True
+628451,Andy Ib\xc3\xa1\xc3\xb1ez,2B,0.533,1.22,1.109,0.63,92.0,1.4,Detroit Tigers,True
+578428,Jose Iglesias,3B,2.735,19.709,-0.952,-0.67,114.0,3.0,FA,False
+663697,Jonathan India,2B,2.858,3.292,0.429,0.36,136.0,7.05,FA,False
+664728,Kyle Isbel,CF,1.27,0.876,1.944,1.62,135.0,1.75,Kansas City Royals,True
+656577,Alex Jackson,C,0.573,0.668,3.33,0.74,36.0,0.76,FA,False
+608671,Travis Jankowski,LF,-0.14,4.024,-1.685,-0.26,25.0,0.269,FA,False
+643376,Danny Jansen,C,1.201,4.83,4.596,2.78,98.0,8.0,FA,False
+680777,Ryan Jeffers,C,1.98,1.473,1.647,1.21,119.0,4.55,Minnesota Twins,True
+650391,Eloy Jim\xc3\xa9nez,DH,0.653,0.902,,,,,FA,False
+677870,Leo Jimenez,RF,1.62,0.727,-2.97,-0.33,18.0,,Toronto Blue Jays,True
+656582,Connor Joe,LF,0.041,6.577,-2.507,-0.65,42.0,1.0,FA,False
+669369,Bryce Johnson,CF,-0.603,0.817,1.791,0.63,57.0,0.76,San Diego Padres,True
+663330,Jahmai Jones,2B,-0.27,0.781,1.897,0.89,76.0,0.81,FA,False
+666134,Nolan Jones,3B,0.025,0.861,-1.286,-1.08,136.0,0.77,FA,False
+592450,Aaron Judge,CF,8.129,26.004,9.883,9.7,159.0,40.0,New York Yankees,True
+666397,Edouard Julien,2B,0.339,0.754,-1.949,-0.77,64.0,0.773,Minnesota Twins,True
+667452,Corey Julks,CF,-0.775,1.173,2.16,0.08,6.0,0.76,Chicago White Sox,True
+690291,Jace Jung,3B,-0.675,0.652,-4.293,-0.53,20.0,0.76,Detroit Tigers,True
+673962,Josh Jung,3B,0.629,1.617,1.744,1.41,131.0,0.78,Texas Rangers,True
+694359,Niko Kavadas,1B,-0.495,0.698,-6.48,-0.4,10.0,0.76,Los Angeles Angels,True
+680577,DaShawn Keirsey Jr.,LF,-0.229,0.222,-2.649,-1.21,74.0,0.761,Minnesota Twins,True
+690993,Colt Keith,2B,1.617,0.658,1.757,1.54,142.0,3.5,Detroit Tigers,True
+672284,Jarred Kelenic,LF,0.588,0.718,-3.038,-0.45,24.0,2.3,Atlanta Braves,True
+608348,Carson Kelly,C,0.298,6.133,4.846,3.56,119.0,5.0,FA,False
+671083,Buddy Kennedy,3B,0.195,0.53,-6.605,-0.53,13.0,0.76,FA,False
+596146,Max Kepler,RF,1.1,2.917,0.099,0.08,131.0,10.0,Philadelphia Phillies,True
+666197,Grae Kessinger,SS,0.511,0.331,,,,,FA,False
+595281,Kevin Kiermaier,CF,0.038,4.347,,,,,FA,False
+673490,Ha-Seong Kim,2B,2.671,2.218,0.911,0.27,48.0,13.0,FA,False
+643396,Isiah Kiner-Falefa,SS,2.702,4.134,1.759,1.64,151.0,7.5,Toronto Blue Jays,True
+666135,Alex Kirilloff,1B,-0.35,0.79,,,,,FA,False
+672386,Alejandro Kirk,C,2.485,0.517,2.507,2.29,148.0,4.6,Toronto Blue Jays,True
+677008,Heston Kjerstad,CF,0.141,0.669,-4.65,-1.55,54.0,0.764,Baltimore Orioles,True
+668800,Andrew Knizner,C,-0.916,1.691,1.325,0.27,33.0,0.944,FA,False
+668952,Ryan Kreidler,SS,0.161,0.721,-2.096,-0.22,17.0,0.765,Detroit Tigers,True
+680757,Steven Kwan,LF,2.935,4.987,3.76,3.69,159.0,4.175,Cleveland Guardians,True
+669127,Shea Langeliers,C,3.083,1.41,5.071,3.85,123.0,0.77,Oakland Athletics,True
+694671,Wyatt Langford,LF,4.525,1.171,6.794,5.62,134.0,0.774,Texas Rangers,True
+663616,Trevor Larnach,RF,1.464,0.638,0.08,0.07,142.0,2.1,Minnesota Twins,True
+657656,Ram\xc3\xb3n Laureano,LF,0.98,3.021,4.602,3.75,132.0,4.0,FA,False
+641779,Charles Leblanc,SS,-0.121,0.712,,,,,FA,False
+686797,Brooks Lee,SS,0.646,0.843,-0.979,-0.84,139.0,0.764,Minnesota Twins,True
+808982,Jung Hoo Lee,CF,1.107,0.836,1.868,1.73,150.0,16.0,San Francisco Giants,True
+686676,Korey Lee,C,-0.095,0.742,1.814,0.28,25.0,0.771,Chicago White Sox,True
+518934,DJ LeMahieu,CF,-0.821,5.546,2.052,0.57,45.0,,New York Yankees,True
+694175,Pedro Le\xc3\xb3n,RF,-0.084,0.702,,,,,FA,False
+668904,Royce Lewis,SS,1.609,0.792,0.886,0.58,106.0,1.625,Minnesota Twins,True
+596019,Francisco Lindor,SS,6.043,27.793,5.943,5.87,160.0,32.0,New York Mets,True
+702358,Trey Lipscomb,3B,0.475,0.707,,,,,FA,False
+682988,Tyler Locklear,1B,-0.317,0.692,-5.592,-1.07,31.0,0.76,FA,False
+663604,Brandon Lockridge,LF,-0.417,0.553,0.453,0.19,68.0,0.76,FA,False
+679845,Nick Loftin,SS,0.813,0.666,-0.967,-0.4,67.0,0.76,Kansas City Royals,True
+694388,Joey Loperfido,LF,0.731,0.852,2.237,0.58,42.0,0.76,Toronto Blue Jays,True
+605346,Jack L\xc3\xb3pez,SS,-0.283,0.987,,,,,FA,False
+670032,Nicky Lopez,3B,0.081,3.247,-3.96,-0.4399999999999999,18.0,0.133,FA,False
+672640,Otto Lopez,SS,3.317,0.716,3.965,3.5,143.0,0.778,Miami Marlins,True
+664040,Brandon Lowe,2B,2.512,4.272,2.237,1.85,134.0,10.5,Tampa Bay Rays,True
+666139,Josh Lowe,RF,1.604,0.739,0.15,0.1,108.0,0.775,Tampa Bay Rays,True
+663993,Nathaniel Lowe,1B,2.274,4.643,0.135,0.1299999999999999,156.0,10.3,FA,False
+682617,Marco Luciano,SS,0.309,0.701,,,,,FA,False
+664770,Nathan Lukes,CF,1.87,2.74,2.078,1.95,152.0,0.767,Toronto Blue Jays,True
+666158,Gavin Lux,2B,2.066,1.302,-0.24,-0.21,142.0,3.325,FA,False
+592518,Manny Machado,3B,3.646,17.875,4.06,4.06,162.0,13.0,San Diego Padres,True
+663611,Nick Madrigal,2B,-0.35,0.651,,,,,FA,False
+676632,Bligh Madris,CF,0.007,0.836,,,,,FA,False
+571912,Luke Maile,C,-0.512,1.886,0.194,0.03,25.0,1.5,FA,False
+455117,Mart\xc3\xadn Maldonado,C,-0.976,2.335,-0.582,-0.23,64.0,1.0,FA,False
+669234,Justyn-Henry Malloy,DH,-0.958,0.683,-0.458,-0.15,53.0,0.8,Detroit Tigers,True
+700932,Kyle Manzardo,DH,-0.506,0.688,0.48,0.43,145.0,0.763,Cleveland Guardians,True
+665561,Rafael March\xc3\xa1n,C,1.511,1.27,0.81,0.21,42.0,0.78,Philadelphia Phillies,True
+622534,Manuel Margot,RF,0.53,3.363,-1.62,-0.06,6.0,2.0,Minnesota Twins,True
+669016,Brandon Marsh,CF,1.497,1.816,1.951,1.65,137.0,3.0,Philadelphia Phillies,True
+606466,Ketel Marte,2B,5.52,30.54,5.593,4.35,126.0,14.0,Arizona Diamondbacks,True
+682622,Noelvi Marte,SS,-0.638,0.792,2.51,1.41,91.0,0.76,Cincinnati Reds,True
+516782,Starling Marte,RF,0.718,9.207,1.67,1.01,98.0,19.5,New York Mets,True
+668885,Austin Martin,SS,-0.122,0.69,2.3,0.71,50.0,0.76,Minnesota Twins,True
+682657,Angel Mart\xc3\xadnez,DH,0.669,1.025,-0.856,-0.74,140.0,0.76,Cleveland Guardians,True
+502110,J.D. Martinez,DH,0.582,5.46,,,,,FA,False
+605361,Nick Martini,RF,-0.678,2.7,-0.829,-0.22,43.0,0.85,FA,False
+686681,Michael Massey,2B,2.054,0.85,-0.21,-0.1,77.0,0.79,Kansas City Royals,True
+670156,Miles Mastrobuoni,LF,0.054,0.813,0.421,0.2,77.0,0.768,FA,False
+622761,Jorge Mateo,SS,1.81,1.567,-2.276,-0.59,42.0,3.55,Baltimore Orioles,True
+682641,Luis Matos,RF,0.716,0.748,-0.54,-0.19,57.0,0.78,San Francisco Giants,True
+691723,Coby Mayo,3B,-0.193,1.178,0.343,0.18,85.0,0.76,Baltimore Orioles,True
+543510,James McCann,C,0.34,9.187,3.896,1.01,42.0,1.0,FA,False
+668832,Kyle McCann,C,0.023,0.706,,,,,FA,False
+664983,Jake McCarthy,RF,1.485,1.207,-1.596,-0.66,67.0,0.804,Arizona Diamondbacks,True
+676801,Chas McCormick,CF,-0.492,1.784,-2.506,-0.99,64.0,3.4,Houston Astros,True
+669200,Mason McCoy,SS,0.337,0.711,-1.26,-0.14,18.0,0.76,San Diego Padres,True
+687529,Grant McCray,CF,0.526,0.725,-3.093,-0.42,22.0,0.76,San Francisco Giants,True
+457705,Andrew McCutchen,RF,1.135,5.282,0.144,0.12,135.0,5.0,Pittsburgh Pirates,True
+624512,Reese McGuire,C,0.159,1.23,1.215,0.33,44.0,1.5,Chicago Cubs,True
+663630,Ryan McKenna,CF,-0.384,0.763,,,,,FA,False
+641856,Billy McKinney,LF,-0.302,0.566,-2.97,-0.11,6.0,1.0,Texas Rangers,True
+656716,Zach McKinstry,2B,1.143,2.522,3.027,2.84,152.0,1.65,Detroit Tigers,True
+641857,Ryan McMahon,3B,2.415,12.558,2.288,2.26,160.0,12.0,New York Yankees,True
+643446,Jeff McNeil,2B,2.068,3.681,2.682,2.02,122.0,15.75,New York Mets,True
+678554,Curtis Mead,3B,0.261,0.744,-0.36,-0.1999999999999999,90.0,0.762,FA,False
+678009,Parker Meadows,CF,2.162,0.704,0.687,0.28,66.0,0.782,Detroit Tigers,True
+669004,MJ Melendez,RF,0.745,0.706,-4.437,-0.63,23.0,2.65,Kansas City Royals,True
+664901,Danny Mendick,2B,-0.259,1.258,,,,,FA,False
+608841,Joey Meneses,DH,-0.231,11.438,,,,,FA,False
+593160,Whit Merrifield,2B,0.938,6.928,,,,,FA,False
+701538,Jackson Merrill,CF,4.412,1.035,3.748,2.73,118.0,0.81,San Diego Padres,True
+670223,Matt Mervis,1B,-0.729,0.208,-2.816,-0.73,42.0,0.275,FA,False
+676694,Jake Meyers,CF,1.608,1.245,3.822,2.43,103.0,2.3,Houston Astros,True
+686452,Drew Millas,C,1.106,0.794,1.35,0.15,18.0,0.76,Washington Nationals,True
+680911,Owen Miller,SS,-1.286,0.501,0.54,0.03,9.0,0.76,FA,False
+669304,Jos\xc3\xa9 Miranda,SS,1.956,1.92,-4.185,-0.31,12.0,0.783,Minnesota Twins,True
+670224,Kameron Misner,CF,-0.522,0.243,1.483,0.65,71.0,0.761,Tampa Bay Rays,True
+669003,Garrett Mitchell,RF,2.626,0.692,-0.13,-0.02,25.0,0.772,Milwaukee Brewers,True
+655316,Andruw Monasterio,SS,0.284,0.844,1.784,0.76,69.0,0.76,Milwaukee Brewers,True
+660162,Yo\xc3\xa1n Moncada,3B,0.89,0.584,1.366,0.7,83.0,5.0,FA,False
+666160,Mickey Moniak,CF,0.807,1.231,-0.672,-0.56,135.0,1.25,FA,False
+660707,Elehuris Montero,3B,-0.78,0.792,,,,,FA,False
+664238,Dylan Moore,2B,2.569,4.355,0.565,0.37,106.0,3.082,FA,False
+666624,Christopher Morel,LF,1.804,0.674,-0.432,-0.28,105.0,0.772,Tampa Bay Rays,True
+672515,Gabriel Moreno,C,2.878,0.696,3.123,1.6,83.0,0.793,Arizona Diamondbacks,True
+663624,Ryan Mountcastle,1B,3.134,1.808,0.164,0.09,89.0,6.787,Baltimore Orioles,True
+656775,Cedric Mullins,CF,2.405,2.409,0.597,0.49,133.0,8.725,FA,False
+571970,Max Muncy,1B,2.343,20.944,4.929,3.56,117.0,12.0,Los Angeles Dodgers,True
+669221,Sean Murphy,C,1.514,1.966,4.102,2.38,94.0,15.0,Atlanta Braves,True
+608596,Tom Murphy,C,-0.577,1.114,,,,,FA,False
+667472,Dane Myers,CF,0.297,2.319,-0.183,-0.12,106.0,0.769,Miami Marlins,True
+665966,Carlos Narv\xc3\xa1ez,C,0.794,0.64,3.521,2.63,121.0,0.764,FA,False
+553882,Omar Narv\xc3\xa1ez,C,-0.982,1.323,,,,,FA,False
+666310,Bo Naylor,C,0.809,0.714,1.941,1.51,126.0,0.79,Cleveland Guardians,True
+647304,Josh Naylor,1B,2.466,3.469,3.118,3.06,159.0,10.9,FA,False
+687263,Zach Neto,SS,3.881,1.745,6.442,5.09,128.0,0.78,Los Angeles Angels,True
+663527,Tyler Nevin,3B,-0.334,0.783,,,,,FA,False
+621028,Kevin Newman,SS,1.766,2.452,-2.633,-0.91,56.0,2.75,FA,False
+621512,Tom\xc3\xa1s Nido,C,-0.78,1.719,-1.458,-0.09,10.0,0.76,FA,False
+607043,Brandon Nimmo,CF,2.985,10.798,3.01,2.88,155.0,20.25,New York Mets,True
+676116,Ryan Noda,1B,-0.275,0.949,-1.62,-0.23,23.0,0.76,FA,False
+678877,Jhonkensy Noel,RF,1.229,0.727,-3.147,-1.36,70.0,0.767,Cleveland Guardians,True
+663457,Lars Nootbaar,CF,2.49,0.692,1.56,1.3,135.0,2.95,St. Louis Cardinals,True
+681393,Connor Norby,2B,0.726,0.819,1.325,0.72,88.0,0.765,Miami Marlins,True
+683083,Nasim Nu\xc3\xb1ez,SS,1.046,0.692,2.991,0.72,39.0,0.76,Washington Nationals,True
+656811,Ryan O\'Hearn,1B,2.502,4.398,2.678,2.43,147.0,8.0,FA,False
+681351,Logan O\'Hoppe,C,2.227,0.934,-0.231,-0.17,119.0,0.79,Los Angeles Angels,True
+641933,Tyler O\'Neill,LF,2.236,3.481,-1.83,-0.61,54.0,16.5,FA,False
+660271,Shohei Ohtani,RF,7.236,24.384,6.128,6.62,175.0,70.0,Los Angeles Dodgers,True
+658668,Edward Olivares,LF,-0.337,2.287,,,,,FA,False
+621566,Matt Olson,1B,3.184,4.441,6.04,6.04,162.0,22.0,Atlanta Braves,True
+680716,Jonathan Ornelas,SS,0.367,0.691,,,,,FA,False
+542364,Rafael Ortega,LF,0.199,0.878,,,,,FA,False
+687401,Joey Ortiz,SS,3.323,1.061,0.328,0.32,158.0,0.776,Milwaukee Brewers,True
+681546,James Outman,CF,0.226,0.87,-2.663,-0.97,59.0,0.8,FA,False
+542303,Marcell Ozuna,LF,2.589,5.55,1.821,1.63,145.0,16.0,Atlanta Braves,True
+665506,Cristian Pache,CF,-0.022,0.695,,,,,FA,False
+681624,Andy Pages,CF,2.05,1.18,3.553,3.75,171.0,0.77,Los Angeles Dodgers,True
+686780,Pedro Pag\xc3\xa9s,C,0.797,0.868,1.967,1.36,112.0,0.768,St. Louis Cardinals,True
+641943,Joshua Palacios,CF,0.156,0.937,-3.716,-1.17,51.0,0.76,FA,False
+680700,Richie Palacios,RF,2.265,0.864,0.0,0.0,17.0,,Tampa Bay Rays,True
+670623,Isaac Paredes,3B,2.498,1.281,3.701,2.33,102.0,6.625,FA,False
+677347,Kyren Paris,SS,0.499,0.673,2.614,0.71,44.0,0.77,Los Angeles Angels,True
+686469,Vinnie Pasquantino,1B,3.079,2.25,2.39,2.36,160.0,0.793,Kansas City Royals,True
+688363,Graham Pauley,3B,-0.891,0.479,1.829,0.7,62.0,0.762,FA,False
+592626,Joc Pederson,LF,1.559,5.059,-0.473,-0.28,96.0,13.0,FA,False
+665161,Jeremy Pe\xc3\xb1a,SS,4.741,3.754,7.309,5.64,125.0,4.1,Houston Astros,True
+444482,David Peralta,LF,-0.102,3.676,,,,,FA,False
+672695,Geraldo Perdomo,SS,3.302,1.153,7.064,7.02,161.0,2.55,Arizona Diamondbacks,True
+640902,Jhonny Pereda,C,-0.342,0.769,1.794,0.31,28.0,0.76,FA,False
+521692,Salvador Perez,C,3.066,8.768,0.46,0.44,155.0,22.0,Kansas City Royals,True
+672761,Wenceel P\xc3\xa9rez,SS,0.849,0.762,1.162,0.76,106.0,0.771,Detroit Tigers,True
+663368,Blake Perkins,RF,2.124,1.494,0.783,0.29,60.0,0.802,Milwaukee Brewers,True
+607054,Jace Peterson,3B,-1.034,1.286,,,,,FA,False
+502054,Tommy Pham,LF,1.022,7.889,1.404,1.04,120.0,4.025,FA,False
+607680,Kevin Pillar,LF,0.755,5.87,-0.405,-0.05,20.0,1.0,Texas Rangers,True
+650907,Ren\xc3\xa9 Pinto,C,-0.294,0.946,,,,,FA,False
+593871,Jorge Polanco,2B,1.922,5.657,2.819,2.61,150.0,7.0,Seattle Mariners,True
+595777,Jurickson Profar,LF,3.823,7.613,2.288,1.13,80.0,12.0,FA,False
+678882,Ceddanne Rafaela,LF,1.836,0.756,4.758,4.67,159.0,1.0,Boston Red Sox,True
+663728,Cal Raleigh,C,4.078,2.733,6.982,7.37,171.0,1.0,Seattle Mariners,True
+670042,Luke Raley,CF,1.905,3.149,-0.554,-0.26,76.0,0.787,Seattle Mariners,True
+623912,Harold Ram\xc3\xadrez,RF,-0.046,1.954,,,,,FA,False
+608070,Jos\xc3\xa9 Ram\xc3\xadrez,3B,6.466,15.275,5.816,5.78,161.0,19.0,Cleveland Guardians,True
+682868,Bryan Ramos,3B,0.63,0.733,2.835,0.07,4.0,0.763,Chicago White Sox,True
+671218,Heliot Ramos,CF,3.118,0.932,1.269,1.23,157.0,0.78,San Francisco Giants,True
+592663,J.T. Realmuto,C,3.15,37.924,2.935,2.5,138.0,23.875,Philadelphia Phillies,True
+656883,Jakson Reetz,C,-1.337,0.728,,,,,FA,False
+608701,Rob Refsnyder,RF,0.316,3.805,2.588,1.15,72.0,2.1,Boston Red Sox,True
+621545,Zach Remillard,3B,0.702,0.536,,,,,FA,False
+543685,Anthony Rendon,3B,1.287,9.242,,,,,FA,False
+592669,Hunter Renfroe,RF,0.911,5.42,-6.804,-1.47,35.0,7.57,Kansas City Royals,True
+650859,Luis Rengifo,SS,1.966,0.887,0.485,0.44,147.0,5.95,Los Angeles Angels,True
+622569,Pablo Reyes,LF,-1.201,1.136,-3.308,-0.49,24.0,0.9,FA,False
+668804,Bryan Reynolds,CF,2.551,15.071,1.515,1.44,154.0,12.0,Pittsburgh Pirates,True
+700250,Ben Rice,C,0.1,0.997,2.565,2.28,144.0,0.783,New York Yankees,True
+663586,Austin Riley,3B,3.942,1.183,2.081,1.31,102.0,22.0,Atlanta Braves,True
+660844,Leo Rivas,RF,0.451,0.792,2.239,0.76,55.0,,Seattle Mariners,True
+656896,Emmanuel Rivera,3B,-0.707,1.173,0.231,0.06,42.0,1.0,Baltimore Orioles,True
+519203,Anthony Rizzo,1B,0.187,10.123,,,,,FA,False
+673357,Luis Robert Jr.,CF,2.595,1.254,2.062,1.4,110.0,15.0,Chicago White Sox,True
+642020,Chuckie Robinson,C,-0.04,0.899,,,,,FA,False
+645302,V\xc3\xadctor Robles,CF,2.505,0.867,-0.948,-0.24,41.0,3.5,Seattle Mariners,True
+677587,Brayan Rocchio,SS,0.821,0.597,-0.398,-0.29,118.0,0.771,Cleveland Guardians,True
+663898,Brendan Rodgers,2B,1.19,1.637,0.113,0.03,43.0,2.0,FA,False
+671286,Johnathan Rodr\xc3\xadguez,LF,0.073,0.692,-3.345,-0.64,31.0,0.761,Cleveland Guardians,True
+677594,Julio Rodr\xc3\xadguez,CF,4.947,0.885,6.405,6.8,172.0,18.0,Seattle Mariners,True
+668670,Jake Rogers,C,0.843,1.989,0.62,0.18,47.0,2.64,Detroit Tigers,True
+679032,Johan Rojas,CF,1.321,0.611,1.095,0.48,71.0,0.774,Philadelphia Phillies,True
+668942,Josh Rojas,3B,1.705,2.216,-3.404,-1.45,69.0,3.5,FA,False
+500743,Miguel Rojas,SS,2.462,9.334,2.862,2.12,120.0,5.0,Los Angeles Dodgers,True
+691011,Drew Romo,C,0.32,1.131,,,,,FA,False
+667670,Brent Rooker,DH,3.225,15.078,2.31,2.31,162.0,2.0,Oakland Athletics,True
+666163,Ben Rortvedt,C,0.545,0.777,-1.553,-0.46,48.0,1.125,FA,False
+642708,Amed Rosario,SS,-0.122,4.037,0.785,0.32,66.0,2.0,FA,False
+592696,Eddie Rosario,LF,-0.652,8.509,,,,,FA,False
+666703,Eguy Rosario,SS,0.349,0.661,,,,,FA,False
+665923,Esteury Ruiz,CF,0.036,0.767,-1.364,-0.16,19.0,0.76,Oakland Athletics,True
+660688,Keibert Ruiz,C,1.696,0.698,1.954,0.82,68.0,5.0,Washington Nationals,True
+668939,Adley Rutschman,C,3.701,3.299,3.474,1.93,90.0,5.5,Baltimore Orioles,True
+666165,Blake Sabol,C,0.75,0.815,-3.848,-0.19,8.0,0.76,FA,False
+695336,Thomas Saggese,SS,0.221,0.705,0.691,0.35,82.0,0.76,St. Louis Cardinals,True
+663967,C\xc3\xa9sar Salazar,C,-0.424,0.541,-1.62,-0.11,11.0,0.76,Houston Astros,True
+645305,Ali S\xc3\xa1nchez,C,-0.819,0.777,-2.7,-0.2,12.0,0.76,Miami Marlins,True
+596142,Gary S\xc3\xa1nchez,C,-0.089,1.209,-2.179,-0.39,29.0,8.5,FA,False
+660821,Jes\xc3\xbas S\xc3\xa1nchez,CF,2.097,0.886,1.547,1.28,134.0,4.5,FA,False
+593934,Miguel San\xc3\xb3,1B,0.475,5.519,,,,,FA,False
+691594,Javier Sanoja,SS,0.531,0.706,2.073,1.51,118.0,0.762,Miami Marlins,True
+467793,Carlos Santana,1B,1.868,8.276,1.437,1.1,124.0,11.886,FA,False
+623993,Anthony Santander,RF,2.668,23.33,-2.663,-0.97,59.0,13.5,FA,False
+694384,Nolan Schanuel,1B,1.327,0.847,1.632,1.33,132.0,0.78,Los Angeles Angels,True
+669477,Casey Schmitt,3B,0.308,0.669,1.04,0.61,95.0,0.78,San Francisco Giants,True
+682177,Daniel Schneemann,SS,0.956,0.992,2.266,1.86,133.0,0.766,Cleveland Guardians,True
+676914,Davis Schneider,3B,0.214,0.712,2.376,1.32,90.0,0.78,Toronto Blue Jays,True
+680474,Max Schuemann,3B,1.401,0.785,0.337,0.21,101.0,0.765,Oakland Athletics,True
+668845,Aaron Schunk,3B,0.382,0.806,-2.835,-0.28,16.0,0.76,Colorado Rockies,True
+656941,Kyle Schwarber,LF,3.746,17.792,4.538,4.65,166.0,20.0,Philadelphia Phillies,True
+687363,Victor Scott II,CF,0.688,0.601,2.524,2.15,138.0,0.764,St. Louis Cardinals,True
+608369,Corey Seager,SS,4.776,11.994,9.768,6.15,102.0,32.0,Texas Rangers,True
+543760,Marcus Semien,2B,3.975,12.055,4.184,3.28,127.0,26.0,Texas Rangers,True
+669222,Nick Senzel,CF,-0.345,2.755,,,,,FA,False
+661531,Brian Serven,C,1.026,0.966,,,,,FA,False
+657757,Gavin Sheets,RF,0.211,1.865,0.744,0.68,148.0,1.6,FA,False
+668853,Austin Shenton,3B,-0.157,0.817,,,,,FA,False
+669699,Braden Shewmake,SS,0.242,0.788,,,,,FA,False
+670097,Zack Short,2B,0.436,1.204,-0.147,-0.02,22.0,0.76,FA,False
+672279,Michael Siani,RF,0.322,0.637,-0.938,-0.11,19.0,,St. Louis Cardinals,True
+572138,Jon Singleton,1B,-0.501,5.911,,,,,FA,False
+642350,Jose Siri,CF,1.89,1.405,-4.759,-0.47,16.0,2.4,Tampa Bay Rays,True
+596103,Austin Slater,LF,-0.232,2.46,-0.249,-0.0999999999999999,65.0,1.75,FA,False
+642086,Dominic Smith,1B,-0.112,2.383,1.106,0.43,63.0,0.944,FA,False
+669701,Josh Smith,SS,2.865,2.144,3.319,2.95,144.0,0.78,Texas Rangers,True
+656976,Pavin Smith,LF,-0.008,1.065,0.801,0.43,87.0,1.5,Arizona Diamondbacks,True
+669257,Will Smith,C,4.01,20.929,5.78,4.46,125.0,13.0,Los Angeles Dodgers,True
+691016,Tyler Soderstrom,DH,0.769,0.707,4.368,4.26,158.0,0.765,Oakland Athletics,True
+686765,Nick Sogard,2B,0.548,0.78,0.607,0.12,32.0,0.76,Boston Red Sox,True
+456781,Donovan Solano,2B,0.081,7.702,-0.137,-0.06,71.0,3.488,FA,False
+624585,Jorge Soler,DH,2.325,14.346,-0.909,-0.46,82.0,13.0,FA,False
+624641,Edmundo Sosa,3B,2.474,2.12,4.095,2.3,91.0,3.0,Philadelphia Phillies,True
+672820,Lenyn Sosa,2B,0.564,0.806,0.903,0.78,140.0,0.77,Chicago White Sox,True
+665742,Juan Soto,LF,7.212,8.212,6.318,6.24,160.0,46.875,FA,False
+670869,Livan Soto,SS,-0.17,0.707,,,,,FA,False
+543807,George Springer,RF,1.972,8.867,5.026,4.84,156.0,22.5,Toronto Blue Jays,True
+607732,Jacob Stallings,C,0.695,7.061,-5.169,-1.34,42.0,2.386,FA,False
+519317,Giancarlo Stanton,DH,1.157,6.129,3.606,1.87,84.0,32.0,New York Yankees,True
+668715,Spencer Steer,3B,2.225,1.751,0.711,0.65,148.0,0.78,Cincinnati Reds,True
+683021,Michael Stefanic,2B,-0.143,1.027,-0.72,-0.04,9.0,,Toronto Blue Jays,True
+663886,Tyler Stephenson,C,2.098,1.27,2.322,1.29,90.0,4.925,Cincinnati Reds,True
+670276,Cal Stevenson,CF,-0.487,0.391,,,,,FA,False
+621466,DJ Stewart,RF,-0.667,1.225,,,,,FA,False
+596115,Trevor Story,SS,1.458,1.293,3.888,3.84,160.0,22.5,Boston Red Sox,True
+681082,Bryson Stott,2B,3.589,1.693,2.392,2.23,151.0,3.2,Philadelphia Phillies,True
+669065,Kyle Stowers,CF,-0.121,0.875,4.985,3.6,117.0,0.768,Miami Marlins,True
+596117,Garrett Stubbs,C,0.797,1.402,,,,,FA,False
+553993,Eugenio Su\xc3\xa1rez,3B,2.085,11.109,3.411,3.6,171.0,15.0,FA,False
+664954,Brett Sullivan,C,-0.513,0.108,,,,,FA,False
+669261,Jack Suwinski,CF,-0.253,0.746,-0.934,-0.34,59.0,0.785,Pittsburgh Pirates,True
+673548,Seiya Suzuki,RF,3.357,26.53,2.649,2.6,159.0,18.0,Chicago Cubs,True
+621020,Dansby Swanson,SS,3.496,15.178,4.346,4.48,167.0,27.0,Chicago Cubs,True
+700242,Trey Sweeney,SS,1.852,0.722,-1.098,-0.8,118.0,0.764,Detroit Tigers,True
+665487,Fernando Tatis Jr.,RF,3.351,0.833,6.09,5.94,158.0,20.0,San Diego Padres,True
+643565,Mike Tauchman,CF,0.72,4.548,3.292,1.89,93.0,1.95,Chicago White Sox,True
+665750,Leody Taveras,CF,1.787,0.658,-1.508,-0.54,58.0,4.75,FA,False
+621035,Chris Taylor,3B,-0.377,4.959,-1.76,-0.63,58.0,17.0,FA,False
+572191,Michael A. Taylor,CF,0.659,4.355,0.145,0.12,134.0,1.95,FA,False
+621438,Tyrone Taylor,RF,1.272,1.996,1.491,1.04,113.0,3.025,New York Mets,True
+642133,Rowdy Tellez,1B,0.32,3.562,-0.448,-0.31,112.0,1.206,FA,False
+677588,Jos\xc3\xa9 Tena,SS,0.705,0.869,0.907,0.28,50.0,0.762,Washington Nationals,True
+669326,Bryce Teodosio,LF,-0.96,0.236,1.523,0.47,50.0,0.76,FA,False
+642136,Matt Thaiss,C,0.37,1.555,3.105,1.15,60.0,1.0,FA,False
+677950,Alek Thomas,CF,0.421,0.733,0.113,0.1,143.0,0.793,Arizona Diamondbacks,True
+657041,Lane Thomas,RF,1.822,6.673,-2.658,-0.64,39.0,7.825,Cleveland Guardians,True
+669352,Bubba Thompson,CF,-0.207,0.844,,,,,FA,False
+669911,Michael Toglia,1B,2.105,0.728,-3.038,-1.65,88.0,0.765,Colorado Rockies,True
+679529,Spencer Torkelson,1B,1.458,0.808,2.296,2.31,163.0,0.786,Detroit Tigers,True
+647351,Abraham Toro,3B,1.398,1.078,-0.421,-0.2,77.0,1.0,FA,False
+620443,Luis Torrens,C,0.93,2.067,2.412,1.37,92.0,1.5,New York Mets,True
+650402,Gleyber Torres,2B,2.331,4.646,3.102,2.93,153.0,15.0,FA,False
+678662,Ezequiel Tovar,SS,3.214,0.877,0.989,0.58,95.0,4.0,Colorado Rockies,True
+676701,Alan Trejo,2B,-0.713,1.164,-5.483,-0.44,13.0,0.092,Colorado Rockies,True
+624431,Jose Trevino,C,0.598,1.816,-0.279,-0.16,93.0,3.425,FA,False
+669707,Jared Triolo,3B,1.338,1.428,3.528,2.33,107.0,0.775,Pittsburgh Pirates,True
+644433,Chadwick Tromp,C,0.803,0.564,1.012,0.05,8.0,0.76,Atlanta Braves,True
+545361,Mike Trout,CF,2.096,2.808,1.882,1.51,130.0,35.45,Los Angeles Angels,True
+657061,Cole Tucker,SS,-0.741,0.739,,,,,FA,False
+663656,Kyle Tucker,RF,4.183,4.443,5.119,4.55,144.0,16.5,FA,False
+668930,Brice Turang,SS,4.561,1.805,5.508,5.61,165.0,0.777,Milwaukee Brewers,True
+457759,Justin Turner,DH,1.622,10.128,-0.18,-0.09,81.0,4.0,FA,False
+607208,Trea Turner,SS,3.956,12.731,6.078,5.44,145.0,27.273,Philadelphia Phillies,True
+649966,Luis Ur\xc3\xadas,3B,0.463,0.741,0.827,0.49,96.0,1.4,FA,False
+602104,Ram\xc3\xb3n Ur\xc3\xadas,3B,0.428,1.765,3.11,2.15,112.0,3.15,FA,False
+570482,Gio Urshela,RF,0.874,4.757,-2.718,-0.99,59.0,,FA,False
+665839,Enmanuel Valdez,2B,-0.132,0.767,0.679,0.13,31.0,0.8,FA,False
+545121,Ildemaro Vargas,2B,0.345,2.707,0.895,0.21,38.0,1.0,FA,False
+678246,Miguel Vargas,2B,0.746,0.741,2.266,1.93,138.0,0.77,Chicago White Sox,True
+662139,Daulton Varsho,LF,3.36,4.234,5.042,2.77,89.0,8.2,Toronto Blue Jays,True
+683734,Andrew Vaughn,1B,1.882,1.383,-0.562,-0.4199999999999999,121.0,5.85,FA,False
+543877,Christian V\xc3\xa1zquez,C,0.1,9.556,1.52,0.61,65.0,10.0,Minnesota Twins,True
+676679,Luis V\xc3\xa1zquez,SS,0.217,0.715,-2.329,-0.46,32.0,0.76,FA,False
+676369,Nelson Vel\xc3\xa1zquez,CF,-0.062,0.726,,,,,FA,False
+657077,Alex Verdugo,RF,2.049,4.198,-0.752,-0.26,56.0,1.5,FA,False
+668901,Mark Vientos,3B,1.293,0.857,-0.228,-0.17,121.0,0.789,New York Mets,True
+663837,Matt Vierling,RF,2.879,3.218,-1.463,-0.28,31.0,3.005,Detroit Tigers,True
+668723,Ryan Vilade,3B,-0.992,1.221,-2.43,-0.12,8.0,0.76,Detroit Tigers,True
+681584,David Villar,3B,-0.486,0.802,0.18,0.01,9.0,0.76,San Francisco Giants,True
+596129,Daniel Vogelbach,LF,-0.948,0.88,,,,,FA,False
+683011,Anthony Volpe,SS,3.468,1.173,1.64,1.62,160.0,0.879,New York Yankees,True
+613564,Jason Vosler,3B,-0.528,0.581,,,,,FA,False
+664774,LaMonte Wade Jr.,1B,1.887,1.377,-3.442,-1.7,80.0,3.481,FA,False
+642180,Tyler Wade,SS,-0.545,0.914,-1.62,-0.59,59.0,0.9,San Diego Padres,True
+676572,Eric Wagaman,1B,1.129,0.778,-0.509,-0.44,140.0,0.77,FA,False
+695238,Will Wagner,2B,1.166,0.756,-1.708,-0.58,55.0,0.763,FA,False
+572233,Christian Walker,1B,2.93,9.174,0.242,0.23,154.0,20.0,FA,False
+691023,Jordan Walker,3B,0.367,0.784,-2.466,-1.69,111.0,0.771,St. Louis Cardinals,True
+657088,Forrest Wall,CF,-0.136,0.767,,,,,FA,False
+670242,Matt Wallner,RF,2.122,0.821,0.888,0.57,104.0,0.771,Minnesota Twins,True
+670764,Taylor Walls,SS,1.927,0.823,4.122,2.57,101.0,1.35,Tampa Bay Rays,True
+665120,Jared Walsh,1B,-0.168,1.532,,,,,FA,False
+622268,Donovan Walton,RF,-0.061,0.342,,,,,FA,False
+621493,Taylor Ward,LF,1.871,7.968,2.796,2.71,157.0,7.825,Los Angeles Angels,True
+671221,Drew Waters,LF,0.285,0.639,-0.935,-0.41,71.0,0.76,Kansas City Royals,True
+669224,Austin Wells,C,2.897,0.765,0.158,0.13,133.0,0.801,New York Yankees,True
+621563,Joey Wendle,3B,-0.124,2.53,,,,,FA,False
+673995,Davis Wendzel,3B,0.558,0.783,,,,,FA,False
+642197,Jamie Westbrook,2B,0.109,0.705,,,,,FA,False
+676059,Jordan Westburg,SS,2.45,0.824,3.03,1.59,85.0,0.773,Baltimore Orioles,True
+694376,Shay Whitcomb,SS,-0.7,0.612,-2.673,-0.33,20.0,0.76,Houston Astros,True
+642201,Eli White,CF,-0.366,0.554,1.049,0.68,105.0,0.79,Atlanta Braves,True
+686894,Joey Wiemer,CF,0.139,0.286,2.52,0.42,27.0,0.76,FA,False
+675961,Alika Williams,SS,0.075,0.824,,,,,FA,False
+663897,Luke Williams,SS,0.679,0.802,-1.703,-0.41,39.0,0.76,Atlanta Braves,True
+805779,Jacob Wilson,SS,0.287,0.761,3.862,2.98,125.0,0.76,Oakland Athletics,True
+642215,Weston Wilson,1B,0.222,3.145,-1.464,-0.47,52.0,0.764,Philadelphia Phillies,True
+608385,Jesse Winker,RF,1.594,3.419,-0.062,-0.01,26.0,6.5,New York Mets,True
+691026,Masyn Winn,SS,4.389,1.773,2.7,2.15,129.0,0.771,St. Louis Cardinals,True
+621550,Patrick Wisdom,3B,-0.334,1.737,,,,,FA,False
+689172,Brett Wisely,2B,0.755,0.664,1.869,0.3,26.0,0.76,FA,False
+677951,Bobby Witt Jr.,SS,9.592,8.383,7.336,7.11,157.0,7.0,Kansas City Royals,True
+657136,Connor Wong,C,1.052,2.052,-1.517,-0.59,63.0,0.79,Boston Red Sox,True
+695578,James Wood,LF,1.915,0.97,3.797,3.68,157.0,0.765,Washington Nationals,True
+642851,Austin Wynns,C,0.969,3.286,4.569,1.1,39.0,1.1,FA,False
+573262,Mike Yastrzemski,CF,1.207,3.546,3.129,2.8200000000000003,146.0,9.25,FA,False
+592885,Christian Yelich,LF,2.155,7.246,3.138,3.08,159.0,26.0,Milwaukee Brewers,True
+660766,Juan Yepez,3B,0.651,0.918,,,,,FA,False
+694377,Nick Yorke,2B,-0.182,0.713,2.062,0.28,22.0,0.76,Pittsburgh Pirates,True
+807799,Masataka Yoshida,LF,1.244,4.599,0.475,0.17,58.0,18.0,Boston Red Sox,True
+696285,Jacob Young,RF,2.716,0.776,1.823,1.35,120.0,0.769,Washington Nationals,True
+664874,Seby Zavala,C,-0.206,0.299,,,,,FA,False
+671096,Andrew Abbott,SP,8.87,0.755,31.394,5.62,29.0,0.77,Cincinnati Reds,True
+650556,Bryan Abreu,RP,4.494,1.536,6.063,2.62,70.0,3.45,Houston Astros,True
+592094,Jason Adam,RP,3.187,5.803,5.907,2.37,65.0,4.8,San Diego Padres,True
+613534,Austin Adams,RP,0.135,2.633,,,,,FA,False
+686654,Ty Adcock,RP,-0.114,0.316,2.16,0.04,3.0,0.76,New York,True
+672851,Joan Adon,RP,-0.042,0.538,,,,,FA,False
+687924,Julian Aguiar,SP,-1.585,0.569,,,,,FA,False
+669211,Keegan Akin,RP,5.616,1.143,2.405,0.95,64.0,1.475,Baltimore Orioles,True
+660896,Jorge Alcala,RP,1.387,1.355,-3.038,-1.05,56.0,1.5,FA,False
+691951,Sam Aldegheri,SP,-0.102,0.586,-19.44,-0.48,4.0,,Los Angeles,True
+518397,Scott Alexander,RP,-2.231,2.629,0.077,0.0099999999999999,21.0,1.943,FA,False
+641302,Tyler Alexander,RP,4.624,2.257,-1.433,-0.4599999999999999,52.0,1.222,FA,False
+663465,Kolby Allard,SP,1.967,0.551,6.431,1.31,33.0,1.0,Cleveland Guardians,True
+663531,Logan Allen,RP,-2.0,0.577,,,,,FA,False
+671106,Logan Allen,SP,3.144,0.698,2.43,0.45,30.0,0.777,Cleveland Guardians,True
+622075,Yency Almonte,RP,0.027,0.605,,,,,FA,False
+656186,Dan Altavilla,RP,-0.075,0.641,4.629,0.8,28.0,0.559,FA,False
+621237,Jos\xc3\xa9 Alvarado,RP,1.84,0.75,,,28.0,9.0,Los Angeles Dodgers,True
+657193,Eddy Alvarez,RP,0.009,6.144,,,,,FA,False
+640470,Adbert Alzolay,RP,-0.186,0.735,,,,,FA,False
+502624,Chase Anderson,RP,-0.718,2.551,,,,,FA,False
+681982,Grant Anderson,RP,-2.0,0.61,0.596,0.25,68.0,0.8,FA,False
+605121,Justin Anderson,RP,0.541,1.928,,,,,FA,False
+623433,Nick Anderson,RP,-2.567,1.673,0.27,0.02,12.0,0.188,FA,False
+641312,Shaun Anderson,RP,-0.18,0.934,-12.497,-0.54,7.0,0.76,FA,False
+542881,Tyler Anderson,SP,10.0,14.099,12.337,1.98,26.0,13.0,Los Angeles,True
+677076,Clayton Andrews,RP,-0.024,0.148,,,,,FA,False
+542882,Matt Andriese,RP,-0.021,0.846,,,,,FA,False
+622088,Tejay Antone,RP,0.006,0.509,,,,,FA,False
+542888,Shawn Armstrong,RP,0.651,2.167,3.377,1.48,71.0,1.25,FA,False
+681293,Spencer Arrighetti,SP,10.0,0.662,1.157,0.05,7.0,0.794,Houston Astros,True
+676879,Aaron Ashby,RP,1.188,0.553,6.253,1.93,50.0,3.25,Milwaukee Brewers,True
+668933,Graham Ashcraft,SP,3.313,0.694,0.72,0.28,63.0,0.78,Cincinnati Reds,True
+665871,Javier Assad,SP,7.708,0.832,7.087,0.35,8.0,0.793,Chicago,True
+687014,Nick Avila,RP,-0.09,0.514,,,,,FA,False
+658648,Pedro Avila,RP,3.573,0.753,,,,,FA,False
+669199,Lake Bachar,RP,0.018,0.508,2.17,0.71,53.0,0.762,Miami Marlins,True
+641329,Bryan Baker,RP,-0.512,0.735,0.799,0.36,73.0,0.769,Baltimore Orioles,True
+607455,Anthony Banda,RP,1.014,1.707,1.807,0.87,78.0,1.0,Los Angeles,True
+621383,Tanner Banks,RP,1.689,2.299,3.788,1.66,71.0,0.786,FA,False
+605130,Scott Barlow,RP,2.2,1.971,1.577,0.74,76.0,1.5,FA,False
+606930,Jacob Barnes,RP,-0.874,2.978,-10.53,-0.39,6.0,1.4,FA,False
+598264,Matt Barnes,RP,-0.072,1.322,,,,,FA,False
+571466,Tucker Barnhart,RP,-0.018,1.636,0.202,0.01,8.0,0.188,Arizona Diamondbacks,True
+605135,Chris Bassitt,SP,9.229,11.378,8.723,2.1,39.0,21.0,Toronto Blue Jays,True
+669620,Brady Basso,SP,3.819,0.637,3.682,0.25,11.0,0.76,Oakland Athletics,True
+641343,Jake Bauers,RP,0.003,0.473,1.157,0.65,91.0,1.4,Milwaukee Brewers,True
+657508,Mike Baumann,RP,0.545,0.992,,,,,FA,False
+669358,Shane Baz,SP,5.062,0.642,2.247,0.43,31.0,1.45,Tampa Bay Rays,True
+660825,Eduard Bazardo,RP,-0.106,0.589,3.517,1.78,82.0,0.893,Seattle Mariners,True
+663941,Tristan Beck,RP,0.15,0.692,0.261,0.05,31.0,0.76,San Francisco Giants,True
+670280,David Bednar,RP,1.407,1.669,5.189,2.21,69.0,5.9,FA,False
+595881,Tyler Beede,RP,-0.216,0.758,,,,,FA,False
+656222,Jalen Beeks,RP,0.653,2.06,2.337,0.88,61.0,1.25,FA,False
+690925,Clayton Beeter,RP,0.003,0.526,1.994,0.32,26.0,0.763,New York,True
+678394,Brayan Bello,SP,10.0,0.795,13.338,2.47,30.0,2.5,Boston Red Sox,True
+678368,Valente Bellozo,SP,1.644,0.599,1.316,0.26,32.0,0.8,Miami Marlins,True
+669622,Anthony Bender,RP,2.206,1.311,5.94,1.87,51.0,1.42,Miami Marlins,True
+642834,Jonathan Berm\xc3\xbadez,RP,0.0,0.75,,,,,FA,False
+657514,Brennan Bernardino,RP,-0.166,2.352,1.149,0.39,55.0,0.774,Boston Red Sox,True
+621244,Jos\xc3\xa9 Berr\xc3\xados,SP,9.503,0.75,,,31.0,18.0,Toronto Blue Jays,True
+672860,Prelander Berroa,RP,0.132,0.608,,,,,FA,False
+676440,Tanner Bibee,SP,10.0,0.762,5.569,1.1,32.0,3.0,Cleveland Guardians,True
+641360,Phil Bickford,RP,-0.075,0.413,,,,,FA,False
+674370,Osvaldo Bido,SP,4.073,2.25,-4.362,-0.7,26.0,0.765,Oakland Athletics,True
+669456,Shane Bieber,SP,0.207,2.378,9.855,0.73,12.0,10.0,FA,False
+656232,Brandon Bielak,RP,0.354,0.564,,,,,FA,False
+685801,Hunter Bigge,RP,0.12,0.603,3.614,0.29,13.0,0.763,FA,False
+656234,Jake Bird,RP,-1.603,0.71,-0.034,-0.01,48.0,0.77,Colorado Rockies,True
+806185,Hayden Birdsong,SP,5.912,0.561,-4.243,-0.55,21.0,0.765,San Francisco Giants,True
+702352,Spencer Bivens,RP,-0.339,1.315,0.45,0.15,54.0,0.765,San Francisco Giants,True
+621389,Ty Blach,SP,-1.121,3.086,,,,,FA,False
+696131,Mason Black,SP,-0.506,0.56,-17.82,-0.11,1.0,0.76,San Francisco Giants,True
+621112,Paul Blackburn,SP,2.39,3.282,-5.265,-0.52,16.0,3.891,New York,True
+687134,Bradley Blalock,SP,-1.643,0.537,-18.514,-1.6,14.0,0.762,Colorado Rockies,True
+669854,Ronel Blanco,SP,10.0,5.618,12.42,0.69,9.0,0.803,Houston Astros,True
+656240,Scott Blewett,RP,5.4,0.744,-1.184,-0.19,26.0,0.76,FA,False
+814005,Jake Bloss,SP,-0.069,0.524,,,,,FA,False
+675989,Cody Bolton,RP,-0.039,0.559,-16.2,-0.1,1.0,0.06,FA,False
+592155,Cam Booser,RP,-0.694,2.286,-2.077,-0.5,39.0,0.768,FA,False
+621366,Ryan Borucki,RP,-0.102,0.554,-0.042,-0.01,39.0,1.04,Pittsburgh Pirates,True
+623520,David Bote,RP,0.009,1.065,,,,,FA,False
+676961,Caleb Boushley,RP,0.006,0.585,-6.35,-0.98,25.0,0.76,FA,False
+680742,Jonathan Bowlan,SP,-0.06,0.206,0.762,0.16,34.0,0.76,Kansas City Royals,True
+621199,Matt Bowman,RP,-2.762,1.861,-2.268,-0.28,20.0,1.1,FA,False
+571510,Matthew Boyd,SP,2.019,10.535,12.102,2.54,34.0,7.5,FA,False
+671212,Joe Boyle,SP,3.277,0.568,-2.866,-0.23,13.0,0.76,FA,False
+674003,Cody Bradford,SP,5.255,0.702,,,,,FA,False
+680694,Kyle Bradish,SP,4.263,0.783,31.86,1.18,6.0,2.35,Baltimore Orioles,True
+671737,Taj Bradley,SP,10.0,0.641,-3.42,-0.5700000000000001,27.0,0.774,FA,False
+518489,Ryan Brasier,RP,-1.819,2.076,-1.099,-0.19,28.0,4.5,Chicago,True
+623211,Huascar Brazob\xc3\xa1n,RP,0.975,0.75,,,52.0,0.778,FA,False
+605154,John Brebbia,RP,1.92,4.309,-5.523,-0.75,22.0,2.697,Atlanta Braves,True
+605155,Colten Brewer,RP,-2.0,0.958,,,,,FA,False
+689225,Beau Brieske,RP,2.835,0.642,-6.185,-0.84,22.0,1.025,Detroit Tigers,True
+666745,Jhony Brito,RP,-0.93,0.582,,,,,FA,False
+641401,Connor Brogdon,RP,-0.225,0.193,-0.565,-0.15,43.0,0.76,Los Angeles,True
+605156,Aaron Brooks,SP,-2.0,2.816,,,,,FA,False
+676962,Ben Brown,SP,4.047,0.578,-10.218,-1.64,26.0,0.762,Chicago,True
+686613,Hunter Brown,SP,10.0,0.779,31.982,6.12,31.0,0.87,Houston Astros,True
+677865,Justin Bruihl,RP,-0.084,0.401,-2.43,-0.24,16.0,0.76,FA,False
+660644,Vidal Bruj\xc3\xa1n,RP,0.0,0.75,0.378,0.1399999999999999,60.0,0.784,FA,False
+694350,Zach Brzykcy,RP,-0.081,0.458,-3.676,-0.59,26.0,0.76,Washington Nationals,True
+663460,Kris Bubic,RP,1.96,0.581,25.11,3.1,20.0,3.0,Kansas City Royals,True
+571527,David Buchanan,RP,0.03,1.122,,,,,FA,False
+621111,Walker Buehler,SP,3.725,3.533,-0.187,-0.03,26.0,19.508,FA,False
+656266,JB Bukauskas,RP,0.057,0.533,,,,,FA,False
+607481,Aaron Bummer,RP,2.831,1.707,0.463,0.12,42.0,3.5,Atlanta Braves,True
+595897,Nick Burdi,RP,0.102,1.108,8.1,0.2,4.0,0.85,FA,False
+670103,Raymond Burgos,RP,-0.015,0.426,,,,,FA,False
+656271,Brock Burke,RP,1.6,0.62,3.498,1.49,69.0,1.15,Los Angeles,True
+680732,Sean Burke,SP,0.27,0.63,5.265,0.91,28.0,0.76,Chicago,True
+669203,Corbin Burnes,SP,10.0,5.895,28.865,1.96,11.0,30.0,FA,False
+621114,Ryan Burr,RP,1.277,1.175,8.1,0.1,2.0,0.786,Toronto Blue Jays,True
+681347,Mike Burrows,RP,0.0,0.336,10.283,1.46,23.0,,Pittsburgh Pirates,True
+641427,Alan Busenitz,RP,-0.075,0.932,,,,,FA,False
+681066,Ky Bush,SP,0.033,0.523,,,,,FA,False
+676130,Jos\xc3\xa9 Butt\xc3\xb3,RP,3.912,0.75,,,55.0,0.784,New York,True
+665795,Edward Cabrera,SP,7.213,0.739,17.508,2.81,26.0,1.95,Miami Marlins,True
+650893,G\xc3\xa9nesis Cabrera,RP,-0.305,0.75,,,40.0,0.76,FA,False
+665828,Oswaldo Cabrera,RP,0.003,0.462,1.763,0.37,34.0,0.826,New York Yankees,True
+663462,Isaiah Campbell,RP,-0.378,0.811,-3.78,-0.14,6.0,0.76,Boston Red Sox,True
+656288,Griffin Canning,SP,8.912,4.07,11.34,1.12,16.0,4.25,FA,False
+686563,Jonathan Cannon,SP,6.862,0.712,-4.124,-0.56,22.0,0.769,Chicago,True
+666974,Yennier Cano,RP,1.547,1.92,-0.922,-0.37,65.0,0.773,Baltimore Orioles,True
+676282,Joey Cantillo,SP,2.535,0.576,6.573,1.42,35.0,0.763,Cleveland Guardians,True
+571539,Matt Carasiti,RP,-0.162,0.923,,,,,FA,False
+471911,Carlos Carrasco,SP,3.195,10.093,-11.929,-0.8099999999999999,11.0,1.5,FA,False
+676508,Ben Casparius,RP,0.045,0.538,-0.951,-0.27,46.0,0.762,Los Angeles,True
+528748,Humberto Castellanos,RP,-0.03,0.528,,,,,FA,False
+650895,Diego Castillo,RP,0.063,0.604,,,,,FA,False
+622491,Luis Castillo,SP,10.0,8.682,8.146,1.76,35.0,22.75,Seattle Mariners,True
+612434,Miguel Castro,RP,-0.036,0.637,-2.7,-0.1,6.0,1.5,FA,False
+650489,Willi Castro,RP,0.015,0.399,-0.202,-0.1499999999999999,120.0,6.4,FA,False
+656302,Dylan Cease,SP,10.0,3.536,5.302,1.08,33.0,13.75,San Diego Padres,True
+677944,Slade Cecconi,SP,3.421,0.62,5.67,0.84,24.0,0.765,FA,False
+605177,Andrew Chafin,RP,1.713,3.022,3.009,0.78,42.0,1.0,FA,False
+547973,Aroldis Chapman,RP,2.758,2.951,8.311,3.54,69.0,10.75,FA,False
+608638,JT Chargois,RP,-2.677,1.736,,,,,FA,False
+445926,Jesse Chavez,RP,-0.704,2.287,-10.125,-0.25,4.0,0.134,Atlanta Braves,True
+630023,Yonny Chirinos,SP,-1.007,2.766,,,,,FA,False
+683409,Angel Chivilli,RP,0.987,0.545,-2.675,-0.71,43.0,0.762,Colorado Rockies,True
+687847,Marc Church,RP,0.009,0.529,0.324,0.01,5.0,0.76,Texas Rangers,True
+643256,Adam Cimber,RP,-1.967,2.152,,,,,FA,False
+542585,Jos\xc3\xa9 Cisnero,RP,0.0,0.75,,,,,FA,False
+650644,Aaron Civale,SP,10.0,4.645,0.742,0.11,24.0,8.0,FA,False
+661403,Emmanuel Clase,RP,4.828,1.025,2.261,0.67,48.0,4.5,Cleveland Guardians,True
+664076,Garrett Cleavinger,RP,1.671,1.823,4.57,1.89,67.0,1.2,Tampa Bay Rays,True
+665019,Kody Clemens,RP,-0.006,0.29,1.416,1.0399999999999998,119.0,0.771,FA,False
+676391,Ernie Clement,RP,-0.009,0.29,3.99,4.31,175.0,1.97,Toronto Blue Jays,True
+605182,Mike Clevinger,SP,-0.039,3.51,-3.645,-0.18,8.0,1.5,Chicago,True
+502171,Alex Cobb,SP,4.05,3.113,,,,,FA,False
+543037,Gerrit Cole,SP,8.632,9.822,,,,,FA,False
+669395,Dylan Coleman,RP,0.009,0.226,,,,,FA,False
+664351,Luis Contreras,RP,-0.036,0.396,-3.6,-0.2,9.0,0.761,Houston Astros,True
+672710,Roansy Contreras,RP,1.09,0.557,2.268,0.07,5.0,0.76,FA,False
+571578,Patrick Corbin,SP,7.634,12.787,-2.299,-0.44,31.0,1.1,FA,False
+641482,Nestor Cortes,SP,10.0,5.45,-4.05,-0.2,8.0,7.6,FA,False
+676680,Tom Cosgrove,RP,-0.264,0.629,4.86,0.06,2.0,0.76,FA,False
+543056,Danny Coulombe,RP,-0.409,2.513,4.183,1.4200000000000002,55.0,3.0,FA,False
+664776,Jake Cousins,RP,1.54,0.967,,,,,FA,False
+543063,Brandon Crawford,RP,-0.036,0.227,,,,,FA,False
+676710,Kutter Crawford,SP,10.0,3.456,,,,,FA,False
+622503,Nabil Crismatt,RP,0.024,0.415,3.443,0.17,8.0,0.76,FA,False
+681867,Cooper Criswell,SP,4.087,0.885,-2.083,-0.09,7.0,1.0,Boston Red Sox,True
+676105,Jeff Criswell,RP,0.174,0.618,,,,,FA,False
+676979,Garrett Crochet,SP,10.0,0.708,31.025,6.32,33.0,3.8,FA,False
+686539,Declan Cronin,RP,3.856,0.661,,,,,FA,False
+668968,Hans Crouse,RP,1.62,0.617,,,,,FA,False
+518585,Fernando Cruz,RP,6.033,3.235,0.978,0.32,53.0,0.785,FA,False
+674444,Steven Cruz,RP,0.072,0.65,1.31,0.38,47.0,0.76,Kansas City Royals,True
+621016,Jos\xc3\xa9 Cuas,RP,0.0,0.75,,,,,FA,False
+456501,Johnny Cueto,SP,-0.054,1.724,,,,,FA,False
+675540,Xzavion Curry,RP,-0.761,0.575,-16.2,-0.3,3.0,0.76,FA,False
+595928,John Curtiss,RP,-0.069,0.486,2.268,0.42,30.0,0.85,FA,False
+702674,Caden Dana,SP,-0.138,0.495,-9.951,-0.43,7.0,0.76,Los Angeles,True
+669721,Davis Daniel,SP,0.184,0.571,0.0,0.0,3.0,0.76,FA,False
+506433,Yu Darvish,SP,5.201,5.055,-0.304,-0.03,16.0,20.0,San Diego Padres,True
+656353,Tucker Davidson,RP,0.108,0.673,,,,,FA,False
+656354,Austin Davis,RP,-0.072,0.603,,,,,FA,False
+663562,Noah Davis,RP,-2.0,0.547,-23.04,-1.28,9.0,0.76,FA,False
+676969,Brett de Geus,RP,-0.063,0.509,3.24,0.02,1.0,0.76,FA,False
+660853,Enyel De Los Santos,RP,1.992,0.997,0.274,0.1099999999999999,65.0,1.4,FA,False
+594798,Jacob deGrom,SP,0.123,1.421,15.822,2.93,30.0,40.0,Texas Rangers,True
+672282,Reid Detmers,SP,7.589,0.596,3.479,1.31,61.0,1.825,Los Angeles,True
+606965,Chris Devenski,RP,-2.0,1.531,4.486,0.36,13.0,1.0,New York,True
+664747,Alexis D\xc3\xadaz,RP,0.073,0.75,,,18.0,4.5,FA,False
+621242,Edwin D\xc3\xadaz,RP,6.277,0.75,,,62.0,17.5,New York,True
+646242,Jhonathan D\xc3\xadaz,RP,0.0,0.75,,,1.0,0.76,Seattle Mariners,True
+622766,Miguel D\xc3\xadaz,RP,0.0,0.75,,,,,FA,False
+700270,Yilber D\xc3\xadaz,SP,0.0,0.75,,,1.0,0.76,Arizona Diamondbacks,True
+518617,Jake Diekman,RP,-1.967,2.869,,,,,FA,False
+677976,Randy Dobnak,RP,0.0,0.558,19.44,0.12,1.0,3.0,Minnesota Twins,True
+689266,Dylan Dodd,RP,-0.018,0.191,1.967,0.34,28.0,0.76,Atlanta Braves,True
+622554,Seranthony Dom\xc3\xadnguez,RP,2.767,0.75,,,79.0,8.0,Baltimore Orioles,True
+666808,Camilo Doval,RP,4.542,0.721,0.652,0.29,72.0,4.525,FA,False
+650960,Daniel Duarte,RP,0.033,0.422,,,,,FA,False
+681869,Shawn Dubin,RP,1.451,0.733,-0.918,-0.17,30.0,0.77,FA,False
+608648,Tyler Duffey,RP,-0.006,0.949,,,,,FA,False
+641540,Dane Dunning,SP,4.542,2.226,-5.265,-0.39,12.0,2.66,FA,False
+670161,Parker Dunshee,RP,-0.042,0.178,,,,,FA,False
+661395,Jhoan Duran,RP,4.469,0.705,6.934,3.21,75.0,4.125,Minnesota Twins,True
+671109,Jake Eder,RP,0.003,0.266,2.025,0.1,8.0,0.76,FA,False
+605218,Carl Edwards Jr.,RP,0.0,1.58,-0.405,-0.01,4.0,,FA,False
+664123,Scott Effross,RP,-0.003,0.539,-3.387,-0.23,11.0,0.8,New York,True
+621107,Zach Eflin,SP,10.0,8.391,-3.934,-0.34,14.0,18.0,Baltimore Orioles,True
+685126,Brandon Eisert,RP,0.003,0.444,0.878,0.39,72.0,0.761,FA,False
+693821,Bryce Elder,SP,2.957,0.599,-2.256,-0.39,28.0,0.8,Atlanta Braves,True
+686642,Fraser Ellard,RP,0.778,0.597,0.18,0.02,18.0,0.763,Chicago,True
+592288,Kent Emanuel,RP,-0.081,1.184,,,,,FA,False
+669438,Mason Englert,RP,-1.688,0.541,1.452,0.26,29.0,0.763,FA,False
+543135,Nathan Eovaldi,SP,10.0,6.016,31.737,4.31,22.0,18.0,Texas Rangers,True
+668674,Lucas Erceg,RP,4.065,1.166,3.957,1.49,61.0,0.777,Kansas City Royals,True
+502179,Paolo Espino,RP,-0.081,1.143,,,,,FA,False
+683155,Joey Estes,SP,7.106,0.624,-16.2,-0.3,3.0,0.76,Oakland Athletics,True
+608032,Carlos Est\xc3\xa9vez,RP,-0.701,0.75,,,67.0,10.1,FA,False
+669093,Jeremiah Estrada,RP,6.643,0.671,2.44,1.19,79.0,0.776,San Diego Padres,True
+656412,Alex Faedo,RP,0.684,0.907,,,,,FA,False
+664126,Pete Fairbanks,RP,-0.532,1.646,3.107,1.17,61.0,3.817,Tampa Bay Rays,True
+663559,Bailey Falter,SP,6.37,1.206,5.047,0.8099999999999999,26.0,2.222,FA,False
+571656,Buck Farmer,RP,0.885,2.599,,,,,FA,False
+571657,Kyle Farmer,RP,-0.006,0.786,-1.269,-0.76,97.0,2.5,FA,False
+676534,Calvin Faucher,RP,1.578,0.919,2.069,0.83,65.0,0.776,Miami Marlins,True
+607200,Erick Fedde,SP,10.0,15.11,-3.038,-0.6,32.0,7.108,FA,False
+621399,Brady Feigl,RP,-0.048,0.6,,,,,FA,False
+663372,Ryan Feltner,SP,9.981,1.911,15.66,0.58,6.0,2.275,Colorado Rockies,True
+657571,Caleb Ferguson,RP,2.755,1.146,1.975,0.89,73.0,3.0,FA,False
+621053,Tyler Ferguson,RP,1.219,1.54,0.579,0.2,56.0,0.76,Oakland Athletics,True
+681676,Ryan Fernandez,RP,2.81,0.704,-5.67,-1.12,32.0,0.769,St. Louis Cardinals,True
+678606,Jose A. Ferrer,RP,-0.374,0.573,0.135,0.06,72.0,0.765,Washington Nationals,True
+701581,David Festa,SP,6.504,0.578,4.418,0.3,11.0,0.76,Minnesota Twins,True
+670036,Matt Festa,RP,-2.0,1.226,-0.405,-0.16,64.0,0.76,FA,False
+656420,J.P. Feyereisen,RP,-0.096,0.494,-18.225,-0.45,4.0,0.76,FA,False
+640448,Kyle Finnegan,RP,0.663,2.77,2.691,1.03,62.0,6.0,FA,False
+690916,Richard Fitts,SP,8.0,0.655,-4.124,-0.28,11.0,0.766,Boston Red Sox,True
+666149,Tyler Fitzgerald,RP,-0.018,0.37,1.912,0.85,72.0,0.78,San Francisco Giants,True
+656427,Jack Flaherty,SP,10.0,3.422,3.859,0.81,34.0,20.0,Detroit Tigers,True
+676596,Josh Fleming,RP,-3.0,0.679,,,,,FA,False
+623167,Chris Flexen,SP,9.05,4.385,2.777,0.36,21.0,0.774,Chicago,True
+571670,Dylan Floro,RP,-0.834,3.094,,,,,FA,False
+671345,Jason Foley,RP,-0.874,1.033,,,,,FA,False
+641582,Matt Foster,RP,0.075,0.55,,,,,FA,False
+641585,J.P. France,SP,-2.0,1.305,5.67,0.07,2.0,0.77,Houston Astros,True
+670102,Bowden Francis,RP,5.99,1.498,-8.91,-0.77,14.0,0.782,Toronto Blue Jays,True
+607536,Kyle Freeland,SP,3.244,5.935,7.212,1.38,31.0,16.0,Colorado Rockies,True
+666818,Luis Fr\xc3\xadas,RP,0.0,0.75,,,,,FA,False
+608331,Max Fried,SP,10.0,9.515,21.108,4.43,34.0,12.0,FA,False
+608334,Carson Fulmer,RP,2.593,1.863,0.0,0.0,13.0,0.76,Los Angeles,True
+681892,Kody Funderburk,RP,-0.221,0.627,3.074,0.74,39.0,0.76,Minnesota Twins,True
+683769,Hunter Gaddis,RP,1.725,0.617,2.451,1.15,76.0,0.779,Cleveland Guardians,True
+606149,Giovanny Gallegos,RP,-1.234,1.507,,,,,FA,False
+668678,Zac Gallen,SP,10.0,2.425,5.547,1.13,33.0,13.5,Arizona Diamondbacks,True
+642520,Gerson Garabito,RP,-0.225,0.585,-29.16,-0.54,3.0,0.101,Texas Rangers,True
+665620,Deivi Garc\xc3\xada,RP,0.0,0.75,,,,,FA,False
+472610,Luis Garc\xc3\xada,RP,1.347,0.75,,,58.0,1.875,FA,False
+676395,Robert Garcia,RP,3.999,1.027,1.004,0.44,71.0,0.772,FA,False
+554340,Yimi Garc\xc3\xada,RP,0.771,0.75,,,22.0,7.5,FA,False
+607237,Amir Garrett,RP,0.006,1.57,,,,,FA,False
+666129,Braxton Garrett,SP,3.885,0.659,,,,,FA,False
+657585,Reed Garrett,RP,3.904,2.296,1.061,0.38,58.0,0.95,New York,True
+688107,Robert Gasser,SP,8.0,0.633,-10.53,-0.26,4.0,0.765,Milwaukee Brewers,True
+592332,Kevin Gausman,SP,9.645,11.114,16.285,3.82,38.0,23.0,Toronto Blue Jays,True
+593334,Domingo Germ\xc3\xa1n,RP,0.0,0.75,,,,,FA,False
+664139,Ian Gibaut,RP,0.006,0.509,1.102,0.17,25.0,1.3,Cincinnati Reds,True
+502043,Kyle Gibson,SP,9.727,12.934,-43.74,-1.08,4.0,5.25,FA,False
+661563,Luis Gil,SP,10.0,1.036,13.365,0.99,12.0,0.804,New York,True
+669302,Logan Gilbert,SP,10.0,4.404,11.675,2.09,29.0,7.625,Seattle Mariners,True
+656457,Tyler Gilbert,RP,0.033,0.503,1.902,0.54,46.0,0.9,FA,False
+656458,Lucas Gilbreath,RP,-0.12,0.325,-3.24,-0.02,1.0,0.785,Colorado Rockies,True
+670810,Logan Gillaspie,RP,-0.045,0.535,13.5,0.25,3.0,0.76,San Diego Padres,True
+687362,Connor Gillispie,RP,0.063,0.522,-21.06,-0.78,6.0,0.82,FA,False
+656464,Kevin Ginkel,RP,3.487,1.854,-4.525,-0.81,29.0,2.425,Arizona Diamondbacks,True
+669372,J.T. Ginn,SP,1.095,0.628,3.663,0.52,23.0,0.76,Oakland Athletics,True
+607192,Tyler Glasnow,SP,10.0,8.226,12.892,1.91,24.0,30.0,Los Angeles,True
+596295,Austin Gomber,SP,9.247,7.039,-9.72,-0.72,12.0,6.35,Colorado Rockies,True
+672782,Yoendrys G\xc3\xb3mez,RP,0.0,0.75,,,21.0,0.765,FA,False
+594835,Marco Gonzales,SP,-1.149,3.869,,,,,FA,False
+624647,Victor Gonz\xc3\xa1lez,RP,0.0,0.75,,,,,FA,False
+685299,Tanner Gordon,SP,-0.248,0.661,-0.864,-0.08,15.0,0.76,Colorado Rockies,True
+669022,MacKenzie Gore,SP,10.0,0.975,16.2,3.0,30.0,2.89,Washington Nationals,True
+543238,Anthony Gose,RP,-0.045,1.146,,,,,FA,False
+700669,Gordon Graceffo,RP,0.003,0.614,-4.86,-0.78,26.0,0.76,St. Louis Cardinals,True
+660813,Brusdar Graterol,RP,0.033,0.503,,,,,FA,False
+592351,Jon Gray,SP,5.057,4.994,-17.01,-0.63,6.0,13.0,Texas Rangers,True
+680686,Josiah Gray,SP,-0.162,0.487,,,,,FA,False
+543243,Sonny Gray,SP,10.0,11.273,7.29,1.44,32.0,25.0,St. Louis Cardinals,True
+643338,Chad Green,RP,-1.703,2.559,-1.944,-0.54,45.0,10.5,Toronto Blue Jays,True
+668881,Hunter Greene,SP,10.0,0.673,35.802,4.42,20.0,6.0,Cincinnati Reds,True
+675627,Michael Grove,RP,1.912,0.714,,,,,FA,False
+674944,Sean Guenther,RP,3.664,0.696,-2.16,-0.12,9.0,0.76,Detroit Tigers,True
+692285,Luis Guerrero,RP,0.15,0.646,0.623,0.05,13.0,0.76,Boston Red Sox,True
+641645,Luis Guillorme,RP,-0.021,0.297,-3.105,-0.23,12.0,0.213,Arizona Diamondbacks,True
+661269,Vladimir Gutierrez,RP,-0.021,0.226,,,,,FA,False
+623352,Josh Hader,RP,5.07,1.925,7.762,2.3,48.0,19.0,Houston Astros,True
+669084,DL Hall,SP,1.382,0.593,4.86,0.6,20.0,,Milwaukee Brewers,True
+678020,Seth Halvorsen,RP,0.186,0.581,0.81,0.21,42.0,0.762,Colorado Rockies,True
+641656,Ian Hamilton,RP,1.695,0.887,0.72,0.16,36.0,0.941,New York,True
+641658,Garrett Hampson,RP,0.012,0.246,-1.045,-0.3999999999999999,62.0,1.038,FA,False
+676106,Emerson Hancock,SP,-0.396,0.613,-1.553,-0.23,24.0,0.766,Seattle Mariners,True
+669724,Brenan Hanifee,RP,-1.337,0.616,-0.088,-0.03,55.0,0.766,Detroit Tigers,True
+663687,Hogan Harris,RP,1.4,1.131,4.05,1.2,48.0,0.8,Oakland Athletics,True
+690986,Kyle Harrison,SP,7.541,0.676,6.922,0.47,11.0,0.76,FA,False
+664129,Geoff Hartlieb,RP,-0.108,0.503,-10.935,-0.27,4.0,0.76,FA,False
+701643,Grant Hartwig,RP,-0.033,0.43,,,,,FA,False
+640451,Hunter Harvey,RP,1.425,0.999,9.045,0.67,12.0,3.7,Kansas City Royals,True
+687396,Brent Headrick,RP,0.015,0.187,2.954,0.31,17.0,0.763,FA,False
+571760,Andrew Heaney,SP,10.0,7.864,-1.98,-0.3299999999999999,27.0,5.292,FA,False
+669169,Jonathan Heasley,RP,-0.186,0.387,,,,,FA,False
+595978,Austin Hedges,RP,0.018,0.383,-1.024,-0.43,68.0,4.0,Cleveland Guardians,True
+623168,Tyler Heineman,RP,0.006,1.775,4.912,1.88,62.0,0.78,FA,False
+621294,Ben Heller,RP,-0.222,1.301,,,,,FA,False
+664854,Ryan Helsley,RP,3.95,2.774,0.391,0.14,58.0,8.2,FA,False
+543294,Kyle Hendricks,SP,3.71,10.816,8.832,1.69,31.0,2.5,FA,False
+668874,Blair Henley,SP,-0.096,0.151,,,,,FA,False
+683618,Edgardo Henriquez,RP,0.024,0.487,2.851,0.44,25.0,0.762,Los Angeles,True
+678692,Ronny Henriquez,RP,0.099,0.62,5.353,2.28,69.0,0.778,FA,False
+674072,Tommy Henry,SP,-1.138,0.637,5.67,0.07,2.0,0.76,Arizona Diamondbacks,True
+682073,David Hensley,RP,-0.006,0.178,,,,,FA,False
+656529,Sam Hentges,RP,1.199,0.663,,,,,FA,False
+623474,Jimmy Herget,RP,0.015,0.531,8.292,3.02,59.0,0.85,FA,False
+643361,Kevin Herget,RP,0.075,1.13,2.546,0.11,7.0,0.76,FA,False
+672578,Carlos Hern\xc3\xa1ndez,RP,-1.764,0.75,,,41.0,1.16,FA,False
+678226,Daysbel Hern\xc3\xa1ndez,RP,0.0,0.75,,,39.0,0.77,Atlanta Braves,True
+622694,Elieser Hern\xc3\xa1ndez,RP,0.0,0.75,,,,,FA,False
+571771,Enrique Hern\xc3\xa1ndez,RP,0.0,0.75,0.342,0.23,109.0,6.5,Los Angeles Dodgers,True
+642546,Jonathan Hern\xc3\xa1ndez,RP,1.105,0.75,,,,,FA,False
+669796,Jose Hernandez,RP,0.069,0.659,,,,,FA,False
+663321,Nick Hernandez,RP,-0.033,0.441,0.486,0.03,10.0,0.76,Houston Astros,True
+682120,Tim Herrin,RP,0.229,0.846,-0.607,-0.21,56.0,0.777,Cleveland Guardians,True
+687792,DJ Herz,SP,8.655,0.609,,,,,FA,False
+543305,Aaron Hicks,RP,-0.018,5.029,,,,,FA,False
+663855,Jordan Hicks,SP,5.958,0.827,-8.386,-1.76,34.0,12.0,FA,False
+677955,Jaden Hill,RP,-0.003,0.528,2.951,0.51,28.0,0.76,Colorado Rockies,True
+448179,Rich Hill,RP,-0.003,1.066,-10.53,-0.13,2.0,1.0,FA,False
+657612,Tim Hill,RP,-1.863,2.152,2.441,1.1,73.0,2.5,FA,False
+663546,Sean Hjelle,RP,4.751,0.714,-5.265,-0.39,12.0,0.76,San Francisco Giants,True
+687863,Porter Hodge,RP,1.117,0.636,-3.87,-0.86,36.0,0.767,Chicago,True
+663773,Bryan Hoeing,RP,-0.819,0.853,2.546,0.11,7.0,0.784,FA,False
+656546,Jeff Hoffman,RP,4.876,2.529,1.0,0.5,81.0,6.0,FA,False
+670059,Colin Holderman,RP,0.292,0.984,-5.198,-0.77,24.0,1.5,Pittsburgh Pirates,True
+668970,Gavin Hollowell,RP,0.015,0.187,0.0,0.0,7.0,0.76,Chicago,True
+680880,Grant Holman,RP,0.072,0.585,0.442,0.06,22.0,0.76,Oakland Athletics,True
+605280,Clay Holmes,RP,2.976,2.805,9.524,1.94,33.0,13.0,New York,True
+656550,Grant Holmes,RP,5.623,0.968,10.456,1.42,22.0,0.77,Atlanta Braves,True
+663947,Tyler Holton,RP,4.903,1.618,1.555,0.72,75.0,0.798,Detroit Tigers,True
+641703,Brent Honeywell Jr.,RP,-3.0,1.051,,,,,FA,False
+690544,Bailey Horn,RP,-0.096,0.521,5.832,0.36,10.0,0.76,FA,False
+656557,Tanner Houck,SP,10.0,3.465,-24.3,-1.35,9.0,3.95,Boston Red Sox,True
+605288,Adrian Houser,RP,-0.094,2.52,25.303,3.28,21.0,1.375,FA,False
+675921,Spencer Howard,RP,-2.0,0.558,,,,,FA,False
+663542,Bryan Hudson,RP,1.135,1.051,-2.126,-0.21,16.0,0.777,FA,False
+641712,Dakota Hudson,SP,0.808,3.155,,,,,FA,False
+543339,Daniel Hudson,RP,-0.205,2.618,,,,,FA,False
+676714,Brandon Hughes,RP,-0.117,0.576,,,,,FA,False
+669165,Kyle Hurt,RP,0.033,0.402,,,,,FA,False
+676428,Brant Hurter,RP,2.48,0.608,2.206,0.64,47.0,0.767,Detroit Tigers,True
+628452,Raisel Iglesias,RP,2.971,4.706,3.055,1.32,70.0,16.0,Atlanta Braves,True
+684007,Shota Imanaga,SP,10.0,9.245,8.76,1.46,27.0,13.25,Chicago,True
+683568,Jairo Iriarte,RP,0.03,0.5,,,,,FA,False
+608344,Cole Irvin,SP,2.192,5.206,,,,,FA,False
+663623,Jake Irvin,SP,10.0,2.036,-1.865,-0.38,33.0,0.775,Washington Nationals,True
+543351,Jay Jackson,RP,-2.0,1.692,,,,,FA,False
+592426,Luke Jackson,RP,2.03,2.308,-1.65,-0.5499999999999999,54.0,1.234,FA,False
+689690,Alek Jacob,RP,0.087,0.587,-1.285,-0.23,29.0,0.764,San Diego Padres,True
+682175,Joe Jacques,RP,-0.027,0.268,,,,,FA,False
+445276,Kenley Jansen,RP,0.154,3.089,6.48,2.44,61.0,10.0,FA,False
+686826,Bryce Jarvis,RP,-1.808,0.642,-0.405,-0.03,12.0,0.772,Arizona Diamondbacks,True
+664299,Cristian Javier,SP,-1.545,0.801,2.633,0.13,8.0,10.0,Houston Astros,True
+643377,Griffin Jax,RP,6.3,2.394,1.021,0.46,73.0,2.365,Minnesota Twins,True
+664079,Tyler Jay,RP,-0.003,0.513,,,,,FA,False
+641726,Daulton Jefferies,RP,-0.21,0.598,,,,,FA,False
+666204,Dany Jim\xc3\xa9nez,RP,0.0,0.75,,,,,FA,False
+641729,Joe Jim\xc3\xa9nez,RP,3.71,0.75,,,,,FA,False
+695549,Jackson Jobe,RP,0.039,0.511,6.318,0.39,10.0,0.761,Detroit Tigers,True
+572955,Pierce Johnson,RP,1.183,3.3,2.766,1.11,65.0,7.0,Atlanta Braves,True
+686751,Seth Johnson,SP,-0.117,0.351,-0.162,-0.01,10.0,0.76,Los Angeles Dodgers,True
+683003,Jared Jones,SP,10.0,0.61,,,,,FA,False
+690829,Ben Joyce,RP,0.511,0.689,-10.044,-0.31,5.0,0.78,Los Angeles,True
+596001,Jakob Junis,RP,2.334,2.106,2.416,0.88,59.0,,FA,False
+676083,Janson Junk,RP,-0.03,0.434,7.869,1.02,21.0,0.76,FA,False
+687145,Evan Justice,RP,0.003,0.462,,,,,FA,False
+592454,Tommy Kahnle,RP,0.118,2.995,-0.393,-0.17,70.0,7.75,FA,False
+641745,Brad Keller,RP,-0.067,0.689,3.196,1.44,73.0,1.5,FA,False
+656605,Mitch Keller,SP,10.0,3.32,6.834,1.35,32.0,15.0,Pittsburgh Pirates,True
+543391,Casey Kelly,RP,0.0,1.261,4.86,0.06,2.0,0.76,FA,False
+523260,Joe Kelly,RP,-1.879,1.983,,,,,FA,False
+687330,Kevin Kelly,RP,2.739,0.668,-3.556,-0.9,41.0,0.776,Tampa Bay Rays,True
+518876,Merrill Kelly,SP,2.294,13.896,14.833,2.93,32.0,7.0,Arizona Diamondbacks,True
+547184,Michael Kelly,RP,-3.0,1.34,2.854,0.74,42.0,0.76,Oakland Athletics,True
+677161,Zack Kelly,RP,1.454,1.094,-1.229,-0.22,29.0,0.772,Boston Red Sox,True
+689147,Orion Kerkering,RP,3.913,0.586,2.064,0.93,73.0,0.773,Los Angeles Dodgers,True
+678061,Ray Kerr,RP,-0.891,0.732,,,,,FA,False
+477132,Clayton Kershaw,SP,-2.788,2.395,10.498,1.62,25.0,7.5,Los Angeles,True
+666197,Grae Kessinger,RP,0.009,0.331,,,,,FA,False
+572971,Dallas Keuchel,SP,-0.009,3.066,,,,,FA,False
+579328,Yusei Kikuchi,SP,10.0,11.126,16.298,3.32,33.0,21.225,FA,False
+668873,Caleb Kilian,RP,-0.003,0.586,,,,,FA,False
+518886,Craig Kimbrel,RP,1.25,4.487,4.629,0.4,14.0,0.76,FA,False
+643396,Isiah Kiner-Falefa,RP,0.003,0.361,1.759,1.64,151.0,7.5,Toronto Blue Jays,True
+687911,Bryan King,RP,1.704,0.653,4.026,1.69,68.0,0.766,Houston Astros,True
+667463,John King,RP,-1.047,1.184,-0.953,-0.3,51.0,1.605,St. Louis Cardinals,True
+650633,Michael King,SP,10.0,5.462,11.644,1.15,16.0,3.75,San Diego Padres,True
+641755,Tyler Kinley,RP,2.76,3.013,3.151,1.42,73.0,4.0,FA,False
+669923,George Kirby,SP,10.0,1.517,4.56,0.76,27.0,4.3,Seattle Mariners,True
+685116,Austin Kitchen,RP,-0.141,0.445,,,,,FA,False
+552640,Andrew Kittredge,RP,0.772,2.48,1.565,0.57,59.0,9.0,FA,False
+694361,Will Klein,RP,-0.102,0.468,1.721,0.17,16.0,0.76,FA,False
+680572,Adam Kloffenstein,RP,0.027,0.665,,,,,FA,False
+689017,Landon Knack,SP,4.705,0.702,-1.944,-0.12,10.0,0.76,Los Angeles,True
+668800,Andrew Knizner,RP,0.033,0.286,1.325,0.27,33.0,0.944,FA,False
+571863,Matt Koch,RP,-0.135,0.145,,,,,FA,False
+686799,Jack Kochanowicz,SP,0.246,0.6,-9.861,-1.4,23.0,0.77,Los Angeles,True
+657649,Jared Koenig,RP,0.661,1.793,3.198,1.54,78.0,0.776,Milwaukee Brewers,True
+663568,Stephen Kolek,RP,1.474,0.621,16.967,1.99,19.0,0.76,FA,False
+656629,Michael Kopech,RP,3.468,2.592,2.661,0.23,14.0,5.2,FA,False
+667478,Evan Kravetz,RP,0.009,0.226,,,,,FA,False
+665152,Dean Kremer,SP,7.366,1.641,11.235,2.15,31.0,2.95,Baltimore Orioles,True
+670219,Zac Kristofak,RP,-0.012,0.191,,,,,FA,False
+640454,Matt Krook,RP,-0.03,0.279,-0.54,-0.01,3.0,0.76,FA,False
+641771,Chad Kuhl,RP,2.302,1.282,,,,,FA,False
+669270,Joel Kuhnel,RP,0.033,0.519,,,,,FA,False
+686747,Joe La Sorsa,RP,0.024,0.54,-12.636,-0.39,5.0,0.76,FA,False
+663567,Peter Lambert,RP,1.331,0.733,,,,,FA,False
+659275,Dinelson Lamet,RP,0.0,0.574,,,,,FA,False
+656638,Alex Lange,RP,-0.189,0.631,4.86,0.03,1.0,0.782,Detroit Tigers,True
+656641,Jacob Latz,RP,-1.227,0.734,6.922,1.41,33.0,0.76,Texas Rangers,True
+571882,Derek Law,RP,2.551,3.327,,,,,FA,False
+664875,Justin Lawrence,RP,-1.01,1.337,9.911,1.04,17.0,0.975,FA,False
+676661,Max Lazar,RP,0.024,0.544,1.215,0.27,36.0,0.76,Los Angeles Dodgers,True
+681517,Kyle Leahy,RP,-1.273,0.652,3.998,1.53,62.0,0.767,St. Louis Cardinals,True
+673929,Jordan Leasure,RP,-1.282,0.558,1.596,0.67,68.0,0.766,Chicago,True
+600917,Jos\xc3\xa9 Leclerc,RP,4.438,0.75,,,10.0,10.0,FA,False
+669276,Dylan Lee,RP,4.029,0.96,2.233,1.02,74.0,1.025,Atlanta Braves,True
+668984,Casey Legumina,RP,-0.078,0.46,-3.172,-0.94,48.0,0.76,FA,False
+605335,Brandon Leibrandt,RP,-0.048,0.693,,,,,FA,False
+683004,Jack Leiter,SP,-0.447,0.609,2.29,0.41,29.0,0.762,Texas Rangers,True
+643410,Mark Leiter Jr.,RP,4.77,3.3,-1.62,-0.59,59.0,2.05,FA,False
+608678,Dominic Leone,RP,-0.198,1.95,,,,,FA,False
+669461,Matthew Liberatore,RP,3.628,0.527,5.474,0.98,29.0,0.776,St. Louis Cardinals,True
+641793,Zack Littell,SP,10.0,3.05,15.66,3.19,33.0,5.72,FA,False
+663893,Brendon Little,RP,-0.167,0.64,2.154,1.13,85.0,0.772,Toronto Blue Jays,True
+681432,Luke Little,RP,0.95,0.611,-4.05,-0.05,2.0,0.76,Chicago,True
+594902,Ben Lively,SP,7.878,8.659,15.3,0.85,9.0,2.25,Cleveland Guardians,True
+642528,Jonathan Lo\xc3\xa1isiga,RP,0.0,0.75,,,30.0,4.5,New York,True
+666157,Nick Lodolo,SP,9.696,0.716,26.19,4.85,30.0,1.975,Cincinnati Reds,True
+679845,Nick Loftin,RP,0.012,0.416,-0.967,-0.4,67.0,0.76,Kansas City Royals,True
+656657,Zach Logue,RP,-0.045,0.325,,,,,FA,False
+669674,Sam Long,RP,0.192,0.797,-2.908,-0.7,39.0,0.95,Kansas City Royals,True
+682052,Jacob Lopez,RP,0.003,0.554,8.254,1.07,21.0,0.76,FA,False
+605347,Jorge L\xc3\xb3pez,RP,-0.655,0.75,,,26.0,3.05,FA,False
+641154,Pablo L\xc3\xb3pez,SP,10.0,0.75,,,14.0,21.5,Minnesota Twins,True
+625643,Reynaldo L\xc3\xb3pez,SP,8.668,0.75,,,1.0,8.0,Atlanta Braves,True
+547179,Michael Lorenzen,SP,6.036,8.623,2.1,0.35,27.0,5.5,Kansas City Royals,True
+702795,Ryan Loutos,RP,0.024,0.452,-13.23,-0.98,12.0,0.76,FA,False
+663992,Richard Lovelady,RP,-1.268,0.661,-6.966,-0.43,10.0,1.0,FA,False
+695076,Rhett Lowder,SP,0.98,0.585,,,,,FA,False
+687922,Easton Lucas,RP,-0.168,0.52,-8.37,-0.31,6.0,0.8,FA,False
+664192,Joey Lucchesi,SP,0.006,1.197,1.577,0.37,38.0,0.855,FA,False
+607625,Seth Lugo,SP,10.0,15.381,10.281,1.65,26.0,15.0,Kansas City Royals,True
+666200,Jes\xc3\xbas Luzardo,SP,3.236,0.75,,,34.0,6.625,FA,False
+543475,Jordan Lyles,RP,0.051,1.312,,,,,FA,False
+663738,Daniel Lynch IV,RP,1.24,0.701,3.553,1.25,57.0,0.782,Kansas City Royals,True
+458681,Lance Lynn,SP,4.321,7.335,,,,,FA,False
+656671,Josh Maciejewski,RP,0.03,0.387,,,,,FA,False
+680744,Ty Madden,RP,-0.926,0.562,,,,,FA,False
+628317,Kenta Maeda,SP,4.457,6.372,-4.397,-0.19,7.0,10.0,Detroit Tigers,True
+641816,Tyler Mahle,SP,0.018,1.318,21.769,2.15,16.0,16.5,Texas Rangers,True
+571912,Luke Maile,RP,-0.048,0.912,0.194,0.03,25.0,1.5,FA,False
+687424,Anthony Maldonado,RP,0.054,0.567,-6.75,-0.25,6.0,0.76,FA,False
+640455,Sean Manaea,SP,10.0,15.929,-4.104,-0.38,15.0,25.0,New York,True
+666159,Matt Manning,SP,2.106,0.548,,,,,FA,False
+666201,Alek Manoah,SP,-2.0,0.558,,,,,FA,False
+573009,Joe Mantiply,RP,0.137,3.913,-13.122,-0.81,10.0,1.7,Arizona Diamondbacks,True
+676760,Ron Marinaccio,RP,0.861,0.612,7.637,0.33,7.0,0.76,FA,False
+608566,Germ\xc3\xa1n M\xc3\xa1rquez,SP,0.0,0.75,,,26.0,10.0,Colorado Rockies,True
+679525,Alec Marsh,SP,7.32,0.979,,,,,FA,False
+665896,Jos\xc3\xa9 Marte,RP,0.0,0.75,,,,,FA,False
+628708,Yunior Marte,RP,-2.0,0.887,,,,,FA,False
+455119,Chris Martin,RP,3.657,2.513,-0.304,-0.09,48.0,5.5,FA,False
+663436,Davis Martin,SP,3.008,0.875,9.097,1.46,26.0,0.765,Chicago,True
+679885,Justin Martinez,RP,6.15,0.582,1.429,0.15,17.0,1.5,Arizona Diamondbacks,True
+607259,Nick Martinez,RP,9.439,5.612,9.127,2.31,41.0,21.05,Cincinnati Reds,True
+661527,Seth Martinez,RP,-1.498,1.094,-0.27,-0.01,6.0,0.76,FA,False
+664208,Phil Maton,RP,0.81,2.373,3.369,1.31,63.0,2.0,FA,False
+673513,Yuki Matsui,RP,2.877,1.015,1.514,0.57,61.0,5.5,San Diego Padres,True
+805673,Zebby Matthews,SP,2.495,0.579,2.025,0.2,16.0,0.76,Minnesota Twins,True
+676755,Isaac Mattson,RP,0.003,0.435,5.596,1.52,44.0,0.76,Pittsburgh Pirates,True
+571927,Steven Matz,SP,-1.304,4.181,2.71,0.92,55.0,12.0,Boston Red Sox,True
+554431,Tyler Matzek,RP,-0.138,0.887,0.694,0.03,7.0,0.102,FA,False
+641835,Tim Mayza,RP,-3.0,2.98,1.836,0.1699999999999999,15.0,1.308,FA,False
+800049,Adam Mazur,SP,-2.126,0.579,-6.21,-0.23,6.0,0.76,FA,False
+663704,James McArthur,RP,1.305,1.136,,,,,FA,False
+543510,James McCann,RP,-0.021,5.029,3.896,1.01,42.0,1.0,FA,False
+670766,Darren McCaughan,RP,-2.018,0.795,7.56,0.14,3.0,0.8,FA,False
+694646,Chayce McDermott,SP,-0.018,0.312,-31.185,-0.77,4.0,0.762,Baltimore Orioles,True
+686790,Trevor McDonald,RP,0.027,0.525,11.88,0.22,3.0,0.76,San Francisco Giants,True
+519008,T.J. McFarland,RP,-1.767,1.924,-1.56,-0.26,27.0,1.8,Oakland Athletics,True
+543518,Scott McGough,RP,-2.174,2.604,-1.745,-0.14,13.0,0.76,Arizona Diamondbacks,True
+700241,Michael McGreevy,SP,8.0,0.716,6.766,0.71,17.0,0.76,St. Louis Cardinals,True
+663474,Triston McKenzie,SP,2.054,0.694,-8.505,-0.21,4.0,1.95,Cleveland Guardians,True
+656716,Zach McKinstry,RP,-0.015,0.326,3.027,2.84,152.0,1.65,Detroit Tigers,True
+669111,John McMillon,RP,0.195,0.64,,,,,FA,False
+607644,John Means,SP,8.0,5.104,,,,,FA,False
+683232,Nick Mears,RP,4.968,0.728,1.154,0.47,66.0,0.963,FA,False
+682989,Victor Mederos,RP,-0.093,0.428,-5.832,-0.18,5.0,0.76,Los Angeles,True
+665622,Luis Medina,SP,0.076,0.615,,,,,FA,False
+703231,James Meeker,RP,0.009,0.248,,,,,FA,False
+656730,Trevor Megill,RP,0.896,1.427,4.448,1.51,55.0,1.94,Milwaukee Brewers,True
+656731,Tylor Megill,SP,5.485,1.421,3.356,0.29,14.0,1.975,New York,True
+691441,Cristian Mena,SP,-0.051,0.342,19.98,0.37,3.0,0.76,Arizona Diamondbacks,True
+664901,Danny Mendick,RP,0.012,0.568,,,,,FA,False
+675650,Michael Mercado,RP,-0.21,0.533,-8.64,-0.16,3.0,0.76,Los Angeles Dodgers,True
+657240,Julian Merryweather,RP,-0.108,1.031,-3.549,-0.46,21.0,1.225,Chicago,True
+670223,Matt Mervis,RP,-0.051,0.341,-2.816,-0.73,42.0,0.275,FA,False
+676974,Max Meyer,SP,2.562,0.625,0.27,0.02,12.0,0.768,Miami Marlins,True
+571945,Miles Mikolas,SP,8.773,10.043,1.986,0.38,31.0,16.0,St. Louis Cardinals,True
+489119,Wade Miley,SP,-0.027,0.971,-7.02,-0.13,3.0,2.5,FA,False
+676272,Bobby Miller,SP,2.09,0.602,-26.73,-0.33,2.0,0.76,Los Angeles,True
+682243,Bryce Miller,SP,10.0,0.772,-6.326,-0.82,21.0,0.8,Seattle Mariners,True
+669062,Erik Miller,RP,3.587,0.663,6.975,1.55,36.0,0.78,San Francisco Giants,True
+695243,Mason Miller,RP,8.894,0.55,5.618,2.15,62.0,0.765,Oakland Athletics,True
+680911,Owen Miller,RP,-0.033,0.199,0.54,0.03,9.0,0.76,FA,False
+668943,Ryan Miller,RP,0.0,0.581,,,,,FA,False
+571946,Shelby Miller,RP,0.559,2.485,5.062,1.5,48.0,1.0,FA,False
+668338,Tyson Miller,RP,-0.186,1.096,,,,,FA,False
+571948,Hoby Milner,RP,2.085,2.418,-1.332,-0.6,73.0,2.5,FA,False
+621345,A.J. Minter,RP,-0.866,1.329,5.109,0.41,13.0,10.0,FA,False
+664948,Anthony Misiewicz,RP,0.018,0.297,-4.536,-0.14,5.0,0.76,FA,False
+663554,Casey Mize,SP,4.366,0.903,8.532,1.58,30.0,2.34,Detroit Tigers,True
+669387,Carmen Mlodzinski,RP,1.491,0.59,6.575,1.38,34.0,0.775,Pittsburgh Pirates,True
+683627,Anthony Molina,RP,1.058,0.543,-2.287,-0.24,17.0,0.76,Colorado Rockies,True
+594580,Sam Moll,RP,-1.378,2.301,-3.381,-0.48,23.0,1.008,Cincinnati Reds,True
+593423,Frankie Montas,SP,9.776,6.983,-11.52,-0.64,9.0,17.0,FA,False
+672456,Keider Montero,SP,4.829,0.644,4.508,0.64,23.0,0.76,Detroit Tigers,True
+606160,Rafael Montero,RP,-3.0,2.504,-0.405,-0.15,60.0,11.5,Atlanta Braves,True
+656756,Jordan Montgomery,SP,4.317,9.818,,,,,FA,False
+682254,Mason Montgomery,RP,0.105,0.646,-2.586,-0.91,57.0,0.762,Tampa Bay Rays,True
+519043,Matt Moore,RP,-1.891,2.89,,,,,FA,False
+670970,Adri\xc3\xa1n Morej\xc3\xb3n,RP,3.636,0.75,,,78.0,2.0,San Diego Padres,True
+669212,Eli Morgan,RP,-1.131,0.797,-9.951,-0.43,7.0,0.95,FA,False
+450203,Charlie Morton,SP,7.76,13.31,-4.124,-0.8400000000000001,33.0,13.0,Atlanta Braves,True
+666205,Kyle Muller,RP,0.299,0.626,,,,,FA,False
+662253,Andr\xc3\xa9s Mu\xc3\xb1oz,RP,3.303,0.75,,,71.0,2.5,Seattle Mariners,True
+682610,Roddery Mu\xc3\xb1oz,SP,3.558,0.75,,,9.0,,St. Louis Cardinals,True
+605397,Joe Musgrove,SP,6.717,3.003,,,,,FA,False
+656786,Parker Mushinski,RP,-0.096,0.469,,,,,FA,False
+668964,Tobias Myers,SP,9.036,0.769,4.015,0.57,23.0,0.782,Milwaukee Brewers,True
+667297,Tommy Nance,RP,-0.607,1.576,2.936,0.58,32.0,0.76,Toronto Blue Jays,True
+677053,Andrew Nardi,RP,4.646,0.633,,,,,FA,False
+680897,Nick Nastrini,SP,-1.705,0.587,,,,,FA,False
+680891,Jack Neely,RP,-0.051,0.475,,,,,FA,False
+669459,Kyle Nelson,RP,0.018,0.536,-3.24,-0.06,3.0,0.825,Arizona Diamondbacks,True
+656793,Nick Nelson,RP,-0.003,0.428,,,,,FA,False
+669194,Ryne Nelson,SP,10.0,1.003,16.985,3.46,33.0,0.825,Arizona Diamondbacks,True
+593576,H\xc3\xa9ctor Neris,RP,0.94,0.75,,,35.0,0.452,FA,False
+656794,Sean Newcomb,RP,-0.021,0.543,5.501,1.63,48.0,1.0,Oakland Athletics,True
+693312,Kyle Nicolas,RP,0.959,0.573,0.0,0.0,31.0,0.76,Pittsburgh Pirates,True
+657697,Vinny Nittoli,RP,0.114,1.21,,,,,FA,False
+605400,Aaron Nola,SP,10.0,11.329,-2.43,-0.27,18.0,24.571,Los Angeles Dodgers,True
+673380,Dedniel N\xc3\xba\xc3\xb1ez,RP,3.166,0.75,,,10.0,0.76,New York,True
+676617,Riley O\'Brien,RP,0.0,0.75,,,42.0,0.76,St. Louis Cardinals,True
+672552,Jack O\'Loughlin,RP,0.0,0.75,,,,,FA,False
+641927,Bailey Ober,SP,10.0,3.37,6.36,1.06,27.0,3.55,Minnesota Twins,True
+595345,Steven Okert,RP,-2.373,2.273,3.645,1.53,68.0,1.2,FA,False
+670124,Adam Oller,SP,0.331,1.416,,,,,FA,False
+681857,Reese Olson,SP,9.303,0.702,21.185,1.7,13.0,0.787,Detroit Tigers,True
+672391,Kaleb Ort,RP,1.951,1.736,-0.463,-0.14,49.0,0.77,Houston Astros,True
+656814,Luis Ortiz,RP,0.897,1.187,,,,,FA,False
+682847,Luis Ortiz,RP,7.288,0.623,5.974,0.59,16.0,0.783,FA,False
+679358,Eric Orze,RP,-0.057,0.33,2.995,0.61,33.0,0.76,FA,False
+671305,Michel Ota\xc3\xb1ez,RP,3.729,0.75,,,6.0,0.76,Oakland Athletics,True
+493603,Adam Ottavino,RP,1.642,2.985,3.24,0.06,3.0,,New York,True
+663978,Chris Paddack,SP,5.359,1.765,1.424,0.29,33.0,7.5,FA,False
+641941,Emilio Pag\xc3\xa1n,RP,0.781,0.75,,,70.0,8.0,Cincinnati Reds,True
+694037,Daniel Palencia,RP,-0.045,0.531,1.566,0.58,60.0,0.76,Chicago,True
+669467,Andre Pallante,SP,6.886,0.583,-6.271,-1.2,31.0,2.1,St. Louis Cardinals,True
+660600,Enoli Paredes,RP,3.015,0.726,,,,,FA,False
+680730,Mitchell Parker,SP,9.823,0.638,-6.038,-1.23,33.0,0.767,Washington Nationals,True
+641149,Wes Parsons,RP,-0.003,0.656,,,,,FA,False
+572020,James Paxton,SP,1.993,6.055,,,,,FA,False
+606303,Joel Payamps,RP,-0.127,1.923,-3.24,-0.6,30.0,2.995,FA,False
+663878,Nate Pearson,RP,2.755,0.8,-7.658,-0.52,11.0,1.35,Chicago,True
+665625,Elvis Peguero,RP,0.167,0.727,-7.087,-0.35,8.0,0.774,FA,False
+679156,Walter Pennington,RP,0.063,0.558,,,,,FA,False
+683068,Zach Penrod,RP,0.024,0.488,,,,,FA,False
+686752,Ryan Pepiot,SP,10.0,0.933,10.086,1.93,31.0,0.775,Tampa Bay Rays,True
+642547,Freddy Peralta,SP,10.0,3.242,24.66,5.48,36.0,8.0,Milwaukee Brewers,True
+678821,Luis Peralta,RP,0.246,0.581,-5.67,-0.77,22.0,0.762,Colorado Rockies,True
+671111,Sammy Peralta,RP,0.018,0.521,-15.552,-0.48,5.0,0.76,FA,False
+593974,Wandy Peralta,RP,-2.913,2.218,2.352,1.06,73.0,4.25,San Diego Padres,True
+640902,Jhonny Pereda,RP,0.006,0.302,1.794,0.31,28.0,0.76,FA,False
+672335,Cionel P\xc3\xa9rez,RP,1.304,0.75,,,19.0,2.2,Baltimore Orioles,True
+527048,Mart\xc3\xadn P\xc3\xa9rez,SP,6.146,0.75,,,11.0,3.5,FA,False
+656848,Michael Petersen,RP,-0.075,0.641,1.512,0.14,15.0,0.76,FA,False
+656849,David Peterson,SP,6.8,1.886,7.344,1.36,30.0,4.625,New York,True
+694297,Brandon Pfaadt,SP,10.0,0.451,2.945,0.6,33.0,0.799,Arizona Diamondbacks,True
+623465,Evan Phillips,RP,1.595,1.558,9.951,0.43,7.0,6.1,Los Angeles,True
+663969,Tyler Phillips,SP,0.201,0.65,5.28,1.76,54.0,0.764,FA,False
+666207,Riley Pint,RP,-0.111,0.374,,,,,FA,False
+620982,Ricardo Pinto,RP,-0.159,0.378,,,,,FA,False
+601713,Nick Pivetta,SP,10.0,6.999,26.73,5.28,32.0,1.0,FA,False
+668676,Zach Plesac,SP,-0.087,1.198,,,,,FA,False
+621363,Colin Poche,RP,-1.913,1.591,-8.331,-0.72,14.0,1.4,FA,False
+647315,Zach Pop,RP,-1.256,0.875,-19.116,-0.5900000000000001,5.0,0.9,FA,False
+547001,Cody Poteet,SP,8.0,1.486,-27.54,-0.17,1.0,0.583,FA,False
+700249,Cade Povich,SP,3.74,0.604,-1.62,-0.22,22.0,0.766,Baltimore Orioles,True
+668472,Nick Pratto,RP,0.012,0.416,,,,,FA,False
+519151,Ryan Pressly,RP,1.116,3.319,-2.32,-0.63,44.0,9.2,FA,False
+682990,Quinn Priester,SP,1.848,0.577,15.103,2.89,31.0,0.76,FA,False
+643493,Austin Pruitt,RP,-0.09,1.53,,,,,FA,False
+640462,A.J. Puk,RP,4.835,1.397,3.848,0.19,8.0,2.95,Arizona Diamondbacks,True
+615698,Cal Quantrill,SP,6.642,4.654,-3.552,-0.57,26.0,3.164,FA,False
+650671,Jos\xc3\xa9 Quijada,RP,0.0,0.75,,,2.0,1.075,Los Angeles,True
+500779,Jose Quintana,SP,10.0,13.218,8.162,1.31,26.0,2.0,FA,False
+666142,Cole Ragans,SP,10.0,1.631,2.243,0.18,13.0,1.0,Kansas City Royals,True
+663432,Tanner Rainey,RP,-1.712,1.536,-7.726,-0.62,13.0,0.85,FA,False
+548384,Brooks Raley,RP,0.153,0.908,3.564,0.66,30.0,1.5,New York,True
+642629,Emmanuel Ramirez,RP,-1.404,0.712,,,,,FA,False
+541640,Erasmo Ram\xc3\xadrez,RP,0.0,0.75,,,9.0,0.76,FA,False
+598286,Nick Ramirez,RP,-0.075,1.16,,,,,FA,False
+670990,Yohan Ram\xc3\xadrez,RP,2.146,0.75,,,24.0,0.76,FA,False
+656876,Drew Rasmussen,RP,3.038,0.726,23.203,4.44,31.0,2.0,Tampa Bay Rays,True
+592662,Robbie Ray,SP,0.891,3.881,14.023,2.77,32.0,25.0,San Francisco Giants,True
+607067,Colin Rea,SP,7.754,7.237,2.685,0.58,35.0,4.25,FA,False
+656887,Sean Reid-Foley,RP,0.74,0.626,,,,,FA,False
+622103,Gerardo Reyes,RP,-0.018,0.574,,,,,FA,False
+622569,Pablo Reyes,RP,0.012,0.568,-3.308,-0.49,24.0,0.9,FA,False
+669308,Sean Reynolds,RP,0.102,0.646,-0.512,-0.06,19.0,0.763,San Diego Padres,True
+687377,Orlando Ribalta,RP,-0.042,0.443,-1.915,-0.26,22.0,0.76,Washington Nationals,True
+670950,Trevor Richards,RP,0.296,1.952,-2.916,-0.09,5.0,0.85,FA,False
+680689,Lyon Richardson,RP,-0.03,0.531,-1.096,-0.23,34.0,0.76,Cincinnati Reds,True
+660844,Leo Rivas,RP,0.0,0.4,2.239,0.76,55.0,,Seattle Mariners,True
+656896,Emmanuel Rivera,RP,-0.021,0.435,0.231,0.06,42.0,1.0,Baltimore Orioles,True
+642016,Daniel Robert,RP,0.027,0.445,0.432,0.04,15.0,0.76,FA,False
+681799,Ethan Roberts,RP,0.849,0.553,-2.592,-0.16,10.0,0.76,Chicago,True
+502085,David Robertson,RP,4.091,2.775,1.543,0.2,21.0,15.943,FA,False
+687798,Nick Robertson,RP,0.021,0.53,,,,,FA,False
+677958,Kumar Rocker,SP,0.0,0.54,-12.034,-1.04,14.0,0.762,Texas Rangers,True
+607074,Carlos Rod\xc3\xb3n,SP,10.0,0.75,,,35.0,27.0,New York,True
+692230,Carlos Rodriguez,SP,-0.117,0.587,-6.075,-0.15,4.0,0.76,Milwaukee Brewers,True
+593958,Eduardo Rodr\xc3\xadguez,SP,1.288,0.75,,,29.0,20.0,Arizona Diamondbacks,True
+680570,Grayson Rodriguez,SP,10.0,0.628,,,,,FA,False
+570257,Joely Rodr\xc3\xadguez,RP,0.0,0.75,,,,,FA,False
+655889,Manuel Rodr\xc3\xadguez,RP,-0.726,0.75,,,31.0,0.769,Tampa Bay Rays,True
+678495,Randy Rodr\xc3\xadguez,RP,3.039,0.75,,,50.0,0.77,San Francisco Giants,True
+684320,Yariel Rodr\xc3\xadguez,SP,5.699,0.75,,,70.0,5.0,Toronto Blue Jays,True
+666720,Yerry Rodr\xc3\xadguez,RP,0.0,0.75,,,,,FA,False
+642028,Josh Rogers,RP,-0.027,0.615,,,,,FA,False
+573124,Taylor Rogers,RP,0.763,2.968,0.978,0.35,58.0,12.0,Chicago,True
+669432,Trevor Rogers,SP,5.362,0.736,49.41,5.49,18.0,2.6,Baltimore Orioles,True
+643511,Tyler Rogers,RP,1.709,3.861,4.7,2.35,81.0,5.25,FA,False
+668942,Josh Rojas,RP,-0.012,0.459,-3.404,-1.45,69.0,3.5,FA,False
+500743,Miguel Rojas,RP,0.009,5.185,2.862,2.12,120.0,5.0,Los Angeles Dodgers,True
+605447,Jordan Romano,RP,-0.099,0.593,-5.554,-1.68,49.0,8.5,FA,False
+668941,JoJo Romero,RP,-0.317,0.815,4.312,1.73,65.0,2.26,St. Louis Cardinals,True
+666163,Ben Rortvedt,RP,0.003,0.199,-1.553,-0.46,48.0,1.125,FA,False
+670046,Kenny Rosenberg,RP,-2.0,0.619,,,,,FA,False
+605452,Joe Ross,RP,2.641,2.317,0.175,0.04,37.0,4.0,FA,False
+694738,Landen Roupp,RP,1.848,0.598,5.449,0.74,22.0,0.765,San Francisco Giants,True
+688297,Chris Roycroft,RP,-0.47,0.609,-7.29,-0.9,20.0,0.764,St. Louis Cardinals,True
+614179,Jos\xc3\xa9 Ruiz,RP,1.314,0.75,,,18.0,1.225,FA,False
+671131,Jackson Rutledge,RP,0.054,0.53,-1.311,-0.51,63.0,0.76,Washington Nationals,True
+657746,Joe Ryan,SP,10.0,4.327,23.464,4.49,31.0,3.0,Minnesota Twins,True
+689981,River Ryan,SP,8.0,0.693,,,,,FA,False
+656924,Ryder Ryan,RP,-0.864,0.75,,,,,FA,False
+685314,Andrew Saalfrank,RP,-0.084,0.412,9.257,1.6,28.0,0.76,Arizona Diamondbacks,True
+681870,Erik Sabrowski,RP,0.18,0.607,3.645,0.81,36.0,0.765,Cleveland Guardians,True
+674285,Eduardo Salazar,RP,1.589,0.617,-4.428,-0.82,30.0,0.762,FA,False
+519242,Chris Sale,SP,10.0,18.635,30.549,3.96,21.0,22.0,Atlanta Braves,True
+676614,Bryan Sammons,RP,5.4,1.14,,,,,FA,False
+650911,Cristopher S\xc3\xa1nchez,SP,10.0,0.75,,,34.0,1.5,Los Angeles Dodgers,True
+664350,Sixto S\xc3\xa1nchez,RP,-1.49,0.75,,,,,FA,False
+680704,Nick Sandlin,RP,1.122,0.78,2.643,0.31,19.0,1.63,FA,False
+663776,Patrick Sandoval,SP,5.182,0.841,,,,,FA,False
+663485,Cole Sands,RP,5.104,0.704,0.939,0.4,69.0,0.778,Minnesota Twins,True
+593934,Miguel San\xc3\xb3,RP,0.0,0.75,,,,,FA,False
+642701,Dennis Santana,RP,2.672,1.006,6.133,2.65,70.0,1.4,FA,False
+663574,Tony Santillan,RP,2.33,0.653,6.0,3.0,81.0,1.0,Cincinnati Reds,True
+666619,Gregory Santos,RP,-0.03,0.478,-6.075,-0.3,8.0,0.771,Seattle Mariners,True
+642048,Tayler Saucedo,RP,-1.491,1.736,-5.508,-0.34,10.0,0.938,Seattle Mariners,True
+669422,Matt Sauer,RP,-0.069,0.518,-11.502,-0.71,10.0,0.213,FA,False
+622250,Josh Sborz,RP,0.009,0.649,,,,,FA,False
+453286,Max Scherzer,SP,0.571,5.749,1.944,0.24,20.0,15.5,FA,False
+657376,Clarke Schmidt,SP,6.789,3.356,19.44,1.68,14.0,3.6,New York,True
+670167,John Schreiber,RP,-0.067,1.805,0.963,0.44,74.0,2.3,Kansas City Royals,True
+680885,Spencer Schwellenbach,SP,10.0,0.658,21.346,2.24,17.0,0.77,Atlanta Braves,True
+681035,Christian Scott,SP,1.234,0.591,,,,,FA,False
+656945,Tanner Scott,RP,4.325,4.632,-1.593,-0.6,61.0,11.0,FA,False
+605463,Tayler Scott,RP,1.238,2.612,-6.75,-1.0,24.0,0.76,FA,False
+676664,JP Sears,SP,10.0,3.508,4.92,0.8200000000000001,27.0,0.77,Oakland Athletics,True
+681882,Colin Selby,RP,0.06,0.492,3.387,0.23,11.0,0.76,Baltimore Orioles,True
+673540,Kodai Senga,SP,0.027,0.699,15.611,2.12,22.0,14.0,New York,True
+622608,Antonio Senzatela,SP,-0.009,1.395,-2.376,-0.44,30.0,12.0,Colorado Rockies,True
+622663,Luis Severino,SP,10.0,10.312,5.586,1.0,29.0,15.0,FA,False
+623149,Paul Sewald,RP,-0.778,2.342,-1.031,-0.14,22.0,5.0,FA,False
+543766,Bryan Shaw,RP,-0.06,0.806,,,,,FA,False
+592741,Chasen Shreve,RP,0.027,3.049,,,,,FA,False
+663767,Chase Shugart,RP,0.009,0.535,3.333,0.72,35.0,0.76,FA,False
+694363,Jared Shuster,RP,1.453,0.571,-5.67,-0.42,12.0,0.772,Chicago,True
+681217,Chase Silseth,SP,-0.057,0.555,6.966,0.43,10.0,0.76,Los Angeles,True
+608371,Lucas Sims,RP,-0.522,1.661,-8.46,-0.94,18.0,3.0,FA,False
+663903,Brady Singer,SP,10.0,2.016,15.643,3.09,32.0,8.75,FA,False
+694973,Paul Skenes,SP,10.0,0.597,38.728,7.65,32.0,0.875,Pittsburgh Pirates,True
+669373,Tarik Skubal,SP,10.0,4.291,30.78,6.46,34.0,10.15,Detroit Tigers,True
+686580,Justin Slaten,RP,3.64,0.651,-0.767,-0.18,38.0,0.776,Boston Red Sox,True
+572143,Burch Smith,RP,-0.007,2.528,,,,,FA,False
+671922,Cade Smith,RP,7.314,0.876,1.805,0.88,79.0,0.785,Cleveland Guardians,True
+642086,Dominic Smith,RP,0.033,0.289,1.106,0.43,63.0,0.944,FA,False
+622098,Drew Smith,RP,0.054,0.678,,,,,FA,False
+656976,Pavin Smith,RP,0.009,0.302,0.801,0.43,87.0,1.5,Arizona Diamondbacks,True
+519293,Will Smith,RP,-2.821,3.73,,,,,FA,False
+700363,AJ Smith-Shawver,SP,0.087,0.636,7.02,0.39,9.0,0.77,Atlanta Braves,True
+592767,Drew Smyly,RP,-0.318,2.232,,,,,FA,False
+669912,Kirby Snead,RP,0.006,0.625,,,,,FA,False
+605483,Blake Snell,SP,10.0,3.064,12.102,1.27,17.0,26.0,FA,False
+676092,Collin Snider,RP,-0.048,0.78,-4.792,-0.71,24.0,0.773,Seattle Mariners,True
+666277,George Soriano,RP,-2.0,0.545,-7.02,-1.04,24.0,0.77,Miami Marlins,True
+667755,Jos\xc3\xa9 Soriano,SP,6.602,0.75,,,31.0,0.79,Los Angeles,True
+647336,Michael Soroka,RP,4.27,0.707,3.78,0.56,24.0,9.0,Chicago,True
+642397,Gregory Soto,RP,2.531,1.263,-0.116,-0.0499999999999999,70.0,5.35,Baltimore Orioles,True
+666208,Alex Speas,RP,0.003,0.199,,,,,FA,False
+642100,Gabe Speier,RP,-1.341,0.785,2.713,1.39,83.0,0.845,Seattle Mariners,True
+687765,Mitch Spence,SP,9.84,1.017,-3.189,-0.63,32.0,0.765,Oakland Athletics,True
+686730,Carson Spiers,RP,4.745,0.738,0.0,0.0,3.0,0.765,Cincinnati Reds,True
+605488,Jeffrey Springs,SP,2.017,3.156,9.872,1.95,32.0,10.5,FA,False
+592773,Ryne Stanek,RP,2.388,3.479,-2.467,-0.99,65.0,4.0,New York,True
+622251,Josh Staumont,RP,0.68,1.217,,,,,FA,False
+657006,Justin Steele,SP,10.0,1.732,5.265,0.13,4.0,6.55,Chicago,True
+683021,Michael Stefanic,RP,0.009,0.302,-0.72,-0.04,9.0,,Toronto Blue Jays,True
+623451,Jackson Stephens,RP,0.015,0.513,,,,,FA,False
+686993,Justin Sterner,RP,0.006,0.457,4.201,1.53,59.0,0.76,FA,False
+592779,Brock Stewart,RP,-0.024,1.194,4.935,1.31,43.0,0.87,FA,False
+694813,Gavin Stone,SP,10.0,0.759,,,,,FA,False
+621381,Matt Strahm,RP,3.429,3.468,4.602,1.96,69.0,7.5,Los Angeles Dodgers,True
+608717,Chris Stratton,RP,-1.691,2.85,-5.184,-0.48,15.0,4.443,Kansas City Royals,True
+676702,Hunter Stratton,RP,0.149,0.659,0.432,0.0399999999999999,15.0,0.76,FA,False
+519326,Hunter Strickland,RP,-1.494,2.666,5.286,0.62,19.0,1.0,Los Angeles,True
+675911,Spencer Strider,SP,-0.03,0.58,7.537,1.07,23.0,4.0,Atlanta Braves,True
+548389,Ross Stripling,SP,0.426,4.426,,,,,FA,False
+573186,Marcus Stroman,SP,6.977,9.135,-6.12,-0.34,9.0,18.0,New York,True
+657265,Peter Strzelecki,RP,0.066,0.648,,,,,FA,False
+596117,Garrett Stubbs,RP,-0.066,0.615,,,,,FA,False
+544150,Albert Su\xc3\xa1rez,SP,6.579,0.75,,,5.0,0.825,Baltimore Orioles,True
+660761,Jos\xc3\xa9 Suarez,RP,3.705,0.75,,,7.0,1.1,FA,False
+624133,Ranger Su\xc3\xa1rez,SP,10.0,0.75,,,27.0,8.8,Los Angeles Dodgers,True
+663158,Robert Suarez,RP,0.919,2.82,5.062,2.25,72.0,10.0,San Diego Padres,True
+593833,Wander Suero,RP,0.0,1.58,-9.072,-0.28,5.0,0.76,FA,False
+642121,Cole Sulser,RP,0.126,1.372,5.31,0.59,18.0,0.9,FA,False
+608718,Brent Suter,RP,-0.509,2.37,0.959,0.29,49.0,2.25,Cincinnati Reds,True
+657024,Erik Swanson,RP,-0.781,1.453,-11.88,-0.44,6.0,3.0,Toronto Blue Jays,True
+592791,Jameson Taillon,SP,10.0,10.423,8.165,1.26,25.0,18.0,Chicago,True
+622253,Dillon Tate,RP,-2.045,1.098,1.08,0.04,6.0,1.4,FA,False
+700187,Troy Taylor,RP,0.027,0.538,-6.278,-0.31,8.0,0.762,Seattle Mariners,True
+527054,Julio Teheran,SP,-0.06,0.651,,,,,FA,False
+642133,Rowdy Tellez,RP,-0.006,0.297,-0.448,-0.31,112.0,1.206,FA,False
+678906,Kai-Wei Teng,RP,-0.081,0.523,-10.935,-0.54,8.0,0.76,San Francisco Giants,True
+573204,Caleb Thielbar,RP,-0.312,5.114,2.362,1.05,72.0,2.75,FA,False
+624522,Keegan Thompson,RP,-0.992,0.855,,,,,FA,False
+657044,Ryan Thompson,RP,0.255,2.732,1.012,0.3,48.0,2.965,Arizona Diamondbacks,True
+668868,Zack Thompson,RP,-0.195,0.542,,,,,FA,False
+663423,Trent Thornton,RP,1.59,2.023,-0.54,-0.11,33.0,2.0,Seattle Mariners,True
+689672,Drew Thorpe,SP,-0.677,0.575,,,,,FA,False
+622786,Jes\xc3\xbas Tinoco,RP,0.888,0.75,,,20.0,0.831,FA,False
+543859,Michael Tonkin,RP,2.206,2.342,1.62,0.21,21.0,1.0,Minnesota Twins,True
+623437,Justin Topa,RP,0.051,1.096,1.14,0.38,54.0,1.225,Minnesota Twins,True
+620443,Luis Torrens,RP,0.003,0.302,2.412,1.37,92.0,1.5,New York Mets,True
+657053,Touki Toussaint,RP,-2.0,0.602,-4.86,-0.03,1.0,0.76,FA,False
+595014,Blake Treinen,RP,1.795,3.432,-2.43,-0.63,42.0,6.0,Los Angeles,True
+624431,Jose Trevino,RP,-0.024,0.454,-0.279,-0.16,93.0,3.425,FA,False
+657061,Cole Tucker,RP,0.009,0.226,,,,,FA,False
+605513,Spencer Turnbull,RP,2.05,1.706,-8.1,-0.15,3.0,1.0,FA,False
+667725,Kyle Tyler,SP,-0.442,0.64,,,,,FA,False
+670955,Edwin Uceta,RP,4.363,0.611,1.597,0.69,70.0,0.815,Tampa Bay Rays,True
+570632,Jos\xc3\xa9 Ure\xc3\xb1a,RP,3.166,0.75,,,19.0,0.76,FA,False
+682842,Abner Uribe,RP,-0.132,0.52,5.366,2.65,80.0,0.762,Milwaukee Brewers,True
+683822,Naoyuki Uwasawa,RP,0.036,0.544,,,,,FA,False
+664285,Framber Valdez,SP,10.0,7.551,20.067,3.84,31.0,18.0,Houston Astros,True
+676568,Ricky Vanasco,RP,-0.003,0.485,,,,,FA,False
+545121,Ildemaro Vargas,RP,0.003,1.113,0.895,0.21,38.0,1.0,FA,False
+681402,Gus Varland,RP,1.059,0.677,,,,,FA,False
+686973,Louis Varland,RP,2.945,0.604,3.167,1.74,89.0,,Minnesota Twins,True
+681190,Randy V\xc3\xa1squez,SP,2.84,0.75,,,28.0,0.773,San Diego Padres,True
+685107,Anthony Veneziano,RP,0.057,0.552,0.436,0.07,26.0,0.763,FA,False
+434378,Justin Verlander,SP,2.607,3.945,6.424,1.15,29.0,15.0,FA,False
+681911,Alex Vesia,RP,1.219,1.009,2.246,1.04,75.0,2.25,Los Angeles,True
+663989,Nick Vespi,RP,0.06,0.598,,,,,FA,False
+676684,Will Vest,RP,2.056,1.273,3.85,1.64,69.0,1.4,Detroit Tigers,True
+600986,Thyago Vieira,RP,-0.848,1.18,,,,,FA,False
+681871,Eli Villalobos,RP,0.033,0.428,,,,,FA,False
+670241,Darius Vines,RP,-0.141,0.506,,,,,FA,False
+680767,Victor Vodnik,RP,1.547,0.534,5.732,1.84,52.0,0.765,Colorado Rockies,True
+608723,Austin Voth,RP,1.013,2.744,,,,,FA,False
+608379,Michael Wacha,SP,10.0,13.207,14.423,2.76,31.0,18.0,Kansas City Royals,True
+621097,Jacob Waguespack,RP,-0.024,0.508,,,,,FA,False
+694462,Hurston Waldrep,SP,-0.18,0.56,22.518,1.39,10.0,0.76,Atlanta Braves,True
+663362,Matt Waldron,SP,10.0,0.912,-14.58,-0.09,1.0,0.776,San Diego Padres,True
+677020,Josh Walker,RP,0.0,0.615,-5.94,-0.11,3.0,0.76,FA,False
+676254,Ryan Walker,RP,4.808,1.54,0.167,0.07,68.0,0.78,San Francisco Giants,True
+592836,Taijuan Walker,SP,-0.7,4.548,6.85,1.48,35.0,18.0,Los Angeles Dodgers,True
+670242,Matt Wallner,RP,0.015,0.187,0.888,0.57,104.0,0.771,Minnesota Twins,True
+686796,Blake Walston,RP,-0.024,0.534,,,,,FA,False
+689958,Andrew Walters,RP,0.093,0.572,-7.29,-0.09,2.0,0.76,Cleveland Guardians,True
+622268,Donovan Walton,RP,0.009,0.573,,,,,FA,False
+681806,Andrew Wantz,RP,-0.006,0.178,,,,,FA,False
+681810,Austin Warren,RP,0.075,0.615,12.312,0.38,5.0,0.785,FA,False
+701542,Will Warren,SP,-2.0,0.343,2.859,0.6,34.0,0.768,New York,True
+677960,Ryan Weathers,SP,7.19,0.616,11.745,0.58,8.0,0.779,Miami Marlins,True
+596133,Luke Weaver,RP,5.93,1.918,1.838,0.76,67.0,2.5,New York,True
+657097,Jacob Webb,RP,0.119,2.01,0.795,0.27,55.0,1.25,FA,False
+657277,Logan Webb,SP,10.0,3.611,18.249,3.83,34.0,12.0,San Francisco Giants,True
+607179,Jordan Weems,RP,-1.915,2.622,-9.72,-0.24,4.0,0.76,FA,False
+669711,Greg Weissert,RP,-0.07,1.35,2.485,1.12,73.0,0.774,Boston Red Sox,True
+669330,Tyler Wells,SP,-0.075,1.564,23.49,0.58,4.0,2.075,Baltimore Orioles,True
+666214,Joey Wentz,RP,3.461,0.641,-1.454,-0.35,39.0,0.775,FA,False
+669713,Hayden Wesneski,RP,2.875,0.642,8.64,0.32,6.0,0.78,FA,False
+554430,Zack Wheeler,SP,10.0,18.019,33.885,5.02,24.0,42.0,Los Angeles Dodgers,True
+669952,Mitch White,RP,-2.0,0.706,,,,,FA,False
+669391,Owen White,RP,-0.084,0.538,-8.1,-0.15,3.0,0.76,FA,False
+666215,Forrest Whitley,RP,0.0,0.445,-12.474,-0.77,10.0,0.761,Houston Astros,True
+676477,Garrett Whitlock,SP,0.246,0.958,6.146,2.39,63.0,5.25,Boston Red Sox,True
+696136,Jordan Wicks,SP,1.421,0.573,-7.492,-0.37,8.0,0.76,Chicago,True
+642207,Devin Williams,RP,4.658,1.057,-0.616,-0.27,71.0,8.6,FA,False
+668909,Gavin Williams,SP,5.381,0.596,19.238,3.8,32.0,0.78,Cleveland Guardians,True
+663897,Luke Williams,RP,0.006,0.463,-1.703,-0.41,39.0,0.76,Atlanta Braves,True
+592866,Trevor Williams,SP,3.658,12.322,-5.432,-0.57,17.0,7.0,Washington Nationals,True
+682227,Brandon Williamson,SP,0.078,0.634,,,,,FA,False
+686294,Amos Willingham,RP,-0.018,0.426,,,,,FA,False
+669060,Bryse Wilson,RP,3.94,0.637,-5.751,-0.71,20.0,1.05,FA,False
+458677,Justin Wilson,RP,-0.196,3.05,0.862,0.33,62.0,2.25,FA,False
+621051,Steven Wilson,RP,-2.016,1.002,3.213,1.17,59.0,0.95,Chicago,True
+642215,Weston Wilson,RP,0.009,0.248,-1.464,-0.47,52.0,0.764,Philadelphia Phillies,True
+642216,Allan Winans,SP,-0.177,0.519,-20.52,-0.38,3.0,0.76,FA,False
+670174,Josh Winckowski,RP,2.907,0.655,-1.62,-0.06,6.0,0.76,Boston Red Sox,True
+680739,Josh Winder,RP,0.033,0.485,,,,,FA,False
+622259,Trey Wingenter,RP,-0.051,0.559,,,,,FA,False
+668390,Cole Winn,RP,-0.135,0.52,5.253,1.07,33.0,0.76,Texas Rangers,True
+676775,Keaton Winn,SP,2.076,0.778,0.694,0.03,7.0,0.76,San Francisco Giants,True
+621550,Patrick Wisdom,RP,0.003,1.396,,,,,FA,False
+693433,Bryan Woo,SP,10.0,0.626,21.465,4.24,32.0,0.783,Seattle Mariners,True
+622072,Alex Wood,SP,-1.745,3.068,,,,,FA,False
+663765,Jake Woodford,SP,-1.632,0.697,-5.523,-0.75,22.0,0.76,FA,False
+680573,Simeon Woods Richardson,SP,8.923,0.628,15.214,2.16,23.0,,Minnesota Twins,True
+680736,Justin Wrobleski,SP,-1.767,0.56,-0.289,-0.05,28.0,0.8,Los Angeles,True
+808967,Yoshinobu Yamamoto,SP,10.0,0.638,22.23,4.94,36.0,10.0,Los Angeles,True
+642232,Ryan Yarbrough,RP,-0.125,1.932,5.372,0.63,19.0,2.0,FA,False
+573262,Mike Yastrzemski,RP,-0.021,1.636,3.129,2.8200000000000003,146.0,9.25,FA,False
+489446,Kirby Yates,RP,3.265,5.862,-1.75,-0.54,50.0,13.0,FA,False
+622065,Alex Young,RP,0.084,0.7,,,,,FA,False
+664849,Danny Young,RP,1.305,1.672,-0.324,-0.02,10.0,0.825,New York,True
+642239,Rob Zastryzny,RP,0.093,1.111,3.053,0.49,26.0,0.76,Milwaukee Brewers,True
+666171,Ryan Zeferjahn,RP,0.144,0.603,1.542,0.59,62.0,0.77,Los Angeles,True
+672582,Angel Zerpa,RP,0.663,0.617,0.681,0.29,69.0,0.779,Kansas City Royals,True
+676604,Tyler Zuber,RP,0.021,0.442,-10.854,-0.67,10.0,0.76,FA,False
+691172,Yosver Zulueta,RP,0.018,0.534,-1.157,-0.05,7.0,0.76,Cincinnati Reds,True
+670871,Guillo Zu\xc3\xb1iga,RP,0.0,0.75,,,,,FA,False

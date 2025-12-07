@@ -1875,7 +1875,7 @@ Woo-Suk Go,MIA,miami-marlins,RP,2750000.0,2750000.0,2025,Pitcher
 Fernando Rodney,AZ,arizona-diamondbacks,RP,2750000.0,2750000.0,2017,Pitcher
 Matt Barnes,MIA,miami-marlins,RP,2750000.0,2750000.0,2024,Pitcher
 Chris Archer,MIN,minnesota-twins,SP,2750000.0,2750000.0,2022,Pitcher
-2 Brandon Beachy,LAD,los-angeles-dodgers,SP,2750000.0,2750000.0,2015,Pitcher
+3 Brandon Beachy,LAD,los-angeles-dodgers,SP,2750000.0,2750000.0,2015,Pitcher
 Ryan Webb,LAD,los-angeles-dodgers,RP,2750000.0,2750000.0,2015,Pitcher
 Jake Diekman,OAK,oakland-athletics,RP,2750000.0,2750000.0,2020,Pitcher
 Nick Vincent,SEA,seattle-mariners,RP,2750000.0,2750000.0,2018,Pitcher
@@ -2217,7 +2217,7 @@ Gio Gonzalez,MIL,milwaukee-brewers,SP,2000000.0,2000000.0,2019,Pitcher
 Jason Hammel,KC,kansas-city-royals,RP,2000000.0,2000000.0,2019,Pitcher
 Shelby Miller,TEX,texas-rangers,SP,2000000.0,2000000.0,2019,Pitcher
 Matt Albers,CWS,chicago-white-sox,RP,2000000.0,2000000.0,2016,Pitcher
-3 Eric Stults,LAD,los-angeles-dodgers,SP,2000000.0,2000000.0,2015,Pitcher
+4 Eric Stults,LAD,los-angeles-dodgers,SP,2000000.0,2000000.0,2015,Pitcher
 Edinson Volquez,TEX,texas-rangers,RP,2000000.0,2000000.0,2019,Pitcher
 Craig Breslow,BOS,boston-red-sox,RP,2000000.0,2000000.0,2015,Pitcher
 Ryan Vogelsong,PIT,pittsburgh-pirates,SP,2000000.0,2000000.0,2016,Pitcher
@@ -7447,7 +7447,7 @@ Josh James,HOU,houston-astros,SP,545000.0,545000.0,2018,Pitcher
 Reymin Guduan,HOU,houston-astros,RP,545000.0,545000.0,2018,Pitcher
 Glenn Sparkman,KC,kansas-city-royals,RP,545000.0,545000.0,2018,Pitcher
 Heath Fillmyer,KC,kansas-city-royals,RP,545000.0,545000.0,2018,Pitcher
-4 Brady Rodgers,HOU,houston-astros,RP,545000.0,545000.0,2018,Pitcher
+5 Brady Rodgers,HOU,houston-astros,RP,545000.0,545000.0,2018,Pitcher
 Tim Hill,KC,kansas-city-royals,RP,545000.0,545000.0,2018,Pitcher
 Matt Hall,DET,detroit-tigers,RP,545000.0,545000.0,2018,Pitcher
 Zac Reininger,DET,detroit-tigers,RP,545000.0,545000.0,2018,Pitcher
@@ -7776,7 +7776,7 @@ Jon Gray,COL,colorado-rockies,SP,540000.0,540000.0,2017,Pitcher
 Ryan O'Rourke,MIN,minnesota-twins,RP,540000.0,540000.0,2017,Pitcher
 Grant Dayton,LAD,los-angeles-dodgers,RP,540000.0,540000.0,2017,Pitcher
 Scott Oberg,COL,colorado-rockies,RP,540000.0,540000.0,2017,Pitcher
-9 Julio Urias,LAD,los-angeles-dodgers,RP,540000.0,540000.0,2017,Pitcher
+10 Julio Urias,LAD,los-angeles-dodgers,RP,540000.0,540000.0,2017,Pitcher
 Anthony DeSclafani,CIN,cincinnati-reds,SP,540000.0,540000.0,2016,Pitcher
 Edubray Ramos,PHI,philadelphia-phillies,RP,540000.0,540000.0,2017,Pitcher
 Jarred Cosart,MIA,miami-marlins,RP,540000.0,540000.0,2015,Pitcher
@@ -8076,7 +8076,7 @@ Jason Gurka,LAA,los-angeles-angels,RP,535000.0,535000.0,2017,Pitcher
 Noé Ramirez,LAA,los-angeles-angels,RP,535000.0,535000.0,2017,Pitcher
 3 Jesse Hahn,OAK,oakland-athletics,SP,535000.0,535000.0,2017,Pitcher
 8 Justin Marks,LAD,los-angeles-dodgers,RP,535000.0,535000.0,2017,Pitcher
-10 Dylan Floro,LAD,los-angeles-dodgers,RP,535000.0,535000.0,2017,Pitcher
+11 Dylan Floro,LAD,los-angeles-dodgers,RP,535000.0,535000.0,2017,Pitcher
 Brandon Woodruff,MIL,milwaukee-brewers,SP,535000.0,535000.0,2017,Pitcher
 Odrisamer Despaigne,MIA,miami-marlins,SP,535000.0,535000.0,2017,Pitcher
 Cory Mazzoni,SD,san-diego-padres,RP,535000.0,535000.0,2017,Pitcher
@@ -8095,7 +8095,7 @@ Josh Hader,MIL,milwaukee-brewers,RP,535000.0,535000.0,2017,Pitcher
 Brent Suter,MIL,milwaukee-brewers,SP,535000.0,535000.0,2017,Pitcher
 Tim Melville,SD,san-diego-padres,RP,535000.0,535000.0,2017,Pitcher
 Chris O'Grady,MIA,miami-marlins,SP,535000.0,535000.0,2017,Pitcher
-11 Fabio Castillo,LAD,los-angeles-dodgers,RP,535000.0,535000.0,2017,Pitcher
+12 Fabio Castillo,LAD,los-angeles-dodgers,RP,535000.0,535000.0,2017,Pitcher
 2 Jake Esch,SD,san-diego-padres,SP,535000.0,535000.0,2017,Pitcher
 Albert Suarez,SF,san-francisco-giants,RP,535000.0,535000.0,2017,Pitcher
 Chris Stratton,SF,san-francisco-giants,SP,535000.0,535000.0,2017,Pitcher
@@ -8320,7 +8320,7 @@ Felipe Vázquez,PIT,pittsburgh-pirates,RP,516100.0,516100.0,2016,Pitcher
 Roberto Osuna,TOR,toronto-blue-jays,RP,516100.0,516100.0,2016,Pitcher
 Vince Velasquez,PHI,philadelphia-phillies,SP,516000.0,516000.0,2016,Pitcher
 Jerad Eickhoff,PHI,philadelphia-phillies,SP,516000.0,516000.0,2016,Pitcher
-13 Eric Surkamp,LAD,los-angeles-dodgers,SP,516000.0,516000.0,2015,Pitcher
+14 Eric Surkamp,LAD,los-angeles-dodgers,SP,516000.0,516000.0,2015,Pitcher
 Trevor Gott,WSH,washington-nationals,RP,516000.0,516000.0,2016,Pitcher
 De La Rosa Rubby De La Rosa,AZ,arizona-diamondbacks,SP,516000.0,516000.0,2015,Pitcher
 Brian Flynn,KC,kansas-city-royals,RP,515950.0,515950.0,2016,Pitcher
@@ -8682,9 +8682,9 @@ Brian Johnson,BOS,boston-red-sox,SP,507500.0,507500.0,2015,Pitcher
 Justin Nicolino,MIA,miami-marlins,RP,507500.0,507500.0,2016,Pitcher
 Odrisamer Despaigne,MIA,miami-marlins,SP,507500.0,507500.0,2016,Pitcher
 Jake Esch,MIA,miami-marlins,SP,507500.0,507500.0,2016,Pitcher
-2 Koda Glover,WSH,washington-nationals,RP,507500.0,507500.0,2016,Pitcher
+3 Koda Glover,WSH,washington-nationals,RP,507500.0,507500.0,2016,Pitcher
 Rich Hill,BOS,boston-red-sox,SP,507500.0,507500.0,2015,Pitcher
-5 Rafael Martin,WSH,washington-nationals,RP,507500.0,507500.0,2016,Pitcher
+6 Rafael Martin,WSH,washington-nationals,RP,507500.0,507500.0,2016,Pitcher
 Pat Dean,MIN,minnesota-twins,RP,507500.0,507500.0,2016,Pitcher
 Jonathan Aro,BOS,boston-red-sox,RP,507500.0,507500.0,2015,Pitcher
 Brian Ellington,MIA,miami-marlins,RP,507500.0,507500.0,2016,Pitcher
@@ -8828,7 +8828,7 @@ Julio Urias,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2016,Pitcher
 4 Chris Stratton,SF,san-francisco-giants,SP,507500.0,507500.0,2016,Pitcher
 8 Clayton Blackburn,SF,san-francisco-giants,RP,507500.0,507500.0,2016,Pitcher
 Jonathan Holder,NYY,new-york-yankees,RP,507500.0,507500.0,2016,Pitcher
-6 Juan Jaime,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+7 Juan Jaime,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 Kendall Graveman,OAK,oakland-athletics,SP,507500.0,507500.0,2015,Pitcher
 Joe Mantiply,DET,detroit-tigers,RP,507500.0,507500.0,2016,Pitcher
 Cam Bedrosian,LAA,los-angeles-angels,RP,507500.0,507500.0,2015,Pitcher
@@ -8965,12 +8965,12 @@ Jason Gurka,COL,colorado-rockies,RP,507500.0,507500.0,2015,Pitcher
 Michael Feliz,HOU,houston-astros,RP,507500.0,507500.0,2015,Pitcher
 José A. Váldez,DET,detroit-tigers,RP,507500.0,507500.0,2015,Pitcher
 Brandon Brennan,CWS,chicago-white-sox,SP,507500.0,507500.0,2016,Pitcher
-12 Matt West,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+13 Matt West,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 Yohan Flande,COL,colorado-rockies,SP,507500.0,507500.0,2015,Pitcher
-11 David Huff,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+12 David Huff,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 4 Asher Wojciechowski,HOU,houston-astros,RP,507500.0,507500.0,2015,Pitcher
 Logan Darnell,MIN,minnesota-twins,RP,507500.0,507500.0,2015,Pitcher
-10 Zach Lee,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+11 Zach Lee,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 Colin Rea,SD,san-diego-padres,SP,507500.0,507500.0,2015,Pitcher
 J.R. Graham,MIN,minnesota-twins,RP,507500.0,507500.0,2015,Pitcher
 Daniel Webb,CWS,chicago-white-sox,RP,507500.0,507500.0,2016,Pitcher
@@ -8986,7 +8986,7 @@ Jeff Ferrell,DET,detroit-tigers,RP,507500.0,507500.0,2015,Pitcher
 Randy Wolf,DET,detroit-tigers,SP,507500.0,507500.0,2015,Pitcher
 Guido Knudson,DET,detroit-tigers,SP,507500.0,507500.0,2015,Pitcher
 Drew VerHagen,DET,detroit-tigers,RP,507500.0,507500.0,2015,Pitcher
-5 Mike Bolsinger,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+6 Mike Bolsinger,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 3 Josh Martin,CLE,cleveland-guardians,RP,507500.0,507500.0,2016,Pitcher
 Matthew Boyd,DET,detroit-tigers,SP,507500.0,507500.0,2015,Pitcher
 6 Josh Wall,PIT,pittsburgh-pirates,RP,507500.0,507500.0,2015,Pitcher
@@ -9000,13 +9000,13 @@ Nefi Ogando,PHI,philadelphia-phillies,RP,507500.0,507500.0,2015,Pitcher
 Sean Nolin,OAK,oakland-athletics,RP,507500.0,507500.0,2015,Pitcher
 2 César Ramos,DET,detroit-tigers,RP,507500.0,507500.0,2016,Pitcher
 Carter Capps,MIA,miami-marlins,RP,507500.0,507500.0,2015,Pitcher
-7 Chin-Hui Tsao,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+8 Chin-Hui Tsao,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 6 Everett Teaford,TB,tampa-bay-rays,RP,507500.0,507500.0,2015,Pitcher
 Kendry Flores,MIA,miami-marlins,SP,507500.0,507500.0,2015,Pitcher
 Russell Brewer,COL,colorado-rockies,RP,507500.0,507500.0,2015,Pitcher
-8 Ian Thomas,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
+9 Ian Thomas,LAD,los-angeles-dodgers,RP,507500.0,507500.0,2015,Pitcher
 C.J. Edwards,CHC,chicago-cubs,RP,507500.0,507500.0,2016,Pitcher
-9 Scott Baker,LAD,los-angeles-dodgers,SP,507500.0,507500.0,2015,Pitcher
+10 Scott Baker,LAD,los-angeles-dodgers,SP,507500.0,507500.0,2015,Pitcher
 Robbie Erlin,SD,san-diego-padres,SP,507500.0,507500.0,2015,Pitcher
 Steven Matz,NYM,new-york-mets,SP,507500.0,507500.0,2015,Pitcher
 Jay Jackson,SD,san-diego-padres,RP,507500.0,507500.0,2015,Pitcher
